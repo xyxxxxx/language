@@ -6,7 +6,7 @@
 
 ## 日本語
 
-* [語彙](日本語/語彙.md)
-* [漢字語彙](日本語/漢字語彙.md)
-* [カタカナ語彙](日本語/カタカナ語彙.md)
-* [地名・人名](日本語/地名人名.md)
+* [語彙](Japanese/word.md)
+* [漢字語彙](Japanese/kanji-word.md)
+* [カタカナ語彙](Japanese/katakana-word.md)
+* [地名・人名](Japanese/name.md)
