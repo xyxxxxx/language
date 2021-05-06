@@ -1,3 +1,5 @@
+[toc]
+
 ## ア
 
 |                                |                                           |                |
@@ -121,7 +123,7 @@
 | インタビュー                   | interview                                 | 采访           |
 | インデックス                   | index                                     |                |
 | インテリ（ゲンチャ）           | （ロシア) intelligentsiya                 | 知识分子       |
-| インテリア                     | interior                                  | 装修           |
+| インテリア                     | interior                                  | 装修，内装     |
 | インテリジェンス               | intelligence                              |                |
 | インパクト                     | impact                                    |                |
 | インフォメーション             | infomation                                |                |
@@ -231,6 +233,8 @@
 | オフセット                     | offset                                    |                |
 | オペラ                         | （フランス）opéra                         |                |
 | オペ（レーション）             | operation                                 | 手术           |
+| オリーブ                       | olive                                     |                |
+| オリーブオイル                 | olive oil                                 |                |
 | オリエンテーション             | orientation                               |                |
 | オリンピック                   | Olympic                                   |                |
 | オルガン                       | （ポルトガル）orgão                       | 风琴           |
@@ -574,6 +578,7 @@
 | シェア                         | share                  |                  |
 | ジェット                       | jet                    |                  |
 | シェフ                         | （フランス）chef       |                  |
+| シェル                         | shell                  |                  |
 | シェルター                     | shelter                |                  |
 | ジェンダー                     | gender                 |                  |
 | システム                       | system                 |                  |
@@ -699,6 +704,7 @@
 | ステイ                         | stay                   |                  |
 | ステーキ                       | steak                  |                  |
 | ステージ                       | stage                  |                  |
+| ステーションワゴン             | station wagon          | 旅行车           |
 | ステッカー                     | sticker                |                  |
 | ステッキ                       | stick                  | 拐杖             |
 | ステップ                       | step                   |                  |
@@ -745,6 +751,7 @@
 | スポーツ                       | sports                 |                  |
 | スポーツカー                   | sports car             | 跑车             |
 | スポーツドリンク               | sports drink           | 运动饮料         |
+| スポーツマン                   | sports man             | 运动员           |
 | スポット                       | spot                   | 地点             |
 | スポットライト                 | spot light             | 聚光灯           |
 | ズボン                         | （フランス）jupon      | 裤子             |
@@ -774,6 +781,7 @@
 | セク（シャル）ハラ（スメント） | sexual harassment      | 性骚扰           |
 | セクション                     | section                |                  |
 | セクター                       | sector                 | 部门；扇形       |
+|                                |                        |                  |
 | セックス                       | sex                    |                  |
 | セット                         | set                    |                  |
 | ゼネコン                       | general + contractor   | 承包商           |
@@ -862,7 +870,7 @@
 | タブル                       | double              |                      |
 | ダム                         | dam                 |                      |
 | ダメージ                     | damage              |                      |
-|                              |                     |                      |
+| タルト                       | （仏）tarte         | 挞                   |
 | タレント                     | talent              | 演员                 |
 | タワー                       | tower               |                      |
 | タンク                       | tank                |                      |
@@ -872,6 +880,7 @@
 | ダンプ（カー）               | dump                | 自动卸货卡车         |
 | ダンボール                   |                     | 箱子                 |
 | チーズ                       | cheese              |                      |
+| チーズフォンデュ             | cheese fondue       | 芝士火锅             |
 | チーフ                       | chief               | 首领                 |
 | チーム                       | team                |                      |
 | チームワーク                 | teamwork            |                      |
@@ -1046,6 +1055,7 @@
 | ニュー               | new               |                |
 | ニュース             | news              |                |
 | ヌード               | nude              |                |
+| ヌンチャク           |                   | 双节棍         |
 | ネーム               | name              |                |
 | ネオ〜               | neo-              |                |
 | ネガ（ティブ）       | negative          |                |
@@ -1140,6 +1150,7 @@
 | パス                             | pass                     |                         |
 | バス                             | bath/bus                 |                         |
 | ハスキー                         | husky                    | 沙哑                    |
+| バスケ（ットボール）             | basketball               |                         |
 | バスト                           | bust                     | 胸围；半身像            |
 | パスポート                       | passport                 |                         |
 |                                  |                          |                         |
@@ -1177,6 +1188,7 @@
 | パラシュート                     | parachute                | 降落伞                  |
 | パラダイス                       | paradise                 |                         |
 | パラドックス                     | paradox                  | 悖论                    |
+| パラメーター                     | parameter                |                         |
 | バランス                         | balance                  |                         |
 | バリカン                         | （フランス）Barriquand   | 理发推子                |
 | バリケード                       | barricade                | 路障                    |
@@ -1190,6 +1202,7 @@
 | ハロウィーン                     | Halloween                |                         |
 | バロメーター                     | barometer                | 气压计；指标            |
 | パワー                           | power                    |                         |
+| パワハラ                         | power + harrassment      | 职权骚扰                |
 | パワフル                         | powerful                 |                         |
 | パン                             | （ポルトガル）pão        | 面包                    |
 | バン                             | van                      | 面包车                  |
@@ -1246,6 +1259,7 @@
 | ヒューマン                       | human                    |                         |
 | ビュッフェ                       | （仏）buffet             | 自助餐                  |
 | ピリオド                         | period                   | 句号；终止              |
+| ビリヤード                       | billiards                | 台球                    |
 | ビル（ディング）                 | building                 |                         |
 | ビルトイン                       | built-in                 |                         |
 | ヒロイン                         | heroin                   |                         |
@@ -1429,7 +1443,7 @@
 | ヘッドセット                     | headset                  | 头戴式耳机              |
 | ヘッドフォン                     | headphone                | 头戴式耳机              |
 | ペットボトル                     | PET bottle               | 塑料瓶                  |
-| ベテラン                         | veteran                  |                         |
+| ベテラン                         | veteran                  | 老手；老员工            |
 | ペナルティー                     | penalty                  |                         |
 | ヘビー                           | heavy                    |                         |
 | ベビー                           | baby                     |                         |
@@ -1468,6 +1482,7 @@
 | ホーム                           | home                     |                         |
 | ホームページ                     | homepage                 |                         |
 | ホームレス                       | homeless                 | 流浪汉                  |
+| ホラー                           | horror                   | 恐怖（电影）            |
 | ホール                           | hall, hole               |                         |
 | ボール                           | ball                     |                         |
 | ボールペン                       | ball pen                 | 圆珠笔                  |
@@ -1587,6 +1602,7 @@
 | ムード                     | mood               |                     |
 | ムービー                   | movie              |                     |
 | ムーブ（メント）           | movement           | 社会运动            |
+| ムール貝                   |                    | 贻贝                |
 | メイド                     | maid               |                     |
 | メイン                     | main               |                     |
 | メーカー                   | maker              | 制造商              |
@@ -1687,6 +1703,8 @@
 | ラッシュ               | rush                    |                  |
 | ラッシュアワー         | rush hour               |                  |
 | ラップ                 | rap                     | 说唱             |
+|                        | lap                     |                  |
+|                        | wrap                    | 保鲜膜           |
 | ラテン                 | latin                   |                  |
 | ラブ                   | love                    |                  |
 | ラブホ（テル）         | love hotel              |                  |
