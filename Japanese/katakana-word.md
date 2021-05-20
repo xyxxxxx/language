@@ -82,6 +82,7 @@
 | アレルギー                     | （ドイツ） allergie                       |                |
 | アレンジ                       | arrange                                   | 配置，安排     |
 | アンカー                       | anchor                                    |                |
+| アングル                       | angle                                     |                |
 | アンケート                     | （フランス）enquête                       | 问卷调查       |
 |                                |                                           |                |
 | アンコール                     | encore                                    |                |
@@ -297,6 +298,7 @@
 | カラー                   | color                   |                  |
 | カラオケ                 | 空 + orchestra          | 卡拉OK           |
 | ガラス                   | （オランダ）glas        | 玻璃             |
+| カリスマ                 | （ドイツ）Charisma      | 超自然的能力     |
 | カルキ                   | （オランダ）kalk        | 石灰             |
 | カルシウム               | calcium                 |                  |
 | カルチャー               | culture                 | 文化             |
@@ -331,6 +333,7 @@
 | キャプテン               | captain                 |                  |
 | キャラ（クター）         | character               | 角色             |
 | ギャラリー               | gallary                 |                  |
+| ギャラ（ンティー）       | guarantee               | 出场费；保证金   |
 | キャリア                 | career                  |                  |
 | ギャル                   | gal                     | 年轻女性         |
 | ギャング                 | gang                    | 黑社会           |
@@ -550,6 +553,7 @@
 | サブ〜                         | sub-                   |                  |
 | サファイア                     | sapphire               | 蓝宝石           |
 | サプライ                       | supply                 |                  |
+| サプライズ                     | surprise               |                  |
 | サプリ（メント）               | supplement             |                  |
 | サポーター                     | supporter              |                  |
 | サポート                       | support                |                  |
@@ -602,6 +606,7 @@
 | ジャスト                       | just                   |                  |
 | シャツ                         | shirt                  |                  |
 | ジャッジ                       | judge                  |                  |
+| ジャッジメント                 | judgment               |                  |
 | シャッター                     | shutter                |                  |
 | シャドー                       | shadow                 |                  |
 | ジャム                         | jam                    |                  |
@@ -1054,7 +1059,11 @@
 | ニュー               | new               |                |
 | ニュース             | news              |                |
 | ヌード               | nude              |                |
+| ネイティブ           | native            |                |
+| ネイル               | nail              |                |
+| ネイルサロン         | nail salon        |                |
 | ネーム               | name              |                |
+|                      |                   |                |
 | ネオ〜               | neo-              |                |
 | ネガ（ティブ）       | negative          |                |
 | ネクタイ             | necktie           |                |
@@ -1107,6 +1116,7 @@
 | ハードル                         | hurdle                   |                         |
 | ハーフ                           | half                     |                         |
 | ハーブ                           | herb                     |                         |
+| パーフェクト                     | perfect                  |                         |
 | バーベキュー                     | barbecue                 |                         |
 | バーボン                         | bourbon                  | 波本酒                  |
 | パーマ（ネント）                 | parmanent                | 烫（发）                |
@@ -1170,6 +1180,7 @@
 | バッテリー                       | battery                  |                         |
 | バット                           | bat                      |                         |
 | ハッピー                         | happy                    |                         |
+|                                  |                          |                         |
 | パトカー                         | patrol car               | 巡逻车，警车            |
 | バトル                           | battle                   |                         |
 | パニック                         | panic                    |                         |
@@ -1185,6 +1196,7 @@
 | パラシュート                     | parachute                | 降落伞                  |
 | パラダイス                       | paradise                 |                         |
 | パラドックス                     | paradox                  | 悖论                    |
+| パラレルワールド                 | parallel world           |                         |
 | バランス                         | balance                  |                         |
 | バリカン                         | （フランス）Barriquand   | 理发推子                |
 | バリケード                       | barricade                | 路障                    |
@@ -1217,6 +1229,7 @@
 | ハンマー                         | hammer                   |                         |
 | ピアノ                           | （イタリア）piano        |                         |
 | ヒアリング                       | hearing                  | 听力                    |
+| ピース                           | peace                    |                         |
 | ヒーター                         | heater                   |                         |
 | ビーフ                           | beef                     |                         |
 | ヒーリング                       | healing                  |                         |
@@ -1274,7 +1287,7 @@
 | ファストフード                   | fast food                |                         |
 | ファスナー                       | fastener                 |                         |
 | ファッション                     | fashion                  |                         |
-|                                  |                          |                         |
+| ファミ（リー）レス（トラン）     | family restaurant        |                         |
 | ファン                           | fan                      |                         |
 |                                  |                          |                         |
 | ファンシー                       | fancy                    |                         |
@@ -1296,6 +1309,8 @@
 | ブース                           | booth                    | 摊位                    |
 | ブースター                       | booster                  | 推进器                  |
 | ブーツ                           | boots                    | 靴子                    |
+| フード                           | food                     |                         |
+| フードファイター                 | food + fighter           | 大胃王                  |
 | ブーム                           | boom                     | 风潮，流行              |
 | プール                           | pool                     |                         |
 | フェア                           | fair                     | 公平，公正；展览会      |
@@ -1322,6 +1337,7 @@
 | フォトグラフ                     | photograph               |                         |
 | フォロー                         | follow                   |                         |
 | フォローアップ                   | follow-up                | 追踪调查                |
+| フォロワー                       | follower                 | 粉丝                    |
 | フォント                         | font                     | 字体                    |
 | ブザー                           | buzzer                   | 蜂鸣器                  |
 | ブス                             |                          | 丑八怪                  |
@@ -1436,6 +1452,7 @@
 | ベストセラー                     | best-seller              | 畅销书                  |
 | ペダル                           | pedal                    | 踏板                    |
 | ペット                           | pet                      |                         |
+| ベット                           | bet                      |                         |
 | ベッド                           | bed                      |                         |
 | ヘッドセット                     | headset                  | 头戴式耳机              |
 | ヘッドフォン                     | headphone                | 头戴式耳机              |
@@ -1762,6 +1779,7 @@
 | レイアウト             | layout                  |                  |
 | レイプ                 | rape                    |                  |
 | レインコート           | rain coat               |                  |
+| レインボー             | rainbow                 |                  |
 | レーザー               | laser                   |                  |
 | レース                 | race, lace              | 赛跑；蕾丝       |
 | レーダー               | radar                   |                  |
