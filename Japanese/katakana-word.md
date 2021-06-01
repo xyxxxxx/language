@@ -134,19 +134,22 @@
 | インフルエンザ                 | imfluenza                                 |                |
 | インフレ（ーション）           | inflation                                 | 通货膨胀       |
 | インポート                     | import                                    |                |
-| ウール                         | wool                                      |                |
+|                                |                                           |                |
+|                                |                                           |                |
 | ウイスキー                     | whisky                                    |                |
 | ウイルス                       | virus                                     |                |
 | ウインカー                     | winker                                    | 车灯           |
 | ウインク                       | wink                                      | 使眼色；抛媚眼 |
 | ウインター                     | winter                                    |                |
 | ウインド                       | wind                                      |                |
+| ウール                         | wool                                      |                |
 | ウエート                       | weight                                    |                |
 | ウエートトレーニング           | weight training                           | 重量训练       |
 | ウエートレス                   | waitress                                  |                |
 | ウエーブ                       | wave                                      |                |
 | ウエスト                       | waist                                     |                |
 | ウェット                       | wet                                       |                |
+| ウェットスーツ                 | wetsuit                                   | 潜水服         |
 | ウエディング                   | wedding                                   |                |
 | ウェブ                         | web                                       |                |
 | ウェブサイト                   | website                                   |                |
@@ -421,7 +424,7 @@
 | クローン                 | clone                   |                  |
 | クロス                   | cross                   |                  |
 | グロス                   | gross                   |                  |
-|                          |                         |                  |
+| クロワッサン             | （フランス）croissant   | 牛角面包         |
 | ケア                     | care                    |                  |
 | ゲイ                     | gay                     |                  |
 | ゲイン                   | gain                    |                  |
@@ -440,10 +443,13 @@
 | ケミカル                 | chemical                |                  |
 | グラフィック             | graphic                 |                  |
 | グラフィティ             | graffiti                | 涂鸦             |
+| クリア                   | clear                   |                  |
+| クリアファイル           | clear + file            | （透明的）文件夹 |
 | ゲリラ                   | guerrilla               | 游击战，游击队   |
 | コア                     | core                    |                  |
 | コイン                   | coin                    |                  |
 | コインランドリー         | coin laundry            | 投币式洗衣机     |
+| ゴーグル                 | goggle                  | 护目镜           |
 | コース                   | course                  |                  |
 | コースター               | coaster                 | 杯垫             |
 | ゴースト                 | ghost                   |                  |
@@ -594,7 +600,9 @@
 | シチュエーション               | situation              |                                    |
 | シックス                       | six                    |                                    |
 | シティ                         | city                   |                                    |
+| シナモン                       | cinnamon               | 肉桂                               |
 | シナリオ                       | scenario               | 脚本                               |
+|                                |                        |                                    |
 | シニア                         | senior                 |                                    |
 | シニカル                       | cynical                | 讥讽                               |
 | シネマ                         | （フランス）cinéma     |                                    |
@@ -925,6 +933,7 @@
 | ツアー                       | tour                 |                      |
 | ツー                         | two                  |                      |
 | ツール                       | tool                 |                      |
+| ツナ                         |                      | 金枪鱼；金枪鱼罐头   |
 | ディープ                     | deep                 |                      |
 | ディーラー                   | dealer               |                      |
 | ティシュ（ペーパー）         | tissue paper         |                      |
@@ -1254,6 +1263,7 @@
 | ヒアリング                       | hearing                  | 听力                     |
 | ピース                           | peace                    |                          |
 | ヒーター                         | heater                   |                          |
+| ピーナッツ                       | peanuts                  |                          |
 | ビーフ                           | beef                     |                          |
 | ヒーリング                       | healing                  |                          |
 | ビール                           | （オランダ）bier         | 啤酒                     |
@@ -1398,6 +1408,7 @@
 | プラトニックラブ                 | Platonic love            |                          |
 | フラワー                         | flower                   |                          |
 | プラン                           | plan                     |                          |
+| ブランコ                         |                          | 秋千                     |
 | フランス                         | France                   |                          |
 | プランター                       | planter                  | 花盆                     |
 | ブランチ                         | brunch                   |                          |
@@ -1590,6 +1601,7 @@
 | マグ（カップ）             | mug cup             | 马克杯              |
 | マグネット                 | magnet              | 磁铁                |
 | マクロ                     | macro               |                     |
+|                            |                     |                     |
 | マジック                   | magic               | 魔法                |
 | マジョリティー             | majority            |                     |
 | マシン                     | machine             |                     |
@@ -1811,6 +1823,7 @@
 | ルール                 | rule                    |                  |
 | ルックス               | looks                   | 颜值             |
 | ルネサンス             | （フランス）Renaissance | 文艺复兴         |
+| ルンバ                 |                         | 扫地机器人       |
 | レア                   | rare                    |                  |
 | レイアウト             | layout                  |                  |
 | レイプ                 | rape                    |                  |
@@ -1852,6 +1865,7 @@
 | ロイヤル               | royal                   |                  |
 | ロー                   | low, law                |                  |
 | ローカル               | local                   |                  |
+| ロース                 |                         | 里脊             |
 | ロースト               | roast                   |                  |
 | ローストビーフ         | roast beef              | 烤（牛）肉       |
 | ローテーション         | rotation                | 轮换             |
@@ -1860,6 +1874,7 @@
 | ロープ                 | rope                    |                  |
 | ロープウエイ           | ropeway                 | 缆车             |
 | ローマ                 | Roma                    |                  |
+| ロール                 | roll                    | 卷               |
 | ロールケーキ           | roll cake               | 瑞士卷           |
 | ログ                   | log                     |                  |
 | ログイン・ログアウト   | log in, log out         |                  |
