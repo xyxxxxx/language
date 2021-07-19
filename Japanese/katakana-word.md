@@ -254,285 +254,287 @@
 
 ## カ
 
-|                          |                         |                        |
-| ------------------------ | ----------------------- | ---------------------- |
-| カー                     | car                     |                        |
-| カーテン                 | curtain                 |                        |
-| ガーデン                 | garden                  |                        |
-| ガーデニング             | gardening               |                        |
-| カード                   | card                    |                        |
-| ガード                   | guard                   |                        |
-| ガードレール             | guardrail               | 防护栏                 |
-| カーニバル               | carnival                |                        |
-| カーブ                   | curve                   | 弯，曲线               |
-| カーペット               | carpet                  |                        |
-| ガイダンス               | guidance                |                        |
-| ガイド                   | guide                   |                        |
-| ガイドブック             | guidebook               |                        |
-| ガイドライン             | guideline               | 指导方针               |
-|                          |                         |                        |
-| カウンセラー             | counselor               | 心理咨询师             |
-| カウンセリング           | counseling              | 心理咨询               |
-| カウンター               | counter                 |                        |
-| カクテル                 | cocktail                |                        |
-| カジュアル               | casual                  | 休闲服装               |
-| ガス                     | gas                     | 瓦斯                   |
-| カスタム                 | custom                  | 定做                   |
-| カストマイズ             | customize               |                        |
-| カセット                 | cassette                | 磁带                   |
-| ガソリン                 | gasonline               | 汽油                   |
-| ガソリンスタンド         | gasonline stand         | 加油站                 |
-| カタログ                 | catalog                 |                        |
-| カッター                 | cutter                  | 美工刀                 |
-| ガッツ                   | guts（=根性）           | 毅力                   |
-| カット                   | cut                     |                        |
-| カップ                   | cup                     | 陶瓷杯                 |
-| カップケーキ             | cup cake                | 纸杯蛋糕               |
-| カップラーメン           | cup + ラーメン          | 方便面                 |
-| カップル                 | couple                  |                        |
-| カテゴリー               | （ドイツ）Kategorie     |                        |
-| カトリック               | （オランダ）katholiek   | 天主教                 |
-| カヌー                   | canoe                   | 皮艇                   |
-| カバー                   | cover                   |                        |
-| ガバナンス               | governance              |                        |
-| カフェ                   | （フランス）café        |                        |
-| カフェイン               | caffeine                |                        |
-| カプセル                 | capsule                 |                        |
-| ガム                     | gum                     | 口香糖                 |
-| ガムテープ               | gum + tape              | 胶布                   |
-| カメラ                   | camera                  |                        |
-| カメラマン               | camera man              | 摄影师                 |
-| カムフラージュ           | （フランス）camouflage  | 伪装                   |
-| カラー                   | color                   |                        |
-| カラオケ                 | 空 + orchestra          | 卡拉OK                 |
-| ガラス                   | （オランダ）glas        | 玻璃                   |
-| カリスマ                 | （ドイツ）Charisma      | 超自然的能力           |
-| カルキ                   | （オランダ）kalk        | 石灰                   |
-| カルシウム               | calcium                 |                        |
-| カルスト                 | （ドイツ）Karst         | 喀斯特                 |
-| カルチャー               | culture                 | 文化                   |
-| カルテ                   | （ドイツ）Karte         | 病例                   |
-| カルテル                 | cartel                  | 卡特尔，垄断联盟       |
-| カルト                   | cult                    | 邪教；狂热粉丝         |
-| カルビ                   |                         | 朝鲜烤肉；牛肩/胸/腹肉 |
-| カレー                   | curry                   | 咖喱                   |
-| ガレージ                 | garage                  |                        |
-| カレンダー               | calendar                |                        |
-| カロリー                 | （フランス）calorie     |                        |
-| カントリー               | country                 | 田园的                 |
-| カンニング               | cunning                 | 考试作弊               |
-| キー                     | key                     |                        |
-| キープ                   | keep                    |                        |
-| キーボード               | keyboard                |                        |
-| キーワード               | keyword                 |                        |
-| ギア                     | gear                    | 齿轮                   |
-| ギガ                     | giga-                   |                        |
-| キス                     | kiss                    |                        |
-| ギター                   | guitar                  |                        |
-| キック                   | kick                    |                        |
-| キッズ                   | kids                    |                        |
-| キッチン                 | kitchen                 |                        |
-| ギフト                   | gift                    |                        |
-| ギャグ                   | gag                     | 噱头                   |
-| キャスター               | caster                  | 播报员                 |
-| キャッシュ               | cash                    |                        |
-| キャッチ                 | catch                   |                        |
-| キャッチャー             | catcher                 | 捕手                   |
-| ギャップ                 | gap                     |                        |
-| キャピタル               | capital                 |                        |
-| キャプテン               | captain                 |                        |
-| キャラ（クター）         | character               | 角色                   |
-| キャラメル               | caramel                 | 焦糖                   |
-| ギャラリー               | gallary                 |                        |
-| ギャラ（ンティー）       | guarantee               | 出场费；保证金         |
-| キャリア                 | career                  |                        |
-| ギャル                   | gal                     | 年轻女性               |
-| ギャング                 | gang                    | 黑社会                 |
-| キャンセル               | cancel                  |                        |
-| キャンパス               | campus                  |                        |
-| キャンプ                 | camp                    |                        |
-| キャンペーン             | campaign                |                        |
-| キュート                 | cute                    |                        |
-| キューピッド             | Cupid                   | 丘比特                 |
-| キラー                   | killer                  |                        |
-| キリスト                 | （ポルトガル）christo   |                        |
-| キログラム・キロ         | （フランス）kilogramme  |                        |
-| キロメートル・キロ       | （フランス）kilomètre   |                        |
-| キング                   | king                    |                        |
-| クイーン                 | queen                   |                        |
-| クイズ                   | quiz                    |                        |
-| クイック                 | quick                   |                        |
-| クーデター               | （フランス）coup d'État |                        |
-| クーラー                 | cooler                  |                        |
-| クール                   | cool                    |                        |
-| クエスチョン             | question                |                        |
-| クエスト                 |                         | （游戏中的）任务       |
-| クォーター               | quarter                 |                        |
-|                          |                         |                        |
-| クオリティー             | quality                 | 质量                   |
-| クッキー                 | cookie                  |                        |
-| クッキング               | cooking                 |                        |
-| クッション               | cushion                 |                        |
-| グッズ                   | goods                   |                        |
-| グッド                   | good                    |                        |
-| クライアント             | client                  |                        |
-| グラウンド               | ground                  | 操场                   |
-| クラクション             |                         | 汽车喇叭               |
-| クラシック               | classic                 |                        |
-| クラス                   | class                   |                        |
-| クラスター               | cluster                 |                        |
-| グラス                   | glass                   | 玻璃杯                 |
-| クラスメイト             | classmate               |                        |
-| クラッカー               | cracker                 | 咸饼干                 |
-| グラビア                 | gravure                 | 写真                   |
-| グラフ                   | graph                   |                        |
-| クラブ                   | club                    |                        |
-| グラフィック             | graphic                 |                        |
-| グラフィックス           | graphics                |                        |
-| グラム                   | gram                    |                        |
-| クラン                   | clan                    | （游戏）工会           |
-| グランド                 | grand                   |                        |
-| グランプリ               | （フランス）grand prix  | 大奖                   |
-| クリア                   | clear                   |                        |
-| クリアランス             | clearance               |                        |
-| グリース                 | grease                  | 润滑油                 |
-| クリーニング             | cleaning                |                        |
-| クリーム                 | cream                   |                        |
-| グリーン                 | green                   |                        |
-| クリエーティブ           | creative                |                        |
-| クリスタル               | crystal                 |                        |
-| クリスマス               | Chrismas                |                        |
-| クリック                 | click                   |                        |
-| グリッド                 | grid                    | 方格                   |
-| クリップ                 | clip                    |                        |
-| クリティカル             | critical                |                        |
-| クリニック               | clinic                  |                        |
-| グリル                   | grill                   | 烧烤；烤架             |
-| グル                     |                         | 同伙                   |
-| グルー                   | glue                    |                        |
-| クルーザー               | cruiser                 | 游艇                   |
-| グループ                 | group                   |                        |
-| グルメ                   | （フランス）gourmet     | 美食家                 |
-| グレー                   | gray                    |                        |
-| グレード                 | grade                   |                        |
-| クレーム                 | claim                   | 投诉                   |
-| クレーン                 | crane                   | 起重机                 |
-| クレジット               | credit                  |                        |
-| クレムリン               | （ロシア）Kremlin       | 克里姆林宮             |
-| クローゼット             | closet                  |                        |
-| クローバー               | clover                  | 三叶草                 |
-|                          |                         |                        |
-| グローバリゼーション     | globalization           |                        |
-| グローバル               | global                  |                        |
-| グロテスク               | （フランス）grotesque   | 奇异                   |
-| クロール                 | crawl                   | 自由泳                 |
-| クローン                 | clone                   |                        |
-| クロス                   | cross                   |                        |
-| グロス                   | gross                   |                        |
-| クロワッサン             | （フランス）croissant   | 牛角面包               |
-| ケア                     | care                    |                        |
-| ゲイ                     | gay                     |                        |
-| ゲイン                   | gain                    |                        |
-| ケーキ                   | cake                    |                        |
-| ゲージ                   | gauge                   |                        |
-| ケース                   | case                    |                        |
-| ゲーセン                 | game center             |                        |
-| ゲート                   | gate                    |                        |
-| ケーブル                 | cable                   |                        |
-| ケーブルテレビ           | cable television        | 有线电视               |
-| ゲーム                   | game                    |                        |
-| ケキバ                   |                         | 蛋糕店                 |
-| ゲスト                   | guest                   |                        |
-| ゲット                   | get                     |                        |
-| ゲノム                   | （ドイツ）Genome        | 基因组                 |
-| ケミカル                 | chemical                |                        |
-| グラフィック             | graphic                 |                        |
-| グラフィティ             | graffiti                | 涂鸦                   |
-| クリア                   | clear                   |                        |
-| クリアファイル           | clear + file            | （透明的）文件夹       |
-| ゲリラ                   | guerrilla               | 游击战，游击队         |
-| コア                     | core                    |                        |
-| コイン                   | coin                    |                        |
-| コインランドリー         | coin laundry            | 投币式洗衣机           |
-| ゴーグル                 | goggle                  | 护目镜                 |
-| コース                   | course                  |                        |
-| コースター               | coaster                 | 杯垫                   |
-| ゴースト                 | ghost                   |                        |
-| コーチ                   | coach                   |                        |
-| コーディネート           | coordinate              | 服装搭配               |
-| コート                   | coat/court              | 外套，大衣；球场       |
-| コード                   | cord/code               |                        |
-| コーナー                 | corner                  |                        |
-| コーヒー                 | coffee                  |                        |
-| コーポレーション         | corporation             |                        |
-| コーラ                   | cola                    |                        |
-| コーラス                 | chorus                  |                        |
-| コール                   | call                    |                        |
-| ゴール                   | goal                    |                        |
-| ゴールデンウイーク       | golden week             | 黄金周                 |
-| ゴールド                 | gold                    |                        |
-| コカイン                 | cocaine                 | 可卡因                 |
-| ゴシップ                 | gossip                  |                        |
-| コスト                   | cost                    |                        |
-| コスメ（ティック）       | cosmetic                |                        |
-| コツ                     |                         | 要领                   |
-| コップ                   | （オランダ）kop         | 玻璃杯                 |
-| コテージ                 | cottage                 | 村舍                   |
-| コピー                   | copy                    |                        |
-| コミュニケーション       | communication           |                        |
-| コマーシャル             | commercial              |                        |
-| コマース                 | commerce                |                        |
-| コマンド                 | command                 |                        |
-| コミケ                   | comic market            | 漫展                   |
-| コミック                 | comic                   |                        |
-| コミュニケ               | （フランス）communiqué  | 外交声明               |
-| コミュニケーション       | communication           |                        |
-| コミュニティー           | community               |                        |
-| ゴム                     | （オランダ）gom         | 橡胶                   |
-| コメント                 | comment                 |                        |
-| コモン                   | common                  |                        |
-| コラボ（レーション）     | collaboration           |                        |
-| コラム                   | column                  |                        |
-| ゴルフ                   | golf                    |                        |
-| コレクション             | collection              |                        |
-| コレステロール           | cholesterol             | 胆固醇                 |
-| コロッケ                 |                         | 可丽饼                 |
-| コロニー                 | colony                  |                        |
-| コンクール               | （仏）concours          | 竞赛                   |
-| コンクリート             | concrete                |                        |
-| コンサート               | concert                 |                        |
-| コンサルタント           | consultant              | 顾问                   |
-| コンシューマー           | consumer                |                        |
-| コンスタント             | constant                |                        |
-| コンセプト               | concept                 |                        |
-| コンセンサス             | consensus               | 共识                   |
-| コンセント               | concentric+plug         | 插座                   |
-| コンタクト（レンズ）     | contact lens            | 隐形眼镜               |
-| コンディション           | condition               |                        |
-| コンティニュー           | continue                |                        |
-| コンテスト               | contest                 | 比赛                   |
-| コンテナ                 | container               | 集装箱                 |
-| コンテンツ               | contents                |                        |
-| コンドーム               | condom                  |                        |
-| コントラスト             | contrast                |                        |
-| コントロール             | control                 |                        |
-| コンパ                   | company                 | 联谊会                 |
-| コンパクト               | compact                 | 小巧的                 |
-| コンパス                 | （オランダ）kompas      | 圆规；指南针           |
-| コンビニ（エンスストア） | convenient store        |                        |
-| コンビ（ネーション）     | combination             | 组合                   |
-| コンピューター           | computer                |                        |
-| コンファレンス           | conference              |                        |
-| コンプライアンス         | compliance              | 服从                   |
-| コンプレックス           | complex                 | 自卑                   |
-| コンベンション           | convention              |                        |
-| コンマ                   | comma                   |                        |
-|                          |                         |                        |
-|                          |                         |                        |
-|                          |                         |                        |
-|                          |                         |                        |
-|                          |                         |                        |
-|                          |                         |                        |
+|                          |                              |                        |
+| ------------------------ | ---------------------------- | ---------------------- |
+| カー                     | car                          |                        |
+| カーテン                 | curtain                      |                        |
+| ガーデン                 | garden                       |                        |
+| ガーデニング             | gardening                    |                        |
+| カード                   | card                         |                        |
+| ガード                   | guard                        |                        |
+| ガードレール             | guardrail                    | 防护栏                 |
+| カーニバル               | carnival                     |                        |
+| カーブ                   | curve                        | 弯，曲线               |
+| カーペット               | carpet                       |                        |
+| ガイダンス               | guidance                     |                        |
+| ガイド                   | guide                        |                        |
+| ガイドブック             | guidebook                    |                        |
+| ガイドライン             | guideline                    | 指导方针               |
+|                          |                              |                        |
+| カウンセラー             | counselor                    | 心理咨询师             |
+| カウンセリング           | counseling                   | 心理咨询               |
+| カウンター               | counter                      |                        |
+| カクテル                 | cocktail                     |                        |
+| カジュアル               | casual                       | 休闲服装               |
+| ガス                     | gas                          | 瓦斯                   |
+| カスタム                 | custom                       | 定做                   |
+| カストマイズ             | customize                    |                        |
+| カセット                 | cassette                     | 磁带                   |
+| ガソリン                 | gasonline                    | 汽油                   |
+| ガソリンスタンド         | gasonline stand              | 加油站                 |
+| カタログ                 | catalog                      |                        |
+| カツアゲ                 | 恐喝して金品を巻き上げること | 抢劫                   |
+| カッター                 | cutter                       | 美工刀                 |
+| ガッツ                   | guts（=根性）                | 毅力                   |
+| カット                   | cut                          |                        |
+| カップ                   | cup                          | 陶瓷杯                 |
+| カップケーキ             | cup cake                     | 纸杯蛋糕               |
+| カップラーメン           | cup + ラーメン               | 方便面                 |
+| カップル                 | couple                       |                        |
+| カテゴリー               | （ドイツ）Kategorie          |                        |
+| カトリック               | （オランダ）katholiek        | 天主教                 |
+| カヌー                   | canoe                        | 皮艇                   |
+| カバー                   | cover                        |                        |
+| ガバナンス               | governance                   |                        |
+| カフェ                   | （フランス）café             |                        |
+| カフェイン               | caffeine                     |                        |
+| カプセル                 | capsule                      |                        |
+| ガム                     | gum                          | 口香糖                 |
+| ガムテープ               | gum + tape                   | 胶布                   |
+| カメラ                   | camera                       |                        |
+| カメラマン               | camera man                   | 摄影师                 |
+| カムフラージュ           | （フランス）camouflage       | 伪装                   |
+| カラー                   | color                        |                        |
+| カラオケ                 | 空 + orchestra               | 卡拉OK                 |
+| ガラス                   | （オランダ）glas             | 玻璃                   |
+| カリスマ                 | （ドイツ）Charisma           | 超自然的能力           |
+| カルキ                   | （オランダ）kalk             | 石灰                   |
+| カルシウム               | calcium                      |                        |
+| カルスト                 | （ドイツ）Karst              | 喀斯特                 |
+| カルチャー               | culture                      | 文化                   |
+| カルテ                   | （ドイツ）Karte              | 病例                   |
+| カルテル                 | cartel                       | 卡特尔，垄断联盟       |
+| カルト                   | cult                         | 邪教；狂热粉丝         |
+| カルビ                   |                              | 朝鲜烤肉；牛肩/胸/腹肉 |
+| カレー                   | curry                        | 咖喱                   |
+| ガレージ                 | garage                       |                        |
+| カレンダー               | calendar                     |                        |
+| カロリー                 | （フランス）calorie          |                        |
+| カントリー               | country                      | 田园的                 |
+| カンニング               | cunning                      | 考试作弊               |
+| キー                     | key                          |                        |
+| キープ                   | keep                         |                        |
+| キーボード               | keyboard                     |                        |
+| キーワード               | keyword                      |                        |
+| ギア                     | gear                         | 齿轮                   |
+| ギガ                     | giga-                        |                        |
+| キス                     | kiss                         |                        |
+| ギター                   | guitar                       |                        |
+| キック                   | kick                         |                        |
+| キッズ                   | kids                         |                        |
+| キッチン                 | kitchen                      |                        |
+| ギフト                   | gift                         |                        |
+| キムチ                   |                              | 朝鲜泡菜               |
+| ギャグ                   | gag                          | 噱头                   |
+| キャスター               | caster                       | 播报员                 |
+| キャッシュ               | cash                         |                        |
+| キャッチ                 | catch                        |                        |
+| キャッチャー             | catcher                      | 捕手                   |
+| ギャップ                 | gap                          |                        |
+| キャピタル               | capital                      |                        |
+| キャプテン               | captain                      |                        |
+| キャラ（クター）         | character                    | 角色                   |
+| キャラメル               | caramel                      | 焦糖                   |
+| ギャラリー               | gallary                      |                        |
+| ギャラ（ンティー）       | guarantee                    | 出场费；保证金         |
+| キャリア                 | career                       |                        |
+| ギャル                   | gal                          | 年轻女性               |
+| ギャング                 | gang                         | 黑社会                 |
+| キャンセル               | cancel                       |                        |
+| キャンパス               | campus                       |                        |
+| キャンプ                 | camp                         |                        |
+| キャンペーン             | campaign                     |                        |
+| キュート                 | cute                         |                        |
+| キューピッド             | Cupid                        | 丘比特                 |
+| キラー                   | killer                       |                        |
+| キリスト                 | （ポルトガル）christo        |                        |
+| キログラム・キロ         | （フランス）kilogramme       |                        |
+| キロメートル・キロ       | （フランス）kilomètre        |                        |
+| キング                   | king                         |                        |
+| クイーン                 | queen                        |                        |
+| クイズ                   | quiz                         |                        |
+| クイック                 | quick                        |                        |
+| クーデター               | （フランス）coup d'État      |                        |
+| クーラー                 | cooler                       |                        |
+| クール                   | cool                         |                        |
+| クエスチョン             | question                     |                        |
+| クエスト                 |                              | （游戏中的）任务       |
+| クォーター               | quarter                      |                        |
+|                          |                              |                        |
+| クオリティー             | quality                      | 质量                   |
+| クッキー                 | cookie                       |                        |
+| クッキング               | cooking                      |                        |
+| クッション               | cushion                      |                        |
+| グッズ                   | goods                        |                        |
+| グッド                   | good                         |                        |
+| クライアント             | client                       |                        |
+| グラウンド               | ground                       | 操场                   |
+| クラクション             |                              | 汽车喇叭               |
+| クラシック               | classic                      |                        |
+| クラス                   | class                        |                        |
+| クラスター               | cluster                      |                        |
+| グラス                   | glass                        | 玻璃杯                 |
+| クラスメイト             | classmate                    |                        |
+| クラッカー               | cracker                      | 咸饼干                 |
+| グラビア                 | gravure                      | 写真                   |
+| グラフ                   | graph                        |                        |
+| クラブ                   | club                         |                        |
+| グラフィック             | graphic                      |                        |
+| グラフィックス           | graphics                     |                        |
+| グラム                   | gram                         |                        |
+| クラン                   | clan                         | （游戏）工会           |
+| グランド                 | grand                        |                        |
+| グランプリ               | （フランス）grand prix       | 大奖                   |
+| クリア                   | clear                        |                        |
+| クリアランス             | clearance                    |                        |
+| グリース                 | grease                       | 润滑油                 |
+| クリーニング             | cleaning                     |                        |
+| クリーム                 | cream                        |                        |
+| グリーン                 | green                        |                        |
+| クリエーティブ           | creative                     |                        |
+| クリスタル               | crystal                      |                        |
+| クリスマス               | Chrismas                     |                        |
+| クリック                 | click                        |                        |
+| グリッド                 | grid                         | 方格                   |
+| クリップ                 | clip                         |                        |
+| クリティカル             | critical                     |                        |
+| クリニック               | clinic                       |                        |
+| グリル                   | grill                        | 烧烤；烤架             |
+| グル                     |                              | 同伙                   |
+| グルー                   | glue                         |                        |
+| クルーザー               | cruiser                      | 游艇                   |
+| グループ                 | group                        |                        |
+| グルメ                   | （フランス）gourmet          | 美食家                 |
+| グレー                   | gray                         |                        |
+| グレード                 | grade                        |                        |
+| クレーム                 | claim                        | 投诉                   |
+| クレーン                 | crane                        | 起重机                 |
+| クレジット               | credit                       |                        |
+| クレムリン               | （ロシア）Kremlin            | 克里姆林宮             |
+| クローゼット             | closet                       |                        |
+| クローバー               | clover                       | 三叶草                 |
+|                          |                              |                        |
+| グローバリゼーション     | globalization                |                        |
+| グローバル               | global                       |                        |
+| グロテスク               | （フランス）grotesque        | 奇异                   |
+| クロール                 | crawl                        | 自由泳                 |
+| クローン                 | clone                        |                        |
+| クロス                   | cross                        |                        |
+| グロス                   | gross                        |                        |
+| クロワッサン             | （フランス）croissant        | 牛角面包               |
+| ケア                     | care                         |                        |
+| ゲイ                     | gay                          |                        |
+| ゲイン                   | gain                         |                        |
+| ケーキ                   | cake                         |                        |
+| ゲージ                   | gauge                        |                        |
+| ケース                   | case                         |                        |
+| ゲーセン                 | game center                  |                        |
+| ゲート                   | gate                         |                        |
+| ケーブル                 | cable                        |                        |
+| ケーブルテレビ           | cable television             | 有线电视               |
+| ゲーム                   | game                         |                        |
+| ケキバ                   |                              | 蛋糕店                 |
+| ゲスト                   | guest                        |                        |
+| ゲット                   | get                          |                        |
+| ゲノム                   | （ドイツ）Genome             | 基因组                 |
+| ケミカル                 | chemical                     |                        |
+| グラフィック             | graphic                      |                        |
+| グラフィティ             | graffiti                     | 涂鸦                   |
+| クリア                   | clear                        |                        |
+| クリアファイル           | clear + file                 | （透明的）文件夹       |
+| ゲリラ                   | guerrilla                    | 游击战，游击队         |
+| コア                     | core                         |                        |
+| コイン                   | coin                         |                        |
+| コインランドリー         | coin laundry                 | 投币式洗衣机           |
+| ゴーグル                 | goggle                       | 护目镜                 |
+| コース                   | course                       |                        |
+| コースター               | coaster                      | 杯垫                   |
+| ゴースト                 | ghost                        |                        |
+| コーチ                   | coach                        |                        |
+| コーディネート           | coordinate                   | 服装搭配               |
+| コート                   | coat/court                   | 外套，大衣；球场       |
+| コード                   | cord/code                    |                        |
+| コーナー                 | corner                       |                        |
+| コーヒー                 | coffee                       |                        |
+| コーポレーション         | corporation                  |                        |
+| コーラ                   | cola                         |                        |
+| コーラス                 | chorus                       |                        |
+| コール                   | call                         |                        |
+| ゴール                   | goal                         |                        |
+| ゴールデンウイーク       | golden week                  | 黄金周                 |
+| ゴールド                 | gold                         |                        |
+| コカイン                 | cocaine                      | 可卡因                 |
+| ゴシップ                 | gossip                       |                        |
+| コスト                   | cost                         |                        |
+| コスメ（ティック）       | cosmetic                     |                        |
+| コツ                     |                              | 要领                   |
+| コップ                   | （オランダ）kop              | 玻璃杯                 |
+| コテージ                 | cottage                      | 村舍                   |
+| コピー                   | copy                         |                        |
+| コミュニケーション       | communication                |                        |
+| コマーシャル             | commercial                   |                        |
+| コマース                 | commerce                     |                        |
+| コマンド                 | command                      |                        |
+| コミケ                   | comic market                 | 漫展                   |
+| コミック                 | comic                        |                        |
+| コミュニケ               | （フランス）communiqué       | 外交声明               |
+| コミュニケーション       | communication                |                        |
+| コミュニティー           | community                    |                        |
+| ゴム                     | （オランダ）gom              | 橡胶                   |
+| コメント                 | comment                      |                        |
+| コモン                   | common                       |                        |
+| コラボ（レーション）     | collaboration                |                        |
+| コラム                   | column                       |                        |
+| ゴルフ                   | golf                         |                        |
+| コレクション             | collection                   |                        |
+| コレステロール           | cholesterol                  | 胆固醇                 |
+| コロッケ                 |                              | 可丽饼                 |
+| コロニー                 | colony                       |                        |
+| コンクール               | （仏）concours               | 竞赛                   |
+| コンクリート             | concrete                     |                        |
+| コンサート               | concert                      |                        |
+| コンサルタント           | consultant                   | 顾问                   |
+| コンシューマー           | consumer                     |                        |
+| コンスタント             | constant                     |                        |
+| コンセプト               | concept                      |                        |
+| コンセンサス             | consensus                    | 共识                   |
+| コンセント               | concentric+plug              | 插座                   |
+| コンタクト（レンズ）     | contact lens                 | 隐形眼镜               |
+| コンディション           | condition                    |                        |
+| コンティニュー           | continue                     |                        |
+| コンテスト               | contest                      | 比赛                   |
+| コンテナ                 | container                    | 集装箱                 |
+| コンテンツ               | contents                     |                        |
+| コンドーム               | condom                       |                        |
+| コントラスト             | contrast                     |                        |
+| コントロール             | control                      |                        |
+| コンパ                   | company                      | 联谊会                 |
+| コンパクト               | compact                      | 小巧的                 |
+| コンパス                 | （オランダ）kompas           | 圆规；指南针           |
+| コンビニ（エンスストア） | convenient store             |                        |
+| コンビ（ネーション）     | combination                  | 组合                   |
+| コンピューター           | computer                     |                        |
+| コンファレンス           | conference                   |                        |
+| コンプライアンス         | compliance                   | 服从                   |
+| コンプレックス           | complex                      | 自卑                   |
+| コンベンション           | convention                   |                        |
+| コンマ                   | comma                        |                        |
+|                          |                              |                        |
+|                          |                              |                        |
+|                          |                              |                        |
+|                          |                              |                        |
+|                          |                              |                        |
+|                          |                              |                        |
 
 ## サ
 
@@ -902,6 +904,7 @@
 | タルト                       | （フランス）tarte    | 挞                   |
 | タレント                     | talent               | 演员                 |
 | タワー                       | tower                |                      |
+| タン                         |                      | 牛舌                 |
 | タンク                       | tank                 |                      |
 | ダンス                       | dance                |                      |
 |                              |                      |                      |
