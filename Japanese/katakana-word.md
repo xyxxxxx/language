@@ -538,317 +538,320 @@
 
 ## サ
 
-|                 |                      |                   |
-| --------------- | -------------------- | ----------------- |
-| ザ               | the                  |                   |
-| サーキュレーション       | circulation          |                   |
-| サークル            | circle               | 社团                |
-| サーチ             | search               |                   |
-| サーバー            | server               |                   |
-| サービス            | service              | 优惠，赠品             |
-| サーフィン           | surfing              |                   |
-| サーベイランス         | surveillance         | 监视                |
-| サーロイン           | sirloin              | 牛胸脊肉，西冷           |
-| サイエンス           | science              |                   |
-| サイクリング          | cycling              | 骑行                |
-| サイクル            | cycle                |                   |
-| サイクロン           | cyclone              |                   |
-| サイコ             | psycho               |                   |
-| サイズ             | size                 |                   |
-| サイト             | site                 |                   |
-| サイド             | side                 |                   |
-| サイバー            | cyber                |                   |
-| サイレン            | siren                | 警笛                |
-| サイレント           | silent               |                   |
-| サイン             | sign                 | 签名                |
-| サウナ             | （フインランド）sauna        | 桑拿                |
-| サウンド            | sound                |                   |
-| サッカー            | soccer               |                   |
-| サディズム           | sadist               | 施虐狂               |
-| サテライト           | satellite            |                   |
-|                 |                      |                   |
-| サバイバー           | survivor             |                   |
-| サバイバル           | survival             |                   |
-| サバンナ            | savanna              | 热带草原              |
-| サブ〜             | sub-                 |                   |
-| サファイア           | sapphire             | 蓝宝石               |
-| サプライ            | supply               |                   |
-| サプライズ           | surprise             |                   |
-| サプリ（メント）        | supplement           |                   |
-| サポーター           | supporter            |                   |
-| サポート            | support              |                   |
-| サマー             | summer               |                   |
-| サミット            | sammit               | 峰会                |
-| サラダ             | salad                |                   |
-| サラリーマン          | salary men           | 上班族               |
-| サロン             | （フランス）salon          |                   |
-| サワー             | sour                 | 酸味饮料              |
-| サンキュー           | thank you            |                   |
-| サンタ（クロース）       | Santa Claus          | 圣诞老人              |
-| サンダル            | sandal               |                   |
-| サンド             | sand                 |                   |
-| サンドイッチ          | sandwich             |                   |
-| サンドバッグ          | sandbag              | 沙袋                  |
-| サンプル            | sample               |                   |
-| シーズ             | seeds                |                   |
-| シースルー           | see-through          | （比较透的服装）          |
-| シーズン            | season               |                   |
-| シーツ             | sheet                |                   |
-| シート             | seat                 |                   |
-| シード             | seed                 |                   |
-| シーリングライト        | ceiling light        | 吸顶灯               |
-| シール             | seal                 | 贴纸                |
-| シールド            | shield               |                   |
-| シーン             | scene                | 场景                |
-| シェア             | share                |                   |
-| ジェット            | jet                  |                   |
-| シェフ             | （フランス）chef           |                   |
-| ジェラート           | （イタリア）gelato         | 意式冰淇凌             |
-| シェルター           | shelter              |                   |
-| ジェンダー           | gender               |                   |
-| システム            | system               |                   |
-| シチュエーション        | situation            |                   |
-| シックス            | six                  |                   |
-| シティ             | city                 |                   |
-| シナモン            | cinnamon             | 肉桂                |
-| シナリオ            | scenario             | 脚本                |
-|                 |                      |                   |
-| シニア             | senior               |                   |
-| シニカル            | cynical              | 讥讽                |
-| シネマ             | （フランス）cinéma         |                   |
-| ジプシー            | gupsy                | 吉普赛               |
-| シフト             | shift                |                   |
-| シミュレーション        | simulation           |                   |
-| ジム              | gym                  |                   |
-| ジャージ            | jersey               | 运动套装              |
-| ジャーナリスト         | journalist           |                   |
-| ジャーナル           | journal              |                   |
-| シャープ            | sharp                |                   |
-| シャー（プ）ペン（シル）    | sharp + pencil       | 自动铅笔              |
-| ジャイアント          | giant                |                   |
-| ジャズ             | jazz                 |                   |
-| ジャスト            | just                 |                   |
-| シャツ             | shirt                |                   |
-| ジャッジ            | judge                |                   |
-| ジャッジメント         | judgment             |                   |
-| シャッター           | shutter              |                   |
-| シャドー            | shadow               |                   |
-| ジャム             | jam                  |                   |
-| シャベル            | shovel               |                   |
-| シャワー            | shower               |                   |
-| ジャンクション         | junction             | 高架路口              |
-| ジャングル           | jungle               |                   |
-| シャンソン           | （フランス）chanson        | 香颂                |
-| ジャンパー           | jumper               | 夹克                |
-| ジャンプ            | jump                 |                   |
-| シャンプー           | shampoo              | 洗发水               |
-| ジャンル            | （フランス）genre          |                   |
-| ジューシー           | juicy                |                   |
-| シューズ            | shoes                |                   |
-| ジュース            | juice                |                   |
-| シュート            | shoot                |                   |
-| ジュール            | joule                | 焦耳                |
-| ジュエリー           | jewelry              |                   |
-| シュガー            | sugar                |                   |
-| ジュニア            | junior               |                   |
-| シュレッダー          | shredder             | 碎纸机               |
-| ジョイント           | joint                |                   |
-| ショー             | show                 |                   |
-| ジョーク            | joke                 |                   |
-| ショート            | short                |                   |
-| ジョギング           | jogging              |                   |
-| ショック            | shock                | 震惊；休克             |
-| ショップ            | shop                 |                   |
-| ショッピング          | shopping             |                   |
-| ショベル（カー）        | shovel + car         | 挖掘机               |
-| シラバス            | syllabus             |                   |
-| シリーズ            | series               |                   |
-| シリコン            | silicon              |                   |
-| シルエット           | （フランス）silhouette     | 人的剪影              |
-| シルク             | silk                 |                   |
-| シルバー            | silver               |                   |
-| ジレンマ            | dilemma              |                   |
-| シンク             | sink                 | 水槽                |
-| シンクタンク          |                      |                   |
-| シングル            | single               | 单人；单曲             |
-| シングルス           | singles              | 单打                |
-| シンクロ（ナイズ）       | synchronize          | 同步                |
-| シンドローム          | syndrom              | 综合征               |
-| シンナー            | thinner              | 稀释剂               |
-| シンパシー           | sympathy             |                   |
-| シンプル            | simple               |                   |
-| シンポジウム          | symposium            | 交流会               |
-| シンメトリー          | symmetry             |                   |
-| スイーツ            | sweets               | 甜品                |
-| スイッチ            | switch               |                   |
-|                 |                      |                   |
-| スーツ             | suit                 | 正装                |
-| スーツケース          | suitcase             | 行李箱               |
-| スーパー（マーケット）     | supermarket          |                   |
-| スーパーバイザー        | supervisor           |                   |
-| スープ             | soup                 |                   |
-|                 |                      |                   |
-|                 |                      |                   |
-| スカート            | skirt                |                   |
-| スカーフ            | scarf                |                   |
-| スカイダイビング        | sky diving           | 跳伞                |
-| スカウト            | scout                | 挖角                |
-| スキー             | ski                  |                   |
-| スキーム            | scheme               |                   |
-| スキャン            | scan                 |                   |
-| スキャンダル          | scandal              |                   |
-| スキューバ（ダイビング）    | scuba diving         | 有氧潜水              |
-| スキル             | skill                | 游戏中的技能            |
-| スクーター           | scooter              | 电动车               |
-| スクープ            | scoop                |                   |
-| スクール            | school               |                   |
-| スクエア            | square               |                   |
-|                 |                      |                   |
-| スクリーン           | screen               |                   |
-| スクリーニング         | screening            |                   |
-| スクリプト           | script               | 脚本                |
-| スクリュー           | screw                | 螺旋桨               |
-| スケート            | skate                |                   |
-| スケール            | scale                |                   |
-| スゲジュール          | schedule             |                   |
-| スケッチ            | sketch               | 草图                |
-| スコア             | score                |                   |
-| スコープ            | scope                | 范畴                |
-| スター             | star                 |                   |
-| スタート            | start                |                   |
-| スタイル            | style                |                   |
-| スタジアム           | stadium              | 体育场               |
-| スタジオ            | studio               |                   |
-| スタッフ            | staff                |                   |
-| スタディー           | study                |                   |
-| スタミナ            | stamina              | 体力，精力             |
-| スタンダード          | standard             |                   |
-| スタンド            | stand                |                   |
-| スタンプ            | stamp                |                   |
-|                 |                      |                   |
-| スチーム            | steam                |                   |
-|                 |                      |                   |
-| スチール            | steel                |                   |
-| スチュワーデス         | stewardess           | 空姐                |
-| ステイ             | stay                 |                   |
-| ステーキ            | steak                |                   |
-| ステージ            | stage                |                   |
-| ステッカー           | sticker              |                   |
-| ステッキ            | stick                | 拐杖                |
-| ステップ            | step                 |                   |
-| ステレオ            | stereo               |                   |
-| ステレオタイプ         | stereotype           | 刻板印象              |
-| ステロイド           | steroid              | 类固醇               |
-| ステンレス           | stainless            |                   |
-| ストイック           | stoic                | 禁欲的               |
-|                 |                      |                   |
-| ストーカー           |                      | 跟踪狂               |
-| ストーブ            | stove                |                   |
-| ストーリー           | story                |                   |
-| ストッキング          | stocking             | 丝袜，长筒袜            |
-| ストック            | stock                |                   |
-| ストップ            | stop                 |                   |
-| ストライキ           | strike               | 罢工                |
-| ストライプ           | stripe               | 条纹                |
-| ストラップ           | strap                | 布带                |
-| ストレート           | straight             |                   |
-| ストレス            | stress               |                   |
-| ストレッチ           | stretch              | 拉伸运动              |
-| ストレッチャー         | stretcher            | 担架                |
-| ストロー            | straw                |                   |
-| ストロボ            | （商标）strobo           | 闪光灯               |
-| スニーカー           | sneaker              |                   |
-| スヌーズ            | snooze               | 打盹                |
-| スパイ             | spy                  |                   |
-| スパイス            | spice                | 香辛料               |
-| スパイラル           | spiral               |                   |
-| スパゲッティ          | （イタリア）Spaghetti      | 意大利长面             |
-| スパン             | span                 |                   |
-| スピーカー           | speaker              |                   |
-| スピーチ            | speech               |                   |
-| スピード            | speed                |                   |
-| スピリット           | spirit               |                   |
-| スピン             | spin                 |                   |
-| スプーン            | spoon                |                   |
-| スプリング           | spring               |                   |
-| スプレー            | spray                | 喷雾器               |
-| スペース            | space                |                   |
-| スペシャリスト         | specialist           |                   |
-| スペシャル           | special              |                   |
-| スペック            | spec                 |                   |
-| スペル             | spell                |                   |
-| スポイル            | spoil                |                   |
-| スポーツ            | sports               |                   |
-| スポーツカー          | sports car           | 跑车                |
-| スポーツドリンク        | sports drink         | 运动饮料              |
-| スポット            | spot                 | 地点                |
-| スポットライト         | spot light           | 聚光灯               |
-| ズボン             | （フランス）jupon          | 裤子                |
-| スポンジ            | sponge               |                   |
-| スマート            | smart                |                   |
-| スマホ             | smart phone          |                   |
-| スムーズ            | smooth               |                   |
-| スモッグ            | smog                 |                   |
-| スライド            | slide                | 幻灯片               |
-| スラックス           | slacks               | 西装裤               |
-| スラブ             | slab                 | 楼板                |
-| スラム             | slum                 | 贫民窟               |
-| スラング            | slang                | 俚语                |
-| スランプ            | slump                | 暴跌；不景气；萎靡；没有起色，低谷 |
-| スリー             | three                |                   |
-| スリッパ            | slipper              | 拖鞋                |
-| スリム             | slim                 | 苗条                |
-| スロー             | slow                 |                   |
-| スロープ            | slope                |                   |
-| スロット            | slot machine         | 老虎机               |
-| スワップ            | swap                 |                   |
-| セーター            | sweater              |                   |
-| セーフ             | safe                 |                   |
-| セーブ             | save                 |                   |
-| セーラー（服）         | sailor               | 水手（服）             |
-| セール（ス）          | sale/sales           |                   |
-| セオリー            | theory               |                   |
-| セキュリティー         | security             |                   |
-| セクシー            | sexy                 |                   |
-| セク（シャル）ハラ（スメント） | sexual harassment    | 性骚扰               |
-| セクション           | section              |                   |
-| セクター            | sector               | 部门；扇形             |
-| セックス            | sex                  |                   |
-| セット             | set                  |                   |
-| ゼネコン            | general + contractor | 承包商               |
-| ゼネラル            | general              |                   |
-| セブン             | seven                |                   |
-| ゼミ（ナール）         | （ドイツ）Seminar         |                   |
-| セメント            | cement               |                   |
-| ゼリー             | jelly                |                   |
-| セリフ             |                      | 台词                |
-| セルフ             | self                 |                   |
-| セルフネイル          | self + neil          | 自主美甲              |
-| セルロイド           | celluloid            | 赛璐珞               |
-| セレクション          | selection            |                   |
-| セレモニー           | ceremony             |                   |
-| ゼロ              | zero                 |                   |
-| セロハン            | cellophane           | 玻璃纸               |
-| センサー            | sensor               |                   |
-| センサス            | census               | 统计调查              |
-| センス             | sense                | 品味                |
-| センセーション         | sensation            | 轰动                |
-| センター            | center               |                   |
-| センチ             | centi-               |                   |
-| セントラル           | central              |                   |
-| ソーシャル           | social               |                   |
-| ソース             | sauce/source         |                   |
-| ソーダ             | （オランダ）soda           |                   |
-| ソープ             | soap                 |                   |
-| ソーラー            | solar                |                   |
-| ゾーン             | zone                 |                   |
-| ソックス            | socks                |                   |
-| ソファー            | sofa                 |                   |
-| ソフィスティケート       | sophisticate         |                   |
-| ソフト             | soft                 |                   |
-| ソリューション         | solution             | 溶液；解决方案           |
-| ソロ              | （イタリア）solo           |                   |
-| ゾンビ             | zombie               |                   |
+|                                |                        |                                    |
+| ------------------------------ | ---------------------- | ---------------------------------- |
+| ザ                             | the                    |                                    |
+| サーキュレーション             | circulation            |                                    |
+| サークル                       | circle                 | 社团                               |
+| サーチ                         | search                 |                                    |
+| サーバー                       | server                 |                                    |
+| サービス                       | service                | 优惠，赠品                         |
+| サーフィン                     | surfing                |                                    |
+| サーベイランス                 | surveillance           | 监视                               |
+| サーロイン                     | sirloin                | 牛胸脊肉，西冷                     |
+| サイエンス                     | science                |                                    |
+| サイクリング                   | cycling                | 骑行                               |
+| サイクル                       | cycle                  |                                    |
+| サイクロン                     | cyclone                |                                    |
+| サイコ                         | psycho                 |                                    |
+| サイズ                         | size                   |                                    |
+| サイト                         | site                   |                                    |
+| サイド                         | side                   |                                    |
+| サイバー                       | cyber                  |                                    |
+| サイレン                       | siren                  | 警笛                               |
+| サイレント                     | silent                 |                                    |
+| サイン                         | sign                   | 签名                               |
+| サウナ                         | （フインランド）sauna  | 桑拿                               |
+| サウンド                       | sound                  |                                    |
+| サッカー                       | soccer                 |                                    |
+| サディズム                     | sadist                 | 施虐狂                             |
+| サテライト                     | satellite              |                                    |
+|                                |                        |                                    |
+| サバイバー                     | survivor               |                                    |
+| サバイバル                     | survival               |                                    |
+| サバンナ                       | savanna                | 热带草原                           |
+| サブ〜                         | sub-                   |                                    |
+| サファイア                     | sapphire               | 蓝宝石                             |
+| サプライ                       | supply                 |                                    |
+| サプライズ                     | surprise               |                                    |
+| サプリ（メント）               | supplement             |                                    |
+| サポーター                     | supporter              |                                    |
+| サポート                       | support                |                                    |
+| サマー                         | summer                 |                                    |
+| サミット                       | sammit                 | 峰会                               |
+| サラダ                         | salad                  |                                    |
+| サラリーマン                   | salary men             | 上班族                             |
+| サロン                         | （フランス）salon      |                                    |
+| サワー                         | sour                   | 酸味饮料                           |
+| サンキュー                     | thank you              |                                    |
+| サンタ（クロース）             | Santa Claus            | 圣诞老人                           |
+| サンダル                       | sandal                 |                                    |
+| サンド                         | sand                   |                                    |
+| サンドイッチ                   | sandwich               |                                    |
+| サンドバッグ                   | sandbag                | 沙袋                               |
+| サンプル                       | sample                 |                                    |
+| シーサー                       |                        | （琉球的）守护神                   |
+| シーズ                         | seeds                  |                                    |
+| シースルー                     | see-through            | （比较透的服装）                   |
+| シーズン                       | season                 |                                    |
+| シーツ                         | sheet                  |                                    |
+| シート                         | seat                   |                                    |
+| シード                         | seed                   |                                    |
+| シーリングライト               | ceiling light          | 吸顶灯                             |
+| シール                         | seal                   | 贴纸                               |
+| シールド                       | shield                 |                                    |
+| シーン                         | scene                  | 场景                               |
+| シェア                         | share                  |                                    |
+| ジェット                       | jet                    |                                    |
+| シェフ                         | （フランス）chef       |                                    |
+| ジェラート                     | （イタリア）gelato     | 意式冰淇凌                         |
+| シェルター                     | shelter                |                                    |
+| ジェンダー                     | gender                 |                                    |
+| シカト                         |                        | 被无视                             |
+| システム                       | system                 |                                    |
+| シチュエーション               | situation              |                                    |
+| シックス                       | six                    |                                    |
+| シティ                         | city                   |                                    |
+| シナモン                       | cinnamon               | 肉桂                               |
+| シナリオ                       | scenario               | 脚本                               |
+|                                |                        |                                    |
+| シニア                         | senior                 |                                    |
+| シニカル                       | cynical                | 讥讽                               |
+| シネマ                         | （フランス）cinéma     |                                    |
+| ジプシー                       | gupsy                  | 吉普赛                             |
+| シフト                         | shift                  |                                    |
+| シミュレーション               | simulation             |                                    |
+| ジム                           | gym                    |                                    |
+| ジャージ                       | jersey                 | 运动套装                           |
+| ジャーナリスト                 | journalist             |                                    |
+| ジャーナル                     | journal                |                                    |
+| シャープ                       | sharp                  |                                    |
+| シャー（プ）ペン（シル）       | sharp + pencil         | 自动铅笔                           |
+| ジャイアント                   | giant                  |                                    |
+| ジャズ                         | jazz                   |                                    |
+| ジャスト                       | just                   |                                    |
+| シャツ                         | shirt                  |                                    |
+| ジャッジ                       | judge                  |                                    |
+| ジャッジメント                 | judgment               |                                    |
+| シャッター                     | shutter                |                                    |
+| シャドー                       | shadow                 |                                    |
+| ジャム                         | jam                    |                                    |
+| シャベル                       | shovel                 |                                    |
+| シャワー                       | shower                 |                                    |
+| ジャンクション                 | junction               | 高架路口                           |
+| ジャングル                     | jungle                 |                                    |
+| シャンソン                     | （フランス）chanson    | 香颂                               |
+| ジャンパー                     | jumper                 | 夹克                               |
+| ジャンプ                       | jump                   |                                    |
+| シャンプー                     | shampoo                | 洗发水                             |
+| ジャンル                       | （フランス）genre      |                                    |
+| ジューシー                     | juicy                  |                                    |
+| シューズ                       | shoes                  |                                    |
+| ジュース                       | juice                  |                                    |
+| シュート                       | shoot                  |                                    |
+| ジュール                       | joule                  | 焦耳                               |
+| ジュエリー                     | jewelry                |                                    |
+| シュガー                       | sugar                  |                                    |
+| ジュニア                       | junior                 |                                    |
+| シュレッダー                   | shredder               | 碎纸机                             |
+| ジョイント                     | joint                  |                                    |
+| ショー                         | show                   |                                    |
+| ジョーク                       | joke                   |                                    |
+| ショート                       | short                  |                                    |
+| ジョギング                     | jogging                |                                    |
+| ショック                       | shock                  | 震惊；休克                         |
+| ショップ                       | shop                   |                                    |
+| ショッピング                   | shopping               |                                    |
+| ショベル（カー）               | shovel + car           | 挖掘机                             |
+| シラバス                       | syllabus               |                                    |
+| シリーズ                       | series                 |                                    |
+| シリコン                       | silicon                |                                    |
+| シルエット                     | （フランス）silhouette | 人的剪影                           |
+| シルク                         | silk                   |                                    |
+| シルバー                       | silver                 |                                    |
+| ジレンマ                       | dilemma                |                                    |
+| シンク                         | sink                   | 水槽                               |
+| シンクタンク                   |                        |                                    |
+| シングル                       | single                 | 单人；单曲                         |
+| シングルス                     | singles                | 单打                               |
+| シンクロ（ナイズ）             | synchronize            | 同步                               |
+| シンドローム                   | syndrom                | 综合征                             |
+| シンナー                       | thinner                | 稀释剂                             |
+| シンパシー                     | sympathy               |                                    |
+| シンプル                       | simple                 |                                    |
+| シンポジウム                   | symposium              | 交流会                             |
+| シンメトリー                   | symmetry               |                                    |
+| スイーツ                       | sweets                 | 甜品                               |
+| スイッチ                       | switch                 |                                    |
+|                                |                        |                                    |
+| スーツ                         | suit                   | 正装                               |
+| スーツケース                   | suitcase               | 行李箱                             |
+| スーパー（マーケット）         | supermarket            |                                    |
+| スーパーバイザー               | supervisor             |                                    |
+| スープ                         | soup                   |                                    |
+|                                |                        |                                    |
+|                                |                        |                                    |
+| スカート                       | skirt                  |                                    |
+| スカーフ                       | scarf                  |                                    |
+| スカイダイビング               | sky diving             | 跳伞                               |
+| スカウト                       | scout                  | 挖角                               |
+| スキー                         | ski                    |                                    |
+| スキーム                       | scheme                 |                                    |
+| スキャン                       | scan                   |                                    |
+| スキャンダル                   | scandal                |                                    |
+| スキューバ（ダイビング）       | scuba diving           | 有氧潜水                           |
+| スキル                         | skill                  | 游戏中的技能                       |
+| スクーター                     | scooter                | 电动车                             |
+| スクープ                       | scoop                  |                                    |
+| スクール                       | school                 |                                    |
+| スクエア                       | square                 |                                    |
+|                                |                        |                                    |
+| スクリーン                     | screen                 |                                    |
+| スクリーニング                 | screening              |                                    |
+| スクリプト                     | script                 | 脚本                               |
+| スクリュー                     | screw                  | 螺旋桨                             |
+| スケート                       | skate                  |                                    |
+| スケール                       | scale                  |                                    |
+| スゲジュール                   | schedule               |                                    |
+| スケッチ                       | sketch                 | 草图                               |
+| スコア                         | score                  |                                    |
+| スコープ                       | scope                  | 范畴                               |
+| スター                         | star                   |                                    |
+| スタート                       | start                  |                                    |
+| スタイル                       | style                  |                                    |
+| スタジアム                     | stadium                | 体育场                             |
+| スタジオ                       | studio                 |                                    |
+| スタッフ                       | staff                  |                                    |
+| スタディー                     | study                  |                                    |
+| スタミナ                       | stamina                | 体力，精力                         |
+| スタンダード                   | standard               |                                    |
+| スタンド                       | stand                  |                                    |
+| スタンプ                       | stamp                  |                                    |
+|                                |                        |                                    |
+| スチーム                       | steam                  |                                    |
+|                                |                        |                                    |
+| スチール                       | steel                  |                                    |
+| スチュワーデス                 | stewardess             | 空姐                               |
+| ステイ                         | stay                   |                                    |
+| ステーキ                       | steak                  |                                    |
+| ステージ                       | stage                  |                                    |
+| ステッカー                     | sticker                |                                    |
+| ステッキ                       | stick                  | 拐杖                               |
+| ステップ                       | step                   |                                    |
+| ステレオ                       | stereo                 |                                    |
+| ステレオタイプ                 | stereotype             | 刻板印象                           |
+| ステロイド                     | steroid                | 类固醇                             |
+| ステンレス                     | stainless              |                                    |
+| ストイック                     | stoic                  | 禁欲的                             |
+|                                |                        |                                    |
+| ストーカー                     |                        | 跟踪狂                             |
+| ストーブ                       | stove                  |                                    |
+| ストーリー                     | story                  |                                    |
+| ストッキング                   | stocking               | 丝袜，长筒袜                       |
+| ストック                       | stock                  |                                    |
+| ストップ                       | stop                   |                                    |
+| ストライキ                     | strike                 | 罢工                               |
+| ストライプ                     | stripe                 | 条纹                               |
+| ストラップ                     | strap                  | 布带                               |
+| ストレート                     | straight               |                                    |
+| ストレス                       | stress                 |                                    |
+| ストレッチ                     | stretch                | 拉伸运动                           |
+| ストレッチャー                 | stretcher              | 担架                               |
+| ストロー                       | straw                  |                                    |
+| ストロボ                       | （商标）strobo         | 闪光灯                             |
+| スニーカー                     | sneaker                |                                    |
+| スヌーズ                       | snooze                 | 打盹                               |
+| スパイ                         | spy                    |                                    |
+| スパイス                       | spice                  | 香辛料                             |
+| スパイラル                     | spiral                 |                                    |
+| スパゲッティ                   | （イタリア）Spaghetti  | 意大利长面                         |
+| スパン                         | span                   |                                    |
+| スピーカー                     | speaker                |                                    |
+| スピーチ                       | speech                 |                                    |
+| スピード                       | speed                  |                                    |
+| スピリット                     | spirit                 |                                    |
+| スピン                         | spin                   |                                    |
+| スプーン                       | spoon                  |                                    |
+| スプリング                     | spring                 |                                    |
+| スプレー                       | spray                  | 喷雾器                             |
+| スペース                       | space                  |                                    |
+| スペシャリスト                 | specialist             |                                    |
+| スペシャル                     | special                |                                    |
+| スペック                       | spec                   |                                    |
+| スペル                         | spell                  |                                    |
+| スポイル                       | spoil                  |                                    |
+| スポーツ                       | sports                 |                                    |
+| スポーツカー                   | sports car             | 跑车                               |
+| スポーツドリンク               | sports drink           | 运动饮料                           |
+| スポット                       | spot                   | 地点                               |
+| スポットライト                 | spot light             | 聚光灯                             |
+| ズボン                         | （フランス）jupon      | 裤子                               |
+| スポンジ                       | sponge                 |                                    |
+| スマート                       | smart                  |                                    |
+| スマホ                         | smart phone            |                                    |
+| スムーズ                       | smooth                 |                                    |
+| スモッグ                       | smog                   |                                    |
+| スライド                       | slide                  | 幻灯片                             |
+| スラックス                     | slacks                 | 西装裤                             |
+| スラブ                         | slab                   | 楼板                               |
+| スラム                         | slum                   | 贫民窟                             |
+| スラング                       | slang                  | 俚语                               |
+| スランプ                       | slump                  | 暴跌；不景气；萎靡；没有起色，低谷 |
+| スリー                         | three                  |                                    |
+| スリッパ                       | slipper                | 拖鞋                               |
+| スリム                         | slim                   | 苗条                               |
+| スロー                         | slow                   |                                    |
+| スロープ                       | slope                  |                                    |
+| スロット                       | slot machine           | 老虎机                             |
+| スワップ                       | swap                   |                                    |
+| セーター                       | sweater                |                                    |
+| セーフ                         | safe                   |                                    |
+| セーブ                         | save                   |                                    |
+| セーラー（服）                 | sailor                 | 水手（服）                         |
+| セール（ス）                   | sale/sales             |                                    |
+| セオリー                       | theory                 |                                    |
+| セキュリティー                 | security               |                                    |
+| セクシー                       | sexy                   |                                    |
+| セク（シャル）ハラ（スメント） | sexual harassment      | 性骚扰                             |
+| セクション                     | section                |                                    |
+| セクター                       | sector                 | 部门；扇形                         |
+| セックス                       | sex                    |                                    |
+| セット                         | set                    |                                    |
+| ゼネコン                       | general + contractor   | 承包商                             |
+| ゼネラル                       | general                |                                    |
+| セブン                         | seven                  |                                    |
+| ゼミ（ナール）                 | （ドイツ）Seminar      |                                    |
+| セメント                       | cement                 |                                    |
+| ゼリー                         | jelly                  |                                    |
+| セリフ                         |                        | 台词                               |
+| セルフ                         | self                   |                                    |
+| セルフネイル                   | self + neil            | 自主美甲                           |
+| セルロイド                     | celluloid              | 赛璐珞                             |
+| セレクション                   | selection              |                                    |
+| セレモニー                     | ceremony               |                                    |
+| ゼロ                           | zero                   |                                    |
+| セロハン                       | cellophane             | 玻璃纸                             |
+| センサー                       | sensor                 |                                    |
+| センサス                       | census                 | 统计调查                           |
+| センス                         | sense                  | 品味                               |
+| センセーション                 | sensation              | 轰动                               |
+| センター                       | center                 |                                    |
+| センチ                         | centi-                 |                                    |
+| セントラル                     | central                |                                    |
+| ソーイング                     | sewing                 |                                    |
+| ソーシャル                     | social                 |                                    |
+| ソース                         | sauce/source           |                                    |
+| ソーダ                         | （オランダ）soda       |                                    |
+| ソープ                         | soap                   |                                    |
+| ソーラー                       | solar                  |                                    |
+| ゾーン                         | zone                   |                                    |
+| ソックス                       | socks                  |                                    |
+| ソファー                       | sofa                   |                                    |
+| ソフィスティケート             | sophisticate           |                                    |
+| ソフト                         | soft                   |                                    |
+| ソリューション                 | solution               | 溶液；解决方案                     |
+| ソロ                           | （イタリア）solo       |                                    |
+| ゾンビ                         | zombie                 |                                    |
 
 ## タ
 
