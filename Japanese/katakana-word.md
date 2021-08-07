@@ -1131,473 +1131,474 @@
 
 ## ハ
 
-|                  |                     |              |
-| ---------------- | ------------------- | ------------ |
-| バー               | bar                 |              |
-| パーキング            | parking             |              |
-| パーキンソン           | Parkinson           | 帕金森          |
-| パーク              | park                |              |
-| バーゲン             | bargain             |              |
-| バーコード            | bar code            | 条形码          |
-| パーシャル            | partial             |              |
-| バージョン            | version             |              |
-| バースデー            | birthday            |              |
-| パーセント            | percent             |              |
-| パーソナル            | personal            |              |
-| パーソナリティー         | personality         |              |
-|                  |                     |              |
-| バーチャル            | virtual             |              |
-| パーツ              | parts               |              |
-| パーティー            | party               |              |
-| ハート              | heart               |              |
-| ハード              | hard                |              |
-| パート（タイム）         | part time           |              |
-| ハードディスク          | harddisk            |              |
-| パートナー            | partner             |              |
-| パートナーシップ         | partnership         |              |
-| ハードル             | hurdle              |              |
-| ハーフ              | half                |              |
-| ハーブ              | herb                |              |
-| パーフェクト           | perfect             |              |
-| バーベキュー           | barbecue            |              |
-| バーボン             | bourbon             | 波本酒          |
-| パーマ（ネント）         | parmanent           | 烫（发）         |
-| ハーモニー            | harmony             |              |
-| パール              | pearl               |              |
-| バール              | bar                 | 撬棍           |
-| ハイ               | high                |              |
-| バイオ〜             | bio-                |              |
-| バイオテクノロジー        | biotechnology       |              |
-| パイオニア            | pioneer             |              |
-| バイオリン            | violin              |              |
-| バイオレンス           | violence            |              |
-|                  |                     |              |
-| ハイキング            | hiking              |              |
-| バイキング            | Viking              |              |
-| バイク              |                     | 摩托车          |
-| ハイジャック           | hijack              | 劫机           |
-| ハイテク             | high technology     |              |
-| バイナリー            | binary              |              |
-| ハイパー〜            | hyper-              |              |
-| バイバイ             | bye bye             |              |
-| バイパス             | by-pass             | 辅道           |
-| パイプ              | pipe                |              |
-| ハイブリッド           | hybrid              |              |
-| バイブル             | Bible               |              |
-| バイブレーター          | vibrator            |              |
-| バイブレーション         | vibration           |              |
-| バイプレーヤー          |                     | 配角           |
-| パイロット            | pilot               |              |
-| ハウス              | house               |              |
-| パウダー             | powder              | 粉末；粉底        |
-| ハウツー             | how-to              |              |
-| バウンド             | bound               |              |
-| バキューム            | vacuum              |              |
-| バグ               | bug                 |              |
-| バケツ              | bucket              |              |
-| パケット             | packet              | 报文           |
-| ハザード             | hazard              |              |
-| パジャマ             | pajamas             |              |
-| パス               | pass                |              |
-| バス               | bath/bus            |              |
-| ハスキー             | husky               | 沙哑           |
-| パスタ              | （イタリア）pasta         | 意式面食         |
-| バスト              | bust                | 胸围；半身像       |
-| パスポート            | passport            |              |
-|                  |                     |              |
-| パズル              | puzzle              |              |
-| ハズレ              | 外れ                  | 不中           |
-| パスワード            | password            |              |
-| パソコン             | personal computer   |              |
-| バター              | butter              |              |
-| パターン             | pattern             |              |
-| パチンコ             |                     | 柏青哥，弹子机      |
-| ハッカー             | hacker              |              |
-| ハッキング            | hacking             |              |
-| バック              | back                |              |
-| バッグ              | bag                 |              |
-| バックアップ           | back up             |              |
-| バックパッカー          | backpacker          | 背包客          |
-| バックボーン           | backbone            | 骨气；骨干        |
-| パッケージ            | package             | 包装           |
-| バッジ              | badge               |              |
-| バッテリー            | battery             |              |
-| バット              | bat                 |              |
-| ハッピー             | happy               |              |
-|                  |                     |              |
-| パトカー             | patrol car          | 巡逻车，警车       |
-| バトル              | battle              |              |
-| バニラ              | vanilla             | 香草           |
-| バナナ              | banana              |              |
-| パニック             | panic               |              |
-| パネル              | panel               |              |
-| パパ               | papa                |              |
-| パブ               | pub                 |              |
-| パフェ              | （仏）parfait          | 芭菲           |
-| パフォーマンス          | performance         |              |
-| パブリック            | public              |              |
-| バブル              | bubble              |              |
-| バラエティ            | variety             |              |
-| パラグラフ            | paragraph           |              |
-| パラシュート           | parachute           | 降落伞          |
-| パラダイス            | paradise            |              |
-| パラドックス           | paradox             | 悖论           |
-| ハラミ              |                     | 横膈膜肉         |
-| パラレルワールド         | parallel world      |              |
-| バランス             | balance             |              |
-| バリカン             | （フランス）Barriquand    | 理发推子         |
-| バリケード            | barricade           | 路障           |
-| ハリケーン            | hurricane           |              |
-| バリュー             | value               |              |
-| バルーン             | baloon              |              |
-| バルブ              | valve               | 阀门           |
-| バレー（ボール）         | volleyball          |              |
-| バレエ              | （仏）ballet           | 芭蕾           |
-| バレル              | barrel              | 桶（单位）        |
-| ハロウィーン           | Halloween           |              |
-| バロメーター           | barometer           | 气压计；指标       |
-| パワー              | power               |              |
-| パワフル             | powerful            |              |
-| パン               | （ポルトガル）pão          | 面包           |
-| バン               | van                 | 面包车          |
-| ハンカチ             | handkerchief        |              |
-| パンク              | puncture            | 爆胎           |
-| ハングリー            | hungry              |              |
-| パンケーキ            | pancake             | 松饼           |
-| ハンサム             | handsome            |              |
-| バンジージャンプ         | bungy jump          | 蹦极           |
-| パンチ              | punch               | 拳击；简洁有力      |
-| パンツ              | pants               | 内裤           |
-| ハンディ（キャップ）       | handicap            | （比赛中）让步，不利条件 |
-| ハンド              | hand                |              |
-| ハンドルネーム          | handle + name       | （社交网络上的）用户名  |
-| ハンディー            | handy               |              |
-| バンド              | band                |              |
-| ハンドバッグ           | handbag             |              |
-| ハンドル             | handle              | 方向盘          |
-| ハンバーグ（ステーキ）      | Hamburg steak       | 汉堡肉          |
-| ハンマー             | hammer              |              |
-| ピアノ              | （イタリア）piano         |              |
-| ヒアリング            | hearing             | 听力           |
-| ピース              | peace               |              |
-| ヒーター             | heater              |              |
-| ピーナッツ            | peanuts             |              |
-| ビーフ              | beef                |              |
-| ピーマン             | （フランス）piment        | 青椒           |
-| ヒーリング            | healing             |              |
-| ビール              | （オランダ）bier          | 啤酒           |
-| ヒーロー             | hero                |              |
-| ヒエラルヒー           | （ドイツ）Hierarchie     | 等级制度         |
-| ピエロ              | （仏）pierrot          | 小丑           |
-| ビギナー             | beginner            |              |
-| ビキニ              | bikini              |              |
-| ピクニック            | picnic              |              |
-| ピザ               | pizza               |              |
-| ビザ               | visa                |              |
-|                  |                     |              |
-| ビジネス             | business            |              |
-| ビジョン             | vision              | 理想；幻想        |
-| ヒステリー            | （ドイツ）Hysterie       | 歇斯底里         |
-| ヒストグラム           | histogram           | 直方图          |
-| ヒストリー            | history             |              |
-| ピストル             | pistol              |              |
-| ピストン             | piston              |              |
-| ビタミン             | （ドイツ）Vitamin        |              |
-| ビッグ              | big                 |              |
-| ピックアップ           | pick up             | 捡起；选拔        |
-| ビッグバン            | big bang            |              |
-| ピッチャー            | pitcher             | 投手           |
-| ヒット              | hit                 | 安打；大成功，畅销    |
-| ヒップ              | hip                 |              |
-| ビデオ              | video               | 录影机；录影带      |
-| ビニール             | vinyl               | 塑料           |
-| ビニールハウス          | vinyle house        | 温室           |
-| ビネガー             | vineager            | 洋醋           |
-| ビヘイビア            | behavior            |              |
-| ピュア              | pure                |              |
-| ヒューズ             | fuse                | 保险丝          |
-| ヒューマニズム          | humanism            | 人道主义         |
-| ヒューマン            | human               |              |
-| ビュッフェ            | （仏）buffet           | 自助餐          |
-| ビラ               |                     | 传单           |
-| ピリオド             | period              | 句号；终止        |
-| ビル（ディング）         | building            |              |
-| ビルトイン            | built-in            |              |
-| ヒレ               | （フランス）filet         | 菲力           |
-| ヒロイン             | heroin              |              |
-| ピン               | pin                 | 别针           |
-| ピンク              | pink                |              |
-| ヒンズー             | Hindu               | 印度人；印度教徒     |
-| ヒンズー教            |                     | 印度教          |
-| ピンチ              | pinch               | 危机           |
-| ヒント              | hint                |              |
-| ファーストフード         | fast food           |              |
-| ファイア             | fire                |              |
-| ファイト             | fight               |              |
-| ファイナル            | final               |              |
-| ファイバー            | fiber               |              |
-| ファイブ             | five                |              |
-| ファイル             | file                |              |
-| ファストフード          | fast food           |              |
-| ファスナー            | fastener            |              |
-| ファッション           | fashion             |              |
-| ファミ（リー）レス（トラン）   | family restaurant   |              |
-| ファン              | fan                 |              |
-|                  |                     |              |
-| ファンシー            | fancy               |              |
-| ファンタジー           | fantasy             |              |
-| ファンデーション         | foundation          |              |
-| ファンド             | fund                |              |
-| フィードバック          | feed back           |              |
-| フィールド            | field               |              |
-| フィギュア            | figure              | 手办           |
-| フィクション           | fiction             | 小说；虚构        |
-| フィジカル            | physical            |              |
-| フィッシング           | fishing             |              |
-| フィットネス           | fitness             | 健身           |
-| フィナーレ            | （イタリア）finale        | 最后一幕；终曲      |
-| フィルター            | filter              |              |
-| フィルム             | film                |              |
-| ブーイング            | booing              | 嘘声           |
-| フーズ              | foods               |              |
-| ブース              | booth               | 摊位           |
-| ブースター            | booster             | 推进器          |
-| ブーツ              | boots               | 靴子           |
-| フード              | food                |              |
-| フードファイター         | food + fighter      | 大胃王          |
-| ブーム              | boom                | 风潮，流行        |
-| プール              | pool                |              |
-| フェア              | fair                | 公平，公正；展览会    |
-| フェイシャル           | facial              |              |
-| フェーク             | fake （=偽物）          | 虚假，假货        |
-| フェース             | face                |              |
-| フェースパック          | face + pack         | 面膜           |
-| フェードアウト          | fade out            |              |
-| フェスティバル          | festival            |              |
-| フェティシズム・フェチ      | fetishism           | 恋物癖          |
-| フェミニスト           | feminist            | 女权主义者        |
-| フェミニズム           | feminism            | 女权主义         |
-| フェラ（チオ）          | fellatio            |              |
-| フェリー             | ferry               | 渡轮           |
-| フェローシップ          | fellowship          |              |
-| フェロモン            | pheromone           | 信息素          |
-| フェンス             | fence               |              |
-| フォー              | four                |              |
-| フォーク             | fork                |              |
-| フォーマット           | format              |              |
-| フォーマル            | formal              |              |
-| フォーム             | form                |              |
-| フォーメーション         | formation           |              |
-| フォーラム            | forum               | 论坛           |
-| フォトグラフ           | photograph          |              |
-| フォロー             | follow              |              |
-| フォローアップ          | follow-up           | 追踪调查         |
-| フォロワー            | follower            | 粉丝           |
-| フォント             | font                | 字体           |
-| ブザー              | buzzer              | 蜂鸣器          |
-| ブス               |                     | 丑八怪          |
-| ブックマーク           | bookmark            |              |
-| プッシュ             | push                |              |
-| ブティック            | （フランス）boutique      | 服装店，时装店      |
-| フライ              | fry                 |              |
-| プライオリティー         | priority            |              |
-| プライド             | pride               |              |
-| プライバシー           | privacy             |              |
-| フライパン            | fry pan             |              |
-| プライベート           | private             |              |
-|                  |                     |              |
-| ブラウザ             | browser             |              |
-| ブラウス             | blouse              | 女罩衫          |
-| ブラウニー            | (chocolate) brownie | 布朗尼          |
-| プラグ              | plug                |              |
-| プラザ              | （スペイン）plaza         |              |
-| ブラシ              | brush               |              |
-| ブラジャー            | brassier            | 胸罩           |
-| プラス              | plus                |              |
-| プラスチック           | plastic             |              |
-| プラズマ             | plasma              |              |
-| プラチナ             | platinum            | 白金           |
-| フラッグ             | flag                |              |
-| ブラック             | black               |              |
-| ブラックホール          | black hole          |              |
-| フラッシュ            | flash               |              |
-| フラッシュメモリ         | flash memory        | 闪存           |
-| フラット             | flat                |              |
-| プラットフォーム・プラットホーム | platform            |              |
-| プラトン             | Platōn              | 柏拉图          |
-| プラトニックラブ         | Platonic love       |              |
-| フラワー             | flower              |              |
-| プラン              | plan                |              |
-| ブランコ             |                     | 秋千           |
-| フランス             | France              |              |
-| プランター            | planter             | 花盆           |
-| ブランチ             | brunch              |              |
-| フランチャイズ          | franchise           | 专营权          |
-| ブランデー            | brandy              | 白兰地          |
-| ブランド             | brand               |              |
-| フリー              | free                |              |
-| フリーク             | freak               | 怪胎；狂热者       |
-| フリーター・フリーアルバイター  | free＋（ドイツ）Arbeiter  | 自由职业者        |
-| フリーマーケット         | flea market         | 跳蚤市场         |
-| フリーランサー          | freelancer          | 自由职业者        |
-| ブリキ              | （オランダ）blik          | 铁皮           |
-| プリミティブ           | primitive           |              |
-| フリル              | frill               | 花边           |
-| プリン              | pudding             | 布丁           |
-| プリンス             | prince              |              |
-| プリンセス            | princess            |              |
-| プリント             | print               | 讲义           |
-| フラッシュ            | flash               |              |
-| フル               | full                |              |
-| ブルー              | blue                |              |
-| ブルース             | blues               | 布鲁斯          |
-| フルーツ             | fruits              |              |
-| ブルーベリー           | blueberry           |              |
-| ブルマー             | bloomer             | 女式运动短裤       |
-| プレー              | play                |              |
-| プレーオフ            | play off            |              |
-| ブレーカー            | breaker             | 电闸           |
-|                  |                     |              |
-| ブレーキ             | brake               | 刹车           |
-| ブレークスルー          | breakthrough        |              |
-| フレーズ             | phrase              |              |
-| プレート             | plate               |              |
-| フレーム             | frame               |              |
-| フレームワーク          | framework           |              |
-| プレーヤー            | player              |              |
-| プレーン             | plane               |              |
-| フレキシブル           | flexible            |              |
-| フレキシビリティー        | flexiblity          |              |
-| プレス              | press               | 熨；印刷，出版      |
-| プレゼン（テーション）      | presentation        |              |
-| プレゼント            | present             | 礼物           |
-| フレックスタイム         | flextime            | 弹性时间         |
-| プレッシャー           | pressure            | 压力           |
-| プレミア（ム）          | premium             | 加价；赠品        |
-| フレンチ             | French              |              |
-|                  |                     |              |
-| フロア              | floor               |              |
-| ブローカー            | broker              | 经纪人，中间人      |
-| ブローチ             | broach              | 胸针           |
-| ブログ              | blog                |              |
-| プログラム            | program             |              |
-| プロジェクター          | projector           | 投影仪          |
-| プロジェクト           | project             |              |
-| プロセス             | process             |              |
-| ブロック             | block               | 块，水泥/混凝土块；街区 |
-| プロテイン            | protein             |              |
-| プロテクター           | protector           | 护具           |
-| プロテクト            | protect             |              |
-| プロデュース           | produce             | （影视）制作       |
-| プロデューサー          | producer            |              |
-| プロトコル            | protocol            |              |
-| プロトタイプ           | prototype           |              |
-| プロフィール           | profile             |              |
-| プロ（フェッショナル）      | professional        |              |
-| プロポーズ            | propose             | 求婚           |
-| プロモーション          | promotion           |              |
-| プロローグ            | prologue            |              |
-| フロンティア           | frontier            | 边境；前沿        |
-| フロント             | front               | 前台           |
-| ペア               | pair                |              |
-| ベーカリー            | bakery              |              |
-| ページ              | page                |              |
-| ベーシック            | basic               |              |
-| ペース              | pace                |              |
-| ベース              | base                |              |
-| ペーパー             | paper               | 论文           |
-| ベクトル             | vector              |              |
-| ベスト              | best                |              |
-| ベストセラー           | best-seller         | 畅销书          |
-| ペダル              | pedal               | 踏板           |
-| ペット              | pet                 |              |
-| ベット              | bet                 |              |
-| ベッド              | bed                 |              |
-| ヘッドセット           | headset             | 头戴式耳机        |
-| ヘッドフォン           | headphone           | 头戴式耳机        |
-| ペットボトル           | PET bottle          | 塑料瓶          |
-| ベテラン             | veteran             |              |
-| ペナルティー           | penalty             |              |
-| ヘビー              | heavy               |              |
-| ベビー              | baby                |              |
-| ベランダ             | veranda             | 阳台           |
-| ヘリ（コプター）         | helicopter          |              |
-|                  |                     |              |
-| ベル               | bell                |              |
-| ヘルシー             | healthy             |              |
-| ヘルス              | health              | 健康；大保健       |
-| ペルソナ             | （ラテン）persona        | 假面；人格        |
-| ベルト              | belt                |              |
-| ヘルプ              | help                |              |
-| ヘロイン             | heroin              | 海洛因          |
-| ペン               | pen                 |              |
-| ペンキ              | （オランダ）pek           | 油漆           |
-| ベンチ              | bench               |              |
-| ベンチャー            | venture             | 风险，风险企业      |
-| ペンネ              | （イタリア）penne         | 直通粉          |
-| ペンネーム            | pen name            |              |
-| ボイコット            | boycott             |              |
-| ホイッスル            | whistle             | 口哨           |
-| ホイップ             | whip                |              |
-|                  |                     |              |
-| ポイント             | point               |              |
-| ボウリング・ボーリング      | bowling             | 保龄球          |
-| ボーイ              | boy                 |              |
-| ボーカル             | vocal               | 主唱           |
-| ボーカロイド           | vocaloid            |              |
-| ポーク              | pork                |              |
-| ホース              | （オランダ）hoos          | 软管           |
-| ポーズ              | pose                |              |
-| ボーダーライン          | border line         | 边境线          |
-| ポータブル            | portable            |              |
-| ボート              | boat                |              |
-| ポートフォリオ          | portfolio           | 投资组合         |
-| ボーナス             | bonus               |              |
-| ホープ              | hope                |              |
-| ホーム              | home                |              |
-| ホームページ           | homepage            |              |
-| ホームレス            | homeless            | 流浪汉          |
-| ホール              | hall, hole          |              |
-| ボール              | ball                |              |
-| ボールペン            | ball pen            | 圆珠笔          |
-| ポケット             | pocket              |              |
-| ポシェット            | （フランス）pochette      | 挎包           |
-| ポジション            | position            |              |
-| ボス               | boss                | 老板；头目        |
-| ポスター             | poster              |              |
-| ホステス             | hostess             | 陪酒女，女公关      |
-| ホスト              | host                | 牛郎，男公关       |
-| ポスト              | post                |              |
-|                  |                     |              |
-|                  |                     |              |
-| ボタン              | （ポルトガル）botão        | 纽扣           |
-| ホチキス             | （商标）Hotchikiss      | 订书机          |
-| ボックス             | box                 |              |
-| ポット              | pot                 | 水壶           |
-| ホットスポット          | hot spot            | 热点           |
-| ポップ              | pop                 |              |
-| ボディーソープ          | body soap           |              |
-| ポテト              | potato              |              |
-| ホテル              | hotel               |              |
-| ポテンシャル           | potential           |              |
-| ボトル              | bottle              | 水瓶           |
-| ボトルネック           | bottleneck          | 瓶颈           |
-| ポピュラー            | popular             |              |
-| ホモ（セクシュアル）       | homo(sexual)        | 男同性恋         |
-| ボランティア           | volunteer           |              |
-| ポリシー             | policy              |              |
-| ボリューム            | volume              |              |
-| ボルテージ            | voltage             | 热情           |
-| ボルト              | volt                | 伏特           |
-| ポルノ（グラフィー）       | pornography         | 色情作品         |
-| ホルモン             | hormone             | 荷尔蒙          |
-| ポロシャツ            | polo shirt          | polo衫        |
-| ホワイト             | white               |              |
-| ホワイトハウス          | white house         |              |
-| ホワイトボード          | white board         |              |
-| ボンド              | bond                | 胶水           |
-| ポンド              | pound               | 磅；英镑         |
-| ポンプ              | （オランダ）pomp          | 泵            |
+|                                  |                          |                          |
+| -------------------------------- | ------------------------ | ------------------------ |
+| バー                             | bar                      |                          |
+| パーキング                       | parking                  |                          |
+| パーキンソン                     | Parkinson                | 帕金森                   |
+| パーク                           | park                     |                          |
+| バーゲン                         | bargain                  |                          |
+| バーコード                       | bar code                 | 条形码                   |
+| パーシャル                       | partial                  |                          |
+| バージョン                       | version                  |                          |
+| バースデー                       | birthday                 |                          |
+| パーセント                       | percent                  |                          |
+| パーソナル                       | personal                 |                          |
+| パーソナリティー                 | personality              |                          |
+|                                  |                          |                          |
+| バーチャル                       | virtual                  |                          |
+| パーツ                           | parts                    |                          |
+| パーティー                       | party                    |                          |
+| ハート                           | heart                    |                          |
+| ハード                           | hard                     |                          |
+| パート（タイム）                 | part time                |                          |
+| ハードディスク                   | harddisk                 |                          |
+| パートナー                       | partner                  |                          |
+| パートナーシップ                 | partnership              |                          |
+| ハードル                         | hurdle                   |                          |
+| ハーフ                           | half                     |                          |
+| ハーブ                           | herb                     |                          |
+| パーフェクト                     | perfect                  |                          |
+| バーベキュー                     | barbecue                 |                          |
+| バーボン                         | bourbon                  | 波本酒                   |
+| パーマ（ネント）                 | parmanent                | 烫（发）                 |
+| ハーモニー                       | harmony                  |                          |
+| パール                           | pearl                    |                          |
+| バール                           | bar                      | 撬棍                     |
+| ハイ                             | high                     |                          |
+| バイオ〜                         | bio-                     |                          |
+| バイオテクノロジー               | biotechnology            |                          |
+| パイオニア                       | pioneer                  |                          |
+| バイオリン                       | violin                   |                          |
+| バイオレンス                     | violence                 |                          |
+|                                  |                          |                          |
+| ハイキング                       | hiking                   |                          |
+| バイキング                       | Viking                   |                          |
+| バイク                           |                          | 摩托车                   |
+| ハイジャック                     | hijack                   | 劫机                     |
+| ハイテク                         | high technology          |                          |
+| バイナリー                       | binary                   |                          |
+| ハイパー〜                       | hyper-                   |                          |
+| バイバイ                         | bye bye                  |                          |
+| バイパス                         | by-pass                  | 辅道                     |
+| パイプ                           | pipe                     |                          |
+| ハイブリッド                     | hybrid                   |                          |
+| バイブル                         | Bible                    |                          |
+| バイブレーター                   | vibrator                 |                          |
+| バイブレーション                 | vibration                |                          |
+| バイプレーヤー                   |                          | 配角                     |
+| パイロット                       | pilot                    |                          |
+| ハウス                           | house                    |                          |
+| パウダー                         | powder                   | 粉末；粉底               |
+| ハウツー                         | how-to                   |                          |
+| バウンド                         | bound                    |                          |
+| バキューム                       | vacuum                   |                          |
+| バグ                             | bug                      |                          |
+| バケツ                           | bucket                   |                          |
+| パケット                         | packet                   | 报文                     |
+| ハザード                         | hazard                   |                          |
+| パジャマ                         | pajamas                  |                          |
+| パス                             | pass                     |                          |
+| バス                             | bath/bus                 |                          |
+| ハスキー                         | husky                    | 沙哑                     |
+| パスタ                           | （イタリア）pasta        | 意式面食                 |
+| バスト                           | bust                     | 胸围；半身像             |
+| パスポート                       | passport                 |                          |
+|                                  |                          |                          |
+| パズル                           | puzzle                   |                          |
+| ハズレ                           | 外れ                     | 不中                     |
+| パスワード                       | password                 |                          |
+| パソコン                         | personal computer        |                          |
+| バター                           | butter                   |                          |
+| パターン                         | pattern                  |                          |
+| パチンコ                         |                          | 柏青哥，弹子机           |
+| ハッカー                         | hacker                   |                          |
+| ハッキング                       | hacking                  |                          |
+| バック                           | back                     |                          |
+| バッグ                           | bag                      |                          |
+| バックアップ                     | back up                  |                          |
+| バックパッカー                   | backpacker               | 背包客                   |
+| バックボーン                     | backbone                 | 骨气；骨干               |
+| パッケージ                       | package                  | 包装                     |
+| バッジ                           | badge                    |                          |
+| バッテリー                       | battery                  |                          |
+| バット                           | bat                      |                          |
+| ハッピー                         | happy                    |                          |
+|                                  |                          |                          |
+| パトカー                         | patrol car               | 巡逻车，警车             |
+| バトル                           | battle                   |                          |
+| パトロール                       | patrol                   |                          |
+| バニラ                           | vanilla                  | 香草                     |
+| バナナ                           | banana                   |                          |
+| パニック                         | panic                    |                          |
+| パネル                           | panel                    |                          |
+| パパ                             | papa                     |                          |
+| パブ                             | pub                      |                          |
+| パフェ                           | （仏）parfait            | 芭菲                     |
+| パフォーマンス                   | performance              |                          |
+| パブリック                       | public                   |                          |
+| バブル                           | bubble                   |                          |
+| バラエティ                       | variety                  |                          |
+| パラグラフ                       | paragraph                |                          |
+| パラシュート                     | parachute                | 降落伞                   |
+| パラダイス                       | paradise                 |                          |
+| パラドックス                     | paradox                  | 悖论                     |
+| ハラミ                           |                          | 横膈膜肉                 |
+| パラレルワールド                 | parallel world           |                          |
+| バランス                         | balance                  |                          |
+| バリカン                         | （フランス）Barriquand   | 理发推子                 |
+| バリケード                       | barricade                | 路障                     |
+| ハリケーン                       | hurricane                |                          |
+| バリュー                         | value                    |                          |
+| バルーン                         | baloon                   |                          |
+| バルブ                           | valve                    | 阀门                     |
+| バレー（ボール）                 | volleyball               |                          |
+| バレエ                           | （仏）ballet             | 芭蕾                     |
+| バレル                           | barrel                   | 桶（单位）               |
+| ハロウィーン                     | Halloween                |                          |
+| バロメーター                     | barometer                | 气压计；指标             |
+| パワー                           | power                    |                          |
+| パワフル                         | powerful                 |                          |
+| パン                             | （ポルトガル）pão        | 面包                     |
+| バン                             | van                      | 面包车                   |
+| ハンカチ                         | handkerchief             |                          |
+| パンク                           | puncture                 | 爆胎                     |
+| ハングリー                       | hungry                   |                          |
+| パンケーキ                       | pancake                  | 松饼                     |
+| ハンサム                         | handsome                 |                          |
+| バンジージャンプ                 | bungy jump               | 蹦极                     |
+| パンチ                           | punch                    | 拳击；简洁有力           |
+| パンツ                           | pants                    | 内裤                     |
+| ハンディ（キャップ）             | handicap                 | （比赛中）让步，不利条件 |
+| ハンド                           | hand                     |                          |
+| ハンドルネーム                   | handle + name            | （社交网络上的）用户名   |
+| ハンディー                       | handy                    |                          |
+| バンド                           | band                     |                          |
+| ハンドバッグ                     | handbag                  |                          |
+| ハンドル                         | handle                   | 方向盘                   |
+| ハンバーグ（ステーキ）           | Hamburg steak            | 汉堡肉                   |
+| ハンマー                         | hammer                   |                          |
+| ピアノ                           | （イタリア）piano        |                          |
+| ヒアリング                       | hearing                  | 听力                     |
+| ピース                           | peace                    |                          |
+| ヒーター                         | heater                   |                          |
+| ピーナッツ                       | peanuts                  |                          |
+| ビーフ                           | beef                     |                          |
+| ピーマン                         | （フランス）piment       | 青椒                     |
+| ヒーリング                       | healing                  |                          |
+| ビール                           | （オランダ）bier         | 啤酒                     |
+| ヒーロー                         | hero                     |                          |
+| ヒエラルヒー                     | （ドイツ）Hierarchie     | 等级制度                 |
+| ピエロ                           | （仏）pierrot            | 小丑                     |
+| ビギナー                         | beginner                 |                          |
+| ビキニ                           | bikini                   |                          |
+| ピクニック                       | picnic                   |                          |
+| ピザ                             | pizza                    |                          |
+| ビザ                             | visa                     |                          |
+|                                  |                          |                          |
+| ビジネス                         | business                 |                          |
+| ビジョン                         | vision                   | 理想；幻想               |
+| ヒステリー                       | （ドイツ）Hysterie       | 歇斯底里                 |
+| ヒストグラム                     | histogram                | 直方图                   |
+| ヒストリー                       | history                  |                          |
+| ピストル                         | pistol                   |                          |
+| ピストン                         | piston                   |                          |
+| ビタミン                         | （ドイツ）Vitamin        |                          |
+| ビッグ                           | big                      |                          |
+| ピックアップ                     | pick up                  | 捡起；选拔               |
+| ビッグバン                       | big bang                 |                          |
+| ピッチャー                       | pitcher                  | 投手                     |
+| ヒット                           | hit                      | 安打；大成功，畅销       |
+| ヒップ                           | hip                      |                          |
+| ビデオ                           | video                    | 录影机；录影带           |
+| ビニール                         | vinyl                    | 塑料                     |
+| ビニールハウス                   | vinyle house             | 温室                     |
+| ビネガー                         | vineager                 | 洋醋                     |
+| ビヘイビア                       | behavior                 |                          |
+| ピュア                           | pure                     |                          |
+| ヒューズ                         | fuse                     | 保险丝                   |
+| ヒューマニズム                   | humanism                 | 人道主义                 |
+| ヒューマン                       | human                    |                          |
+| ビュッフェ                       | （仏）buffet             | 自助餐                   |
+| ビラ                             |                          | 传单                     |
+| ピリオド                         | period                   | 句号；终止               |
+| ビル（ディング）                 | building                 |                          |
+| ビルトイン                       | built-in                 |                          |
+| ヒレ                             | （フランス）filet        | 菲力                     |
+| ヒロイン                         | heroin                   |                          |
+| ピン                             | pin                      | 别针                     |
+| ピンク                           | pink                     |                          |
+| ヒンズー                         | Hindu                    | 印度人；印度教徒         |
+| ヒンズー教                       |                          | 印度教                   |
+| ピンチ                           | pinch                    | 危机                     |
+| ヒント                           | hint                     |                          |
+| ファーストフード                 | fast food                |                          |
+| ファイア                         | fire                     |                          |
+| ファイト                         | fight                    |                          |
+| ファイナル                       | final                    |                          |
+| ファイバー                       | fiber                    |                          |
+| ファイブ                         | five                     |                          |
+| ファイル                         | file                     |                          |
+| ファストフード                   | fast food                |                          |
+| ファスナー                       | fastener                 |                          |
+| ファッション                     | fashion                  |                          |
+| ファミ（リー）レス（トラン）     | family restaurant        |                          |
+| ファン                           | fan                      |                          |
+|                                  |                          |                          |
+| ファンシー                       | fancy                    |                          |
+| ファンタジー                     | fantasy                  |                          |
+| ファンデーション                 | foundation               |                          |
+| ファンド                         | fund                     |                          |
+| フィードバック                   | feed back                |                          |
+| フィールド                       | field                    |                          |
+| フィギュア                       | figure                   | 手办                     |
+| フィクション                     | fiction                  | 小说；虚构               |
+| フィジカル                       | physical                 |                          |
+| フィッシング                     | fishing                  |                          |
+| フィットネス                     | fitness                  | 健身                     |
+| フィナーレ                       | （イタリア）finale       | 最后一幕；终曲           |
+| フィルター                       | filter                   |                          |
+| フィルム                         | film                     |                          |
+| ブーイング                       | booing                   | 嘘声                     |
+| フーズ                           | foods                    |                          |
+| ブース                           | booth                    | 摊位                     |
+| ブースター                       | booster                  | 推进器                   |
+| ブーツ                           | boots                    | 靴子                     |
+| フード                           | food                     |                          |
+| フードファイター                 | food + fighter           | 大胃王                   |
+| ブーム                           | boom                     | 风潮，流行               |
+| プール                           | pool                     |                          |
+| フェア                           | fair                     | 公平，公正；展览会       |
+| フェイシャル                     | facial                   |                          |
+| フェーク                         | fake （=偽物）           | 虚假，假货               |
+| フェース                         | face                     |                          |
+| フェースパック                   | face + pack              | 面膜                     |
+| フェードアウト                   | fade out                 |                          |
+| フェスティバル                   | festival                 |                          |
+| フェティシズム・フェチ           | fetishism                | 恋物癖                   |
+| フェミニスト                     | feminist                 | 女权主义者               |
+| フェミニズム                     | feminism                 | 女权主义                 |
+| フェラ（チオ）                   | fellatio                 |                          |
+| フェリー                         | ferry                    | 渡轮                     |
+| フェローシップ                   | fellowship               |                          |
+| フェロモン                       | pheromone                | 信息素                   |
+| フェンス                         | fence                    |                          |
+| フォー                           | four                     |                          |
+| フォーク                         | fork                     |                          |
+| フォーマット                     | format                   |                          |
+| フォーマル                       | formal                   |                          |
+| フォーム                         | form                     |                          |
+| フォーメーション                 | formation                |                          |
+| フォーラム                       | forum                    | 论坛                     |
+| フォトグラフ                     | photograph               |                          |
+| フォロー                         | follow                   |                          |
+| フォローアップ                   | follow-up                | 追踪调查                 |
+| フォロワー                       | follower                 | 粉丝                     |
+| フォント                         | font                     | 字体                     |
+| ブザー                           | buzzer                   | 蜂鸣器                   |
+| ブス                             |                          | 丑八怪                   |
+| ブックマーク                     | bookmark                 |                          |
+| プッシュ                         | push                     |                          |
+| ブティック                       | （フランス）boutique     | 服装店，时装店           |
+| フライ                           | fry                      |                          |
+| プライオリティー                 | priority                 |                          |
+| プライド                         | pride                    |                          |
+| プライバシー                     | privacy                  |                          |
+| フライパン                       | fry pan                  |                          |
+| プライベート                     | private                  |                          |
+|                                  |                          |                          |
+| ブラウザ                         | browser                  |                          |
+| ブラウス                         | blouse                   | 女罩衫                   |
+| ブラウニー                       | (chocolate) brownie      | 布朗尼                   |
+| プラグ                           | plug                     |                          |
+| プラザ                           | （スペイン）plaza        |                          |
+| ブラシ                           | brush                    |                          |
+| ブラジャー                       | brassier                 | 胸罩                     |
+| プラス                           | plus                     |                          |
+| プラスチック                     | plastic                  |                          |
+| プラズマ                         | plasma                   |                          |
+| プラチナ                         | platinum                 | 白金                     |
+| フラッグ                         | flag                     |                          |
+| ブラック                         | black                    |                          |
+| ブラックホール                   | black hole               |                          |
+| フラッシュ                       | flash                    |                          |
+| フラッシュメモリ                 | flash memory             | 闪存                     |
+| フラット                         | flat                     |                          |
+| プラットフォーム・プラットホーム | platform                 |                          |
+| プラトン                         | Platōn                   | 柏拉图                   |
+| プラトニックラブ                 | Platonic love            |                          |
+| フラワー                         | flower                   |                          |
+| プラン                           | plan                     |                          |
+| ブランコ                         |                          | 秋千                     |
+| フランス                         | France                   |                          |
+| プランター                       | planter                  | 花盆                     |
+| ブランチ                         | brunch                   |                          |
+| フランチャイズ                   | franchise                | 专营权                   |
+| ブランデー                       | brandy                   | 白兰地                   |
+| ブランド                         | brand                    |                          |
+| フリー                           | free                     |                          |
+| フリーク                         | freak                    | 怪胎；狂热者             |
+| フリーター・フリーアルバイター   | free＋（ドイツ）Arbeiter | 自由职业者               |
+| フリーマーケット                 | flea market              | 跳蚤市场                 |
+| フリーランサー                   | freelancer               | 自由职业者               |
+| ブリキ                           | （オランダ）blik         | 铁皮                     |
+| プリミティブ                     | primitive                |                          |
+| フリル                           | frill                    | 花边                     |
+| プリン                           | pudding                  | 布丁                     |
+| プリンス                         | prince                   |                          |
+| プリンセス                       | princess                 |                          |
+| プリント                         | print                    | 讲义                     |
+| フラッシュ                       | flash                    |                          |
+| フル                             | full                     |                          |
+| ブルー                           | blue                     |                          |
+| ブルース                         | blues                    | 布鲁斯                   |
+| フルーツ                         | fruits                   |                          |
+| ブルーベリー                     | blueberry                |                          |
+| ブルマー                         | bloomer                  | 女式运动短裤             |
+| プレー                           | play                     |                          |
+| プレーオフ                       | play off                 |                          |
+| ブレーカー                       | breaker                  | 电闸                     |
+|                                  |                          |                          |
+| ブレーキ                         | brake                    | 刹车                     |
+| ブレークスルー                   | breakthrough             |                          |
+| フレーズ                         | phrase                   |                          |
+| プレート                         | plate                    |                          |
+| フレーム                         | frame                    |                          |
+| フレームワーク                   | framework                |                          |
+| プレーヤー                       | player                   |                          |
+| プレーン                         | plane                    |                          |
+| フレキシブル                     | flexible                 |                          |
+| フレキシビリティー               | flexiblity               |                          |
+| プレス                           | press                    | 熨；印刷，出版           |
+| プレゼン（テーション）           | presentation             |                          |
+| プレゼント                       | present                  | 礼物                     |
+| フレックスタイム                 | flextime                 | 弹性时间                 |
+| プレッシャー                     | pressure                 | 压力                     |
+| プレミア（ム）                   | premium                  | 加价；赠品               |
+| フレンチ                         | French                   |                          |
+|                                  |                          |                          |
+| フロア                           | floor                    |                          |
+| ブローカー                       | broker                   | 经纪人，中间人           |
+| ブローチ                         | broach                   | 胸针                     |
+| ブログ                           | blog                     |                          |
+| プログラム                       | program                  |                          |
+| プロジェクター                   | projector                | 投影仪                   |
+| プロジェクト                     | project                  |                          |
+| プロセス                         | process                  |                          |
+| ブロック                         | block                    | 块，水泥/混凝土块；街区  |
+| プロテイン                       | protein                  |                          |
+| プロテクター                     | protector                | 护具                     |
+| プロテクト                       | protect                  |                          |
+| プロデュース                     | produce                  | （影视）制作             |
+| プロデューサー                   | producer                 |                          |
+| プロトコル                       | protocol                 |                          |
+| プロトタイプ                     | prototype                |                          |
+| プロフィール                     | profile                  |                          |
+| プロ（フェッショナル）           | professional             |                          |
+| プロポーズ                       | propose                  | 求婚                     |
+| プロモーション                   | promotion                |                          |
+| プロローグ                       | prologue                 |                          |
+| フロンティア                     | frontier                 | 边境；前沿               |
+| フロント                         | front                    | 前台                     |
+| ペア                             | pair                     |                          |
+| ベーカリー                       | bakery                   |                          |
+| ページ                           | page                     |                          |
+| ベーシック                       | basic                    |                          |
+| ペース                           | pace                     |                          |
+| ベース                           | base                     |                          |
+| ペーパー                         | paper                    | 论文                     |
+| ベクトル                         | vector                   |                          |
+| ベスト                           | best                     |                          |
+| ベストセラー                     | best-seller              | 畅销书                   |
+| ペダル                           | pedal                    | 踏板                     |
+| ペット                           | pet                      |                          |
+| ベット                           | bet                      |                          |
+| ベッド                           | bed                      |                          |
+| ヘッドセット                     | headset                  | 头戴式耳机               |
+| ヘッドフォン                     | headphone                | 头戴式耳机               |
+| ペットボトル                     | PET bottle               | 塑料瓶                   |
+| ベテラン                         | veteran                  |                          |
+| ペナルティー                     | penalty                  |                          |
+| ヘビー                           | heavy                    |                          |
+| ベビー                           | baby                     |                          |
+| ベランダ                         | veranda                  | 阳台                     |
+| ヘリ（コプター）                 | helicopter               |                          |
+| ヘリウム                         | helium                   |                          |
+| ベル                             | bell                     |                          |
+| ヘルシー                         | healthy                  |                          |
+| ヘルス                           | health                   | 健康；大保健             |
+| ペルソナ                         | （ラテン）persona        | 假面；人格               |
+| ベルト                           | belt                     |                          |
+| ヘルプ                           | help                     |                          |
+| ヘロイン                         | heroin                   | 海洛因                   |
+| ペン                             | pen                      |                          |
+| ペンキ                           | （オランダ）pek          | 油漆                     |
+| ベンチ                           | bench                    |                          |
+| ベンチャー                       | venture                  | 风险，风险企业           |
+| ペンネ                           | （イタリア）penne        | 直通粉                   |
+| ペンネーム                       | pen name                 |                          |
+| ボイコット                       | boycott                  |                          |
+| ホイッスル                       | whistle                  | 口哨                     |
+| ホイップ                         | whip                     |                          |
+|                                  |                          |                          |
+| ポイント                         | point                    |                          |
+| ボウリング・ボーリング           | bowling                  | 保龄球                   |
+| ボーイ                           | boy                      |                          |
+| ボーカル                         | vocal                    | 主唱                     |
+| ボーカロイド                     | vocaloid                 |                          |
+| ポーク                           | pork                     |                          |
+| ホース                           | （オランダ）hoos         | 软管                     |
+| ポーズ                           | pose                     |                          |
+| ボーダーライン                   | border line              | 边境线                   |
+| ポータブル                       | portable                 |                          |
+| ボート                           | boat                     |                          |
+| ポートフォリオ                   | portfolio                | 投资组合                 |
+| ボーナス                         | bonus                    |                          |
+| ホープ                           | hope                     |                          |
+| ホーム                           | home                     |                          |
+| ホームページ                     | homepage                 |                          |
+| ホームレス                       | homeless                 | 流浪汉                   |
+| ホール                           | hall, hole               |                          |
+| ボール                           | ball                     |                          |
+| ボールペン                       | ball pen                 | 圆珠笔                   |
+| ポケット                         | pocket                   |                          |
+| ポシェット                       | （フランス）pochette     | 挎包                     |
+| ポジション                       | position                 |                          |
+| ボス                             | boss                     | 老板；头目               |
+| ポスター                         | poster                   |                          |
+| ホステス                         | hostess                  | 陪酒女，女公关           |
+| ホスト                           | host                     | 牛郎，男公关             |
+| ポスト                           | post                     |                          |
+|                                  |                          |                          |
+|                                  |                          |                          |
+| ボタン                           | （ポルトガル）botão      | 纽扣                     |
+| ホチキス                         | （商标）Hotchikiss       | 订书机                   |
+| ボックス                         | box                      |                          |
+| ポット                           | pot                      | 水壶                     |
+| ホットスポット                   | hot spot                 | 热点                     |
+| ポップ                           | pop                      |                          |
+| ボディーソープ                   | body soap                |                          |
+| ポテト                           | potato                   |                          |
+| ホテル                           | hotel                    |                          |
+| ポテンシャル                     | potential                |                          |
+| ボトル                           | bottle                   | 水瓶                     |
+| ボトルネック                     | bottleneck               | 瓶颈                     |
+| ポピュラー                       | popular                  |                          |
+| ホモ（セクシュアル）             | homo(sexual)             | 男同性恋                 |
+| ボランティア                     | volunteer                |                          |
+| ポリシー                         | policy                   |                          |
+| ボリューム                       | volume                   |                          |
+| ボルテージ                       | voltage                  | 热情                     |
+| ボルト                           | volt                     | 伏特                     |
+| ポルノ（グラフィー）             | pornography              | 色情作品                 |
+| ホルモン                         | hormone                  | 荷尔蒙                   |
+| ポロシャツ                       | polo shirt               | polo衫                   |
+| ホワイト                         | white                    |                          |
+| ホワイトハウス                   | white house              |                          |
+| ホワイトボード                   | white board              |                          |
+| ボンド                           | bond                     | 胶水                     |
+| ポンド                           | pound                    | 磅；英镑                 |
+| ポンプ                           | （オランダ）pomp         | 泵                       |
 
 
 ## マ
@@ -1921,22 +1922,23 @@
 
 ## ワ
 
-|                |              |          |
-| -------------- | ------------ | -------- |
-| ワークショップ | workshop     |          |
-| ワースト       | worst        |          |
-| ワールド       | world        |          |
-| ワールドカップ | world cup    |          |
-| ワイシャツ     | white shirt  |          |
-| ワイヤ         | wire         | 电线；弦 |
-| ワイルド       | wild         |          |
-| ワイン         | wine         |          |
-| ワクチン       | vaccine      |          |
-| ワックス       | wax          |          |
-| ワット         | watt         | 瓦特     |
-| ワッフル       | waffle       | 华夫饼   |
-| ワン           | one          |          |
-| ワンダーランド | wonderland   | 游乐园   |
-| ワンチャン     | one + chance | 一线生机 |
-| ワンピース     | one piece    | 连衣裙   |
+|                |              |                                |
+| -------------- | ------------ | ------------------------------ |
+| ワークショップ | workshop     |                                |
+| ワースト       | worst        |                                |
+| ワールド       | world        |                                |
+| ワールドカップ | world cup    |                                |
+| ワイシャツ     | white shirt  |                                |
+| ワイヤ         | wire         | 电线；弦                       |
+| ワイルド       | wild         |                                |
+| ワイン         | wine         |                                |
+| ワクチン       | vaccine      |                                |
+| ワゴン         |              | 手推车，流动服务车；移动置物架 |
+| ワックス       | wax          |                                |
+| ワット         | watt         | 瓦特                           |
+| ワッフル       | waffle       | 华夫饼                         |
+| ワン           | one          |                                |
+| ワンダーランド | wonderland   | 游乐园                         |
+| ワンチャン     | one + chance | 一线生机                       |
+| ワンピース     | one piece    | 连衣裙                         |
 
