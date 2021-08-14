@@ -311,6 +311,7 @@
 | カルキ                   | （オランダ）kalk             | 石灰                   |
 | カルシウム               | calcium                      |                        |
 | カルスト                 | （ドイツ）Karst              | 喀斯特                 |
+| カルタ                   | （ポルトガル）carta          | 花牌                   |
 | カルチャー               | culture                      | 文化                   |
 | カルテ                   | （ドイツ）Karte              | 病例                   |
 | カルテル                 | cartel                       | 卡特尔，垄断联盟       |
@@ -1662,7 +1663,7 @@
 | ミートソース               | meat sauce          | 肉酱                |
 | ミーハー                   |                     | 赶时髦（贬义）      |
 | ミサイル                   | missile             |                     |
-| ミシン                     | sewing (machine)      | 缝纫机              |
+| ミシン                     | sewing (machine)    | 缝纫机              |
 | ミス                       | miss                | 失误                |
 | ミス                       | Miss                | 小姐                |
 | ミスコン（テスト）         | Miss + contest      | 选美比赛            |
@@ -1759,166 +1760,167 @@
 
 ## ラ
 
-|             |                   |          |
-| ----------- | ----------------- | -------- |
-| ラード         | lard              |          |
-| ライス         | rice              |          |
-| ライセンス       | license           |          |
-| ライター        | lighter           |          |
-| ライト         | light/right       |          |
-| ライバル        | rival             |          |
-| ライフ         | life              |          |
-| ライブ         | live              | 直播；演唱会   |
-| ライフスタイル     | lifestyle         |          |
-| ライフライン      | lifeline          |          |
-| ライフル        | rifle             |          |
-| ライン         | line              |          |
-| ラウンジ        | lounge            | 休息室      |
-| ラウンド        | round             |          |
-|             |                   |          |
-| ラケット        | racket            |          |
-| ラザニア        | （イタリア）lasagna     | 千层面      |
-| ラジオ         | radio             |          |
-| ラスト         | last              |          |
-| ラスボス        | last boss         | 大boss    |
-| ラッキー        | lucky             |          |
-| ラック         | rack              | 置物架      |
-| ラッシュ        | rush              |          |
-| ラッシュアワー     | rush hour         |          |
-| ラップ         | rap               | 说唱       |
-| ラテン         | latin             |          |
-| ラフ          | rough             |          |
-| ラブ          | love              |          |
-| ラブホ（テル）     | love hotel        |          |
-| ラベル         | label             |          |
-| ランキング       | ranking           |          |
-| ランク         | rank              |          |
-| ランチ         | lunch             |          |
-| ランドセル       | （オランダ）randsel     | 小学生书包    |
-| ランニング       | running           |          |
-| ランプ         | （オランダ）lamp        |          |
-|             |                   |          |
-| リアクション      | reaction          |          |
-| リアル         | real              |          |
-| リアルタイム      | real time         |          |
-| リーガル        | leagal            |          |
-| リーク         | leak              |          |
-| リーグ         | league            |          |
-| リーズナブル      | reasonable        |          |
-| リーゼント（スタイル） | regent (style)    | 飞机头      |
-| リーダー        | leader            |          |
-| リーディング      | leading, reading  | 领导；阅读    |
-| リード         | lead              |          |
-| リーフレット      | leaflet           | 传单       |
-| リコール        | recall            |          |
-| リサーチ        | research          | 研究，考察    |
-| リスク         | risk              | 风险       |
-| リスト         | list, wrist       |          |
-| リストラ        | restructuring     | 裁员       |
-| リズム         | rhythm            |          |
-| リセット        | reset             |          |
-| リゾート        | resort            | 度假地      |
-| リタイア        | retire            | 弃权；退休，引退 |
-| リッチ         | rich              |          |
-| リットル        | （フランス）litre       |          |
-| リハーサル       | rehearsal         | 彩排       |
-| リバティー       | liberty           |          |
-| リハビリ（テーション） | rehabilitation    | 复健       |
-| リビング（ルーム）   | living room       |          |
-| リフォーム       | reform            | 改衣服；室内翻修 |
-| リフト         | lift              |          |
-| リフレッシュ      | refresh           |          |
-| リベート        | rebate            | 回扣       |
-| リベンジ        | revenge           | 复仇       |
-| リポート        | report            |        |
-| リボン         | ribbon            |          |
-| リミット        | limit             |          |
-| リモート        | remote            |          |
-| リモコン        | remote control    |          |
-| リユース        | reuse             |          |
-| リュック（サック）   | （ドイツ）Rucksack     | 旅行背包     |
-| リラックス       | relax             |          |
-| リリース        | release           |          |
-| リンク         | link              |          |
-| リング         | ring              |          |
-| リンス         | rinse             | 护发素      |
-| ルーズ         | loose             | 松懈；散漫    |
-| ルーチン        | routine           |          |
-| ルーム         | room              |          |
-| ルール         | rule              |          |
-| ルックス        | looks             | 颜值       |
-| ルネサンス       | （フランス）Renaissance | 文艺复兴     |
-| ルンバ         |                   | 扫地机器人    |
-| レア          | rare              |          |
-| レイアウト       | layout            |          |
-| レイプ         | rape              |          |
-| レインコート      | rain coat         |          |
-| レインボー       | rainbow           |          |
-| レーザー        | laser             |          |
-| レース         | race, lace        | 赛跑；蕾丝    |
-| レーダー        | radar             |          |
-| レート         | rate              |          |
-| レール         | rail              |          |
-| レギュラー       | regular           |          |
-| レギュレーション    | regulation        |          |
-| レクチャー       | lecture           |          |
-| レクリエーション    | recreation        |          |
-| レコーダー       | recorder          |          |
-| レコード        | record            | 唱片；记录    |
-| レジ          | register          | 收银台      |
-| レシート        | receipt           | 收据       |
-| レジスタンス      | （フランス）résistance  | 抵抗，反抗    |
-| レシピ         | recipe            |          |
-| レジャー        | leisure           |          |
-| レスキュー       | rescue            |          |
-| レズ（ビアン）     | les(bian)         | 女同性恋     |
-| レスポンス       | response          |          |
-| レストラン       | restaurant        |          |
-| レター         | letter            |          |
-| レッスン        | lesson            |          |
-| レッド         | red               |          |
-| レディー        | lady              |          |
-| レトロ         | retrospective     | 复古风      |
-| レバー         | lever             | 肝        |
-| レベル         | level             |          |
-| レポート        | report            |          |
-| レース         | lace              |          |
-| レンジ         | range             | 微波炉      |
-| レンズ         | （オランダ）lens        |          |
-| レンタカー       | rent a car        |          |
-| レンタル        | rental            |          |
-| ロイヤル        | royal             |          |
-| ロー          | low, law          |          |
-| ローカル        | local             |          |
-| ロース         |                   | 里脊       |
-| ロースト        | roast             |          |
-| ローストビーフ     | roast beef        | 烤（牛）肉    |
-| ローテーション     | rotation          | 轮换       |
-| ロード         | road              |          |
-| ロードショー      | road show         |          |
-| ロープ         | rope              |          |
-| ロープウエイ      | ropeway           | 缆车       |
-| ローマ         | Roma              |          |
-| ロール         | roll              | 卷        |
-| ロールケーキ      | roll cake         | 瑞士卷      |
-| ログ          | log               |          |
-| ログイン・ログアウト  | log in, log out   |          |
-| ロケ（ーション）    | location          | 外景拍摄     |
-| ロケット        | rocket            |          |
-| ロゴ          | logo              |          |
-| ロジック        | logic             |          |
-| ロスタイム       | loss＋time         | 浪费时间     |
-| ロッカー        | locker            | 防盗置物柜    |
-| ロック         | lock              |          |
-| ロビー         | lobby             |          |
-| ロフト         | loft              |          |
-| ロボット        | robot             |          |
-| ロマンチスト      | romantist         |          |
-| ロマンチック      | romantic          |          |
-| ロリコン        |                   | 萝莉控      |
-| ロング         | long              |          |
-| ロングスカート     | long skirt        |          |
-| ロングヘア       | long hair         |          |
+|                        |                         |                  |
+| ---------------------- | ----------------------- | ---------------- |
+| ラード                 | lard                    |                  |
+| ライス                 | rice                    |                  |
+| ライセンス             | license                 |                  |
+| ライター               | lighter                 |                  |
+| ライト                 | light/right             |                  |
+| ライバル               | rival                   |                  |
+| ライフ                 | life                    |                  |
+| ライブ                 | live                    | 直播；演唱会     |
+| ライフスタイル         | lifestyle               |                  |
+| ライフライン           | lifeline                |                  |
+| ライフル               | rifle                   |                  |
+| ライン                 | line                    |                  |
+| ラウンジ               | lounge                  | 休息室           |
+| ラウンド               | round                   |                  |
+|                        |                         |                  |
+| ラケット               | racket                  |                  |
+| ラザニア               | （イタリア）lasagna     | 千层面           |
+| ラジオ                 | radio                   |                  |
+| ラスト                 | last                    |                  |
+| ラスボス               | last boss               | 大boss           |
+| ラッキー               | lucky                   |                  |
+| ラック                 | rack                    | 置物架           |
+| ラッシュ               | rush                    |                  |
+| ラッシュアワー         | rush hour               |                  |
+| ラップ                 | rap                     | 说唱             |
+| ラテン                 | latin                   |                  |
+| ラフ                   | rough                   |                  |
+| ラブ                   | love                    |                  |
+| ラブホ（テル）         | love hotel              |                  |
+| ラベル                 | label                   |                  |
+| ランキング             | ranking                 |                  |
+| ランク                 | rank                    |                  |
+| ランチ                 | lunch                   |                  |
+| ランドセル             | （オランダ）randsel     | 小学生书包       |
+| ランニング             | running                 |                  |
+| ランプ                 | （オランダ）lamp        |                  |
+|                        |                         |                  |
+| リアクション           | reaction                |                  |
+| リアル                 | real                    |                  |
+| リアルタイム           | real time               |                  |
+| リーガル               | leagal                  |                  |
+| リーク                 | leak                    |                  |
+| リーグ                 | league                  |                  |
+| リーズナブル           | reasonable              |                  |
+| リーゼント（スタイル） | regent (style)          | 飞机头           |
+| リーダー               | leader                  |                  |
+| リーディング           | leading, reading        | 领导；阅读       |
+| リード                 | lead                    |                  |
+| リーフレット           | leaflet                 | 传单             |
+| リコール               | recall                  |                  |
+| リサーチ               | research                | 研究，考察       |
+| リスク                 | risk                    | 风险             |
+| リスト                 | list, wrist             |                  |
+| リストラ               | restructuring           | 裁员             |
+| リズム                 | rhythm                  |                  |
+| リセット               | reset                   |                  |
+| リゾート               | resort                  | 度假地           |
+| リタイア               | retire                  | 弃权；退休，引退 |
+| リッチ                 | rich                    |                  |
+| リットル               | （フランス）litre       |                  |
+| リハーサル             | rehearsal               | 彩排             |
+| リバティー             | liberty                 |                  |
+| リハビリ（テーション） | rehabilitation          | 复健             |
+| リビング（ルーム）     | living room             |                  |
+| リフォーム             | reform                  | 改衣服；室内翻修 |
+| リフト                 | lift                    |                  |
+| リフレッシュ           | refresh                 |                  |
+| リベート               | rebate                  | 回扣             |
+| リベンジ               | revenge                 | 复仇             |
+| リポート               | report                  |                  |
+| リボン                 | ribbon                  |                  |
+| リミット               | limit                   |                  |
+| リモート               | remote                  |                  |
+| リモコン               | remote control          |                  |
+| リユース               | reuse                   |                  |
+| リュック（サック）     | （ドイツ）Rucksack      | 旅行背包         |
+| リラックス             | relax                   |                  |
+| リリース               | release                 |                  |
+| リンク                 | link                    |                  |
+| リング                 | ring                    |                  |
+| リンス                 | rinse                   | 护发素           |
+| ルーズ                 | loose                   | 松懈；散漫       |
+| ルーチン               | routine                 |                  |
+| ルーム                 | room                    |                  |
+| ルール                 | rule                    |                  |
+| ルックス               | looks                   | 颜值             |
+| ルネサンス             | （フランス）Renaissance | 文艺复兴         |
+| ルンバ                 |                         | 扫地机器人       |
+| レア                   | rare                    |                  |
+| レイアウト             | layout                  |                  |
+| レイプ                 | rape                    |                  |
+| レインコート           | rain coat               |                  |
+| レインボー             | rainbow                 |                  |
+| レーザー               | laser                   |                  |
+| レース                 | race, lace              | 赛跑；蕾丝       |
+| レーダー               | radar                   |                  |
+| レート                 | rate                    |                  |
+| レール                 | rail                    |                  |
+| レギュラー             | regular                 |                  |
+| レギュレーション       | regulation              |                  |
+| レクチャー             | lecture                 |                  |
+| レクリエーション       | recreation              |                  |
+| レコーダー             | recorder                |                  |
+| レコード               | record                  | 唱片；记录       |
+| レジ                   | register                | 收银台           |
+| レシート               | receipt                 | 收据             |
+| レジスタンス           | （フランス）résistance  | 抵抗，反抗       |
+| レシピ                 | recipe                  |                  |
+| レジャー               | leisure                 |                  |
+| レスキュー             | rescue                  |                  |
+| レズ（ビアン）         | les(bian)               | 女同性恋         |
+| レスポンス             | response                |                  |
+| レストラン             | restaurant              |                  |
+| レター                 | letter                  |                  |
+| レッスン               | lesson                  |                  |
+| レッド                 | red                     |                  |
+| レディー               | lady                    |                  |
+| レトロ                 | retrospective           | 复古风           |
+| レバー                 | lever                   | 肝               |
+| レベル                 | level                   |                  |
+| レポート               | report                  |                  |
+| レース                 | lace                    |                  |
+| レーズン               | raisin                  | 葡萄干           |
+| レンジ                 | range                   | 微波炉           |
+| レンズ                 | （オランダ）lens        |                  |
+| レンタカー             | rent a car              |                  |
+| レンタル               | rental                  |                  |
+| ロイヤル               | royal                   |                  |
+| ロー                   | low, law                |                  |
+| ローカル               | local                   |                  |
+| ロース                 |                         | 里脊             |
+| ロースト               | roast                   |                  |
+| ローストビーフ         | roast beef              | 烤（牛）肉       |
+| ローテーション         | rotation                | 轮换             |
+| ロード                 | road                    |                  |
+| ロードショー           | road show               |                  |
+| ロープ                 | rope                    |                  |
+| ロープウエイ           | ropeway                 | 缆车             |
+| ローマ                 | Roma                    |                  |
+| ロール                 | roll                    | 卷               |
+| ロールケーキ           | roll cake               | 瑞士卷           |
+| ログ                   | log                     |                  |
+| ログイン・ログアウト   | log in, log out         |                  |
+| ロケ（ーション）       | location                | 外景拍摄         |
+| ロケット               | rocket                  |                  |
+| ロゴ                   | logo                    |                  |
+| ロジック               | logic                   |                  |
+| ロスタイム             | loss＋time              | 浪费时间         |
+| ロッカー               | locker                  | 防盗置物柜       |
+| ロック                 | lock                    |                  |
+| ロビー                 | lobby                   |                  |
+| ロフト                 | loft                    |                  |
+| ロボット               | robot                   |                  |
+| ロマンチスト           | romantist               |                  |
+| ロマンチック           | romantic                |                  |
+| ロリコン               |                         | 萝莉控           |
+| ロング                 | long                    |                  |
+| ロングスカート         | long skirt              |                  |
+| ロングヘア             | long hair               |                  |
 
 ## ワ
 
