@@ -1,5 +1,7 @@
 [toc]
 
+# カタカナ語彙
+
 ## ア
 
 |                                |                                           |                |
@@ -496,6 +498,7 @@
 | コモン                   | common                       |                        |
 | コラボ（レーション）     | collaboration                |                        |
 | コラム                   | column                       |                        |
+| ゴリラ                   | gorilla                      | 大猩猩                 |
 | ゴルフ                   | golf                         |                        |
 | コレクション             | collection                   |                        |
 | コレステロール           | cholesterol                  | 胆固醇                 |
@@ -727,7 +730,7 @@
 | スタミナ                       | stamina                | 体力，精力                         |
 | スタンダード                   | standard               |                                    |
 | スタンド                       | stand                  |                                    |
-| スタンプ                       | stamp                  |                                    |
+| スタンプ                       | stamp                  | 表情包；邮戳                       |
 |                                |                        |                                    |
 | スチーム                       | steam                  |                                    |
 |                                |                        |                                    |
@@ -945,6 +948,7 @@
 | チョイス                     | choice               |                      |
 | チョーク                     | chalk                |                      |
 | チョコ（レート）             | chocolate            | 巧克力               |
+| チンパンジー                 | chimpanzee           | 黑猩猩               |
 | チンピラ                     |                      | 小混混               |
 | ツアー                       | tour                 |                      |
 | ツー                         | two                  |                      |
@@ -954,6 +958,7 @@
 | ディーラー                   | dealer               |                      |
 | ティシュ（ペーパー）         | tissue paper         |                      |
 | ディスカウント               | discount             |                      |
+| ディス                       | diss                 |                      |
 | ディスク                     | disc                 |                      |
 | ディスプレイ                 | display              |                      |
 | ディナー                     | dinner               |                      |
@@ -1443,6 +1448,7 @@
 | フリーマーケット                 | flea market              | 跳蚤市场                 |
 | フリーランサー                   | freelancer               | 自由职业者               |
 | ブリキ                           | （オランダ）blik         | 铁皮                     |
+| プリクラ                         |                          | 大头贴                     |
 | プリミティブ                     | primitive                |                          |
 | フリル                           | frill                    | 花边                     |
 | プリン                           | pudding                  | 布丁                     |
