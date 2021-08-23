@@ -20,6 +20,8 @@
 | alcoholic  | a.    | 含酒精的                     |
 | ally       | n.    | 盟友；盟军                   |
 | along      | prep. | 沿着                         |
+| alongside  | prep. | 和…一起                      |
+| analogous  | a.    | 类似                         |
 | another    | pron. | 另一个                       |
 | approve    | v.    | 赞成，同意；批准，通过，认可 |
 | approval   | n.    | 赞成，同意；批准，通过，认可 |
@@ -166,10 +168,8 @@
 | east        | n.    | 东                     |
 |             | a.    | 东                     |
 |             | ad.   | 向东                   |
-| exact       | a.    | 准确的，确切的，精确的 |
-| expeirence  | n.    | 经验                   |
-| expeirenced | a.    | 有经验的，熟练         |
 | education   | n.    | 教育                   |
+| effect      | n.    | 效果，影响，作用       |
 | embassy     | n.    | 大使馆                 |
 | enough      | a.    | 足够，足够的           |
 | equal       | a.    | 相等                   |
@@ -178,6 +178,9 @@
 | euro        | n.    | 欧元                   |
 | evaluate    | v.    | 评估，评价             |
 | evolve      | v.    | 进化；升级             |
+| exact       | a.    | 准确的，确切的，精确的 |
+| expeirence  | n.    | 经验                   |
+| expeirenced | a.    | 有经验的，熟练         |
 | exit        | n.    | 出口                   |
 |             | v.    | 退出                   |
 | explode     | v.    | 爆炸                   |
@@ -586,37 +589,39 @@
 
 # T
 
-|           |      |                                      |
-| --------- | ---- | ------------------------------------ |
-| target    | n.   | 目标                                 |
-| task      | n.   | 任务                                 |
-| team      | n.   | 队伍                                 |
-| temple    | n.   | 寺                                   |
-| temporary | a.   | 临时                                 |
-| terminal  | n.   | 终端；航站楼                         |
-| terror    | n.   | 惊恐，恐惧；可怕的事情；（政治）恐怖 |
-| terrorist | n.   | 恐怖分子                             |
-| thank     | v.   | 感谢                                 |
-| theory    | n.   | 理论                                 |
-| thing     | n.   | 事；物                               |
-| thousand  | num. | 千                                   |
-| three     | num. | 三                                   |
-| Thursday  | n.   | 星期四                               |
-| timber    | n.   | 木材                                 |
-| time      | n.   | 时间；次；节奏                       |
-|           | v.   | 计时                                 |
-| tip       | v.   | 给小费，打赏                         |
-| toilet    | n.   | 卫生间                               |
-| tree      | n.   | 树                                   |
-| troop     | n.   | 部队                                 |
-| tune      | v.   | 调音；调频；调整                     |
-| tuner     | n.   | 调音器                               |
-| Tuesday   | n.   | 星期二                               |
-| tutorial  | n.   | 教程                                 |
-| two       | num. | 二                                   |
-| type      | n.   | 类型                                 |
-| typhoon   | n.   | 台风                                 |
-|           |      |                                      |
+|           |      |                                        |
+| --------- | ---- | -------------------------------------- |
+| target    | n.   | 目标                                   |
+| task      | n.   | 任务                                   |
+| team      | n.   | 队伍                                   |
+| temple    | n.   | 寺                                     |
+| temporary | a.   | 临时                                   |
+| terminal  | n.   | 终端；航站楼                           |
+| terror    | n.   | 惊恐，恐惧；可怕的事情；（政治）恐怖   |
+| terrorist | n.   | 恐怖分子                               |
+| thank     | v.   | 感谢                                   |
+| theory    | n.   | 理论                                   |
+| thing     | n.   | 事；物                                 |
+| thousand  | num. | 千                                     |
+| three     | num. | 三                                     |
+| Thursday  | n.   | 星期四                                 |
+| timber    | n.   | 木材                                   |
+| time      | n.   | 时间；次；节奏                         |
+|           | v.   | 计时                                   |
+| tip       | v.   | 给小费，打赏                           |
+| toilet    | n.   | 卫生间                                 |
+| tree      | n.   | 树                                     |
+| troop     | n.   | 部队                                   |
+| tune      | v.   | 调音；调频；调整                       |
+| tuner     | n.   | 调音器                                 |
+| Tuesday   | n.   | 星期二                                 |
+| tutorial  | n.   | 教程                                   |
+| two       | num. | 二                                     |
+| type      | n.   | 类型                                   |
+| typical   | a.   | 典型                                   |
+| typically | ad.  | 通常；特有，总喜欢；不出所料，一如既往 |
+| typhoon   | n.   | 台风                                   |
+|           |      |                                        |
 
 # U
 
@@ -655,6 +660,7 @@
 |            |       |                       |
 | ---------- | ----- | --------------------- |
 | warn       | v.    | 警告                  |
+| way        | n.    | 方法，方式；路        |
 | weapon     | n.    | 武器                  |
 | Wednesday  | n.    | 星期三                |
 | week       | n.    | 星期                  |
