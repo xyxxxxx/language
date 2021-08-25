@@ -79,6 +79,7 @@
 | author         | n.    | 作者                           |
 | avatar         | n.    | 头像                           |
 | avenue         | n.    | 大道                           |
+| avoid          | v.    | 避免                           |
 |                |       |                                |
 
 # B
@@ -224,6 +225,8 @@
 | command      | n.  | 命令                                                                         |
 | command line |     | 命令行                                                                       |
 | community    | n.  | 社区                                                                         |
+| compile      | v.  | 编译                                                                         |
+| compiler     | n.  | 编译器                                                                       |
 | complete     | a.  | 完全，彻底；全部，完整；完成                                                 |
 |              | v.  | 完成，结束；填写                                                             |
 | compute      | v.  | 计算                                                                         |
@@ -238,6 +241,7 @@
 | confident    | a.  | 自信                                                                         |
 | conplain     | v.  | 抱怨；投诉                                                                   |
 | consider     | v.  | 考虑；认为是                                                                 |
+| contiguous   | a.  | 相邻                                                                         |
 | control      | v.  | 控制                                                                         |
 | cooperate    | v.  | 合作，配合                                                                   |
 | cooperation  | n.  | 公司                                                                         |
@@ -271,79 +275,84 @@
 
 # D
 
-|             |     |                                                                          |
-| ----------- | --- | ------------------------------------------------------------------------ |
-| dad         | n.  | 爸爸                                                                     |
-| dam         | n.  | 坝                                                                       |
-| damage      | n.  | 伤害                                                                     |
-| dance       | v.  | 跳舞                                                                     |
-| danger      | n.  | 危险                                                                     |
-| dangerous   | a.  | 危险的                                                                   |
-| dark        | a.  | 黑暗                                                                     |
-| date        | n.  | 日期                                                                     |
-| daughter    | n.  | 女儿                                                                     |
-| day         | n.  | 天                                                                       |
-| dear        | a.  | 亲爱的；亲密，心爱                                                       |
-| death       | n.  | 死亡                                                                     |
-| declare     | v.  | 声明                                                                     |
-| declaration | n.  | 声明                                                                     |
-| deer        | n.  | 鹿                                                                       |
-| defend      | v.  | 防御；防守；辩解                                                         |
-| define      | v.  | 定义                                                                     |
-| dehydrate   | v.  | 使脱水；（身体）脱水                                                     |
-| delta       | n.  | Δδ（希腊字母）                                                           |
-| demand      | v.  | 要求                                                                     |
-|             | n.  | 要求                                                                     |
-| democracy   | n.  | 民主，民主制度；民主国家；民主，民主权利                                 |
-| demon       | n.  | 恶魔                                                                     |
-| demonstrate | v.  | 演示                                                                     |
-| dental      | a.  | 牙齿，牙科                                                               |
-| dentist     | n.  | 牙医                                                                     |
-| desk        | n.  | 书桌                                                                     |
-| desktop     | n.  | 桌面                                                                     |
-| despair     | n.  | 绝望                                                                     |
-| desperate   | a.  | 绝望，孤注一掷，铤而走险；不顾一切，拼命；非常想要，极度渴望；严重，危急 |
-| desperately | ad. | 非常，极为；急于想要                                                     |
-| dessert     | n.  | 甜点                                                                     |
-| destination | n.  | 目的地                                                                   |
-| destiny     | n.  | 命运                                                                     |
-| destroy     | v.  | 摧毁，毁灭                                                               |
-| detach      | v.  | 拆卸；脱落；摆脱；派遣                                                   |
-| detail      | n.  | 细节，详情                                                               |
-| dial        | n.  | 仪表盘，刻度盘                                                           |
-|             | v.  | 拨号                                                                     |
-| diamond     | n.  | 钻石；方片                                                               |
-| dictionary  | n.  | 字典，词典                                                               |
-| die         | v.  | 死，死亡                                                                 |
-| difference  | n.  | 差别，区别                                                               |
-| dinosaur    | n.  | 恐龙                                                                     |
-| direct      | a.  | 直接                                                                     |
-| director    | n.  | 导演                                                                     |
-| disgusting  | a.  | 恶心                                                                     |
-| distance    | n.  | 距离                                                                     |
-| distinctive | a.  | 特别的，有特色，与众不同                                                 |
-| district    | n.  | 区，区域                                                                 |
-| doctor      | n.  | 医生；博士                                                               |
-| dog         | n.  | 狗                                                                       |
-| dollar      | n.  | 美元                                                                     |
-| dolphin     | n.  | 海豚                                                                     |
-| donate      | v.  | 捐赠                                                                     |
-| donation    | n.  | 捐款                                                                     |
-| donkey      | n.  | 驴                                                                       |
-| door        | n.  | 门                                                                       |
-| dove        | n.  | 鸽子                                                                     |
-| download    | v.  | 下载                                                                     |
-| dragon      | n.  | 龙                                                                       |
-| dragonfly   | n.  | 蜻蜓                                                                     |
-| draw        | v.  | 画                                                                       |
-|             | n.  | 平局                                                                     |
-| drink       | v.  | 喝                                                                       |
-| drone       | n.  | 工蜂；无人机                                                             |
-| drop        | v.  | 掉                                                                       |
-| drug        | n.  | 药物；毒品                                                               |
-| duck        | n.  | 鸭子                                                                     |
-| duplicate   | v.  | 复制                                                                     |
-|             |     |                                                                          |
+|                 |     |                                                                          |
+| --------------- | --- | ------------------------------------------------------------------------ |
+| dad             | n.  | 爸爸                                                                     |
+| dam             | n.  | 坝                                                                       |
+| damage          | n.  | 伤害                                                                     |
+| dance           | v.  | 跳舞                                                                     |
+| danger          | n.  | 危险                                                                     |
+| dangerous       | a.  | 危险的                                                                   |
+| dark            | a.  | 黑暗                                                                     |
+| date            | n.  | 日期                                                                     |
+| daughter        | n.  | 女儿                                                                     |
+| day             | n.  | 天                                                                       |
+| dear            | a.  | 亲爱的；亲密，心爱                                                       |
+| death           | n.  | 死亡                                                                     |
+| declare         | v.  | 声明                                                                     |
+| declaration     | n.  | 声明                                                                     |
+| deer            | n.  | 鹿                                                                       |
+| defend          | v.  | 防御；防守；辩解                                                         |
+| define          | v.  | 定义                                                                     |
+| dehydrate       | v.  | 使脱水；（身体）脱水                                                     |
+| delta           | n.  | Δδ（希腊字母）                                                           |
+| demand          | v.  | 要求                                                                     |
+|                 | n.  | 要求                                                                     |
+| democracy       | n.  | 民主，民主制度；民主国家；民主，民主权利                                 |
+| demon           | n.  | 恶魔                                                                     |
+| demonstrate     | v.  | 演示                                                                     |
+| dental          | a.  | 牙齿，牙科                                                               |
+| dentist         | n.  | 牙医                                                                     |
+| desk            | n.  | 书桌                                                                     |
+| desktop         | n.  | 桌面                                                                     |
+| despair         | n.  | 绝望                                                                     |
+| desperate       | a.  | 绝望，孤注一掷，铤而走险；不顾一切，拼命；非常想要，极度渴望；严重，危急 |
+| desperately     | ad. | 非常，极为；急于想要                                                     |
+| dessert         | n.  | 甜点                                                                     |
+| destination     | n.  | 目的地                                                                   |
+| destiny         | n.  | 命运                                                                     |
+| destroy         | v.  | 摧毁，毁灭                                                               |
+| detach          | v.  | 拆卸；脱落；摆脱；派遣                                                   |
+| detail          | n.  | 细节，详情                                                               |
+| diagonal        | n.  | 对角线                                                                   |
+|                 | a.  | 对角                                                                   |
+| dial            | n.  | 仪表盘，刻度盘                                                           |
+|                 | v.  | 拨号                                                                     |
+| diamond         | n.  | 钻石；方片                                                               |
+| dictionary      | n.  | 字典，词典                                                               |
+| die             | v.  | 死，死亡                                                                 |
+| difference      | n.  | 差别，区别                                                               |
+| differentiable  | a.  | 可微                                                                     |
+| differentiate   | v.  | 微分                                                                     |
+| differentiation | n.  | 微分                                                                     |
+| dinosaur        | n.  | 恐龙                                                                     |
+| direct          | a.  | 直接                                                                     |
+| director        | n.  | 导演                                                                     |
+| disgusting      | a.  | 恶心                                                                     |
+| distance        | n.  | 距离                                                                     |
+| distinctive     | a.  | 特别的，有特色，与众不同                                                 |
+| district        | n.  | 区，区域                                                                 |
+| doctor          | n.  | 医生；博士                                                               |
+| dog             | n.  | 狗                                                                       |
+| dollar          | n.  | 美元                                                                     |
+| dolphin         | n.  | 海豚                                                                     |
+| donate          | v.  | 捐赠                                                                     |
+| donation        | n.  | 捐款                                                                     |
+| donkey          | n.  | 驴                                                                       |
+| door            | n.  | 门                                                                       |
+| dove            | n.  | 鸽子                                                                     |
+| download        | v.  | 下载                                                                     |
+| dragon          | n.  | 龙                                                                       |
+| dragonfly       | n.  | 蜻蜓                                                                     |
+| draw            | v.  | 画                                                                       |
+|                 | n.  | 平局                                                                     |
+| drink           | v.  | 喝                                                                       |
+| drone           | n.  | 工蜂；无人机                                                             |
+| drop            | v.  | 掉                                                                       |
+| drug            | n.  | 药物；毒品                                                               |
+| duck            | n.  | 鸭子                                                                     |
+| duplicate       | v.  | 复制                                                                     |
+|                 |     |                                                                          |
 
 # E
 
@@ -398,6 +407,7 @@
 | experiment                  | n.    | 实验                             |
 | exit                        | n.    | 出口                             |
 |                             | v.    | 退出                             |
+| explicit                    | a.    | 显式                             |
 | explode                     | v.    | 爆炸                             |
 | explosion                   | n.    | 爆炸                             |
 | export                      | v.    | （贸易）出口；导出               |
@@ -448,6 +458,8 @@
 | five        | num.  | 五                                                                   |
 | flag        | n.    | 旗                                                                   |
 | flamingo    | n.    | 火烈鸟                                                               |
+| flat        | a.    | 平                                                                   |
+| flatten     | v.    | 展开                                                                 |
 | flexible    | a.    | 灵活                                                                 |
 | flexibility | n.    | 灵活性                                                               |
 | flip        | v.    | 翻转                                                                 |
@@ -599,6 +611,8 @@
 | infer          | v.  | 推断                                           |
 | infinite       | a.  | 极大，无比的；无限                             |
 | information    | n.  | 信息                                           |
+| input          | n.  | 输入                                           |
+|                | v.  | 输入                                           |
 | integrate      | v.  | 集成                                           |
 | integrated     | a.  | 集成                                           |
 | intelligence   | n.  | 智能                                           |
@@ -607,10 +621,12 @@
 | interface      | n.  | 界面；接口                                     |
 | international  | a.  | 国际                                           |
 | internet       | n.  | 互联网                                         |
+| interpret      | v.  | 解释                                           |
 | interview      | v.  | 面试；采访；面谈                               |
 |                | n.  | 面试；采访；面谈                               |
 | intrinsic      | a.  | 内在的                                         |
 | inventory      | n.  | 物品栏                                         |
+| inverse        | n.  | （矩阵的）逆；倒数                             |
 | investigate    | v.  | 调查                                           |
 | investigation  | n.  | 调查                                           |
 | ion            | n.  | 离子                                           |
@@ -745,6 +761,7 @@
 | medical    | a.    | 医疗             |
 | meet       | v.    | 遇见             |
 | meeting    | n.    | 会议             |
+| memory     | n.    | 记忆；内存       |
 | mental     | a.    | 精神的           |
 | menu       | n.    | 菜单             |
 | mere       | a.    | 仅，单纯的       |
@@ -853,6 +870,7 @@
 | online        | a.        | 在线                 |
 |               | ad.       | 在线                 |
 | opaque        | a.        | 不透明               |
+| operation     | n.        | 操作；运算           |
 | opportunity   | n.        | 机会                 |
 | optics        | n.        | 光学                 |
 | organ         | n.        | 器官                 |
@@ -863,6 +881,8 @@
 | otter         | n.        | 水獭                 |
 | out           | ad. perp. | 出去；在…外面        |
 | out of        |           | 出于                 |
+| output        | n.        | 输出                 |
+|               | v.        | 输出                 |
 | overlap       | v.        | 部分重叠，交叠       |
 |               | n.        | 重叠部分             |
 | overview      | n.        | 总览                 |
@@ -1090,6 +1110,7 @@
 
 |            |               |                                                        |
 | ---------- | ------------- | ------------------------------------------------------ |
+| same       | a.            | 相同                                                   |
 | sand       | n.            | 沙                                                     |
 | satellite  | n.            | 卫星                                                   |
 | satisfy    | v.            | 满足                                                   |
@@ -1148,6 +1169,7 @@
 | single     | a.            | 单                                                     |
 | sit        | v.            | 坐                                                     |
 | six        | num.          | 六                                                     |
+| siice      | n.            | 切片                                                   |
 | sixty      | num.          | 六十                                                   |
 | slow       | a.            | 慢                                                     |
 | skeleton   | n.            | 骨骼，骨架；（建筑）框架；提纲，梗概                   |
@@ -1339,6 +1361,7 @@
 | vice       | n.    | 罪恶                         |
 | victory    | n.    | 胜利                         |
 | video      | n.    | 视频                         |
+| view       | n.    | 视图                         |
 | village    | n.    | 乡村，村庄                   |
 | violation  | n.    | 违反                         |
 | violin     | n.    | 小提琴                       |
