@@ -155,6 +155,7 @@
 | ウエディング                   | wedding                                   |                |
 | ウェブ                         | web                                       |                |
 | ウェブサイト                   | website                                   |                |
+| ウォーキング                   | walking                                   |                |
 | ウォーター                     | water                                     |                |
 | ウォーミングアップ             | warming up                                |                |
 | ウォッカ                       | （ロシア）vodka                           |                |
@@ -819,6 +820,7 @@
 | セク（シャル）ハラ（スメント） | sexual harassment      | 性骚扰                             |
 | セクション                     | section                |                                    |
 | セクター                       | sector                 | 部门；扇形                         |
+| セクハラ                       | sexual + harassment    | 性骚扰                             |
 | セックス                       | sex                    |                                    |
 | セット                         | set                    |                                    |
 | ゼネコン                       | general + contractor   | 承包商                             |
@@ -913,6 +915,7 @@
 | タワー                       | tower                |                      |
 | タン                         |                      | 牛舌                 |
 | タンク                       | tank                 |                      |
+| タンクトップ                 | tank top             | 背心                 |
 | ダンス                       | dance                |                      |
 |                              |                      |                      |
 | タンバリン                   | tambourine           | 铃鼓                 |
@@ -935,6 +938,7 @@
 | チャート                     | chart                |                      |
 | チャーハン                   | 炒饭                 |                      |
 | チャイム                     | chime                | 门铃                 |
+| チャイルドシート             | child + seat         | 儿童安全座椅         |
 | チャット                     | chat                 |                      |
 | チャレンジ                   | challenge            |                      |
 | チャレンジャー               | challenger           |                      |
@@ -1127,6 +1131,7 @@
 | ノート               | note              |                                                      |
 | ノーベル賞           | Nobel prize       |                                                      |
 | ノーマル             | normal            |                                                      |
+| ノギス               | （ドイツ）Nonius  | 游标卡尺                                             |
 | ノズル               | nozzle            | 喷嘴                                                 |
 | ノック               | knock             |                                                      |
 | ノミネート           | nominate          | 提名                                                 |
@@ -1194,6 +1199,7 @@
 | バイブレーション                 | vibration                |                          |
 | バイプレーヤー                   |                          | 配角                     |
 | パイロット                       | pilot                    |                          |
+| パイロン                         |                          | 路障                     |
 | ハウス                           | house                    |                          |
 | パウダー                         | powder                   | 粉末；粉底               |
 | ハウツー                         | how-to                   |                          |
@@ -1265,6 +1271,7 @@
 | バロメーター                     | barometer                | 气压计；指标             |
 | パワー                           | power                    |                          |
 | パワフル                         | powerful                 |                          |
+| パワハラ                         | power + harassment       | 利用职权骚扰             |
 | パン                             | （ポルトガル）pão        | 面包                     |
 | バン                             | van                      | 面包车                   |
 | ハンカチ                         | handkerchief             |                          |
@@ -1448,7 +1455,7 @@
 | フリーマーケット                 | flea market              | 跳蚤市场                 |
 | フリーランサー                   | freelancer               | 自由职业者               |
 | ブリキ                           | （オランダ）blik         | 铁皮                     |
-| プリクラ                         |                          | 大头贴                     |
+| プリクラ                         |                          | 大头贴                   |
 | プリミティブ                     | primitive                |                          |
 | フリル                           | frill                    | 花边                     |
 | プリン                           | pudding                  | 布丁                     |
@@ -1553,6 +1560,7 @@
 | ボーイ                           | boy                      |                          |
 | ボーカル                         | vocal                    | 主唱                     |
 | ボーカロイド                     | vocaloid                 |                          |
+| ボーガン                         | bow gun                  | 弩枪                     |
 | ポーク                           | pork                     |                          |
 | ホース                           | （オランダ）hoos         | 软管                     |
 | ポーズ                           | pose                     |                          |
@@ -1735,6 +1743,7 @@
 | モノクロ（ーム）           | monochrome          | 黑白                |
 | モノレール                 | monorail            |                     |
 | モバイル                   | mobile              |                     |
+| モラハラ                   | moral + harassment  | 精神虐待            |
 | モラル                     | moral               |                     |
 | モンスター                 | monster             |                     |
 
@@ -1949,4 +1958,3 @@
 | ワンダーランド | wonderland   | 游乐园                         |
 | ワンチャン     | one + chance | 一线生机                       |
 | ワンピース     | one piece    | 连衣裙                         |
-
