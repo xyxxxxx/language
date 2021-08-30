@@ -88,6 +88,7 @@
 | ant            | n.    | 蚂蚁                                                                       |
 | ape            | n.    | 类人猿                                                                     |
 | apple          | n.    | 苹果                                                                       |
+| application    | n.    | 应用                                                                       |
 | apprehend      | v.    | 逮捕                                                                       |
 | approach       | v.    | （空间或时间上）靠近，接近；接洽，谈；（数量、质量上）接近；处理           |
 |                | n.    | 方式，方法，手段；靠近，接近，来临；接洽，谈；道路，通路，路径；接近的事物 |
@@ -353,6 +354,10 @@
 | catfish              | n.  | 鲇鱼                                                                                                                     |
 | catholic             | a.  | 天主教；广泛                                                                                                             |
 | cattle               | n.  | 牛                                                                                                                       |
+| caution              | n.  | 小心，谨慎；警告，告诫                                                                                                   |
+|                      | v.  | 警告，告诫，提醒                                                                                                         |
+| cautious             | a.  | 小心，谨慎                                                                                                               |
+| cautiously           | ad. | 小心，谨慎                                                                                                               |
 | caveat               | n.  | 警告，告诫                                                                                                               |
 | ceiling              | n.  | 天花板                                                                                                                   |
 | certain              | a.  | 确定，肯定；确定，确信，肯定；某，某些；一个叫…的人；一定（程度），有点                                                  |
@@ -1189,6 +1194,7 @@
 | infer          | v.    | 推断                                                                                 |
 | infinite       | a.    | 极大，无比的；无限                                                                   |
 | information    | n.    | 信息                                                                                 |
+| infrastructure | n.    | 基础设施，基础建设                                                                   |
 | ingredient     | n.    | （烹饪）食材，成分；（成功的）因素，要素                                             |
 | ink            | n.    | 墨水                                                                                 |
 | innocence      | n.    | 清白，无辜，无罪；天真，纯真，单纯                                                   |
@@ -1401,6 +1407,8 @@
 | magnet               | n.    | 磁铁                                                                                                |
 | magnetic             | a.    | 磁；磁性                                                                                            |
 | mahjong              | n.    | 麻将                                                                                                |
+| mail                 | n.    | 邮件                                                                                                |
+| email                | n.    | 电子邮件                                                                                            |
 | main                 | a.    | 主                                                                                                  |
 | maintain             | v.    | 维护                                                                                                |
 | maintenance          | n.    | 维护                                                                                                |
@@ -1898,6 +1906,7 @@
 | programming             | n.     | 编程                                                                                                         |
 | progress                | n.     | 进步；进展                                                                                                   |
 | project                 | n.     | 项目                                                                                                         |
+| projector               | n.     | 投影仪                                                                                                       |
 | property                | n.     | 财产，财物；不动产，房地产；房屋，地产；属性，性质，特性                                                     |
 | protect                 | v.     | 保护                                                                                                         |
 | protein                 | n.     | 蛋白质                                                                                                       |
