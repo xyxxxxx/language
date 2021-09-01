@@ -1376,7 +1376,11 @@
 | inoperable      | a.    | 不能做手术                                                                           |
 | input           | n.    | 输入                                                                                 |
 |                 | v.    | 输入                                                                                 |
+| insanity        | n.    | 精神失常，精神错乱；愚蠢的行为，荒唐的行为                                           |
 | insect          | n.    | 昆虫                                                                                 |
+| insecure        | a.    | 不安全，不牢靠，没有保障；缺乏信心，没有把握                                         |
+| insecurity      | n.    | 不安全，不安全感，没有保障                                                           |
+| insensitive     | a.    | 不顾他人感受，漠不关心；                                                           |
 | insert          | v.    | 插入                                                                                 |
 | insertion       | n.    | 插入                                                                                 |
 | instead         | ad.   | 代替，而，却                                                                         |
@@ -2393,8 +2397,12 @@
 | salute                   | v.            | 敬礼；致敬，致意                                                                                                |
 |                          | n.            | 敬礼；致敬，致意；礼炮                                                                                          |
 | same                     | a.            | 相同                                                                                                            |
+| sanction                 | n.            | 制裁；（正式）许可，批准；处罚                                                                                  |
+|                          | v.            | （正式）许可，批准；制裁                                                                                        |
 | sand                     | n.            | 沙                                                                                                              |
 | sandstorm                | n.            | 沙暴                                                                                                            |
+| sandwich                 | n.            | 三明治                                                                                                          |
+| sanity                   | n.            | 头脑清醒，神志正常；明智，理智，审慎                                                                            |
 | satellite                | n.            | 卫星                                                                                                            |
 | satisfy                  | v.            | 满足                                                                                                            |
 | Saturday                 | n.            | 星期六                                                                                                          |
@@ -2607,7 +2615,9 @@
 | space                    | n.            | 空间；太空                                                                                                      |
 | spacious                 | a.            | 宽敞                                                                                                            |
 | spam                     | n.            | 垃圾邮件                                                                                                        |
+| spec                     | n.            | 规格，规范                                                                                                      |
 | special                  | a.            | 特别                                                                                                            |
+| specification            | n.            | 规格，规范                                                                                                      |
 | specify                  | v.            | 指定                                                                                                            |
 | specific                 | a.            | 具体                                                                                                            |
 | spear                    | n.            | 矛                                                                                                              |
