@@ -1484,26 +1484,49 @@
 
 # K
 
-|              |     |          |
-| ------------ | --- | -------- |
-| kangaroo     | n.  | 袋鼠     |
-| karate       | n.  | 空手道   |
-| kart         | n.  | 卡丁车   |
-| keep         | v.  | 保持     |
-| key          | n.  | 键；钥匙 |
-|              | a.  | 关键     |
-| kid          | n.  | 孩子     |
-| kill         | v.  | 杀       |
-| kindergarten | n.  | 幼儿园   |
-| king         | n.  | 国王     |
-| kingdom      | n.  | 王国     |
-| kitchen      | n.  | 厨房     |
-| knife        | n.  | 刀       |
-| knight       | n.  | 骑士     |
-| knee         | n.  | 膝盖     |
-| know         | v.  | 知道     |
-| known        | a.  | 已知     |
-|              |     |          |
+|                |     |                                                                                                                                |
+| -------------- | --- | ------------------------------------------------------------------------------------------------------------------------------ |
+| kangaroo       | n.  | 袋鼠                                                                                                                           |
+| karate         | n.  | 空手道                                                                                                                         |
+| kart           | n.  | 卡丁车                                                                                                                         |
+| keep           | v.  | 保持                                                                                                                           |
+| key            | n.  | 键；钥匙                                                                                                                       |
+|                | a.  | 关键                                                                                                                           |
+| kid            | n.  | 孩子                                                                                                                           |
+| kill           | v.  | 杀                                                                                                                             |
+| killing        | n.  | 故意杀人，谋杀                                                                                                                 |
+|                | a.  | 使人筋疲力竭                                                                                                                   |
+| kilo-          |     | 千                                                                                                                             |
+| kilobyte (KB)  | n.  | 千字节                                                                                                                         |
+| kilogram (kg)  | n.  | 千克，公斤                                                                                                                     |
+| kilometer (km) | n.  | 千米，公里                                                                                                                     |
+| kilowatt (kW)  | n.  | 千瓦                                                                                                                           |
+| kind           | n.  |                                                                                                                                |
+| kindergarten   | n.  | 幼儿园                                                                                                                         |
+| kindle         | v.  | 点燃，开始燃烧；激发，引起（兴趣、感情等）                                                                                     |
+| kindly         | ad. | 亲切，友好，宽容，仁慈                                                                                                         |
+| kinetic        | a.  | 动，运动                                                                                                                       |
+| king           | n.  | 国王                                                                                                                           |
+| kingdom        | n.  | 王国                                                                                                                           |
+| kiss           | v.  | 亲吻，接吻，吻；轻抚                                                                                                           |
+|                | n.  | 亲，吻                                                                                                                         |
+| kitchen        | n.  | 厨房                                                                                                                           |
+| kite           | n.  | 风筝                                                                                                                           |
+| kitty          | n.  | 小猫                                                                                                                           |
+| kiwi           | n.  | 猕猴桃，奇异果；几维鸟                                                                                                         |
+| kiwi fruit     | n.  | 猕猴桃，奇异果                                                                                                                 |
+| knee           | n.  | 膝盖                                                                                                                           |
+| knife          | n.  | 刀                                                                                                                             |
+| knight         | n.  | 骑士                                                                                                                           |
+| knit           | v.  | 织，编织，针织；（使）紧密结合，维系；（断骨）愈合，接合                                                                       |
+|                | n.  | 针织衫                                                                                                                         |
+| knot           | n.  | （打的）结；发髻；（由紧张、害怕、愤怒、激动引起的胃、喉等的）痉挛，郁结，哽塞；节（船和飞行器的速度单位，相当于每小时一海里） |
+|                | v.  | 打结，扎紧；扎发髻；（因紧张、害怕、愤怒、激动而）痉挛，紧缩                                                                   |
+| know           | v.  | 知道                                                                                                                           |
+| known          | a.  | 已知                                                                                                                           |
+| koala          | n.  | 考拉，树袋熊                                                                                                                   |
+| kung fu        | n.  | （中国）功夫                                                                                                                   |
+|                |     |                                                                                                                                |
 
 # L
 
@@ -2199,7 +2222,10 @@
 | precise                 | a.     | 精确                                                                                                         |
 | precisely               | ad.    | 精确地                                                                                                       |
 | predator                | n.     | 捕食者                                                                                                       |
+| preface                 | n.     | （书的）前言，序言                                                                                           |
 | prefix                  | n.     | 前缀                                                                                                         |
+| prejudice               | n.     | 偏见                                                                                                         |
+|                         | v.     | 使…产生偏见；损害                                                                                            |
 | prepare                 | v.     | 准备                                                                                                         |
 | preparation             | n.     | 准备                                                                                                         |
 | prepend                 | v.     | 在开始位置添加                                                                                               |
