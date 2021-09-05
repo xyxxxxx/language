@@ -1166,6 +1166,7 @@
 | ハードディスク                   | harddisk                 |                          |
 | パートナー                       | partner                  |                          |
 | パートナーシップ                 | partnership              |                          |
+| ハードボイルド                   | hard-boiled              | 无情，冷酷，硬派         |
 | ハードル                         | hurdle                   |                          |
 | ハーフ                           | half                     |                          |
 | ハーブ                           | herb                     |                          |
@@ -1452,6 +1453,7 @@
 | フリー                           | free                     |                          |
 | フリーク                         | freak                    | 怪胎；狂热者             |
 | フリーター・フリーアルバイター   | free＋（ドイツ）Arbeiter | 自由职业者               |
+| ブリーフ                         | brief                    | 男用三角内裤             |
 | フリーマーケット                 | flea market              | 跳蚤市场                 |
 | フリーランサー                   | freelancer               | 自由职业者               |
 | ブリキ                           | （オランダ）blik         | 铁皮                     |
