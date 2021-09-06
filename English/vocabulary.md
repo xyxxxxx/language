@@ -130,7 +130,9 @@
 | apartment      | n.    | 公寓                                                                                                             |
 | ape            | n.    | 类人猿                                                                                                           |
 | apple          | n.    | 苹果                                                                                                             |
+| applicant      | n.    | 申请人                                                                                                           |
 | application    | n.    | 应用                                                                                                             |
+| apply          | v.    | 申请                                                                                                             |
 | appoint        | v.    |                                                                                                                  |
 | appointment    | n.    | 预约，预定，约定；任命，委任                                                                                     |
 | appreciate     | v.    | 欣赏，赏识，重视；感激，感谢，欢迎；意识到，认识到，了解，领会；增值，升值                                       |
@@ -949,6 +951,8 @@
 | disadvantage    | n.  | 劣势；缺点                                                                                                                       |
 | disarm          | v.  | 缴械                                                                                                                             |
 | disaster        | n.  | 灾难                                                                                                                             |
+| disclaim        | v.  |                                                                                                                                  |
+| disclaimer      | n.  | 免责声明；（法）弃权声明                                                                                                         |
 | discourage      | v.  | 不鼓励                                                                                                                           |
 | discover        | v.  | 发现                                                                                                                             |
 | discovery       | n.  | 发现                                                                                                                             |
@@ -1550,152 +1554,155 @@
 
 # I
 
-|                   |       |                                                                                            |
-| ----------------- | ----- | ------------------------------------------------------------------------------------------ |
-| ice               | n.    | 冰                                                                                         |
-| ice cream         | n.    | 冰激凌                                                                                     |
-| icon              | n.    | 图标；偶像                                                                                 |
-| icy               | a.    | 冰                                                                                         |
-| idea              | n.    | 主意，想法；（有）概念；意见，看法；目的，意图                                             |
-| ideal             | a.    | 理想                                                                                       |
-| identifier        | n.    | 标识符                                                                                     |
-| idiom             | n.    | 熟语，惯用语；（写作、音乐、艺术等的）典型风格                                             |
-| ignite            | v.    | 点燃                                                                                       |
-| ignition          | n.    | 点火，着火；点火装置                                                                       |
-| ignore            | v.    | 忽视，不予理会；无视，不予理睬                                                             |
-| ignorance         | n.    | 无知，愚昧，不了解                                                                         |
-| ignorant          | a.    | 无知，愚昧，不了解                                                                         |
-| ill               | a.    | （英）生病，不舒服；不良，不佳，不好；不吉利，不祥                                         |
-| illegal           | a.    | 不合法，非法，违法                                                                         |
-| illicit           | a.    | 非法，违法；不正当，违反公序良俗                                                           |
-| illusion          | n.    | 幻想，错觉                                                                                 |
-| illusory          | a.    | 虚幻，虚假                                                                                 |
-| illustrate        | v.    | 说明                                                                                       |
-| immaterial        | a.    | 不重要，无关紧要                                                                           |
-| immature          | a.    | 幼稚，不够成熟老练；未发育成熟                                                             |
-| immeasurable      | a.    | 不可估量                                                                                   |
-| immeasurably      | ad.   | 不可估量                                                                                   |
-| immediate         | a.    | 立即，立刻；目前，当下，迫切；接近，紧接；（关系或级别）最接近的，直接，直系；直接（作用） |
-| immediately       | ad.   | 立即，立刻，马上；（时间或空间上）接近，紧接；直接，紧密                                   |
-| immense           | a.    | 极大，巨大                                                                                 |
-| immensely         | ad.   | 非常，极其                                                                                 |
-| immensity         | n.    | 巨大，广大                                                                                 |
-| immerse           | v.    | 使浸没（于）；使深陷于，使沉浸在                                                           |
-| immersion         | n.    | 浸没，浸泡；沉浸，专心，潜心                                                               |
-| immersive         | a.    | 沉浸式                                                                                     |
-| immigrant         | n.    | 移民                                                                                       |
-| immitate          | v.    | 模仿，模拟；（滑稽地）模仿（人的言行举止）                                                 |
-| immitation        | n.    | 仿制品，赝品；模仿，效仿；（滑稽）模仿（人的言行举止）                                     |
-| immitator         | n.    | 模仿者；追随者                                                                             |
-| immobile          | a.    | 不动，静止；不能移动，不能活动                                                             |
-| immobility        | n.    | 不动，静止                                                                                 |
-| immoral           | a.    | （人及行为）不道德，邪恶；放荡，淫荡                                                       |
-| immorality        | n.    | （人及行为）不道德，邪恶；放荡，淫荡                                                       |
-| immorally         | ad.   | （人及行为）不道德，邪恶；放荡，淫荡                                                       |
-| immortal          | a.    | 不朽；流芳百世，永垂不朽                                                                   |
-|                   | n.    | 永垂不朽的人物；永生不灭的神                                                               |
-| immune            | a.    | 免疫；不受影响；免于，免除                                                                 |
-| immunity          | n.    | 免疫力；免于，豁免权                                                                       |
-| impeach           | v.    | 弹劾                                                                                       |
-| impeachment       | n.    | 弹劾                                                                                       |
-| implement         | v.    | 实现                                                                                       |
-| implementation    | n.    | 实现                                                                                       |
-| imply             | v.    | 暗示，意味着，有…的意思；表明                                                              |
-| import            | v.    | （贸易）进口；导入                                                                         |
-| improve           | v.    | 改进，改善                                                                                 |
-| improvement       | n.    | 改进，改善                                                                                 |
-| inbox             | n.    | 收件箱                                                                                     |
-| inch              | n.    | 英寸                                                                                       |
-| incident          | n.    | （发生的）事情，事件（尤指不寻常的或讨厌的）；严重事件，暴力事件；（军事）摩擦，冲突       |
-| incidental        | a.    | 附带，次生；伴随而来的，不可避免的                                                         |
-| incidentally      | ad.   | 顺便提一句；偶然，附带                                                                     |
-| include           | v.    | 包括，包含；包含，使…成为一部分                                                            |
-| including         | prep. | 包括…在内                                                                                  |
-| increase          | v.    | 增加，增长，增多，提高                                                                     |
-| increasingly      | ad.   | 越来越                                                                                     |
-| increment         | n.    | 增量；定期加薪                                                                             |
-| incubate          | v.    | 孵化；（生）培养（细胞、细菌等）；（医）潜伏                                               |
-| incubation        | n.    | 孵化；（生）（细胞、细菌等）繁殖；（医）潜伏期                                             |
-| incubator         | n.    | 孵化器                                                                                     |
-| incur             | v.    | 使，引起，招致；带来（成本），产生（费用）                                                 |
-| indicate          | v.    | 显示，表明；预示；暗示，透露；指示，示意；标示，标注，注明；（测量工具）显示               |
-| indirect          | a.    | 间接                                                                                       |
-| indispensable     | a.    | 不可或缺，必不可少                                                                         |
-| individual        | a.    | 单独，个别；个人，单人                                                                     |
-|                   | n.    | 个人，人；有个性的人                                                                       |
-| industrial        | a.    | 工业                                                                                       |
-| industry          | n.    | 工业；行业                                                                                 |
-| inevitable        | a.    | 不可避免，必然；惯常，例行                                                                 |
-| inevitability     | n.    | 必然，必然性                                                                               |
-| infection         | n.    | 感染                                                                                       |
-| infectious        | a.    | 传染的；有感染力                                                                           |
-| infer             | v.    | 推断                                                                                       |
-| infinite          | a.    | 极大，无比的；无限                                                                         |
-| information       | n.    | 信息                                                                                       |
-| infrastructure    | n.    | 基础设施，基础建设                                                                         |
-| ingredient        | n.    | （烹饪）食材，成分；（成功的）因素，要素                                                   |
-| inhuman           | a.    | 不人道，冷酷无情；非人的，恐怖的                                                           |
-| ink               | n.    | 墨水                                                                                       |
-| innocence         | n.    | 清白，无辜，无罪；天真，纯真，单纯                                                         |
-| innocent          | a.    | 清白，无辜，无罪；无辜（受害）；天真，纯真，单纯；无恶意，无冒犯之意                       |
-| inoperable        | a.    | 不能做手术                                                                                 |
-| input             | n.    | 输入                                                                                       |
-|                   | v.    | 输入                                                                                       |
-| inquire           | v.    | 询问，打听                                                                                 |
-| inquiry           | n.    | 调查；询问，打听；探索，探究                                                               |
-| insanity          | n.    | 精神失常，精神错乱；愚蠢的行为，荒唐的行为                                                 |
-| insect            | n.    | 昆虫                                                                                       |
-| insecure          | a.    | 不安全，不牢靠，没有保障；缺乏信心，没有把握                                               |
-| insecurity        | n.    | 不安全，不安全感，没有保障                                                                 |
-| insensitive       | a.    | 不顾他人感受，漠不关心；                                                                   |
-| insert            | v.    | 插入                                                                                       |
-| insertion         | n.    | 插入                                                                                       |
-| instead           | ad.   | 代替，而，却                                                                               |
-| institute         | n.    | （教育、专业等）机构                                                                       |
-|                   | v.    | 建立（规范），制订（规定、政策），实行（改革）                                             |
-| insurance         | n.    | 保险；保险业；保险金；保险措施                                                             |
-| integrate         | v.    | 集成                                                                                       |
-| integrated        | a.    | 集成                                                                                       |
-| intelligence      | n.    | 智能；智力                                                                                 |
-| intelligent       | a.    | 聪明，机智；有智力的；智能                                                                 |
-| intend            | v.    | 想要，意图要                                                                               |
-| interface         | n.    | 界面；接口                                                                                 |
-| international     | a.    | 国际                                                                                       |
-|                   | n.    | 外国人                                                                                     |
-| internationally   | ad.   | 国际                                                                                       |
-| internet          | n.    | 互联网                                                                                     |
-| interpret         | v.    | 解释                                                                                       |
-| interrelationship | n.    | 相互关系                                                                                   |
-| interrogate       | v.    | 讯问，审问，盘问；（在计算机或其它系统上）查询，询问                                       |
-| interrogative     | a.    | 疑问                                                                                       |
-| interrogatively   | ad.   | 疑问                                                                                       |
-| interview         | v.    | 面试；采访；面谈                                                                           |
-|                   | n.    | 面试；采访；面谈                                                                           |
-| intricate         | a.    | 复杂，错综复杂                                                                             |
-| intrinsic         | a.    | 内在的                                                                                     |
-| inventory         | n.    | 物品栏                                                                                     |
-| inverse           | n.    | （矩阵的）逆；倒数                                                                         |
-| invest            | v.    | 投资                                                                                       |
-| investigate       | v.    | 调查                                                                                       |
-| investigation     | n.    | 调查                                                                                       |
-| investment        | n.    | 投资                                                                                       |
-| invisible         | a.    | 看不见，隐形；（经）无形，看不见的                                                         |
-| invisibly         | ad.   | 看不见                                                                                     |
-| invitation        | n.    | （口头或书面的）邀请；请柬，请帖；怂恿，招致                                               |
-| invite            | v.    | 邀请；（正式）邀请，要求，欢迎；招致                                                       |
-| in vitro          | a.    | 体外                                                                                       |
-| in vivo           | a.    | 体内                                                                                       |
-| ion               | n.    | 离子                                                                                       |
-| ionic             | a.    | 离子                                                                                       |
-| iron              | n.    | 铁；熨斗                                                                                   |
-| ironic            | a.    | 讽刺；好笑                                                                                 |
-| irony             | n.    | 奇异好笑的情况，有讽刺意味的情况；反语                                                     |
-| item              | n.    | 项；道具                                                                                   |
-| iterate           | v.    | 迭代                                                                                       |
-| iteratable        | a.    | 可迭代                                                                                     |
-|                   | n.    | 可迭代对象                                                                                 |
-| iteration         | n.    | 迭代                                                                                       |
-|                   |       |                                                                                            |
+|                     |       |                                                                                            |
+| ------------------- | ----- | ------------------------------------------------------------------------------------------ |
+| ice                 | n.    | 冰                                                                                         |
+| ice cream           | n.    | 冰激凌                                                                                     |
+| icon                | n.    | 图标；偶像                                                                                 |
+| icy                 | a.    | 冰                                                                                         |
+| idea                | n.    | 主意，想法；（有）概念；意见，看法；目的，意图                                             |
+| ideal               | a.    | 理想                                                                                       |
+| identifier          | n.    | 标识符                                                                                     |
+| idiom               | n.    | 熟语，惯用语；（写作、音乐、艺术等的）典型风格                                             |
+| ignite              | v.    | 点燃                                                                                       |
+| ignition            | n.    | 点火，着火；点火装置                                                                       |
+| ignore              | v.    | 忽视，不予理会；无视，不予理睬                                                             |
+| ignorance           | n.    | 无知，愚昧，不了解                                                                         |
+| ignorant            | a.    | 无知，愚昧，不了解                                                                         |
+| ill                 | a.    | （英）生病，不舒服；不良，不佳，不好；不吉利，不祥                                         |
+| illegal             | a.    | 不合法，非法，违法                                                                         |
+| illicit             | a.    | 非法，违法；不正当，违反公序良俗                                                           |
+| illusion            | n.    | 幻想，错觉                                                                                 |
+| illusory            | a.    | 虚幻，虚假                                                                                 |
+| illustrate          | v.    | 说明                                                                                       |
+| immaterial          | a.    | 不重要，无关紧要                                                                           |
+| immature            | a.    | 幼稚，不够成熟老练；未发育成熟                                                             |
+| immeasurable        | a.    | 不可估量                                                                                   |
+| immeasurably        | ad.   | 不可估量                                                                                   |
+| immediate           | a.    | 立即，立刻；目前，当下，迫切；接近，紧接；（关系或级别）最接近的，直接，直系；直接（作用） |
+| immediately         | ad.   | 立即，立刻，马上；（时间或空间上）接近，紧接；直接，紧密                                   |
+| immense             | a.    | 极大，巨大                                                                                 |
+| immensely           | ad.   | 非常，极其                                                                                 |
+| immensity           | n.    | 巨大，广大                                                                                 |
+| immerse             | v.    | 使浸没（于）；使深陷于，使沉浸在                                                           |
+| immersion           | n.    | 浸没，浸泡；沉浸，专心，潜心                                                               |
+| immersive           | a.    | 沉浸式                                                                                     |
+| immigrant           | n.    | 移民                                                                                       |
+| immitate            | v.    | 模仿，模拟；（滑稽地）模仿（人的言行举止）                                                 |
+| immitation          | n.    | 仿制品，赝品；模仿，效仿；（滑稽）模仿（人的言行举止）                                     |
+| immitator           | n.    | 模仿者；追随者                                                                             |
+| immobile            | a.    | 不动，静止；不能移动，不能活动                                                             |
+| immobility          | n.    | 不动，静止                                                                                 |
+| immoral             | a.    | （人及行为）不道德，邪恶；放荡，淫荡                                                       |
+| immorality          | n.    | （人及行为）不道德，邪恶；放荡，淫荡                                                       |
+| immorally           | ad.   | （人及行为）不道德，邪恶；放荡，淫荡                                                       |
+| immortal            | a.    | 不朽；流芳百世，永垂不朽                                                                   |
+|                     | n.    | 永垂不朽的人物；永生不灭的神                                                               |
+| immune              | a.    | 免疫；不受影响；免于，免除                                                                 |
+| immunity            | n.    | 免疫力；免于，豁免权                                                                       |
+| impeach             | v.    | 弹劾                                                                                       |
+| impeachment         | n.    | 弹劾                                                                                       |
+| implement           | v.    | 实现                                                                                       |
+| implementation      | n.    | 实现                                                                                       |
+| imply               | v.    | 暗示，意味着，有…的意思；表明                                                              |
+| import              | v.    | （贸易）进口；导入                                                                         |
+| improve             | v.    | 改进，改善                                                                                 |
+| improvement         | n.    | 改进，改善                                                                                 |
+| inbox               | n.    | 收件箱                                                                                     |
+| inch                | n.    | 英寸                                                                                       |
+| incident            | n.    | （发生的）事情，事件（尤指不寻常的或讨厌的）；严重事件，暴力事件；（军事）摩擦，冲突       |
+| incidental          | a.    | 附带，次生；伴随而来的，不可避免的                                                         |
+| incidentally        | ad.   | 顺便提一句；偶然，附带                                                                     |
+| include             | v.    | 包括，包含；包含，使…成为一部分                                                            |
+| including           | prep. | 包括…在内                                                                                  |
+| Incorporated (Inc.) |       | （美）公司                                                                                 |
+| increase            | v.    | 增加，增长，增多，提高                                                                     |
+| increasingly        | ad.   | 越来越                                                                                     |
+| increment           | n.    | 增量；定期加薪                                                                             |
+| incubate            | v.    | 孵化；（生）培养（细胞、细菌等）；（医）潜伏                                               |
+| incubation          | n.    | 孵化；（生）（细胞、细菌等）繁殖；（医）潜伏期                                             |
+| incubator           | n.    | 孵化器                                                                                     |
+| incur               | v.    | 使，引起，招致；带来（成本），产生（费用）                                                 |
+| indicate            | v.    | 显示，表明；预示；暗示，透露；指示，示意；标示，标注，注明；（测量工具）显示               |
+| indirect            | a.    | 间接                                                                                       |
+| indispensable       | a.    | 不可或缺，必不可少                                                                         |
+| individual          | a.    | 单独，个别；个人，单人                                                                     |
+|                     | n.    | 个人，人；有个性的人                                                                       |
+| industrial          | a.    | 工业                                                                                       |
+| industry            | n.    | 工业；行业                                                                                 |
+| inevitable          | a.    | 不可避免，必然；惯常，例行                                                                 |
+| inevitability       | n.    | 必然，必然性                                                                               |
+| infection           | n.    | 感染                                                                                       |
+| infectious          | a.    | 传染的；有感染力                                                                           |
+| infer               | v.    | 推断                                                                                       |
+| infinite            | a.    | 极大，无比的；无限                                                                         |
+| information         | n.    | 信息                                                                                       |
+| infrastructure      | n.    | 基础设施，基础建设                                                                         |
+| ingredient          | n.    | （烹饪）食材，成分；（成功的）因素，要素                                                   |
+| inhuman             | a.    | 不人道，冷酷无情；非人的，恐怖的                                                           |
+| ink                 | n.    | 墨水                                                                                       |
+| innocence           | n.    | 清白，无辜，无罪；天真，纯真，单纯                                                         |
+| innocent            | a.    | 清白，无辜，无罪；无辜（受害）；天真，纯真，单纯；无恶意，无冒犯之意                       |
+| inoperable          | a.    | 不能做手术                                                                                 |
+| input               | n.    | 输入                                                                                       |
+|                     | v.    | 输入                                                                                       |
+| inquire             | v.    | 询问，打听                                                                                 |
+| inquiry             | n.    | 调查；询问，打听；探索，探究                                                               |
+| insanity            | n.    | 精神失常，精神错乱；愚蠢的行为，荒唐的行为                                                 |
+| insect              | n.    | 昆虫                                                                                       |
+| insecure            | a.    | 不安全，不牢靠，没有保障；缺乏信心，没有把握                                               |
+| insecurity          | n.    | 不安全，不安全感，没有保障                                                                 |
+| insensitive         | a.    | 不顾他人感受，漠不关心；                                                                   |
+| insert              | v.    | 插入                                                                                       |
+| insertion           | n.    | 插入                                                                                       |
+| instead             | ad.   | 代替，而，却                                                                               |
+| institute           | n.    | （教育、专业等）机构                                                                       |
+|                     | v.    | 建立（规范），制订（规定、政策），实行（改革）                                             |
+| insurance           | n.    | 保险；保险业；保险金；保险措施                                                             |
+| integrate           | v.    | 集成                                                                                       |
+| integrated          | a.    | 集成                                                                                       |
+| intelligence        | n.    | 智能；智力                                                                                 |
+| intelligent         | a.    | 聪明，机智；有智力的；智能                                                                 |
+| intend              | v.    | 想要，意图要                                                                               |
+| interface           | n.    | 界面；接口                                                                                 |
+| international       | a.    | 国际                                                                                       |
+|                     | n.    | 外国人                                                                                     |
+| internationally     | ad.   | 国际                                                                                       |
+| internet            | n.    | 互联网                                                                                     |
+| interpret           | v.    | 解释                                                                                       |
+| interrelationship   | n.    | 相互关系                                                                                   |
+| interrogate         | v.    | 讯问，审问，盘问；（在计算机或其它系统上）查询，询问                                       |
+| interrogative       | a.    | 疑问                                                                                       |
+| interrogatively     | ad.   | 疑问                                                                                       |
+| interview           | v.    | 面试；采访；面谈                                                                           |
+|                     | n.    | 面试；采访；面谈                                                                           |
+| intricate           | a.    | 复杂，错综复杂                                                                             |
+| intrinsic           | a.    | 内在的                                                                                     |
+| invent              | v.    | 发明                                                                                       |
+| inventor            | n.    | 发明人                                                                                     |
+| inventory           | n.    | 物品栏                                                                                     |
+| inverse             | n.    | （矩阵的）逆；倒数                                                                         |
+| invest              | v.    | 投资                                                                                       |
+| investigate         | v.    | 调查                                                                                       |
+| investigation       | n.    | 调查                                                                                       |
+| investment          | n.    | 投资                                                                                       |
+| invisible           | a.    | 看不见，隐形；（经）无形，看不见的                                                         |
+| invisibly           | ad.   | 看不见                                                                                     |
+| invitation          | n.    | （口头或书面的）邀请；请柬，请帖；怂恿，招致                                               |
+| invite              | v.    | 邀请；（正式）邀请，要求，欢迎；招致                                                       |
+| in vitro            | a.    | 体外                                                                                       |
+| in vivo             | a.    | 体内                                                                                       |
+| ion                 | n.    | 离子                                                                                       |
+| ionic               | a.    | 离子                                                                                       |
+| iron                | n.    | 铁；熨斗                                                                                   |
+| ironic              | a.    | 讽刺；好笑                                                                                 |
+| irony               | n.    | 奇异好笑的情况，有讽刺意味的情况；反语                                                     |
+| item                | n.    | 项；道具                                                                                   |
+| iterate             | v.    | 迭代                                                                                       |
+| iteratable          | a.    | 可迭代                                                                                     |
+|                     | n.    | 可迭代对象                                                                                 |
+| iteration           | n.    | 迭代                                                                                       |
+|                     |       |                                                                                            |
 
 # J
 
@@ -1812,6 +1819,8 @@
 | leap           | v.  | 跳，跳跃，跃过；迅速移动，突然做；骤增，飞涨，跃升                                                                       |
 |                | n.  | 跳，跳跃，跃过；迅速移动，突然做；骤增，飞涨，跃升                                                                       |
 | learn          | v.  | 学，学习                                                                                                                 |
+| lease          | n.  | （房屋、设备或土地的）租约，租契                                                                                         |
+|                | v.  | 租用，租借，出租（房屋、设备或土地）                                                                                     |
 | leave          | v.  | 离开                                                                                                                     |
 | left           | n.  | 左                                                                                                                       |
 |                | a.  | 左；剩下                                                                                                                 |
@@ -2177,6 +2186,7 @@
 | nerve        | n.       | 神经；神经质，神经紧张；勇气，斗志；脸，颜面                         |
 | nervous      | a.       | 紧张                                                                 |
 | net          | n.       | 网络；净                                                             |
+| neural       | a.       | 神经                                                                 |
 | neutral      | a.       | 中立；中性；素色，淡色                                               |
 | neutron      | n.       | 中子                                                                 |
 | new          | a.       | 新                                                                   |
@@ -2310,6 +2320,8 @@
 | overestimate   | v.        | 高估                                                                                                             |
 | overestimation | n.        | 高估                                                                                                             |
 | overexpose     | v.        | 过曝；过度曝光                                                                                                   |
+| overfit        | v.        | 过拟合                                                                                                           |
+| overfitting    | n.        | 过拟合                                                                                                           |
 | overflow       | v.        | 溢出，漫出，容纳不下；挤满了人，人满为患；延伸出界                                                               |
 |                | n.        | 容纳不下的人/物；（液体）溢出，漫出；（计）溢出，上溢                                                            |
 | overfeed       | v.        | 给…喂食太多                                                                                                      |
@@ -2623,6 +2635,10 @@
 | proven                  | a.     | 已被证实                                                                                                     |
 | provide                 | v.     | 提供，给予                                                                                                   |
 | provided                | conj.  | 假如，假定                                                                                                   |
+| provision               | n.     | 提供，供给，供应；（为将来做的）准备；（法律文件的）规定，条款                                               |
+|                         | v.     | 提供（所需物品，尤指食物）                                                                                   |
+| provisional             | a.     | 临时，暂时；暂定                                                                                             |
+| provisionally           | ad.    | 暂定                                                                                                         |
 | proxy                   | n.     | 代理，代表；代理人，代表                                                                                     |
 | psycho                  | n.     | 神经病                                                                                                       |
 | psychologist            | n.     | 心理学家                                                                                                     |
@@ -2630,6 +2646,7 @@
 | psi                     | n.     | ψ（希腊字母）                                                                                                |
 | public                  | a.     | 公共；大众的；公开                                                                                           |
 |                         | n.     | 大众                                                                                                         |
+| publication             | n.     | 出版，发行；出版物；发表，公布，刊登                                                                         |
 | publish                 | v.     | 出版，发行；（在报刊上）发表，刊登；（在互联网上）发表                                                       |
 | publisher               | n.     | 出版商，发行商                                                                                               |
 | pudding                 | n.     | 布丁                                                                                                         |
