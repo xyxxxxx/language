@@ -1010,6 +1010,7 @@
 | doctor          | n.  | 医生；博士                                                                                                                       |
 | document        | n.  | 文件；文档                                                                                                                       |
 | dog             | n.  | 狗                                                                                                                               |
+| doll            | n.  | 娃娃，玩偶                                                                                                                       |
 | dollar          | n.  | 美元                                                                                                                             |
 | dolphin         | n.  | 海豚                                                                                                                             |
 | donate          | v.  | 捐赠                                                                                                                             |
@@ -1124,6 +1125,13 @@
 | equipment                   | n.       | 装备                                                                                   |
 | equivalent                  | a.       | 等价的                                                                                 |
 | era                         | n.       | 时代；（地）代                                                                         |
+| erode                       | v.       | 侵蚀，风化；消磨，削弱，损害                                                           |
+| erosion                     | n.       | 侵蚀，风化；消磨，削弱，损害                                                           |
+| erotic                      | a.       | 性，性欲，色情                                                                         |
+| erotically                  | ad.      | 性，性欲，色情                                                                         |
+| eroticism                   | n.       | （艺术、文学作品中的）色情描写                                                         |
+| erroreous                   | a.       | 错误的                                                                                 |
+| erroreously                 | ad.      | 错误地                                                                                 |
 | error                       | n.       | 错误                                                                                   |
 | escape                      | v.       | 逃跑                                                                                   |
 | especially                  | ad.      | 特别，尤其；专门，特地；十分，非常                                                     |
@@ -2161,6 +2169,7 @@
 | -mouthed             |       | 有…口的；言谈…的                                                                                     |
 | move                 | v.    | 移动                                                                                                 |
 | movie                | n.    | 电影                                                                                                 |
+| mud                  | n.    | 泥                                                                                                   |
 | mug                  | n.    | 马克杯                                                                                               |
 | mule                 | n.    | 骡子                                                                                                 |
 | murder               | v.    | 谋杀；要命                                                                                           |
