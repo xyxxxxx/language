@@ -480,10 +480,16 @@
 |                            | v.   | 发起运动                                                                                                               |
 | campfire                   | n.   | 营火                                                                                                                   |
 | campus                     | n.   | （大学）校园，校区                                                                                                     |
+| canal                      | n.   | 运河，灌溉渠                                                                                                           |
+| canary                     | n.   | 金丝雀                                                                                                                 |
 | cancel                     | v.   | 取消                                                                                                                   |
 | cancer                     | n.   | 癌症                                                                                                                   |
+| candle                     | n.   | 蜡烛                                                                                                                   |
+| candor                     | n.   | 真诚，坦诚，坦率                                                                                                       |
 | candy                      | n.   | 糖果                                                                                                                   |
+| cane                       | n.   | 竹竿，藤条                                                                                                             |
 | canine                     | n.   | 警犬                                                                                                                   |
+| cannon                     | n.   | （旧式）大炮                                                                                                           |
 | canoe                      | n.   | 独木舟，皮划艇                                                                                                         |
 | canoeing                   | n.   | 划艇                                                                                                                   |
 | canonical                  | a.   | 经典的；（数）最简（表达式）                                                                                           |
@@ -520,10 +526,14 @@
 | catfish                    | n.   | 鲇鱼                                                                                                                   |
 | catholic                   | a.   | 天主教；广泛                                                                                                           |
 | cattle                     | n.   | 牛                                                                                                                     |
+| caustic                    | a.   | 腐蚀性；尖酸，刻薄，挖苦                                                                                               |
+| caustically                | ad.  | 尖酸，刻薄，挖苦                                                                                                       |
 | caution                    | n.   | 小心，谨慎；警告，告诫                                                                                                 |
 |                            | v.   | 警告，告诫，提醒                                                                                                       |
 | cautious                   | a.   | 小心，谨慎                                                                                                             |
 | cautiously                 | ad.  | 小心，谨慎                                                                                                             |
+| cavalry                    | n.   | （旧时）骑兵                                                                                                           |
+| cave                       | n.   | 山洞，洞穴                                                                                                             |
 | caveat                     | n.   | 警告，告诫                                                                                                             |
 | ceiling                    | n.   | 天花板                                                                                                                 |
 | cell                       | n.   | （单间）牢房；细胞；（大结构中的）组成部分；电池；（秘密的）政治小组，基层组织；（电子表格的）单元格                   |
@@ -773,6 +783,14 @@
 | copy                       | v.   |                                                                                                                        |
 |                            | n.   |                                                                                                                        |
 | corner                     | n.   | 角；墙角；街角，拐角；角落；困境，窘境；（足球）角球                                                                   |
+| correspond                 | v.   | 一致，符合，相符；相当于；通信                                                                                         |
+| correspondence             | n.   | 往来书信，读者来信；通信；相关，关联                                                                                   |
+| correspondent              | n.   | 记者，通讯员                                                                                                           |
+| corresponding              | a.   | 相应                                                                                                                   |
+| correspondingly            | ad.  | 相应                                                                                                                   |
+| corrode                    | v.   | 腐蚀，侵蚀                                                                                                             |
+| corrosion                  | n.   | 腐蚀，侵蚀                                                                                                             |
+| corrosive                  | a.   | 腐蚀，腐蚀性；腐蚀，破坏                                                                                               |
 | corruption                 | n.   | 腐败，贪污，贿赂；堕落，腐蚀；（单词或短语的）变体                                                                     |
 | cortex                     | n.   | 皮层                                                                                                                   |
 | cosine                     | n.   | （数）余弦                                                                                                             |
@@ -1370,10 +1388,17 @@
 | fluorine    | n.       | 氟                                                                                                                             |
 | fly         | v.       | 飞；飞行，航行；驾驶（飞行器）；飞驰，疾驰；（时间）飞逝；飘扬；逃跑                                                           |
 |             | n.       | 苍蝇                                                                                                                           |
+| flyer       | n.       | 飞机乘客；飞行生物（尤指鸟或昆虫）；传单                                                                                       |
+| foam        | n.       | 泡沫塑料；泡沫；泡沫剂（用于洗涤、剃须、灭火等）                                                                               |
+|             | v.       | 起泡沫                                                                                                                         |
+| focal       | a.       | 中心，非常重要，焦点                                                                                                           |
+| focalize    | v.       | 使聚焦，使集中                                                                                                                 |
 | focus       | v.       | 集中（精神、注意力等）于；调节焦距；聚焦（于）                                                                                 |
 |             | n.       | 中心，焦点，重点；焦距；（物）焦点；（地）震源                                                                                 |
+| focused     | a.       | 聚焦，注意力集中，目标明确                                                                                                     |
 | fog         | n.       | 雾；昏昏沉沉                                                                                                                   |
 |             | v.       | 起雾，雾气笼罩                                                                                                                 |
+| foggy       | a.       | 起雾，雾茫茫                                                                                                                   |
 | foil        | n.       | （包装食物用的）箔                                                                                                             |
 | fold        | v.       | 折，叠，折叠；折叠（以便储存或携带）；裹                                                                                       |
 | folder      | n.       | 文件夹                                                                                                                         |
@@ -1745,6 +1770,7 @@
 | industry            | n.    | 工业；行业                                                                                                         |
 | inevitable          | a.    | 不可避免，必然；惯常，例行                                                                                         |
 | inevitability       | n.    | 必然，必然性                                                                                                       |
+| infantry            | n.    | 步兵                                                                                                               |
 | infection           | n.    | 感染                                                                                                               |
 | infectious          | a.    | 传染的；有感染力                                                                                                   |
 | infer               | v.    | 推断                                                                                                               |
@@ -2148,14 +2174,47 @@
 | medical              | a.    | 医疗                                                                                                 |
 | meet                 | v.    | 遇见                                                                                                 |
 | meeting              | n.    | 会议                                                                                                 |
+| melee                | n.    | 肉搏                                                                                                 |
+| melody               | n.    | 旋律                                                                                                 |
 | melon                | n.    | 甜瓜                                                                                                 |
+| melt                 | v.    | （使）融化，熔化；（使）缓和，柔和                                                                   |
+| meltdown             | n.    | 核反应堆核心熔毁；                                                                                   |
+| member               | n.    | 成员；会员                                                                                           |
+| membership           | n.    | 会员（数）                                                                                           |
+| membrane             | n.    | 膜；细胞膜                                                                                           |
+| meme                 | n.    | （生）模因，模仿传递行为                                                                             |
+| memento              | n.    | 纪念品                                                                                               |
+| memo                 | n.    | 备忘录                                                                                               |
+| memorable            | a.    | 值得纪念，难忘                                                                                       |
+| memorandum           | n.    | 备忘录；报告                                                                                         |
+| memorial             | n.    | 纪念碑；纪念物，纪念品                                                                               |
+|                      | a.    | 纪念                                                                                                 |
+| memorialize          | v.    | 纪念                                                                                                 |
+| memorize             | v.    | 记忆，记住                                                                                           |
 | memory               | n.    | 记忆；内存                                                                                           |
-| mental               | a.    | 精神的                                                                                               |
+| mend                 | v.    | （英）修理；修补，缝补；弥合（分歧），解决（争端）；（骨折）愈合，痊愈                               |
+| mental               | a.    | 精神                                                                                                 |
+| mentality            | n.    | 心态，思想状况                                                                                       |
+| mentally             | ad.   | 精神上，智力上，思想上                                                                               |
+| mention              | v.    | 提到，提及                                                                                           |
+|                      | n.    | 提到，提及                                                                                           |
+| mentor               | n.    | 导师                                                                                                 |
+| mentoring            | n.    | 指导                                                                                                 |
 | menu                 | n.    | 菜单                                                                                                 |
+| meow                 | v.    | 喵                                                                                                   |
+| merchandise          | n.    | 商品，货品；周边商品                                                                                 |
+| merchandising        | n.    | 推销，展销；周边商品                                                                                 |
+| merchant             | n.    | 商人，批发商                                                                                         |
+| merciful             | a.    | 仁慈，慈悲，宽大；恩赐（解脱）                                                                       |
+| mercifully           | ad.   | 仁慈，慈悲，宽大；万幸                                                                               |
+| merciless            | a.    | 毫无怜悯，无情，残忍                                                                                 |
+| mercury              | n.    | 汞，水银                                                                                             |
 | Mercury              | n.    | 水星                                                                                                 |
+| mercy                | n.    | 仁慈，宽恕；幸运，恩惠                                                                               |
 | mere                 | a.    | 仅，单纯的                                                                                           |
 | merely               | ad.   | 仅                                                                                                   |
-| merge                | v.    | 合并                                                                                                 |
+| merge                | v.    | （使）合并，并入；融入，隐入                                                                         |
+| merger               | n.    | （企业或机构的）合并                                                                                 |
 | meter                | n.    | 米                                                                                                   |
 | methamphetamine      | n.    | 冰毒，甲基苯丙胺                                                                                     |
 | metropolis           | n.    | 都市，大都会                                                                                         |
@@ -2701,8 +2760,11 @@
 | post                    | n.     | 派驻；哨岗                                                                                                   |
 |                         | v.     | 发布，公布（财经信息或警告）；（网络上）发布；交（保释金）                                                   |
 | post office             | n.     | 邮局                                                                                                         |
+| pot                     | n.     | 锅；（英）罐，瓶，壶；（特定用途的）容器；一罐，一瓶，一壶；筹集的资金，拼凑的钱；大麻；盲射，乱射           |
+|                         | v.     | （台球）击球入袋                                                                                             |
 | potato                  | n.     | 土豆                                                                                                         |
 | potassium               | n.     | 钾                                                                                                           |
+| potent                  | a.     |                                                                                                              |
 | pottery                 | n.     | 陶器；陶土；陶艺                                                                                             |
 | pounce                  | v.     | 突袭                                                                                                         |
 | powder                  | n.     | 粉                                                                                                           |
@@ -2984,6 +3046,8 @@
 |                     | n.  | 重演                                                                                                       |
 | repeated            | a.  | 重复，反复                                                                                                 |
 | replay              | v.  | 重放                                                                                                       |
+| report              | v.  | 报告，汇报；报道；据说，传闻；举报，告发；报到                                                             |
+| reporter            | n.  | 记者                                                                                                       |
 | represent           | v.  | 表示，代表；代表；代表…的利益；相当于，意味着；体现，代表；展示，描绘；（不公平地）描述，说得像是          |
 | representation      | n.  | 表示                                                                                                       |
 | republic            | n.  | 共和，共和国                                                                                               |
@@ -2993,7 +3057,11 @@
 | rescue              | v.  | 救援                                                                                                       |
 | research            | n.  | 研究                                                                                                       |
 | reserve             | v.  | 预留                                                                                                       |
+| residence           | n.  | 住所，住房，宅邸，豪宅；居住，定居；（在他国的）居留权，居留资格                                           |
+| resident            | n.  | 居民；（旅馆的）旅客，房客                                                                                 |
+|                     | a.  | （在某地）居住                                                                                             |
 | resist              | v.  | 抵制，抗拒；反抗，抵抗；（常用于否定）抵挡；抗，耐                                                         |
+| residue             | n.  | 剩余，残留                                                                                                 |
 | resistance          | n.  | 抵制，抗拒；反抗，抵抗；抵抗力；阻力；（物）电阻                                                           |
 | resolution          | n.  | 分辨率                                                                                                     |
 | resource            | n.  | 资源                                                                                                       |
@@ -3791,101 +3859,103 @@
 
 # V
 
-|               |       |                                                                              |
-| ------------- | ----- | ---------------------------------------------------------------------------- |
-| vacancy       | n.    | （职位）空缺；（旅馆）空房；茫然                                             |
-| vacant        | a.    | 空着，闲置，未占用；空缺；呆滞，茫然，空洞                                   |
-| vacation      | n.    | 假期；度假                                                                   |
-| vaccin        | n.    | 疫苗                                                                         |
-| vaccinate     | a.    | 给…接种疫苗                                                                  |
-| valid         | a.    | 有效的                                                                       |
-| valley        | n.    | 谷，山谷                                                                     |
-| value         | n.    | 值                                                                           |
-| van           | n.    | 货车                                                                         |
-| vandal        | n.    | 故意毁坏公共财物的人                                                         |
-| vandalism     | n.    | 故意毁坏公共财物罪                                                           |
-| vandalize     | v.    | 故意毁坏（公共财物）                                                         |
-| vanquish      | v.    | 完全击败，征服                                                               |
-| vapor         | n.    | 蒸气，雾气                                                                   |
-| vaporize      | v.    | （使）汽化，蒸发                                                             |
-| vaporous      | a.    | 充满蒸气的；像蒸气的                                                         |
-| variable      | a.    | 多变，变化不定，变化无常；可变，可更改，可调节                               |
-|               | n.    | 变量，变化因素                                                               |
-| variably      | ad.   | 多变，变化不定，变化无常                                                     |
-| variance      | n.    | 差，变化幅度                                                                 |
-| variant       | n.    | 变种，变体                                                                   |
-|               | a.    | 变种，变体                                                                   |
-| variantion    | n.    | （数量、等级等的）变化，波动；变种，变体；（音）变奏（曲）                   |
-| varied        | a.    | 各种各样，形形色色，种类繁多；多变，多彩，不同                               |
-| variety       | n.    | 多种，种种，各种；变化，多样性；（植物、语言等的）变种，变体                 |
-| various       | a.    | 各种各样，多种多样；特征多样                                                 |
-| variously     | ad.   | （被不同的人）不同地，以不同的方式                                           |
-| varnish       | n.    | 清漆；指甲油                                                                 |
-|               | v.    | 涂清漆，涂指甲油                                                             |
-| vary          | v.    | （大小、形状等）不同，参差；（依情况）变化，改变，变更；（小范围）调整       |
-| vase          | n.    | 花瓶                                                                         |
-| vast          | a.    | 辽阔，广大；大量，大批；庞大                                                 |
-| vastness      | n.    | 辽阔，广大                                                                   |
-| vault         | n.    | （银行的）金库，保险库；（坟地的）墓穴；拱顶，穹顶；撑杆跳                   |
-|               | v.    | （用手支撑或撑杆）跳跃                                                       |
-| vaunted       | a.    | 大肆吹嘘的                                                                   |
-| vector        | n.    | 向量                                                                         |
-| vegan         | n.    | 严格素食主义者（不吃肉、蛋、奶等）                                           |
-| veggie        | n.    | 素                                                                           |
-| vegetable     | n.    | 蔬菜                                                                         |
-| vegetarian    | n.    | 素食主义者                                                                   |
-|               | a.    | 素食                                                                         |
-| vegetation    | n.    | 植物，植被                                                                   |
-| vehicle       | n.    | 载具                                                                         |
-| vengeance     | n.    | 报仇，复仇                                                                   |
-| venom         | n.    | 毒液；恶毒，恶意，怨恨                                                       |
-| venomous      | a.    | 有毒，分泌毒液；恶毒，充满恶意，充满仇恨                                     |
-| Venus         | n.    | 金星                                                                         |
-| verb          | n.    | 动词                                                                         |
-| via           | prep. | 通过                                                                         |
-| vice          | n.    | 罪恶                                                                         |
-| victim        | n.    | 受害者，罹难者，牺牲品；受骗者；祭品，牺牲                                   |
-| victorious    | a.    | 胜利，获胜                                                                   |
-| victory       | n.    | 胜利                                                                         |
-| video         | n.    | 录像带；录像，录影；视频                                                     |
-| videotape     | n.    | 录像带                                                                       |
-| view          | n.    | 视图                                                                         |
-| viewpoint     | n.    | 观点                                                                         |
-| village       | n.    | 乡村，村庄                                                                   |
-| violation     | n.    | 违反                                                                         |
-| violent       | a.    | 暴力；感情强烈，激情；强烈，剧烈；（颜色）鲜艳                               |
-| violet        | n.    | 紫罗兰                                                                       |
-|               | a.    | 紫罗兰色                                                                     |
-| violin        | n.    | 小提琴                                                                       |
-| violinist     | n.    | 小提琴手                                                                     |
-| viper         | n.    | 蝰蛇；险恶的人                                                               |
-| virology      | n.    | 病毒学                                                                       |
-| virtual       | a.    | 虚拟；近乎，实质上                                                           |
-| virtually     | ad.   | 几乎，差不多，事实上；（计）虚拟                                             |
-| virtue        | n.    | 高尚品行；美德，优良品质；优点，长处                                         |
-| virus         | n.    | 病毒                                                                         |
-| visible       | a.    | 可见，看得见；显而易见                                                       |
-| vision        | n.    | 视野                                                                         |
-| visit         | v.    | 访问，拜访                                                                   |
-| vocabulary    | n.    | 词汇表                                                                       |
-| vocation      | n.    | （适合自己的）工作、生活方式                                                 |
-| void          | n.    | 虚空                                                                         |
-| volcano       | n.    | 火山                                                                         |
-| volleyball    | n.    | 排球                                                                         |
-| volume        | n.    | 体积，容积，容量；量；音量；卷；书；（杂志期刊）卷                           |
-| volumetric    | a.    | 量（体积、容积）                                                             |
-| voluntarily   | ad.   | 自愿，主动；无偿，义务                                                       |
-| voluntary     | a.    | 自愿，志愿，自告奋勇；（工作）自愿，义务，无偿；（人）自愿，义务，自发       |
-| volunteer     | n.    | 志愿者，义务工作者；自告奋勇的人，自愿主动的人；志愿兵，义务兵               |
-|               | v.    | 自愿做，义务做，无偿做；主动建议；自愿参军，当志愿兵；（未经当事人同意）举荐 |
-| vomit         | v.    | 呕吐                                                                         |
-| vote          | n.    | 票，选票；投票，表决，选举；票数；投票权，选举权                             |
-|               | v.    | 投票，表决，选举；选出，推举；公认，认为；投票同意；提议，建议               |
-| voter         | n.    | 投票人                                                                       |
-| vowel         | n.    | （语）元音                                                                   |
-| vulnerable    | a.    | 脆弱，易受攻击                                                               |
-| vulnerability | n.    | 脆弱（性）；（计）漏洞                                                       |
-|               |       |                                                                              |
+|                 |       |                                                                              |
+| --------------- | ----- | ---------------------------------------------------------------------------- |
+| vacancy         | n.    | （职位）空缺；（旅馆）空房；茫然                                             |
+| vacant          | a.    | 空着，闲置，未占用；空缺；呆滞，茫然，空洞                                   |
+| vacation        | n.    | 假期；度假                                                                   |
+| vaccin          | n.    | 疫苗                                                                         |
+| vaccinate       | a.    | 给…接种疫苗                                                                  |
+| valid           | a.    | 有效的                                                                       |
+| valley          | n.    | 谷，山谷                                                                     |
+| value           | n.    | 值                                                                           |
+| van             | n.    | 货车                                                                         |
+| vandal          | n.    | 故意毁坏公共财物的人                                                         |
+| vandalism       | n.    | 故意毁坏公共财物罪                                                           |
+| vandalize       | v.    | 故意毁坏（公共财物）                                                         |
+| vanquish        | v.    | 完全击败，征服                                                               |
+| vapor           | n.    | 蒸气，雾气                                                                   |
+| vaporize        | v.    | （使）汽化，蒸发                                                             |
+| vaporous        | a.    | 充满蒸气的；像蒸气的                                                         |
+| variable        | a.    | 多变，变化不定，变化无常；可变，可更改，可调节                               |
+|                 | n.    | 变量，变化因素                                                               |
+| variably        | ad.   | 多变，变化不定，变化无常                                                     |
+| variance        | n.    | 差，变化幅度                                                                 |
+| variant         | n.    | 变种，变体                                                                   |
+|                 | a.    | 变种，变体                                                                   |
+| variantion      | n.    | （数量、等级等的）变化，波动；变种，变体；（音）变奏（曲）                   |
+| varied          | a.    | 各种各样，形形色色，种类繁多；多变，多彩，不同                               |
+| variety         | n.    | 多种，种种，各种；变化，多样性；（植物、语言等的）变种，变体                 |
+| various         | a.    | 各种各样，多种多样；特征多样                                                 |
+| variously       | ad.   | （被不同的人）不同地，以不同的方式                                           |
+| varnish         | n.    | 清漆；指甲油                                                                 |
+|                 | v.    | 涂清漆，涂指甲油                                                             |
+| vary            | v.    | （大小、形状等）不同，参差；（依情况）变化，改变，变更；（小范围）调整       |
+| vase            | n.    | 花瓶                                                                         |
+| vast            | a.    | 辽阔，广大；大量，大批；庞大                                                 |
+| vastness        | n.    | 辽阔，广大                                                                   |
+| vault           | n.    | （银行的）金库，保险库；（坟地的）墓穴；拱顶，穹顶；撑杆跳                   |
+|                 | v.    | （用手支撑或撑杆）跳跃                                                       |
+| vaunted         | a.    | 大肆吹嘘的                                                                   |
+| vector          | n.    | 向量                                                                         |
+| vegan           | n.    | 严格素食主义者（不吃肉、蛋、奶等）                                           |
+| veggie          | n.    | 素                                                                           |
+| vegetable       | n.    | 蔬菜                                                                         |
+| vegetarian      | n.    | 素食主义者                                                                   |
+|                 | a.    | 素食                                                                         |
+| vegetation      | n.    | 植物，植被                                                                   |
+| vehicle         | n.    | 载具                                                                         |
+| vending         | n.    | 贩卖                                                                         |
+| vending machine | n.    | 自动贩卖机                                                                   |
+| vengeance       | n.    | 报仇，复仇                                                                   |
+| venom           | n.    | 毒液；恶毒，恶意，怨恨                                                       |
+| venomous        | a.    | 有毒，分泌毒液；恶毒，充满恶意，充满仇恨                                     |
+| Venus           | n.    | 金星                                                                         |
+| verb            | n.    | 动词                                                                         |
+| via             | prep. | 通过                                                                         |
+| vice            | n.    | 罪恶                                                                         |
+| victim          | n.    | 受害者，罹难者，牺牲品；受骗者；祭品，牺牲                                   |
+| victorious      | a.    | 胜利，获胜                                                                   |
+| victory         | n.    | 胜利                                                                         |
+| video           | n.    | 录像带；录像，录影；视频                                                     |
+| videotape       | n.    | 录像带                                                                       |
+| view            | n.    | 视图                                                                         |
+| viewpoint       | n.    | 观点                                                                         |
+| village         | n.    | 乡村，村庄                                                                   |
+| violation       | n.    | 违反                                                                         |
+| violent         | a.    | 暴力；感情强烈，激情；强烈，剧烈；（颜色）鲜艳                               |
+| violet          | n.    | 紫罗兰                                                                       |
+|                 | a.    | 紫罗兰色                                                                     |
+| violin          | n.    | 小提琴                                                                       |
+| violinist       | n.    | 小提琴手                                                                     |
+| viper           | n.    | 蝰蛇；险恶的人                                                               |
+| virology        | n.    | 病毒学                                                                       |
+| virtual         | a.    | 虚拟；近乎，实质上                                                           |
+| virtually       | ad.   | 几乎，差不多，事实上；（计）虚拟                                             |
+| virtue          | n.    | 高尚品行；美德，优良品质；优点，长处                                         |
+| virus           | n.    | 病毒                                                                         |
+| visible         | a.    | 可见，看得见；显而易见                                                       |
+| vision          | n.    | 视野                                                                         |
+| visit           | v.    | 访问，拜访                                                                   |
+| vocabulary      | n.    | 词汇表                                                                       |
+| vocation        | n.    | （适合自己的）工作、生活方式                                                 |
+| void            | n.    | 虚空                                                                         |
+| volcano         | n.    | 火山                                                                         |
+| volleyball      | n.    | 排球                                                                         |
+| volume          | n.    | 体积，容积，容量；量；音量；卷；书；（杂志期刊）卷                           |
+| volumetric      | a.    | 量（体积、容积）                                                             |
+| voluntarily     | ad.   | 自愿，主动；无偿，义务                                                       |
+| voluntary       | a.    | 自愿，志愿，自告奋勇；（工作）自愿，义务，无偿；（人）自愿，义务，自发       |
+| volunteer       | n.    | 志愿者，义务工作者；自告奋勇的人，自愿主动的人；志愿兵，义务兵               |
+|                 | v.    | 自愿做，义务做，无偿做；主动建议；自愿参军，当志愿兵；（未经当事人同意）举荐 |
+| vomit           | v.    | 呕吐                                                                         |
+| vote            | n.    | 票，选票；投票，表决，选举；票数；投票权，选举权                             |
+|                 | v.    | 投票，表决，选举；选出，推举；公认，认为；投票同意；提议，建议               |
+| voter           | n.    | 投票人                                                                       |
+| vowel           | n.    | （语）元音                                                                   |
+| vulnerable      | a.    | 脆弱，易受攻击                                                               |
+| vulnerability   | n.    | 脆弱（性）；（计）漏洞                                                       |
+|                 |       |                                                                              |
 
 # W
 
@@ -3906,6 +3976,8 @@
 | warn       | v.    | 警告                                                                                                               |
 | warp       | v.    | 扭曲，变形                                                                                                         |
 | warranty   | n.    | 保修期                                                                                                             |
+| wartime    | n.    | 战时                                                                                                               |
+|            | a.    | 战时                                                                                                               |
 | wash       | v.    | 洗                                                                                                                 |
 | washboard  | n.    | 洗衣板                                                                                                             |
 | waste      | v.    | 浪费，白费；未充分利用，屈才；干掉，杀；（游戏或比赛中）打得落花流水                                               |
@@ -3913,6 +3985,7 @@
 |            | n.    | 手表                                                                                                               |
 | water      | n.    | 水                                                                                                                 |
 | watermelon | n.    | 西瓜                                                                                                               |
+| waterproof | a.    | 防水                                                                                                               |
 | water polo |       | 水球                                                                                                               |
 | wave       | n.    | 波；波浪；浪潮                                                                                                     |
 |            | v.    | 挥手；挥动；烫（头发）                                                                                             |
