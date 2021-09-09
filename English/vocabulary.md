@@ -890,6 +890,7 @@
 | decision        | n.  | 决定                                                                                                                             |
 | declare         | v.  | 声明                                                                                                                             |
 | declaration     | n.  | 声明                                                                                                                             |
+| deed            | n.  | 行为                                                                                                                             |
 | deer            | n.  | 鹿                                                                                                                               |
 | default         | a.  | 默认                                                                                                                             |
 |                 | v.  | 默认为                                                                                                                           |
@@ -978,6 +979,7 @@
 | detour          | n.  | 绕道，迂回                                                                                                                       |
 |                 | v.  | （使）绕行                                                                                                                       |
 | device          | n.  | 设备                                                                                                                             |
+| devil           | n.  | （基督教、犹太教和伊斯兰教的）魔鬼；魔鬼，恶魔；淘气鬼，调皮鬼                                                                   |
 | diagonal        | n.  | 对角线                                                                                                                           |
 |                 | a.  | 对角                                                                                                                             |
 | dial            | n.  | 仪表盘，刻度盘                                                                                                                   |
@@ -1103,6 +1105,7 @@
 | eagerness                   | n.       | 渴望，渴求                                                                             |
 | eagle                       | n.       | 鹰                                                                                     |
 | earth                       | n.       | 土；大地；地球                                                                         |
+| earthquake                  | n.       | 地震                                                                                   |
 | east                        | n.       | 东                                                                                     |
 |                             | a.       | 东                                                                                     |
 |                             | ad.      | 向东                                                                                   |
@@ -1210,6 +1213,8 @@
 | evaluate                    | v.       | 评估，评价                                                                             |
 | evasive                     | a.       | 回避，推诿，含糊其辞                                                                   |
 | event                       | n.       | 事件                                                                                   |
+| evil                        | a.       | （人）恶，邪恶；恶，道德败坏；邪恶，恶魔；令人非常不愉快，令人作呕                     |
+|                             | n.       | 邪恶，罪恶；害处，弊端                                                                 |
 | evolve                      | v.       | 进化；升级                                                                             |
 | exact                       | a.       | 准确的，确切的，精确的                                                                 |
 | example                     | n.       | 例子；典型，范例；榜样，楷模                                                           |
@@ -3693,6 +3698,7 @@
 | trust          | n.       | 信任，信赖；信托；（商）托拉斯                                                                                               |
 |                | v.       | 信任，信赖；相信                                                                                                             |
 | try            | v.       | 试，尝试                                                                                                                     |
+| tsunami        | n.       | 海啸                                                                                                                         |
 | tube           | n.       | 管                                                                                                                           |
 | Tuesday        | n.       | 星期二                                                                                                                       |
 | tuna           | n.       | 金枪鱼                                                                                                                       |
