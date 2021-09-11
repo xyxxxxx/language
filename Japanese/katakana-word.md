@@ -177,7 +177,7 @@
 | エコー                         | echo                                      |                |
 | エコ（ノミー）                 | economy                                   |                |
 | エコ（ロジー）                 | ecology                                   |                |
-|                                |                                           |                |
+| エゴサーチ                     | egosearch                                 | 网上搜自己     |
 | エスカレーター                 | escalator                                 | 扶梯           |
 | エスケープ                     | escape                                    |                |
 | エステート                     | estate                                    | 不动产         |
@@ -316,7 +316,7 @@
 | カルスト                 | （ドイツ）Karst              | 喀斯特                 |
 | カルタ                   | （ポルトガル）carta          | 花牌                   |
 | カルチャー               | culture                      | 文化                   |
-| カルテ                   | （ドイツ）Karte              | 病例                   |
+| カルテ                   | （ドイツ）Karte              | 病历                   |
 | カルテル                 | cartel                       | 卡特尔，垄断联盟       |
 | カルト                   | cult                         | 邪教；狂热粉丝         |
 | カルビ                   |                              | 朝鲜烤肉；牛肩/胸/腹肉 |
@@ -345,6 +345,7 @@
 | キャッチ                 | catch                        |                        |
 | キャッチャー             | catcher                      | 捕手                   |
 | ギャップ                 | gap                          |                        |
+| キャバクラ               |                              | 夜总会                 |
 | キャピタル               | capital                      |                        |
 | キャプテン               | captain                      |                        |
 | キャラ（クター）         | character                    | 角色                   |
@@ -405,6 +406,7 @@
 | クリーニング             | cleaning                     |                        |
 | クリーム                 | cream                        |                        |
 | グリーン                 | green                        |                        |
+| クリエイター             | creator                      | 创作者                 |
 | クリエーティブ           | creative                     |                        |
 | クリスタル               | crystal                      |                        |
 | クリスマス               | Chrismas                     |                        |
@@ -624,7 +626,7 @@
 | シニカル                       | cynical                | 讥讽                               |
 | シネマ                         | （フランス）cinéma     |                                    |
 | ジプシー                       | gupsy                  | 吉普赛                             |
-| シフト                         | shift                  |                                    |
+| シフト                         | shift                  | 值班，排班                         |
 | シミュレーション               | simulation             |                                    |
 | ジム                           | gym                    |                                    |
 | ジャージ                       | jersey                 | 运动套装                           |
@@ -728,6 +730,7 @@
 | スタジオ                       | studio                 |                                    |
 | スタッフ                       | staff                  |                                    |
 | スタディー                     | study                  |                                    |
+| スターバックス　（スタバ）     | Starbucks              |                                    |
 | スタミナ                       | stamina                | 体力，精力                         |
 | スタンダード                   | standard               |                                    |
 | スタンド                       | stand                  |                                    |
@@ -928,6 +931,7 @@
 | チームワーク                 | teamwork             |                      |
 | チェーン                     | chain                |                      |
 | チェーンソー                 | chain saw            | 电锯                 |
+| チェキ                       |                      | 拍立得               |
 | チェック                     | check                |                      |
 | チェックイン，チェックアウト | check in, check out  |                      |
 | チェリー                     | cherry               |                      |
@@ -956,6 +960,7 @@
 | チンピラ                     |                      | 小混混               |
 | ツアー                       | tour                 |                      |
 | ツー                         | two                  |                      |
+| ツーショット                 | two + shot           | 两人合照             |
 | ツール                       | tool                 |                      |
 | ツナ                         |                      | 金枪鱼；金枪鱼罐头   |
 | ディープ                     | deep                 |                      |
@@ -1057,6 +1062,7 @@
 | トラベル                     | travel               |                      |
 | ドラマ                       | drama                |                      |
 | ドラマチック                 | dramatic             |                      |
+| ドラレコ                     | drive + record       | 行车记录             |
 | トランク                     | trunk                | 手提箱               |
 | トランクス                   | trunks               | 四角裤               |
 | トランジスタ                 | transistor           | 晶体管               |
@@ -1537,6 +1543,7 @@
 | ペナルティー                     | penalty                  |                          |
 | ヘビー                           | heavy                    |                          |
 | ベビー                           | baby                     |                          |
+| ベビーカー                       | baby + car               | 婴儿车                   |
 | ベランダ                         | veranda                  | 阳台                     |
 | ヘリ（コプター）                 | helicopter               |                          |
 | ヘリウム                         | helium                   |                          |
@@ -1956,7 +1963,9 @@
 | ワックス       | wax          |                                |
 | ワット         | watt         | 瓦特                           |
 | ワッフル       | waffle       | 华夫饼                         |
+| ワロタ         | 笑った       | 笑了                           |
 | ワン           | one          |                                |
 | ワンダーランド | wonderland   | 游乐园                         |
 | ワンチャン     | one + chance | 一线生机                       |
 | ワンピース     | one piece    | 连衣裙                         |
+|                |              |                                |
