@@ -278,6 +278,7 @@
 | カウンセリング           | counseling                   | 心理咨询               |
 | カウンター               | counter                      |                        |
 | カクテル                 | cocktail                     |                        |
+| ガジェット               | gadget                       | 电子产品               |
 | カジュアル               | casual                       | 休闲服装               |
 | ガス                     | gas                          | 瓦斯                   |
 | カスタム                 | custom                       | 定做                   |
@@ -1168,6 +1169,7 @@
 | パーティー                       | party                    |                          |
 | ハート                           | heart                    |                          |
 | ハード                           | hard                     |                          |
+| ハードウェア                     | hardware                 |                          |
 | パート（タイム）                 | part time                |                          |
 | ハードディスク                   | harddisk                 |                          |
 | パートナー                       | partner                  |                          |
@@ -1195,6 +1197,7 @@
 | バイク                           |                          | 摩托车                   |
 | ハイジャック                     | hijack                   | 劫机                     |
 | ハイテク                         | high technology          |                          |
+| バイト                           | byte                     |                          |
 | バイナリー                       | binary                   |                          |
 | ハイパー〜                       | hyper-                   |                          |
 | バイバイ                         | bye bye                  |                          |
@@ -1470,6 +1473,7 @@
 | プリンス                         | prince                   |                          |
 | プリンセス                       | princess                 |                          |
 | プリント                         | print                    | 讲义                     |
+| フラッグシップ                   | flagship                 |                          |
 | フラッシュ                       | flash                    |                          |
 | フル                             | full                     |                          |
 | ブルー                           | blue                     |                          |
