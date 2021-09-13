@@ -287,6 +287,7 @@
 | ガソリン                 | gasonline                    | 汽油                   |
 | ガソリンスタンド         | gasonline stand              | 加油站                 |
 | カタログ                 | catalog                      |                        |
+| ガチャ                   |                              | 扭蛋                   |
 | カツアゲ                 | 恐喝して金品を巻き上げること | 抢劫                   |
 | カッター                 | cutter                       | 美工刀                 |
 | ガッツ                   | guts（=根性）                | 毅力                   |
@@ -733,6 +734,7 @@
 | スタディー                     | study                  |                                    |
 | スターバックス　（スタバ）     | Starbucks              |                                    |
 | スタミナ                       | stamina                | 体力，精力                         |
+| スタンガン                     | stun gun               |                                    |
 | スタンダード                   | standard               |                                    |
 | スタンド                       | stand                  |                                    |
 | スタンプ                       | stamp                  | 表情包；邮戳                       |
@@ -847,6 +849,7 @@
 | センセーション                 | sensation              | 轰动                               |
 | センター                       | center                 |                                    |
 | センチ                         | centi-                 |                                    |
+| センチメンタル                 | sentimental            | 感伤，多愁善感                     |
 | セントラル                     | central                |                                    |
 | ソーイング                     | sewing                 |                                    |
 | ソーシャル                     | social                 |                                    |
@@ -1243,6 +1246,7 @@
 | バックボーン                     | backbone                 | 骨气；骨干               |
 | パッケージ                       | package                  | 包装                     |
 | バッジ                           | badge                    |                          |
+| パッション                       | passion                  |                          |
 | バッテリー                       | battery                  |                          |
 | バット                           | bat                      |                          |
 | ハッピー                         | happy                    |                          |
@@ -1311,7 +1315,7 @@
 | ヒーリング                       | healing                  |                          |
 | ビール                           | （オランダ）bier         | 啤酒                     |
 | ヒーロー                         | hero                     |                          |
-| ヒエラルヒー                     | （ドイツ）Hierarchie     | 等级制度                 |
+| ヒエラルヒー・ヒエラルキー       | （ドイツ）Hierarchie     | 等级制度                 |
 | ピエロ                           | （仏）pierrot            | 小丑                     |
 | ビギナー                         | beginner                 |                          |
 | ビキニ                           | bikini                   |                          |
