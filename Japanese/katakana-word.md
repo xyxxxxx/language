@@ -1,5 +1,3 @@
-[toc]
-
 # カタカナ語彙
 
 ## ア
@@ -218,6 +216,7 @@
 | オークション                   | auction                                   |                |
 | オーケー                       | okay                                      |                |
 | オーケストラ                   | orchestra                                 |                |
+| オーセンティック               | authentic                                 | 真正的         |
 | オーダー                       | order                                     |                |
 | オート                         | auto                                      | 汽车           |
 | オートバイ・バイク             | auto + bicycle                            | 摩托车         |
@@ -456,6 +455,7 @@
 | ゲット                   | get                          |                        |
 | ゲノム                   | （ドイツ）Genome             | 基因组                 |
 | ケミカル                 | chemical                     |                        |
+| クラブ                   | club                         |                        |
 | グラフィック             | graphic                      |                        |
 | グラフィティ             | graffiti                     | 涂鸦                   |
 | クリア                   | clear                        |                        |
@@ -846,7 +846,7 @@
 | センサー                       | sensor                 |                                    |
 | センサス                       | census                 | 统计调查                           |
 | センス                         | sense                  | 品味                               |
-| センセーション                 | sensation              | 轰动                               |
+| センセーション                 | sensation              | 轰动，耸动                         |
 | センター                       | center                 |                                    |
 | センチ                         | centi-                 |                                    |
 | センチメンタル                 | sentimental            | 感伤，多愁善感                     |
@@ -1170,6 +1170,7 @@
 | バーチャル                       | virtual                  |                          |
 | パーツ                           | parts                    |                          |
 | パーティー                       | party                    |                          |
+| バーテン（ダー）                 | bartender                | 调酒师                   |
 | ハート                           | heart                    |                          |
 | ハード                           | hard                     |                          |
 | ハードウェア                     | hardware                 |                          |
@@ -1337,6 +1338,7 @@
 | ピッチャー                       | pitcher                  | 投手                     |
 | ヒット                           | hit                      | 安打；大成功，畅销       |
 | ヒップ                           | hip                      |                          |
+| ビップ                           | VIP                      |                          |
 | ビデオ                           | video                    | 录影机；录影带           |
 | ビニール                         | vinyl                    | 塑料                     |
 | ビニールハウス                   | vinyle house             | 温室                     |

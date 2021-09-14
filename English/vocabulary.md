@@ -2903,8 +2903,8 @@
 | picnic                    | n.     | 野餐                                                                                                         |
 | (picnicked, picnicking)   | v.     | 野餐                                                                                                         |
 | pick                      | v.     | 选择                                                                                                         |
-| picture                   | v.     |                                                                                                              |
-|                           | n.     |                                                                                                              |
+| picture                   | n.     | 画，图画，画像；照片；（屏幕）画面，图像；描绘，描述；头脑中的场景，记忆，印象；状况，情况，形势；电影       |
+|                           | v.     | 想象，设想，回忆；描绘，描述；图片显示                                                                       |
 | pig                       | n.     | 猪                                                                                                           |
 | pigeon                    | n.     | 鸽子                                                                                                         |
 | pillow                    | n.     | 枕头                                                                                                         |
@@ -3755,6 +3755,8 @@
 | substitute               | v.            | 替换                                                                                                             |
 | subtle                   | a.            | 细微的，淡淡的，不明显；巧妙的，机智的；敏锐，头脑灵活                                                           |
 | subtlety                 | n.            | 巧妙，机智，敏锐；细微之处，微妙之处                                                                             |
+| suburb                   | n.            | 郊区                                                                                                             |
+| suburban                 | a.            | 郊区                                                                                                             |
 | subway                   | n.            | （美）地铁                                                                                                       |
 | success                  | n.            | 成功                                                                                                             |
 | successful               | a.            | 成功                                                                                                             |
