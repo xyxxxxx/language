@@ -88,6 +88,7 @@
 |                                |                                           |                |
 | アンコール                     | encore                                    |                |
 | アンダーグラウンド・アングラ   | underground                               |                |
+| アンチ                         | anti                                      | 黑子，酸民     |
 | アンチ〜                       | anti                                      |                |
 | アンテナ                       | antenna                                   |                |
 | アンペア                       | ampere                                    | 安培           |
@@ -663,6 +664,7 @@
 | ジュエリー                     | jewelry                |                                    |
 | シュガー                       | sugar                  |                                    |
 | ジュニア                       | junior                 |                                    |
+| ジュラルミン                   | duralumin              | 铝合金                             |
 | シュレッダー                   | shredder               | 碎纸机                             |
 | ジョイント                     | joint                  |                                    |
 | ショー                         | show                   |                                    |
