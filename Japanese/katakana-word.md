@@ -974,6 +974,7 @@
 | ディスカウント               | discount             |                      |
 | ディス                       | diss                 |                      |
 | ディスク                     | disc                 |                      |
+| ディストピア                 | dystopia             |                      |
 | ディスプレイ                 | display              |                      |
 | ディナー                     | dinner               |                      |
 | ディベート                   | debate               |                      |
