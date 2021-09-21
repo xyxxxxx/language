@@ -374,6 +374,7 @@
 | クイック                 | quick                        |                        |
 | クーデター               | （フランス）coup d'État      |                        |
 | クーラー                 | cooler                       |                        |
+| クーラーボックス         | cooler box                   |                        |
 | クール                   | cool                         |                        |
 | クエスチョン             | question                     |                        |
 | クエスト                 |                              | （游戏中的）任务       |
@@ -652,6 +653,7 @@
 | ジャンクション                 | junction               | 高架路口                           |
 | ジャングル                     | jungle                 |                                    |
 | シャンソン                     | （フランス）chanson    | 香颂                               |
+| シャンデリア                   | chandelier             | 吊灯                               |
 | ジャンパー                     | jumper                 | 夹克                               |
 | ジャンプ                       | jump                   |                                    |
 | シャンプー                     | shampoo                | 洗发水                             |
@@ -1881,6 +1883,7 @@
 | リンク                 | link                    |                  |
 | リング                 | ring                    |                  |
 | リンス                 | rinse                   | 护发素           |
+| リンパ[1]              | lymph                   | 淋巴             |
 | ルーズ                 | loose                   | 松懈；散漫       |
 | ルーチン               | routine                 |                  |
 | ルーム                 | room                    |                  |

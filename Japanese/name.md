@@ -56,6 +56,7 @@
 | あべ               | 阿部       |
 |                    | 安倍       |
 |                    | 安部       |
+| あまがさき         | 尼崎       |
 | あまの             | 天野       |
 | あまみや           | 雨宮       |
 | あやせ             | 綾瀬       |
@@ -1341,44 +1342,451 @@
 
 # 世界の地名
 
-| あ                 |           |      |
-| ------------------ | --------- | ---- |
-| アイスランド       | Iceland   |      |
-| アジア             | Asia      |      |
-| アフリカ           | Africa    |      |
-| アメリカ           | America   | 美国 |
-|                    |           |      |
-| **か**             |           |      |
-|                    |           |      |
-| 広東（カントン）   | Canton    |      |
-|                    |           |      |
-| 広州（こうしゅう） |           |      |
-|                    |           |      |
-| **さ**             |           |      |
-|                    |           |      |
-| 上海（シャンハイ） | Shanghai  |      |
-|                    |           |      |
-| 成都（せいと）     |           |      |
-|                    |           |      |
-| **た**             |           |      |
-|                    |           |      |
-| 天津（てんしん）   |           |      |
-| ドバイ             | Dubai     |      |
-|                    |           |      |
-| **な**             |           |      |
-|                    |           |      |
-| **は**             |           |      |
-| 武漢（ぶかん）     |           |      |
-| 北京（ペキン）     | Peking    |      |
-| 香港（ホンコン）   | Hong Kong |      |
-|                    |           |      |
-| **ま**             |           |      |
-|                    |           |      |
-| **や**             |           |      |
-|                    |           |      |
-| **ら**             |           |      |
-| ロンドン           | London    |      |
-|                    |           |      |
-| **わ**             |           |      |
-|                    |           |      |
-|                    |           |      |
+| あ                                       |                                |                |
+| ---------------------------------------- | ------------------------------ | -------------- |
+| アーヘン                                 | Aachen                         | 亚琛           |
+| アイスランド                             | Iceland                        |                |
+| アイルランド                             | Ireland                        |                |
+| 赤の広場                                 |                                | 红场           |
+| アジア                                   | Asia                           |                |
+| アジスアベバ                             | Addis Ababa                    |                |
+| アゼルバイジャン                         | Azerbaijan                     |                |
+| アテネ                                   | Athens                         |                |
+| アデレード                               | Adelaide                       |                |
+| アトランタ                               | Atlanta                        |                |
+| アトランティス                           | Atlantis                       |                |
+| アパラチア山脈                           | Appalachian Mountains          |                |
+| アフガニスタン                           | Afghanistan                    |                |
+| アブダビ                                 | Abu Dhabi                      |                |
+| アフリカ                                 | Africa                         |                |
+| アマゾン川                               | Amazon River                   |                |
+| アムステルダム                           | Amsterdam                      |                |
+| アメリカ                                 | America                        | 美国           |
+| 廈門（アモイ）                           |                                |                |
+| アラスカ                                 | Alaska                         |                |
+| アラビア                                 | Arabia                         | 阿拉伯         |
+| アラビア半島                             | Arabian Peninsula              |                |
+| アラブ                                   | Arab                           |                |
+| アルジェリア                             | Algeria                        |                |
+| アルゼンチン                             | Argentina                      |                |
+| アルタイ山脈                             | Altai Mountains                |                |
+| アルハンブラ宮殿                         | Alhambra                       | 阿尔汗布拉宫   |
+| アルプス山脈                             | Alps                           |                |
+| アンカラ                                 | Ankara                         |                |
+| アンカレジ                               | Anchorage                      |                |
+| アンコール・ワット                       | Angkor Wat                     | 吴哥窟         |
+| アンゴラ                                 | Angola                         |                |
+| アンデス山脈                             | Andes                          |                |
+| アントワープ                             | Antwerp                        |                |
+| イエメン                                 | Yemen                          |                |
+| イエローストーン国立公園                 | Yellowstone National Park      |                |
+| イスタンブール                           | Istanbul                       |                |
+| イスラエル                               | Israel                         |                |
+| イスラマバード                           | Islamabad                      |                |
+| イベリア半島                             | Iberian Peninsula              |                |
+| インド                                   |                                | 印度           |
+| インドネシア                             | Indonesia                      |                |
+| イラク                                   | Iraq                           |                |
+| イラワジ川                               | Irrawaddy River                |                |
+| イラン                                   | Iran                           |                |
+| イラン高原                               | Iranian Plateau                |                |
+| イングランド                             | England                        |                |
+| 仁川（インチョン）                       |                                |                |
+| インディアナポリス                       | Indianapolis                   |                |
+| インドシナ半島                           | Indochinese Peninsula          |                |
+| ウィーン                                 | Vienna                         |                |
+| ウェールズ                               | Wales                          |                |
+| ウェストミンスター寺院                   | Westminster Abbey              | 西敏寺         |
+| ウェリントン                             | Wellington                     |                |
+| ウガンダ                                 | Uganda                         |                |
+| ウクライナ                               | Ukraine                        |                |
+| ウスリー川                               | Ussuri River                   |                |
+| ウランバートル                           | Ulaanbaatar                    | 乌兰巴托       |
+| ウルグアイ                               | Uruguay                        |                |
+| エーゲ海                                 | Aegean Sea                     |                |
+| エジプト                                 | Egypt                          |                |
+| エジンバラ                               | Edinburgh                      |                |
+| エストニア                               | Estonia                        |                |
+| エチオピア                               | Ethiopia                       |                |
+| エッフェル塔                             | Eiffel Tower                   | 埃菲尔铁塔     |
+| エニセイ川                               | Yenisei River                  |                |
+| エベレスト山                             | Mount Everest                  | 珠穆朗玛       |
+| エルサレム                               | Jerusalem                      |                |
+| オークランド                             | Auckland                       |                |
+| オーストラリア                           | Australia                      |                |
+| オーストリア                             | Austria                        |                |
+| オクラホマ                               | Oklahoma                       |                |
+| オスロ                                   | Oslo                           |                |
+| オタワ                                   | Ottawa                         |                |
+| オックスフォード                         | Oxford                         |                |
+| オビ川                                   | Ob River                       |                |
+| オホーツク海                             | Sea of Okhotsk                 |                |
+| オマーン                                 | Oman                           |                |
+| オランダ                                 |                                | 荷兰           |
+| オリンピア                               | Olympia                        |                |
+| オンタリオ湖                             | Lake Ontario                   |                |
+|                                          |                                |                |
+| **か**                                   |                                |                |
+| ガーナ                                   | Ghana                          |                |
+| 凱旋門（がいせんもん）                   |                                |                |
+| カイロ                                   | Cairo                          |                |
+| ガザ地区                                 | Gaza Strip                     |                |
+| カシミール                               | Kashmir                        |                |
+| カスピ海                                 | Caspian Sea                    | 里海           |
+| カタール                                 | Qatar                          |                |
+| カタロニア                               | Catalonia                      |                |
+| カトマンズ                               | Kathmandu                      |                |
+| カナダ                                   | Canada                         |                |
+| カフカス山脈                             | Caucasus Mountains             |                |
+| カブール                                 | Kabul                          |                |
+| ガラパゴス諸島                           | Galápagos Islands              |                |
+| カリブ海                                 | Caribbean Sea                  |                |
+| カリフォルニア                           | California                     |                |
+| 韓国                                     |                                |                |
+| ガンジス川                               | Ganges                         |                |
+| 広東（カントン）                         | Canton                         |                |
+| カンヌ                                   | Cannes                         | 戛纳           |
+| ガンビア                                 | Gambia                         |                |
+| カンボジア                               | Cambodia                       |                |
+| キューバ                                 | Cuba                           |                |
+| キエフ                                   | Kiev                           |                |
+| 北朝鮮                                   |                                | 朝鲜           |
+| ギニア                                   | Guinea                         |                |
+| キプロス                                 | Cyprus                         |                |
+| 喜望峰（きぼうほう）                     | Cape of Good Hope              |                |
+| キャンベラ                               | Canberra                       |                |
+| ギリシャ                                 | Greece                         |                |
+| キリマンジャロ山                         | Mount Kilimanjaro              |                |
+| 金門橋（きんもんきょう）                 |                                |                |
+| グアテマラ                               | Guatemala                      |                |
+| グアム島                                 | Guam                           |                |
+| クアラルンプール                         | Kuala Lumpur                   |                |
+| クウェート                               | Kuwait                         |                |
+| クスコ                                   | Cusco                          |                |
+| グランドキャニオン                       | Grand Canyon                   | 科罗拉多大峡谷 |
+| クリーブランド                           | Cleveland                      |                |
+| グリーンランド                           | Greenland                      |                |
+| グリニッジ                               | Greenwich                      |                |
+| クリミア半島                             | Crimean Peninsula              |                |
+| グルジア                                 | Georgia                        |                |
+| クレムリン宮殿                           | Kremlin                        | 克里姆林宫     |
+| ケープタウン                             | Cape Town                      |                |
+| ケニア                                   | Kenya                          |                |
+| ケベック                                 | Quebec                         |                |
+| ケルン                                   | Cologne                        |                |
+| ケンブリッジ                             | Cambridge                      |                |
+| 黄河（こうが）                           |                                |                |
+| 紅海（こうかい）                         |                                |                |
+| 黄海（こうかい）                         |                                |                |
+| 広州（こうしゅう）                       |                                |                |
+| コスタリカ                               | Costa Rica                     |                |
+| 黒海（こっかい）                         |                                |                |
+| コペンハーゲン                           | Copenhagen                     |                |
+| ゴラン高原                               | Golan                          |                |
+| コロッセオ                               | Colosseum                      | 大角斗场       |
+| コロラド                                 | Colorado                       |                |
+| コロラド川                               | Colorado River                 |                |
+| コロンビア                               | Colombia                       |                |
+| コロンビア川                             | Colombia River                 |                |
+| コンゴ                                   | Congo                          |                |
+|                                          |                                |                |
+| **さ**                                   |                                |                |
+| サウジアラビア                           | Saudi Arabia                   |                |
+| サハラ砂漠                               | Sahara Desert                  |                |
+| サンクトペテルブルグ                     | Saint Petersburg               |                |
+| サンチアゴ                               | Santiago                       |                |
+| サンディエゴ                             | San Diego                      |                |
+| サンパウロ                               | São Paulo                      |                |
+| サンフランシスコ                         | San Francisco                  |                |
+| 死海（しかい）                           |                                |                |
+| シカゴ                                   | Chicago                        |                |
+| シチリア島                               | Sicily                         |                |
+| シドニー                                 | Sydney                         |                |
+| シナイ半島                               | Sinai Peninsula                |                |
+| ジブラルタル海峡                         | Strait of Gibraltar            |                |
+| シベリア                                 | Siberia                        |                |
+| シベリア平原                             | Siberian Plain                 |                |
+| ジャカルタ                               | Jakarta                        |                |
+| ジャワ島                                 | Java                           |                |
+| 上海（シャンハイ）                       | Shanghai                       |                |
+| 自由（じゆう）の女神（めがみ）像（ぞう） | Geneva                         |                |
+| ジュネーブ                               | Geneva                         |                |
+| シリア                                   | Syria                          |                |
+| シンガポール                             | Singapore                      |                |
+| ジンバブエ                               | Zimbabwe                       |                |
+| スイス                                   |                                | 瑞士           |
+| スーダン                                 | Sudan                          |                |
+| スエズ運河                               | Suez Canal                     |                |
+| スウェーデン                             | Sweden                         |                |
+| スカンジナビア半島                       | Scandinavia Peninsula          |                |
+| スコットランド                           | Scotland                       |                |
+| ストックホルム                           | Stockholm                      |                |
+| スペイン                                 | Spain                          |                |
+| スペリオル湖                             | Lake Superior                  |                |
+| スマトラ島                               | Sumatra                        |                |
+| スリランカ                               | Sri Lanka                      |                |
+| スロバキア                               | Slovakia                       |                |
+| スロベニア                               | Slovenia                       |                |
+| 青瓦台（せいがだい）                     |                                |                |
+| 聖（せい）ソフィア寺院                   | Hagia Sophia                   |                |
+| 成都（せいと）                           |                                |                |
+| セーヌ川                                 | Seine                          |                |
+| セネガル                                 | Senegal                        |                |
+| セルビア                                 | Serbia                         |                |
+| セント・ポール大聖堂                     | St. Paul's Cathedral           |                |
+| ソウル                                   | Seoul                          | 首尔，汉城     |
+| ソフィア                                 | Sophia                         |                |
+| ソ連                                     |                                | 苏联           |
+| ソロモン諸島                             | Solomon Islands                |                |
+|                                          |                                |                |
+| **た**                                   |                                |                |
+| タージ・マハル                           | Taj Mahal                      | 泰姬陵         |
+| タイ                                     | Thai                           | 泰国           |
+| 大西洋（たいせいよう）                   |                                | 泰国           |
+| 太平洋（たいへいよう）                   |                                | 泰国           |
+| 台湾                                     |                                |                |
+| タクラマカン砂漠                         | Taklamakan Desert              |                |
+| タタール海峡                             | Strait of Tartary              |                |
+| ダブリン                                 | Dublin                         |                |
+| ダマスカス                               | Damascus                       |                |
+| ダラス                                   | Dallas                         |                |
+| タリム盆地                               | Tarim Basin                    |                |
+| タンザニア                               | Tanzania                       |                |
+| チェコ                                   | Czechia                        |                |
+| チェルノブイリ                           | Chernobyl                      |                |
+| チグリス川                               | Tigris                         |                |
+| 地中海（ちちゅうかい）                   | Tibet                          |                |
+| チベット                                 | Tibet                          |                |
+| 中国                                     |                                |                |
+| チューリヒ                               | Zürich                         |                |
+| 長江（ちょうこう）                       |                                |                |
+| チリ                                     | Chile                          |                |
+| 青島（チンタオ）                         |                                |                |
+| ディズニーランド                         | Disneyland                     |                |
+| デトロイト                               | Detroit                        |                |
+| テネシー                                 | Tennessee                      |                |
+| テネシー川                               | Tennessee River                |                |
+| テヘラン                                 | Tehran                         |                |
+| テムズ川                                 | River Thames                   | 泰晤士河       |
+| 天安門（てんあんもん）                   |                                |                |
+| 天津（てんしん）                         |                                |                |
+| デンバー                                 | Denver                         |                |
+| デンマーク                               | Denmark                        |                |
+| ドイツ                                   |                                | 德国           |
+| 東京タワー                               | Tokyo Tower                    |                |
+| ドーハ                                   | Doha                           |                |
+| ドナウ川                                 | Danube River                   | 多瑙河         |
+| ドバイ                                   | Dubai                          |                |
+| ドミニカ                                 | Dominican                      |                |
+| トルコ                                   |                                | 土耳其         |
+| トロント                                 | Toronto                        |                |
+| ドン川                                   | Don River                      | 顿河           |
+|                                          |                                |                |
+| **な**                                   |                                |                |
+| ナイアガラ滝                             | Niagara Falls                  |                |
+| ナイジェリア                             | Nigeria                        |                |
+| ナイル川                                 | Nile                           |                |
+| ナイロビ                                 | Nairobi                        |                |
+| 南京（ナンキン）                         | Nairobi                        |                |
+| ニース                                   | Nice                           |                |
+| ニューイングランド                       | New England                    |                |
+| ニューオーリンズ                         | New Orleans                    |                |
+| ニュージーランド                         | New Zealang                    |                |
+| ニューカッスル                           | Newcastle                      |                |
+| ニューデリー                             | New Delhi                      |                |
+| ネグロ川                                 | Rio Negro                      |                |
+| ネパール                                 | Nepal                          |                |
+| ノートル・ダム大聖堂                     | Cathédrale Notre-Dame de Paris | 巴黎圣母院     |
+| ノルウェー                               | Norway                         |                |
+|                                          |                                |                |
+| **は**                                   |                                |                |
+| ハーグ                                   | Hague                          | 海牙           |
+| バークレー                               | Berkeley                       |                |
+| パース                                   | Perth                          |                |
+| バーミンガム                             | Birmingham                     |                |
+| バーレーン                               | Bahrain                        |                |
+| バイカル湖                               | Lake Baikal                    |                |
+| ハイチ                                   | Haiti                          |                |
+| パキスタン                               | Pakistan                       |                |
+| バグダッド                               | Baghdad                        |                |
+| 白頭山（はくとうさん）                   |                                |                |
+| バチカン                                 | Vatican                        |                |
+| バッキンガム宮殿                         | Buckingham Palace              | 白金汉宫       |
+| パナマ                                   | Panama                         |                |
+| パナマ運河                               | Panama Canal                   |                |
+| ハノイ                                   | Hanoi                          |                |
+| ハバナ                                   | Havana                         |                |
+| バハマ                                   | Bahamas                        |                |
+| パミール高原                             | Pamir Mountains                |                |
+| バミューダ諸島                           | Bermuda                        |                |
+| パリ                                     | Paris                          |                |
+| ハリウッド                               | Hollywood                      |                |
+| バリ島                                   | Bali                           |                |
+| バルカン半島                             | Balkans                        |                |
+| バルセロナ                               | Barcelona                      |                |
+| パルテノン神殿                           | Parthenon                      |                |
+| バルト海                                 | Baltic Sea                     |                |
+| 哈爾浜（ハルビン）                       | Harbin                         |                |
+| パレスチナ                               | Palestine                      |                |
+| バレンシア                               | Valencia                       |                |
+| ハワイ                                   | Hawaii                         |                |
+| ハンガリー                               | Hungary                        |                |
+| バンガロール                             | Bengaluru                      |                |
+| バンクーバー                             | Vancouver                      |                |
+| バングラデシュ                           | Bangladesh                     |                |
+| バンコク                                 | Bangkok                        |                |
+| ハンブルク                               | Hamburg                        |                |
+| 万里（ばんり）の長城（ちょうじょう）     |                                |                |
+| ビエンチャン                             | Vientiane                      | 万象           |
+| ビクトリア                               | Victoria                       |                |
+| ビクトリア湖                             | Lake Victoria                  |                |
+| ピサ                                     | Pisa                           |                |
+| ビッグ・ベン                             | Big Ben                        |                |
+| ピッツバーグ                             | Pittsburgh                     |                |
+| ヒマラヤ山脈                             | Himaraya                       |                |
+| ヒューストン                             | Houston                        |                |
+| ヒューロン湖                             | Lake Huron                     |                |
+| 平壌（ピョンヤン）                       | Pyongyang                      |                |
+| ピラミッド                               | Pyramid                        | 金字塔         |
+| 武漢（ぶかん）                           |                                |                |
+| フィジー                                 | Fiji                           |                |
+| フィラデルフィア                         | Philadelphia                   |                |
+| フィリピン                               | Philippines                    |                |
+| フィレンツェ                             | Florence                       |                |
+| フィンランド                             | Finland                        |                |
+| ブエノスアイレス                         | Buenos Aires                   |                |
+| ブカレスト                               | Bucharest                      |                |
+| 釜山（プサン）                           |                                |                |
+| ブダペスト                               | Budapest                       |                |
+| プノンペン                               | Phnom Penh                     |                |
+| ブラジリア                               | Brasilia                       |                |
+| ブラジル                                 | Brasil                         |                |
+| ブラチスラバ                             | Bratislava                     |                |
+| プラハ                                   | Prague                         |                |
+| フランクフルト                           | Frankfurt                      |                |
+| フランス                                 | France                         |                |
+| ブランデンブルク                         | Brandenburg                    |                |
+| ブランデンブルク門                       | Brandenburg Gate               |                |
+| ブリスベーン                             | Brisbane                       |                |
+| ブリュッセル                             | Brussels                       |                |
+| ブルガリア                               | Bulgaria                       |                |
+| プロバンス                               | Provence                       |                |
+| フロリダ                                 | Florida                        |                |
+| フロリダ半島                             |                                |                |
+| ベイルート                               | Beirut                         |                |
+| ベーリング海                             | Bering Sea                     |                |
+| ベオグラード                             | Belgrade                       |                |
+| 北京（ペキン）                           | Peking                         |                |
+| ベトナム                                 | Vietnam                        |                |
+| ベニス                                   | Venice                         |                |
+| ベネズエラ                               | Venezuela                      |                |
+| ベラルーシ                               | Belarus                        |                |
+| ベルー                                   | Peru                           |                |
+| ベンガル湾                               | Bay of Bengal                  |                |
+| ベルギー                                 | Belgium                        |                |
+| ベルサイユ                               | Versailles                     | 凡尔赛         |
+| ベルサイユ宮殿                           | Palace of Versailles           |                |
+| ペルシア湾                               | Persian Gulf                   |                |
+| ヘルシンキ                               | Helsinki                       |                |
+| ベルダン                                 | Verdun                         |                |
+| ベルリン                                 | Berlin                         |                |
+| ベルン                                   | Bern                           |                |
+| ペンタゴン                               | The Pentagon                   | 五角大厦       |
+| ホーチミン                               | Ho Chi Minh                    |                |
+| ポーランド                               | Poland                         |                |
+| ボストン                                 | Boston                         |                |
+| ポツダム                                 | Potsdam                        |                |
+| ボツワナ                                 | Botswana                       |                |
+| ボリビア                                 | Bolivia                        |                |
+| ポリネシア                               | Polynesia                      |                |
+| ボルガ川                                 | Volga River                    |                |
+| ポルトガル                               | Portugal                       |                |
+| ホワイト・ハウス                         | White House                    |                |
+| 香港（ホンコン）                         | Hong Kong                      |                |
+| ホンジュラス                             | Honduras                       |                |
+| ポンペイ                                 | Pompeii                        |                |
+|                                          |                                |                |
+| **ま**                                   |                                |                |
+| マイアミ                                 | Miami                          |                |
+| マケドニア                               | Macedonia                      | 马其顿         |
+| マゼラン海峡                             | Strait of Magellan             |                |
+| マダガスカル                             | Madagascar                     |                |
+| マドリード                               | Madrid                         |                |
+| マニラ                                   | Manila                         |                |
+| マラッカ                                 | Malacca                        |                |
+| マレーシア                               | Malaysia                       |                |
+| マレー半島                               | Malay Peninsula                |                |
+| マンチェスター                           | Manchester                     |                |
+| マンハッタン                             | Manhattan                      |                |
+| ミシガン                                 | Michigan                       |                |
+| ミシガン湖                               | Lake Michigan                  |                |
+| ミシシッピ川                             | Mississippi River              |                |
+| ミズーリ川                               | Missouri River                 |                |
+| ミッドウェー諸島                         | Midway Atoll                   |                |
+| ミネアポリス                             | Minneapolis                    |                |
+| ミャンマー                               | Myanmar                        |                |
+| ミュンヘン                               | Munich                         |                |
+| ミラノ                                   | Milan                          |                |
+| ミンスク                                 | Minsk                          |                |
+| ムンバイ                                 | Mumbai                         |                |
+| メキシコ                                 | Mexico                         |                |
+| メキシコシティ                           | Mexico City                    |                |
+| メキシコ湾                               | Gulf of Mexico                 |                |
+| メコン川                                 | Mekong River                   |                |
+| メッカ                                   | Mecca                          |                |
+| メソポタミア                             | Mesopotamia                    |                |
+| メルボルン                               | Melbourne                      |                |
+| メンフィス                               | Memphis                        |                |
+| モザンビーク                             | Mozambique                     |                |
+| モザンビーク海峡                         | Mozambique Channel             |                |
+| モスクワ                                 | Moscow                         |                |
+| モナコ                                   | Monaco                         |                |
+| モルドバ                                 | Moldova                        |                |
+| モロッコ                                 | Morocco                        |                |
+| モンゴル                                 | Mongolia                       |                |
+| モンテカルロ                             | Monte Carlo                    |                |
+| モントリオール                           | Montreal                       |                |
+|                                          |                                |                |
+| **や**                                   |                                |                |
+| ヤンゴン                                 | Yangon                         | 仰光           |
+| ユーフラテス川                           | Euphrates                      |                |
+| ヨーク                                   | York                           |                |
+| ヨハネスバーグ                           | Johannesburg                   |                |
+| ヨルダン                                 | Jordan                         |                |
+| ヨルダン川                               | Jordan River                   |                |
+|                                          |                                |                |
+| **ら**                                   |                                |                |
+| ライプチヒ                               | Leipzig                        |                |
+| ライン川                                 | Rhine River                    |                |
+| ラオス                                   | Laos                           |                |
+| ラトビア                                 | Latvia                         |                |
+| リオデジャネイロ                         | Rio de Janeiro                 |                |
+| リスボン                                 | Lisbon                         |                |
+| リトアニア                               | Lithuania                      |                |
+| リビア                                   | Libya                          |                |
+| リヒテンシュタイン                       | Liechtenstein                  |                |
+| リマ                                     | Lima                           |                |
+| リヨン                                   | Lyonnais                       |                |
+| ルーブル美術館                           | Louvre Museum                  |                |
+| ルーマニア                               | Romania                        |                |
+| ルクセンブルグ                           | Luxembourg                     |                |
+| ルソン島                                 | Luzon                          |                |
+| ルワンダ                                 | Rwanda                         |                |
+| レイキャビク                             | Reykjavík                      |                |
+| レキシントン                             | Lexington                      |                |
+| レソト                                   | Lesotho                        |                |
+| レナ川                                   | Lena River                     |                |
+| レバノン                                 | Lebanon                        |                |
+| ローザンヌ                               | Lausanne                       |                |
+| ローマ                                   | Roma                           |                |
+| ロサンゼルス                             | Los Angeles                    |                |
+| ロシア                                   | Russia                         |                |
+| ロッキー山脈                             | Rocky Mountains                |                |
+| ロッテルダム                             | Rotterdam                      |                |
+| ロングビーチ                             | Long Beach                     |                |
+| ロンドン                                 | London                         |                |
+| ロンドン橋                               | London Bridge                  |                |
+|                                          |                                |                |
+| **わ**                                   |                                |                |
+| ワシントン                               | Washington                     |                |
+| ワルシャワ                               | Warsaw                         |                |
