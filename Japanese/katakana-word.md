@@ -188,6 +188,7 @@
 | エッグタルト                   | egg tarte                                 | 蛋挞           |
 | エッセンス                     | essence                                   | 本质           |
 | エッチ                         |                                           | 色情           |
+| エッチング                     | etching                                   |                |
 | エトセトラ                     | （ラテン）et cetra                        |                |
 | エネルギー                     | energy                                    |                |
 | エピローグ                     | epilogue                                  | 终章           |
@@ -528,6 +529,7 @@
 | コンテナ                 | container                    | 集装箱                 |
 | コンテンツ               | contents                     |                        |
 | コンドーム               | condom                       |                        |
+| コンドミニアム           | condominium                  |                        |
 | コントラスト             | contrast                     |                        |
 | コントロール             | control                      |                        |
 | コンパ                   | company                      | 联谊会                 |
