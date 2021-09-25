@@ -1174,7 +1174,6 @@
 | パーセント                       | percent                  |                          |
 | パーソナル                       | personal                 |                          |
 | パーソナリティー                 | personality              |                          |
-|                                  |                          |                          |
 | バーチャル                       | virtual                  |                          |
 | パーツ                           | parts                    |                          |
 | パーティー                       | party                    |                          |
@@ -1885,6 +1884,7 @@
 | リンク                 | link                    |                  |
 | リング                 | ring                    |                  |
 | リンス                 | rinse                   | 护发素           |
+| リンチ[1]              | lynch                   | 私刑             |
 | リンパ[1]              | lymph                   | 淋巴             |
 | ルーズ                 | loose                   | 松懈；散漫       |
 | ルーチン               | routine                 |                  |
