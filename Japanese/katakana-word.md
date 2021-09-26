@@ -305,6 +305,7 @@
 | カフェ                   | （フランス）café             |                        |
 | カフェイン               | caffeine                     |                        |
 | カプセル                 | capsule                      |                        |
+| カプチーノ               | （イタリア）cappuccino       |                        |
 | ガム                     | gum                          | 口香糖                 |
 | ガムテープ               | gum + tape                   | 胶布                   |
 | カメラ                   | camera                       |                        |
