@@ -2,259 +2,260 @@
 
 ## ア
 
-|                                |                                           |                |
-| ------------------------------ | ----------------------------------------- | -------------- |
-| アーカイブ                     | archive                                   |                |
-| アーキテクチャー               | architecture                              |                |
-| アーケード                     | arcade                                    | 拱廊；街机     |
-| アーティスト                   | artist                                    |                |
-| アート                         | art                                       |                |
-| アーバン                       | urban                                     |                |
-| アイシング                     | icing                                     | 冰敷           |
-| アイス                         | ice                                       |                |
-| アイスクリーム                 | ice cream                                 |                |
-| アイデア                       | idea                                      |                |
-| アイテム                       | item                                      |                |
-| アイデンティティ               | identity                                  |                |
-| アイドル                       | idol                                      |                |
-| アイロン                       | iron                                      | 熨斗           |
-| アウト                         | out                                       |                |
-| アウトソーシング               | outsourcing                               | 外包           |
-| アウトドア                     | outdoor                                   |                |
-| アウトレット                   | outlet                                    |                |
-| アカウント                     | account                                   |                |
-|                                |                                           |                |
-|                                |                                           |                |
-| アクシデント                   | accident                                  |                |
-| アクション                     | action                                    |                |
-| アクセサリー                   | accessory                                 |                |
-| アクセシビリティ               | accessibility                             |                |
-| アクセス                       | access                                    |                |
-|                                |                                           |                |
-| アクセル                       | accelerator                               | 油门           |
-| アクセント                     | accent                                    |                |
-| アクティブ                     | active                                    |                |
-| アカデミック                   | academic                                  |                |
-| アカデミー                     | academy                                   |                |
-| アジア                         | Asia                                      |                |
-| アジェンダ                     | agenda                                    |                |
-| アジト                         |                                           | （非法）据点   |
-| アタック                       | attack                                    |                |
-| アダルト                       | adult                                     |                |
-| アップ                         | up                                        |                |
-| アップグレード                 | upgrade                                   |                |
-| アップデート                   | update                                    |                |
-| アップルパイ                   | apple pie                                 |                |
-| アップロード                   | upload                                    |                |
-| アドバイス                     | advice                                    |                |
-| アトリエ                       | （フランス）atelier                       | 画室           |
-| アドリブ                       | （ラテン）ad libitum                      |                |
-| アドレス                       | address                                   |                |
-| アドレナリン                   | adrenalin                                 | 肾上腺素       |
-| アナーキー                     | anarchy                                   | 无政府状态     |
-| アナウンサー                   | anouncer                                  |                |
-| アナリスト                     | analyst                                   |                |
-| アナログ                       | analog                                    |                |
-| アナロジー                     | analogy                                   |                |
-| アニメ（ーション）             | animation                                 |                |
-| アパート（メント）             | apartment                                 |                |
-| アピール                       | appeal                                    | 呼吁；吸引人   |
-| アビリティー                   | ability                                   |                |
-| アフター〜                     | after                                     |                |
-| アプリ（ケーション）           | application                               |                |
-| アプローチ                     | approach                                  |                |
-| アベレージ                     | average                                   |                |
-| アポ（イント）（メント）       | appointment                               |                |
-| アマチュア                     | amateur                                   |                |
-| アミューズメント               | amusement                                 |                |
-| アメリカ                       | America                                   |                |
-| アラーム                       | alarm                                     |                |
-| アラブ                         | Arab                                      |                |
-| アリーナ                       | arena                                     | 竞技场         |
-| アルカリ                       | （オランダ）alkali                        | 碱性           |
-| アルコール                     | alcohol                                   |                |
-| アルツハイマー                 | Alzheimer                                 |                |
-| アリバイ                       | （ラテン）alibi                           |                |
-| （アル）バイト                 | （ドイツ） Arbeit                         | 打工           |
-| アルバム                       | album                                     |                |
-| アルファ                       | alpha                                     |                |
-| アルファベット                 | alphabet                                  |                |
-| アルミ（ニウム）               | aluminum                                  |                |
-| アレルギー                     | （ドイツ） allergie                       |                |
-| アレンジ                       | arrange                                   | 配置，安排     |
-| アンカー                       | anchor                                    |                |
-| アングル                       | angle                                     |                |
-| アンケート                     | （フランス）enquête                       | 问卷调查       |
-|                                |                                           |                |
-| アンコール                     | encore                                    |                |
-| アンダーグラウンド・アングラ   | underground                               |                |
-| アンチ                         | anti                                      | 黑子，酸民     |
-| アンチ〜                       | anti                                      |                |
-| アンテナ                       | antenna                                   |                |
-| アンペア                       | ampere                                    | 安培           |
-| アンモニア                     | ammonia                                   | 氨气           |
-| イーブン                       | even                                      |                |
-| イエロー                       | yellow                                    |                |
-| イオン                         | ion                                       |                |
-| イケメン                       |                                           | 帅哥           |
-| イコール                       | equal                                     |                |
-| 〜イズム                       | -ism                                      |                |
-| イスラム                       | Islam                                     |                |
-| イタリア                       | Italia                                    |                |
-| イタリアン                     | Italian                                   |                |
-| イデオロギー                   | （ドイツ）Ideologie                       | 意识形态       |
-| イノベーション                 | innovation                                |                |
-| イベンド                       | event                                     | 活动           |
-| イメージ                       | image                                     | 印象           |
-| イヤー                         | year                                      |                |
-| イヤホン                       | earphone                                  |                |
-| イヤリング                     | earing                                    | 耳环           |
-| イラスト                       | illustration                              | 插图           |
-| イリュージョン                 | illusion                                  |                |
-| イルミネーション               | illumination                              | 灯光秀         |
-| インキュベーター               | incubator                                 | 孵化器         |
-| インク・インキ                 | （オランダ）ink                           |                |
-| インサイダー                   | insider                                   |                |
-| インスタント                   | instant                                   |                |
-| インスパイア                   | inspire                                   |                |
-| インスピレーション             | inspiration                               |                |
-| インセンティブ                 | incentive                                 | 诱因           |
-| インターナショナル             | international                             |                |
-| インターネット                 | internet                                  |                |
-| インターバル                   | interval                                  |                |
-| インターンシップ               | internship                                | 实习           |
-|                                |                                           |                |
-| インタビュー                   | interview                                 | 采访           |
-| インデックス                   | index                                     |                |
-| インテリ（ゲンチャ）           | （ロシア) intelligentsiya                 | 知识分子       |
-| インテリア                     | interior                                  | 装修           |
-| インテリジェンス               | intelligence                              |                |
-| インパクト                     | impact                                    |                |
-| インフォメーション             | infomation                                |                |
-| インフラ                       | infrastructure                            |                |
-| インフルエンザ                 | imfluenza                                 |                |
-| インフレ（ーション）           | inflation                                 | 通货膨胀       |
-| インポート                     | import                                    |                |
-|                                |                                           |                |
-|                                |                                           |                |
-| ウイスキー                     | whisky                                    |                |
-| ウイルス                       | virus                                     |                |
-| ウインカー                     | winker                                    | 车灯           |
-| ウインク                       | wink                                      | 使眼色；抛媚眼 |
-| ウインター                     | winter                                    |                |
-| ウインド                       | wind                                      |                |
-| ウール                         | wool                                      |                |
-| ウエート                       | weight                                    |                |
-| ウエートトレーニング           | weight training                           | 重量训练       |
-| ウエートレス                   | waitress                                  |                |
-| ウエーブ                       | wave                                      |                |
-| ウエスト                       | waist                                     |                |
-| ウェット                       | wet                                       |                |
-| ウェットスーツ                 | wetsuit                                   | 潜水服         |
-| ウエディング                   | wedding                                   |                |
-| ウェブ                         | web                                       |                |
-| ウェブサイト                   | website                                   |                |
-| ウォーキング                   | walking                                   |                |
-| ウォーター                     | water                                     |                |
-| ウォーミングアップ             | warming up                                |                |
-| ウォッカ                       | （ロシア）vodka                           |                |
-| ウオッチ                       | watch                                     | 手表           |
-| ウルトラ〜                     | ultra-                                    |                |
-| エア                           | air                                       |                |
-| エアコン（ディショナー）       | air conditioner                           |                |
-| エアポート                     | airport                                   |                |
-| エイズ                         | AIDS                                      |                |
-| エイト                         | eight                                     |                |
-| エイリアン                     | alien                                     |                |
-| エージェント                   | agent                                     |                |
-| エース                         | ace                                       |                |
-| エキスパート                   | expert                                    |                |
-| エキゾチック                   | exotic                                    |                |
-| エクスタシー                   | ecstasy                                   | 陶醉，忘我     |
-| エクスプレス                   | express                                   | 特快列车       |
-| エクセレント                   | excellent                                 |                |
-| エコー                         | echo                                      |                |
-| エコ（ノミー）                 | economy                                   |                |
-| エコ（ロジー）                 | ecology                                   |                |
-| エゴサーチ                     | egosearch                                 | 网上搜自己     |
-| エスカレーター                 | escalator                                 | 扶梯           |
-| エスケープ                     | escape                                    |                |
-| エステート                     | estate                                    | 不动产         |
-| エステティーク                 | （ドイツ）Ästhetik;（フランス）esthétique | 美学           |
-| エステ（ティック）             | aesthetic                                 | 美容           |
-| エスプリ                       | （フランス）esprit                        | 精神           |
-| エターナル                     | eternal                                   |                |
-| エチケット                     | （フランス）étiquette                     | 礼仪           |
-| エッグタルト                   | egg tarte                                 | 蛋挞           |
-| エッセンス                     | essence                                   | 本质           |
-| エッチ                         |                                           | 色情           |
-| エッチング                     | etching                                   |                |
-| エトセトラ                     | （ラテン）et cetra                        |                |
-| エネルギー                     | energy                                    |                |
-| エピローグ                     | epilogue                                  | 终章           |
-| エプロン                       | apron                                     |                |
-| エミッション                   | emission                                  |                |
-| エメラルド                     | emerald                                   |                |
-| エラー                         | error                                     |                |
-| エリア                         | area                                      |                |
-| エリート                       | （フランス）élite                         |                |
-| エレガント                     | elegant                                   |                |
-| エレキ（ギター）               | electric guitar                           |                |
-| エレクトロニクス               | electronics                               |                |
-| エレベーター                   | elevator                                  | 直梯           |
-| エロ（チック）                 | erotic                                    |                |
-| エンジェル                     | angel                                     |                |
-| エンジニア                     | engineer                                  |                |
-| エンジニアリング               | engineering                               |                |
-| エンジン                       | engine                                    |                |
-| エンターテイナー               | entertainer                               |                |
-| エンターテインメント・エンタメ | entertainment                             |                |
-| エンディング                   | ending                                    |                |
-| エントランス                   | entrance                                  | 高级公寓的大厅 |
-| エンドレス                     | endless                                   |                |
-| オイル                         | oil                                       |                |
-|                                |                                           |                |
-| オーガニック                   | organic                                   |                |
-| オークション                   | auction                                   |                |
-| オーケー                       | okay                                      |                |
-| オーケストラ                   | orchestra                                 |                |
-| オーセンティック               | authentic                                 | 真正的         |
-| オーダー                       | order                                     |                |
-| オート                         | auto                                      | 汽车           |
-| オートバイ・バイク             | auto + bicycle                            | 摩托车         |
-| オートマチック                 | automatic                                 |                |
-| オートマトン                   | automaton                                 | 自动机         |
-| オーナー                       | owner                                     |                |
-| オーバー                       | over                                      | 外套；超过     |
-| オープナー                     | opener                                    | 开瓶           |
-| オープン                       | open                                      |                |
-| オーブン                       | oven                                      |                |
-| オール                         | all                                       |                |
-| オールマイティー               | almighty                                  | 万能（的神）   |
-| オーロラ                       | aurora                                    | 极光           |
-| オタク                         | お宅                                      | 死宅           |
-| オッパイ                       |                                           |                |
-| オナニー                       | （ドイツ）Onanie                          | 自慰           |
-| オピニオン                     | opinion                                   |                |
-| オフ                           | off                                       |                |
-| オファー                       | offer                                     |                |
-| オフィシャル                   | official                                  |                |
-| オフィス                       | office                                    |                |
-| オブザーバー                   | observer                                  |                |
-| オプション                     | option                                    |                |
-| オフセット                     | offset                                    |                |
-| オモロ                         |                                           | 搞笑程度       |
-| オペラ                         | （フランス）opéra                         |                |
-| オペ（レーション）             | operation                                 | 手术           |
-| オリエンテーション             | orientation                               |                |
-| オリンピック                   | Olympic                                   |                |
-| オルガン                       | （ポルトガル）orgão                       | 风琴           |
-|                                |                                           |                |
-| オレンジ                       | orange                                    |                |
-| オン                           | on                                        |                |
-| オンデマンド                   | on demand（=注文対応）                    | 接受订单       |
-| オンライン                     | online                                    |                |
-| オンリー                       | only                                      |                |
+|                                |                                           |                        |
+| ------------------------------ | ----------------------------------------- | ---------------------- |
+| アーカイブ                     | archive                                   |                        |
+| アーキテクチャー               | architecture                              |                        |
+| アーケード                     | arcade                                    | 拱廊；街机             |
+| アーチ                         | arch                                      | 拱（结构），拱桥，拱门 |
+| アーティスト                   | artist                                    |                        |
+| アート                         | art                                       |                        |
+| アーバン                       | urban                                     |                        |
+| アイシング                     | icing                                     | 冰敷                   |
+| アイス                         | ice                                       |                        |
+| アイスクリーム                 | ice cream                                 |                        |
+| アイデア                       | idea                                      |                        |
+| アイテム                       | item                                      |                        |
+| アイデンティティ               | identity                                  |                        |
+| アイドル                       | idol                                      |                        |
+| アイロン                       | iron                                      | 熨斗                   |
+| アウト                         | out                                       |                        |
+| アウトソーシング               | outsourcing                               | 外包                   |
+| アウトドア                     | outdoor                                   |                        |
+| アウトレット                   | outlet                                    |                        |
+| アカウント                     | account                                   |                        |
+|                                |                                           |                        |
+|                                |                                           |                        |
+| アクシデント                   | accident                                  |                        |
+| アクション                     | action                                    |                        |
+| アクセサリー                   | accessory                                 |                        |
+| アクセシビリティ               | accessibility                             |                        |
+| アクセス                       | access                                    |                        |
+|                                |                                           |                        |
+| アクセル                       | accelerator                               | 油门                   |
+| アクセント                     | accent                                    |                        |
+| アクティブ                     | active                                    |                        |
+| アカデミック                   | academic                                  |                        |
+| アカデミー                     | academy                                   |                        |
+| アジア                         | Asia                                      |                        |
+| アジェンダ                     | agenda                                    |                        |
+| アジト                         |                                           | （非法）据点           |
+| アタック                       | attack                                    |                        |
+| アダルト                       | adult                                     |                        |
+| アップ                         | up                                        |                        |
+| アップグレード                 | upgrade                                   |                        |
+| アップデート                   | update                                    |                        |
+| アップルパイ                   | apple pie                                 |                        |
+| アップロード                   | upload                                    |                        |
+| アドバイス                     | advice                                    |                        |
+| アトリエ                       | （フランス）atelier                       | 画室                   |
+| アドリブ                       | （ラテン）ad libitum                      |                        |
+| アドレス                       | address                                   |                        |
+| アドレナリン                   | adrenalin                                 | 肾上腺素               |
+| アナーキー                     | anarchy                                   | 无政府状态             |
+| アナウンサー                   | anouncer                                  |                        |
+| アナリスト                     | analyst                                   |                        |
+| アナログ                       | analog                                    |                        |
+| アナロジー                     | analogy                                   |                        |
+| アニメ（ーション）             | animation                                 |                        |
+| アパート（メント）             | apartment                                 |                        |
+| アピール                       | appeal                                    | 呼吁；吸引人           |
+| アビリティー                   | ability                                   |                        |
+| アフター〜                     | after                                     |                        |
+| アプリ（ケーション）           | application                               |                        |
+| アプローチ                     | approach                                  |                        |
+| アベレージ                     | average                                   |                        |
+| アポ（イント）（メント）       | appointment                               |                        |
+| アマチュア                     | amateur                                   |                        |
+| アミューズメント               | amusement                                 |                        |
+| アメリカ                       | America                                   |                        |
+| アラーム                       | alarm                                     |                        |
+| アラブ                         | Arab                                      |                        |
+| アリーナ                       | arena                                     | 竞技场                 |
+| アルカリ                       | （オランダ）alkali                        | 碱性                   |
+| アルコール                     | alcohol                                   |                        |
+| アルツハイマー                 | Alzheimer                                 |                        |
+| アリバイ                       | （ラテン）alibi                           |                        |
+| （アル）バイト                 | （ドイツ） Arbeit                         | 打工                   |
+| アルバム                       | album                                     |                        |
+| アルファ                       | alpha                                     |                        |
+| アルファベット                 | alphabet                                  |                        |
+| アルミ（ニウム）               | aluminum                                  |                        |
+| アレルギー                     | （ドイツ） allergie                       |                        |
+| アレンジ                       | arrange                                   | 配置，安排             |
+| アンカー                       | anchor                                    |                        |
+| アングル                       | angle                                     |                        |
+| アンケート                     | （フランス）enquête                       | 问卷调查               |
+|                                |                                           |                        |
+| アンコール                     | encore                                    |                        |
+| アンダーグラウンド・アングラ   | underground                               |                        |
+| アンチ                         | anti                                      | 黑子，酸民             |
+| アンチ〜                       | anti                                      |                        |
+| アンテナ                       | antenna                                   |                        |
+| アンペア                       | ampere                                    | 安培                   |
+| アンモニア                     | ammonia                                   | 氨气                   |
+| イーブン                       | even                                      |                        |
+| イエロー                       | yellow                                    |                        |
+| イオン                         | ion                                       |                        |
+| イケメン                       |                                           | 帅哥                   |
+| イコール                       | equal                                     |                        |
+| 〜イズム                       | -ism                                      |                        |
+| イスラム                       | Islam                                     |                        |
+| イタリア                       | Italia                                    |                        |
+| イタリアン                     | Italian                                   |                        |
+| イデオロギー                   | （ドイツ）Ideologie                       | 意识形态               |
+| イノベーション                 | innovation                                |                        |
+| イベンド                       | event                                     | 活动                   |
+| イメージ                       | image                                     | 印象                   |
+| イヤー                         | year                                      |                        |
+| イヤホン                       | earphone                                  |                        |
+| イヤリング                     | earing                                    | 耳环                   |
+| イラスト                       | illustration                              | 插图                   |
+| イリュージョン                 | illusion                                  |                        |
+| イルミネーション               | illumination                              | 灯光秀                 |
+| インキュベーター               | incubator                                 | 孵化器                 |
+| インク・インキ                 | （オランダ）ink                           |                        |
+| インサイダー                   | insider                                   |                        |
+| インスタント                   | instant                                   |                        |
+| インスパイア                   | inspire                                   |                        |
+| インスピレーション             | inspiration                               |                        |
+| インセンティブ                 | incentive                                 | 诱因                   |
+| インターナショナル             | international                             |                        |
+| インターネット                 | internet                                  |                        |
+| インターバル                   | interval                                  |                        |
+| インターンシップ               | internship                                | 实习                   |
+|                                |                                           |                        |
+| インタビュー                   | interview                                 | 采访                   |
+| インデックス                   | index                                     |                        |
+| インテリ（ゲンチャ）           | （ロシア) intelligentsiya                 | 知识分子               |
+| インテリア                     | interior                                  | 装修                   |
+| インテリジェンス               | intelligence                              |                        |
+| インパクト                     | impact                                    |                        |
+| インフォメーション             | infomation                                |                        |
+| インフラ                       | infrastructure                            |                        |
+| インフルエンザ                 | imfluenza                                 |                        |
+| インフレ（ーション）           | inflation                                 | 通货膨胀               |
+| インポート                     | import                                    |                        |
+|                                |                                           |                        |
+|                                |                                           |                        |
+| ウイスキー                     | whisky                                    |                        |
+| ウイルス                       | virus                                     |                        |
+| ウインカー                     | winker                                    | 车灯                   |
+| ウインク                       | wink                                      | 使眼色；抛媚眼         |
+| ウインター                     | winter                                    |                        |
+| ウインド                       | wind                                      |                        |
+| ウール                         | wool                                      |                        |
+| ウエート                       | weight                                    |                        |
+| ウエートトレーニング           | weight training                           | 重量训练               |
+| ウエートレス                   | waitress                                  |                        |
+| ウエーブ                       | wave                                      |                        |
+| ウエスト                       | waist                                     |                        |
+| ウェット                       | wet                                       |                        |
+| ウェットスーツ                 | wetsuit                                   | 潜水服                 |
+| ウエディング                   | wedding                                   |                        |
+| ウェブ                         | web                                       |                        |
+| ウェブサイト                   | website                                   |                        |
+| ウォーキング                   | walking                                   |                        |
+| ウォーター                     | water                                     |                        |
+| ウォーミングアップ             | warming up                                |                        |
+| ウォッカ                       | （ロシア）vodka                           |                        |
+| ウオッチ                       | watch                                     | 手表                   |
+| ウルトラ〜                     | ultra-                                    |                        |
+| エア                           | air                                       |                        |
+| エアコン（ディショナー）       | air conditioner                           |                        |
+| エアポート                     | airport                                   |                        |
+| エイズ                         | AIDS                                      |                        |
+| エイト                         | eight                                     |                        |
+| エイリアン                     | alien                                     |                        |
+| エージェント                   | agent                                     |                        |
+| エース                         | ace                                       |                        |
+| エキスパート                   | expert                                    |                        |
+| エキゾチック                   | exotic                                    |                        |
+| エクスタシー                   | ecstasy                                   | 陶醉，忘我             |
+| エクスプレス                   | express                                   | 特快列车               |
+| エクセレント                   | excellent                                 |                        |
+| エコー                         | echo                                      |                        |
+| エコ（ノミー）                 | economy                                   |                        |
+| エコ（ロジー）                 | ecology                                   |                        |
+| エゴサーチ                     | egosearch                                 | 网上搜自己             |
+| エスカレーター                 | escalator                                 | 扶梯                   |
+| エスケープ                     | escape                                    |                        |
+| エステート                     | estate                                    | 不动产                 |
+| エステティーク                 | （ドイツ）Ästhetik;（フランス）esthétique | 美学                   |
+| エステ（ティック）             | aesthetic                                 | 美容                   |
+| エスプリ                       | （フランス）esprit                        | 精神                   |
+| エターナル                     | eternal                                   |                        |
+| エチケット                     | （フランス）étiquette                     | 礼仪                   |
+| エッグタルト                   | egg tarte                                 | 蛋挞                   |
+| エッセンス                     | essence                                   | 本质                   |
+| エッチ                         |                                           | 色情                   |
+| エッチング                     | etching                                   |                        |
+| エトセトラ                     | （ラテン）et cetra                        |                        |
+| エネルギー                     | energy                                    |                        |
+| エピローグ                     | epilogue                                  | 终章                   |
+| エプロン                       | apron                                     |                        |
+| エミッション                   | emission                                  |                        |
+| エメラルド                     | emerald                                   |                        |
+| エラー                         | error                                     |                        |
+| エリア                         | area                                      |                        |
+| エリート                       | （フランス）élite                         |                        |
+| エレガント                     | elegant                                   |                        |
+| エレキ（ギター）               | electric guitar                           |                        |
+| エレクトロニクス               | electronics                               |                        |
+| エレベーター                   | elevator                                  | 直梯                   |
+| エロ（チック）                 | erotic                                    |                        |
+| エンジェル                     | angel                                     |                        |
+| エンジニア                     | engineer                                  |                        |
+| エンジニアリング               | engineering                               |                        |
+| エンジン                       | engine                                    |                        |
+| エンターテイナー               | entertainer                               |                        |
+| エンターテインメント・エンタメ | entertainment                             |                        |
+| エンディング                   | ending                                    |                        |
+| エントランス                   | entrance                                  | 高级公寓的大厅         |
+| エンドレス                     | endless                                   |                        |
+| オイル                         | oil                                       |                        |
+|                                |                                           |                        |
+| オーガニック                   | organic                                   |                        |
+| オークション                   | auction                                   |                        |
+| オーケー                       | okay                                      |                        |
+| オーケストラ                   | orchestra                                 |                        |
+| オーセンティック               | authentic                                 | 真正的                 |
+| オーダー                       | order                                     |                        |
+| オート                         | auto                                      | 汽车                   |
+| オートバイ・バイク             | auto + bicycle                            | 摩托车                 |
+| オートマチック                 | automatic                                 |                        |
+| オートマトン                   | automaton                                 | 自动机                 |
+| オーナー                       | owner                                     |                        |
+| オーバー                       | over                                      | 外套；超过             |
+| オープナー                     | opener                                    | 开瓶                   |
+| オープン                       | open                                      |                        |
+| オーブン                       | oven                                      |                        |
+| オール                         | all                                       |                        |
+| オールマイティー               | almighty                                  | 万能（的神）           |
+| オーロラ                       | aurora                                    | 极光                   |
+| オタク                         | お宅                                      | 死宅                   |
+| オッパイ                       |                                           |                        |
+| オナニー                       | （ドイツ）Onanie                          | 自慰                   |
+| オピニオン                     | opinion                                   |                        |
+| オフ                           | off                                       |                        |
+| オファー                       | offer                                     |                        |
+| オフィシャル                   | official                                  |                        |
+| オフィス                       | office                                    |                        |
+| オブザーバー                   | observer                                  |                        |
+| オプション                     | option                                    |                        |
+| オフセット                     | offset                                    |                        |
+| オモロ                         |                                           | 搞笑程度               |
+| オペラ                         | （フランス）opéra                         |                        |
+| オペ（レーション）             | operation                                 | 手术                   |
+| オリエンテーション             | orientation                               |                        |
+| オリンピック                   | Olympic                                   |                        |
+| オルガン                       | （ポルトガル）orgão                       | 风琴                   |
+|                                |                                           |                        |
+| オレンジ                       | orange                                    |                        |
+| オン                           | on                                        |                        |
+| オンデマンド                   | on demand（=注文対応）                    | 接受订单               |
+| オンライン                     | online                                    |                        |
+| オンリー                       | only                                      |                        |
 
 ## カ
 
