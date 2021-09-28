@@ -1966,6 +1966,8 @@
 | ロング                 | long                    |                  |
 | ロングスカート         | long skirt              |                  |
 | ロングヘア             | long hair               |                  |
+| ロンダリング           | laundering              | 洗钱             |
+|                        |                         |                  |
 
 ## ワ
 
