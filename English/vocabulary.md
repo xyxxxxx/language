@@ -164,7 +164,17 @@
 | angle                | n.     | 角                                                                                                               |
 | angry                | a.     | 生气，愤怒                                                                                                       |
 | ankle                | n.     | 踝                                                                                                               |
-| animal               | n.     | 动物                                                                                                             |
+| animal               | n.     | 动物（不包括鸟、鱼、爬行动物、昆虫和人）；动物（与植物相对）；衣冠禽兽，畜生；某种类型的人（或事物、机构等）     |
+| animate              | v.     | 使有生机，使有活力；动画化                                                                                       |
+|                      | a.     | 有生命；有生机，有活力                                                                                           |
+| animation            | n.     | 生机，活力；（电影、游戏等的）动画制作；动画                                                                     |
+| anime                | n.     | 日本动画                                                                                                         |
+| anneal               | v.     | 退火                                                                                                             |
+| annotate             | v.     | 作注解，作评注                                                                                                   |
+| annotated            | a.     | 被注解，附注解                                                                                                   |
+| annotation           | n.     | 注解，评注                                                                                                       |
+| announce             | v.     | 宣布；通知；声称，宣称；告知（某人）到来；播音，广播                                                             |
+| anomaly              | n.     | 异常，反常                                                                                                       |
 | anonymous            | a.     | 匿名                                                                                                             |
 | another              | pron.  | 另一个                                                                                                           |
 | ant                  | n.     | 蚂蚁                                                                                                             |
@@ -486,6 +496,8 @@
 | box             | n.        | 盒子                                                                                                           |
 | boxing          | n.        | 拳击                                                                                                           |
 | bra (barssiere) | n.        | 胸罩，文胸                                                                                                     |
+| bracket         | n.        | （英）圆括号；（美）方括号；（价格、年龄、收入等的）组，群体，范围；（固定在墙上的）支架，托架                 |
+|                 | v.        | 加上括号，括上；把…等同看待，把…相提并论                                                                       |
 | brain           | n.        | 大脑                                                                                                           |
 | brainstorm      | n.        | 灵感                                                                                                           |
 |                 | v.        | 头脑风暴                                                                                                       |
@@ -777,6 +789,10 @@
 |                            | v.   | 战斗；防止                                                                                                             |
 | combine                    | v.   | 结合，组合                                                                                                             |
 | comet                      | n.   | （天）彗星                                                                                                             |
+| comfort                    | n.   | 舒服，舒适；安慰，宽慰，慰藉；令人感到安慰的人/事/物；舒适的设施（或条件）                                             |
+|                            | v.   | 安慰，宽慰                                                                                                             |
+| comfortable                | a.   | （衣服、家具等）舒服，舒适；舒服，舒适，感觉良好；自在，自如；宽裕；轻松（取胜）                                       |
+| comfortably                | ad.  | 舒服，舒适；毫无问题，容易，简单                                                                                       |
 | comic                      | a.   | 滑稽；喜剧                                                                                                             |
 | comics                     | n.   | 漫画                                                                                                                   |
 | comma                      | n.   | 逗号                                                                                                                   |
@@ -1221,6 +1237,7 @@
 | donation        | n.  | 捐款                                                                                                                             |
 | donkey          | n.  | 驴                                                                                                                               |
 | door            | n.  | 门                                                                                                                               |
+| doorman         | n.  | （旅馆、剧院等门口的）门前侍者                                                                                                   |
 | dove            | n.  | 鸽子                                                                                                                             |
 | download        | v.  | 下载                                                                                                                             |
 | downstairs      | ad. | 楼下                                                                                                                             |
@@ -2166,6 +2183,7 @@
 | jacket     | n.     | 夹克衫；（书的）封套                                                       |
 | jail       | n.     | 监狱                                                                       |
 | January    | n.     | 一月                                                                       |
+| jargon     | n.     | 行话，术语                                                                 |
 | jeans      | n.     | 牛仔裤                                                                     |
 | jesus      | n.     | 耶稣，基督                                                                 |
 |            | excla. | 天哪                                                                       |
@@ -2272,7 +2290,7 @@
 | latest         | a.  | 最新                                                                                                                     |
 | laud           | n.  | 赞扬，赞美                                                                                                               |
 | laugh          | v.  | 笑                                                                                                                       |
-| launch         | v.  | 发射                                                                                                                     |
+| launch         | v.  | 发射；启动                                                                                                               |
 | law            | n.  | 法律；法规；法学；规则；法则，定律                                                                                       |
 | lawless        | a.  | 无法无天；目无法纪                                                                                                       |
 | lawn           | n.  | 草坪                                                                                                                     |
@@ -2438,6 +2456,9 @@
 | management           | n.    | 管理                                                                                                 |
 | manager              | n.    | 管理器                                                                                               |
 | mango                | n.    | 芒果                                                                                                 |
+| manifest             | v.    | 表明，显示（尤指情感、态度或品质）；显现                                                             |
+|                      | a.    | 明显，显而易见                                                                                       |
+| manifestly           | ad.   | 明显，显然，显而易见                                                                                 |
 | manner               | n.    | 方式                                                                                                 |
 | manuscript           | n.    | 原稿，手稿                                                                                           |
 | map                  | n.    | 地图                                                                                                 |
@@ -2543,6 +2564,10 @@
 | merger               | n.    | （企业或机构的）合并                                                                                 |
 | meter                | n.    | 米                                                                                                   |
 | methamphetamine      | n.    | 冰毒，甲基苯丙胺                                                                                     |
+| meticulous           | a.    | 仔细，细心，一丝不苟；周密，详尽                                                                     |
+| meticulously         | ad.   | 仔细，细心，一丝不苟；周密，详尽                                                                     |
+| metric               | a.    | 公制（单位）；公制单位，公制测量                                                                     |
+| metronome            | n.    | 节拍器                                                                                               |
 | metropolis           | n.    | 都市，大都会                                                                                         |
 | metropolitan (metro) | a.    | 都市，都会                                                                                           |
 | mew                  | v.    | 喵                                                                                                   |
@@ -2648,6 +2673,11 @@
 | mud                  | n.    | 泥                                                                                                   |
 | mug                  | n.    | 马克杯                                                                                               |
 | mule                 | n.    | 骡子                                                                                                 |
+| multi-               |       | 多                                                                                                   |
+| multiple             | a.    | 多…                                                                                                  |
+|                      | n.    | （数）倍数                                                                                           |
+| multiplication       | n.    | 乘，相乘                                                                                             |
+| multiply             | v.    | 乘，相乘；倍增，大大增加；（生）繁殖                                                                 |
 | murder               | v.    | 谋杀；要命                                                                                           |
 | murderer             | n.    | 谋杀犯，杀人犯                                                                                       |
 | muscle               | n.    | 肌肉                                                                                                 |
@@ -2729,6 +2759,7 @@
 | nice         | a.       | 好                                                                   |
 | nickel       | a.       | 镍                                                                   |
 | night        | n.       | 夜晚，晚上                                                           |
+| nightclub    | n.       | 夜店                                                                 |
 | nightmare    | n.       | 噩梦                                                                 |
 | nine         | n.       | 九                                                                   |
 | nineteen     | n.       | 十九                                                                 |
@@ -3639,6 +3670,8 @@
 | sell                     | v.            | 卖，出售                                                                                                           |
 | semantic                 | a.            | （语）语义                                                                                                         |
 | semantics                | n.            | （语）语义学；（语）（单词、短语或其他符号系统的）含义                                                             |
+| semaphore                | n.            | 旗语，发信号                                                                                                       |
+|                          | v.            | 旗语，发信号                                                                                                       |
 | semen                    | n.            | 精液                                                                                                               |
 | semi-                    |               | 半                                                                                                                 |
 | send                     | v.            | 发送                                                                                                               |
