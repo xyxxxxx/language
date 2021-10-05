@@ -331,6 +331,7 @@
 | カロリー                 | （フランス）calorie          |                        |
 | カントリー               | country                      | 田园的                 |
 | カンニング               | cunning                      | 考试作弊               |
+| カンフー                 | kung fu                      |                        |
 | キー                     | key                          |                        |
 | キープ                   | keep                         |                        |
 | キーボード               | keyboard                     |                        |
@@ -1837,6 +1838,7 @@
 | ラベル                 | label                   |                  |
 | ランキング             | ranking                 |                  |
 | ランク                 | rank                    |                  |
+| ランジェリー           | （フランス）lingerie    | 情趣内衣         |
 | ランチ                 | lunch                   |                  |
 | ランドセル             | （オランダ）randsel     | 小学生书包       |
 | ランニング             | running                 |                  |
