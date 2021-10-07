@@ -55,6 +55,7 @@
 | アナーキー                     | anarchy                                   | 无政府状态             |
 | アナウンサー                   | anouncer                                  |                        |
 | アナリスト                     | analyst                                   |                        |
+| アナル                         | anal                                      | 肛门，后庭             |
 | アナログ                       | analog                                    |                        |
 | アナロジー                     | analogy                                   |                        |
 | アニメ（ーション）             | animation                                 |                        |
@@ -77,6 +78,7 @@
 | アルツハイマー                 | Alzheimer                                 |                        |
 | アリバイ                       | （ラテン）alibi                           |                        |
 | （アル）バイト                 | （ドイツ） Arbeit                         | 打工                   |
+| アルパカ                       | alpaca                                    |                        |
 | アルバム                       | album                                     |                        |
 | アルファ                       | alpha                                     |                        |
 | アルファベット                 | alphabet                                  |                        |
@@ -111,6 +113,7 @@
 | イヤホン                       | earphone                                  |                        |
 | イヤリング                     | earing                                    | 耳环                   |
 | イラスト                       | illustration                              | 插图                   |
+| イラマ（チオ）                 | irrumatio                                 | 深喉                   |
 | イリュージョン                 | illusion                                  |                        |
 | イルミネーション               | illumination                              | 灯光秀                 |
 | インキュベーター               | incubator                                 | 孵化器                 |
@@ -841,6 +844,7 @@
 | セット                         | set                    |                                    |
 | ゼネコン                       | general + contractor   | 承包商                             |
 | ゼネラル                       | general                |                                    |
+| セフレ                         | sex + friend           | 炮友                               |
 | セブン                         | seven                  |                                    |
 | ゼミ（ナール）                 | （ドイツ）Seminar      |                                    |
 | セメント                       | cement                 |                                    |
@@ -875,6 +879,7 @@
 | ソリューション                 | solution               | 溶液；解决方案                     |
 | ソロ                           | （イタリア）solo       |                                    |
 | ゾンビ                         | zombie                 |                                    |
+|                                |                        |                                    |
 
 ## タ
 
@@ -1050,6 +1055,7 @@
 | ドクター                     | doctor               |                      |
 | ドクトリン                   | doctrine             | 教义                 |
 | ドグマ                       | dogma                | 教义；专断           |
+| ドスケベ                     |                      | 特别好色             |
 | ドタキャン                   | 土壇場 + キャンセル  | 最后关头取消         |
 | ドック                       | dock                 | 船坞                 |
 | ドット                       | dot                  |                      |
@@ -1100,6 +1106,7 @@
 | トロピカル                   | tropical             |                      |
 | トン                         | ton                  |                      |
 | トンネル                     | tunnel               |                      |
+|                              |                      |                      |
 
 ## ナ
 
@@ -1184,6 +1191,7 @@
 | ハート                           | heart                    |                          |
 | ハード                           | hard                     |                          |
 | ハードウェア                     | hardware                 |                          |
+| ハードコア                       | hardcore                 |                          |
 | パート（タイム）                 | part time                |                          |
 | ハードディスク                   | harddisk                 |                          |
 | パートナー                       | partner                  |                          |
@@ -1220,7 +1228,7 @@
 | ハイブリッド                     | hybrid                   |                          |
 | バイブル                         | Bible                    |                          |
 | バイブレーター                   | vibrator                 |                          |
-| バイブレーション                 | vibration                |                          |
+| バイブ（レーション）             | vibration                |                          |
 | バイプレーヤー                   |                          | 配角                     |
 | パイロット                       | pilot                    |                          |
 | パイロン                         |                          | 路障                     |
@@ -1417,7 +1425,7 @@
 | フェティシズム・フェチ           | fetishism                | 恋物癖                   |
 | フェミニスト                     | feminist                 | 女权主义者               |
 | フェミニズム                     | feminism                 | 女权主义                 |
-| フェラ（チオ）                   | fellatio                 |                          |
+| フェラ（チオ）                   | fellatio                 | 口交                     |
 | フェリー                         | ferry                    | 渡轮                     |
 | フェローシップ                   | fellowship               |                          |
 | フェロモン                       | pheromone                | 信息素                   |
@@ -1782,6 +1790,7 @@
 | ------------ | -------------------- | ------ |
 | ヤード       | yard                 |        |
 | ヤクザ       |                      | 黑社会 |
+| ヤリチン     |                      | 炮王   |
 | ヤンキー     | yankee               | 不良   |
 | ヤング       | young                |        |
 | ヤンデレ     |                      | 病娇   |
