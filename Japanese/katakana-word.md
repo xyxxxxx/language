@@ -247,13 +247,13 @@
 | オブザーバー                   | observer                                  |                        |
 | オプション                     | option                                    |                        |
 | オフセット                     | offset                                    |                        |
-| オモロ                         |                                           | 搞笑程度               |
 | オペラ                         | （フランス）opéra                         |                        |
 | オペ（レーション）             | operation                                 | 手术                   |
+| オムライス                     | オム（レツ）+ ライス                      | 蛋包饭                 |
+| オモロ                         |                                           | 搞笑程度               |
 | オリエンテーション             | orientation                               |                        |
 | オリンピック                   | Olympic                                   |                        |
 | オルガン                       | （ポルトガル）orgão                       | 风琴                   |
-|                                |                                           |                        |
 | オレンジ                       | orange                                    |                        |
 | オン                           | on                                        |                        |
 | オンデマンド                   | on demand（=注文対応）                    | 接受订单               |
@@ -266,6 +266,7 @@
 |                          |                              |                        |
 | ------------------------ | ---------------------------- | ---------------------- |
 | カー                     | car                          |                        |
+| カースト                 | caste                        | 种姓                   |
 | カーテン                 | curtain                      |                        |
 | ガーデン                 | garden                       |                        |
 | ガーデニング             | gardening                    |                        |
@@ -656,6 +657,7 @@
 | シャワー                       | shower                 |                                    |
 | ジャンクション                 | junction               | 高架路口                           |
 | ジャングル                     | jungle                 |                                    |
+| ジャングルジム                 | jungle gym             | 攀爬架                             |
 | シャンソン                     | （フランス）chanson    | 香颂                               |
 | シャンデリア                   | chandelier             | 吊灯                               |
 | ジャンパー                     | jumper                 | 夹克                               |
@@ -879,230 +881,230 @@
 
 ## タ
 
-|                              |                      |                      |
-| ---------------------------- | -------------------- | -------------------- |
-| ダーク                       | dark                 |                      |
-| ダークホース                 | dark horse           | 黑马                 |
-| ターゲット                   | target               |                      |
-| ダース                       | dozen                |                      |
-| ターボ                       | turbo                | 涡轮                 |
-| ターミナル                   | terminal             | 终点站；航站楼       |
-| ターム                       | term                 |                      |
-| ターン                       | turn                 |                      |
-| ダイエット                   | diet                 |                      |
-| ダイジェスト                 | digest               |                      |
-| タイト                       | tight                |                      |
-| タイトル                     | title                |                      |
-| ダイナミック                 | dynamic              |                      |
-| タイプ                       | type                 | 类型，（喜欢的）类型 |
-| タイマー                     | timer                |                      |
-| タイミング                   | timing               |                      |
-| タイム                       | time                 |                      |
-| タイヤ                       | tire                 |                      |
-| ダイヤ（グラム）             | diagram              | 运行表               |
-| ダイヤ（モンド）             | diamond              |                      |
-| タイプ                       | type                 |                      |
-| ダイヤル                     | dial                 |                      |
-| タイル                       | tile                 | 瓷砖                 |
-| ダイレクト                   | direct               |                      |
-| ダウ                         | Dow                  | 道指                 |
-| ダウン                       | down                 |                      |
-| ダウンロード                 | download             |                      |
-| タオル                       | towel                |                      |
-| タキシード                   | tuxedo               | 燕尾服               |
-| タクシー                     | taxi                 |                      |
-| タスク                       | task                 |                      |
-| ダスト                       | dust                 |                      |
-| タ（ッ）グ                   | tag                  | 标签                 |
-| タックス                     | tax                  | 税                   |
-| ダッシュ                     | dash                 |                      |
-| タッチ                       | touch                |                      |
-| タップ                       | tap                  |                      |
-| ダニ                         |                      | 流氓                 |
-| タブ                         | tab                  |                      |
-| タブー                       | taboo                |                      |
-| ダフ屋                       |                      | 黄牛                 |
-| タブレット                   | tablet               | 平板电脑             |
-| ダミー                       | dummy                | 替身                 |
-|                              |                      |                      |
-| タブル                       | double               |                      |
-| ダム                         | dam                  |                      |
-| ダメージ                     | damage               |                      |
-| タルト                       | （フランス）tarte    | 挞                   |
-| タレント                     | talent               | 演员                 |
-| タワー                       | tower                |                      |
-| タン                         |                      | 牛舌                 |
-| タンク                       | tank                 |                      |
-| タンクトップ                 | tank top             | 背心                 |
-| ダンス                       | dance                |                      |
-|                              |                      |                      |
-| タンバリン                   | tambourine           | 铃鼓                 |
-| ダンピング                   | dumping              | 倾销                 |
-| ダンプ（カー）               | dump                 | 自动卸货卡车         |
-| ダンボール                   |                      | 箱子                 |
-| チーズ                       | cheese               |                      |
-| チーフ                       | chief                | 首领                 |
-| チーム                       | team                 |                      |
-| チームワーク                 | teamwork             |                      |
-| チェーン                     | chain                |                      |
-| チェーンソー                 | chain saw            | 电锯                 |
-| チェキ                       |                      | 拍立得               |
-| チェック                     | check                |                      |
-| チェックイン，チェックアウト | check in, check out  |                      |
-| チェリー                     | cherry               |                      |
-| チェンジ                     | change               |                      |
-| チキン                       | chicken              | 鸡肉                 |
-| チケット                     | ticket               |                      |
-| チップ                       | chip                 | 晶片                 |
-| チャート                     | chart                |                      |
-| チャーハン                   | 炒饭                 |                      |
-| チャイム                     | chime                | 门铃                 |
-| チャイルドシート             | child + seat         | 儿童安全座椅         |
-| チャット                     | chat                 |                      |
-| チャレンジ                   | challenge            |                      |
-| チャレンジャー               | challenger           |                      |
-| チャンス                     | chance               |                      |
-| チャンネル                   | channel              |                      |
-| チャンピオン                 | champion             |                      |
-| チュー                       |                      | 亲                   |
-| チューター                   | tutor                |                      |
-| チューナー                   | tuner                |                      |
-| チューブ                     | tube                 |                      |
-| チョイス                     | choice               |                      |
-| チョーク                     | chalk                |                      |
-| チョコ（レート）             | chocolate            | 巧克力               |
-| チンパンジー                 | chimpanzee           | 黑猩猩               |
-| チンピラ                     |                      | 小混混               |
-| ツアー                       | tour                 |                      |
-| ツー                         | two                  |                      |
-| ツーショット                 | two + shot           | 两人合照             |
-| ツール                       | tool                 |                      |
-| ツナ                         |                      | 金枪鱼；金枪鱼罐头   |
-| ディープ                     | deep                 |                      |
-| ディーラー                   | dealer               |                      |
-| ティシュ（ペーパー）         | tissue paper         |                      |
-| ディスカウント               | discount             |                      |
-| ディス                       | diss                 |                      |
-| ディスク                     | disc                 |                      |
-| ディストピア                 | dystopia             |                      |
-| ディスプレイ                 | display              |                      |
-| ディナー                     | dinner               |                      |
-| ディベート                   | debate               |                      |
-| ティラミス                   | （イタリア）tiramisù | 提拉米苏             |
-| ディレクター                 | director             |                      |
-| デー                         | day                  |                      |
-| テークアウト                 | take out             | 外带                 |
-| データ                       | data                 |                      |
-| データベース                 | database             |                      |
-| デート                       | date                 | 约会                 |
-| テーピング                   | taping               | 绷带                 |
-| テープ                       | tape                 |                      |
-| テーブル                     | table                |                      |
-| テーマ                       | （ドイツ）Thema      |                      |
-| テーマパーク                 | thema park           | 主题公园             |
-| テキーラ                     | （スペイン）tequila  | 龙舌兰               |
-| テキスト                     | text                 | 文本；课文           |
-| テク（ニック）               | technic              |                      |
-| テク（ノロジー）             | technology           |                      |
-| デコ（レーション）           | decoration           |                      |
-| デザート                     | dessert              |                      |
-| デザイナー                   | designer             |                      |
-| デザイン                     | design               |                      |
-| デジタル                     | digital              |                      |
-| デスク                       | desk                 |                      |
-| デスクトップ                 | desktop              |                      |
-| テスト                       | test                 |                      |
-| デッサン                     | （フランス）dessin   |                      |
-| デッド                       | dead                 |                      |
-| テナント                     | tenant               | 租客                 |
-| テニス                       | tennis               |                      |
-| デパート                     | department store     | 百货店               |
-| デバイス                     | device               |                      |
-| デビットカード               | debit card           |                      |
-| デビュー                     | （フランス）début    | 出道                 |
-| デフォルト                   | default              |                      |
-| デフレ（ーション）           | deflation            | 通货紧缩             |
-| デポジット                   | deposit              | 保证金               |
-| デモ（ンストレーション）     | demonstration        | 示威游行             |
-| デリカシー                   | delicacy             | 纤细                 |
-| デリケート                   | delicate             | 精致；微妙；纤细     |
-| テリトリー                   | teritory             |                      |
-| デリバリー                   | delivery             |                      |
-| デルタ                       | delta                |                      |
-| テレパシー                   | telepathy            | 心电感应             |
-| テレビ                       | television           |                      |
-| テレホン                     | telephone            |                      |
-| テロ（リズム）               | terrorism            |                      |
-| テロリスト                   | terrorist            |                      |
-| テン                         | ten                  |                      |
-| テンション                   | tension              | 氛围                 |
-| テント                       | tent                 |                      |
-| テンポ                       | （イタリア）tempo    | 速度                 |
-| ドア                         | door                 |                      |
-| トイレ                       | toilet               |                      |
-| トーク                       | talk                 |                      |
-| トータル                     | total                |                      |
-| ドーミー                     | dormy                | 学生公寓             |
-| ドーナツ                     | donuts               | 甜甜圈               |
-| トーナメント                 | tournament           | 锦标赛               |
-| ドーム                       | dome                 | 圆顶                 |
-| トーン                       | tone                 |                      |
-| ドキュメント                 | document             |                      |
-| ドクター                     | doctor               |                      |
-| ドクトリン                   | doctrine             | 教义                 |
-| ドグマ                       | dogma                | 教义；专断           |
-| ドスケベ                     |                      | 特别好色             |
-| ドタキャン                   | 土壇場 + キャンセル  | 最后关头取消         |
-| ドック                       | dock                 | 船坞                 |
-| ドット                       | dot                  |                      |
-| トップ                       | top                  |                      |
-| ドナー                       | donor                |                      |
-| トピック                     | topic                |                      |
-| トマト                       | tomato               |                      |
-| ドメスティック               | domestic             |                      |
-| トライ                       | try                  |                      |
-| ドライ                       | dry                  | 冷淡，冷漠           |
-| トライアル                   | trial                | 预赛                 |
-| トライアングル               | triangle             |                      |
-| ドライクリーニング           | dry cleaning         |                      |
-| ドライバー                   | driver               |                      |
-| ドライブ                     | drive                |                      |
-| ドライヤー                   | dryer                | 吹风机               |
-| トラウマ                     | （ドイツ）Trauma     | 精神创伤             |
-| トラクター                   | tractor              | 收割机               |
-| トラック                     | truck/track          | 卡车；音轨           |
-| ドラッグ                     | drug                 | 毒品                 |
-| ドラッグストア               | drugstore            | 药店                 |
-| トラップ                     | trap                 |                      |
-|                              |                      |                      |
-| トラブル                     | trouble              |                      |
-| トラベル                     | travel               |                      |
-| ドラマ                       | drama                |                      |
-| ドラマチック                 | dramatic             |                      |
-| ドラレコ                     | drive + record       | 行车记录             |
-| トランク                     | trunk                | 手提箱               |
-| トランクス                   | trunks               | 四角裤               |
-| トランジスタ                 | transistor           | 晶体管               |
-| トランプ                     | trump                |                      |
-| ドリーム                     | dream                |                      |
-| トリック                     | trick                | 诡计                 |
-| ドリル                       | drill                | 电钻；练习题         |
-| ドル                         | dollar               |                      |
-| トレース                     | trace                |                      |
-| トレード                     | trade                |                      |
-| トレーナー                   | trainer              | 教练员               |
-| トレーニング                 | training             |                      |
-| トレーラー                   | trailer              | 板车                 |
-| トレカ                       |                      | （类似大头贴的）照片 |
-| ドレス                       | dress                | 女士礼服             |
-| トレンド                     | trend                |                      |
-| ドロー                       | draw                 |                      |
-| トローチ                     | trouch               | 含片                 |
-| ドローン                     | drone                |                      |
-| トロピカル                   | tropical             |                      |
-| トン                         | ton                  |                      |
-| トンネル                     | tunnel               |                      |
-|                              |                      |                      |
+|                              |                      |                              |
+| ---------------------------- | -------------------- | ---------------------------- |
+| ダーク                       | dark                 |                              |
+| ダークホース                 | dark horse           | 黑马                         |
+| ターゲット                   | target               |                              |
+| ダース                       | dozen                |                              |
+| ターボ                       | turbo                | 涡轮                         |
+| ターミナル                   | terminal             | 终点站；航站楼               |
+| ターム                       | term                 |                              |
+| ターン                       | turn                 |                              |
+| ダイエット                   | diet                 |                              |
+| ダイジェスト                 | digest               |                              |
+| タイト                       | tight                |                              |
+| タイトル                     | title                |                              |
+| ダイナミック                 | dynamic              |                              |
+| タイプ                       | type                 | 类型，（喜欢的）类型         |
+| タイマー                     | timer                |                              |
+| タイミング                   | timing               |                              |
+| タイム                       | time                 |                              |
+| タイヤ                       | tire                 |                              |
+| ダイヤ（グラム）             | diagram              | 运行表                       |
+| ダイヤ（モンド）             | diamond              |                              |
+| タイプ                       | type                 |                              |
+| ダイヤル                     | dial                 |                              |
+| タイル                       | tile                 | 瓷砖                         |
+| ダイレクト                   | direct               |                              |
+| ダウ                         | Dow                  | 道指                         |
+| ダウン                       | down                 |                              |
+| ダウンロード                 | download             |                              |
+| タオル                       | towel                |                              |
+| タキシード                   | tuxedo               | 燕尾服                       |
+| タクシー                     | taxi                 |                              |
+| タスク                       | task                 |                              |
+| ダスト                       | dust                 |                              |
+| タ（ッ）グ                   | tag                  | 标签                         |
+| タックス                     | tax                  | 税                           |
+| ダッシュ                     | dash                 |                              |
+| タッチ                       | touch                |                              |
+| タップ                       | tap                  |                              |
+| ダニ                         |                      | 流氓                         |
+| タブ                         | tab                  |                              |
+| タブー                       | taboo                |                              |
+| ダフ屋                       |                      | 黄牛                         |
+| タブレット                   | tablet               | 平板电脑                     |
+| ダミー                       | dummy                | 替身                         |
+|                              |                      |                              |
+| タブル                       | double               |                              |
+| ダム                         | dam                  |                              |
+| ダメージ                     | damage               |                              |
+| タルト                       | （フランス）tarte    | 挞                           |
+| タレント                     | talent               | 演员                         |
+| タワー                       | tower                |                              |
+| タン                         |                      | 牛舌                         |
+| タンク                       | tank                 |                              |
+| タンクトップ                 | tank top             | 背心                         |
+| ダンス                       | dance                |                              |
+|                              |                      |                              |
+| タンバリン                   | tambourine           | 铃鼓                         |
+| ダンピング                   | dumping              | 倾销                         |
+| ダンプ（カー）               | dump                 | 自动卸货卡车                 |
+| ダンボール                   |                      | 箱子                         |
+| チーズ                       | cheese               |                              |
+| チーフ                       | chief                | 首领                         |
+| チーム                       | team                 |                              |
+| チームワーク                 | teamwork             |                              |
+| チェーン                     | chain                |                              |
+| チェーンソー                 | chain saw            | 电锯                         |
+| チェキ                       |                      | 拍立得                       |
+| チェック                     | check                |                              |
+| チェックイン，チェックアウト | check in, check out  |                              |
+| チェリー                     | cherry               |                              |
+| チェンジ                     | change               |                              |
+| チキン                       | chicken              | 鸡肉                         |
+| チケット                     | ticket               |                              |
+| チップ                       | chip                 | 晶片                         |
+| チャート                     | chart                |                              |
+| チャーハン                   | 炒饭                 |                              |
+| チャイム                     | chime                | 门铃                         |
+| チャイルドシート             | child + seat         | 儿童安全座椅                 |
+| チャット                     | chat                 |                              |
+| チャレンジ                   | challenge            |                              |
+| チャレンジャー               | challenger           |                              |
+| チャンス                     | chance               |                              |
+| チャンネル                   | channel              |                              |
+| チャンピオン                 | champion             |                              |
+| チュー                       |                      | 亲                           |
+| チューター                   | tutor                |                              |
+| チューナー                   | tuner                |                              |
+| チューブ                     | tube                 |                              |
+| チョイス                     | choice               |                              |
+| チョーク                     | chalk                |                              |
+| チョコ（レート）             | chocolate            | 巧克力                       |
+| チンパンジー                 | chimpanzee           | 黑猩猩                       |
+| チンピラ                     |                      | 小混混                       |
+| ツアー                       | tour                 |                              |
+| ツー                         | two                  |                              |
+| ツーショット                 | two + shot           | 两人合照                     |
+| ツール                       | tool                 |                              |
+| ツナ                         |                      | 金枪鱼；金枪鱼罐头           |
+| ディープ                     | deep                 |                              |
+| ディーラー                   | dealer               |                              |
+| ティシュ（ペーパー）         | tissue paper         |                              |
+| ディスカウント               | discount             |                              |
+| ディス                       | diss                 |                              |
+| ディスク                     | disc                 |                              |
+| ディストピア                 | dystopia             |                              |
+| ディスプレイ                 | display              |                              |
+| ディナー                     | dinner               |                              |
+| ディベート                   | debate               |                              |
+| ティラミス                   | （イタリア）tiramisù | 提拉米苏                     |
+| ディレクター                 | director             |                              |
+| デー                         | day                  |                              |
+| テークアウト                 | take out             | 外带                         |
+| データ                       | data                 |                              |
+| データベース                 | database             |                              |
+| デート                       | date                 | 约会                         |
+| テーピング                   | taping               | 绷带                         |
+| テープ                       | tape                 |                              |
+| テーブル                     | table                |                              |
+| テーマ                       | （ドイツ）Thema      |                              |
+| テーマパーク                 | thema park           | 主题公园                     |
+| テキーラ                     | （スペイン）tequila  | 龙舌兰                       |
+| テキスト                     | text                 | 文本；课文                   |
+| テク（ニック）               | technic              |                              |
+| テク（ノロジー）             | technology           |                              |
+| デコ（レーション）           | decoration           |                              |
+| デザート                     | dessert              |                              |
+| デザイナー                   | designer             |                              |
+| デザイン                     | design               |                              |
+| デジタル                     | digital              |                              |
+| デスク                       | desk                 |                              |
+| デスクトップ                 | desktop              |                              |
+| テスト                       | test                 |                              |
+| デッサン                     | （フランス）dessin   |                              |
+| デッド                       | dead                 |                              |
+| テナント                     | tenant               | 租客                         |
+| テニス                       | tennis               |                              |
+| デパート                     | department store     | 百货店                       |
+| デバイス                     | device               |                              |
+| デビットカード               | debit card           |                              |
+| デビュー                     | （フランス）début    | 出道                         |
+| デフォルト                   | default              |                              |
+| デフレ（ーション）           | deflation            | 通货紧缩                     |
+| デポジット                   | deposit              | 保证金                       |
+| デモ（ンストレーション）     | demonstration        | 示威游行                     |
+| デリカシー                   | delicacy             | 纤细                         |
+| デリケート                   | delicate             | 精致；微妙；纤细             |
+| テリトリー                   | teritory             |                              |
+| デリバリー                   | delivery             |                              |
+| デルタ                       | delta                |                              |
+| テレパシー                   | telepathy            | 心电感应                     |
+| テレビ                       | television           |                              |
+| テレホン                     | telephone            |                              |
+| テロ（リズム）               | terrorism            |                              |
+| テロリスト                   | terrorist            |                              |
+| テン                         | ten                  |                              |
+| テンション                   | tension              | 氛围                         |
+| テント                       | tent                 |                              |
+| テンポ                       | （イタリア）tempo    | 速度                         |
+| ドア                         | door                 |                              |
+| トイレ                       | toilet               |                              |
+| トーク                       | talk                 |                              |
+| トータル                     | total                |                              |
+| ドーミー                     | dormy                | 学生公寓                     |
+| ドーナツ                     | donuts               | 甜甜圈                       |
+| トーナメント                 | tournament           | 锦标赛                       |
+| ドーム                       | dome                 | 圆顶                         |
+| トーン                       | tone                 |                              |
+| ドキュメント                 | document             |                              |
+| ドクター                     | doctor               |                              |
+| ドクトリン                   | doctrine             | 教义                         |
+| ドグマ                       | dogma                | 教义；专断                   |
+| ドスケベ                     |                      | 特别好色                     |
+| ドタキャン                   | 土壇場 + キャンセル  | 最后关头取消                 |
+| ドック                       | dock                 | 船坞                         |
+| ドット                       | dot                  |                              |
+| トップ                       | top                  |                              |
+| ドナー                       | donor                |                              |
+| トピック                     | topic                |                              |
+| トマト                       | tomato               |                              |
+| ドメスティック               | domestic             |                              |
+| トライ                       | try                  |                              |
+| ドライ                       | dry                  | 冷淡，冷漠                   |
+| トライアル                   | trial                | 预赛                         |
+| トライアングル               | triangle             |                              |
+| ドライクリーニング           | dry cleaning         |                              |
+| ドライバー                   | driver               | 司机；螺丝刀，改锥；驱动程序 |
+| ドライブ                     | drive                |                              |
+| ドライヤー                   | dryer                | 吹风机                       |
+| トラウマ                     | （ドイツ）Trauma     | 精神创伤                     |
+| トラクター                   | tractor              | 收割机                       |
+| トラック                     | truck/track          | 卡车；音轨                   |
+| ドラッグ                     | drug                 | 毒品                         |
+| ドラッグストア               | drugstore            | 药店                         |
+| トラップ                     | trap                 |                              |
+|                              |                      |                              |
+| トラブル                     | trouble              |                              |
+| トラベル                     | travel               |                              |
+| ドラマ                       | drama                |                              |
+| ドラマチック                 | dramatic             |                              |
+| ドラレコ                     | drive + record       | 行车记录                     |
+| トランク                     | trunk                | 手提箱                       |
+| トランクス                   | trunks               | 四角裤                       |
+| トランジスタ                 | transistor           | 晶体管                       |
+| トランプ                     | trump                |                              |
+| ドリーム                     | dream                |                              |
+| トリック                     | trick                | 诡计                         |
+| ドリル                       | drill                | 电钻；练习题                 |
+| ドル                         | dollar               |                              |
+| トレース                     | trace                |                              |
+| トレード                     | trade                |                              |
+| トレーナー                   | trainer              | 教练员                       |
+| トレーニング                 | training             |                              |
+| トレーラー                   | trailer              | 板车                         |
+| トレカ                       |                      | （类似大头贴的）照片         |
+| ドレス                       | dress                | 女士礼服                     |
+| トレンド                     | trend                |                              |
+| ドロー                       | draw                 |                              |
+| トローチ                     | trouch               | 含片                         |
+| ドローン                     | drone                |                              |
+| トロピカル                   | tropical             |                              |
+| トン                         | ton                  |                              |
+| トンネル                     | tunnel               |                              |
+|                              |                      |                              |
 
 ## ナ
 
@@ -1209,11 +1211,11 @@
 | パイオニア                       | pioneer                  |                          |
 | バイオリン                       | violin                   |                          |
 | バイオレンス                     | violence                 |                          |
-|                                  |                          |                          |
 | ハイキング                       | hiking                   |                          |
 | バイキング                       | Viking                   |                          |
 | バイク                           |                          | 摩托车                   |
 | ハイジャック                     | hijack                   | 劫机                     |
+| ハイスペック                     | high spec                | 高性能；高富帅，白富美   |
 | ハイテク                         | high technology          |                          |
 | バイト                           | byte                     |                          |
 | バイナリー                       | binary                   |                          |
@@ -1547,6 +1549,7 @@
 | フロンティア                     | frontier                 | 边境；前沿               |
 | フロント                         | front                    | 前台                     |
 | ペア                             | pair                     |                          |
+| ペアルック                       | pair + look              | 情侣装                   |
 | ベーカリー                       | bakery                   |                          |
 | ページ                           | page                     |                          |
 | ベーシック                       | basic                    |                          |
