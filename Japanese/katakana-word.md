@@ -88,7 +88,6 @@
 | アンカー                       | anchor                                    |                        |
 | アングル                       | angle                                     |                        |
 | アンケート                     | （フランス）enquête                       | 问卷调查               |
-|                                |                                           |                        |
 | アンコール                     | encore                                    |                        |
 | アンダーグラウンド・アングラ   | underground                               |                        |
 | アンチ                         | anti                                      | 黑子，酸民             |
@@ -97,6 +96,7 @@
 | アンペア                       | ampere                                    | 安培                   |
 | アンモニア                     | ammonia                                   | 氨气                   |
 | イーブン                       | even                                      |                        |
+| イエス                         | yes                                       |                        |
 | イエロー                       | yellow                                    |                        |
 | イオン                         | ion                                       |                        |
 | イケメン                       |                                           | 帅哥                   |
@@ -126,8 +126,8 @@
 | インターナショナル             | international                             |                        |
 | インターネット                 | internet                                  |                        |
 | インターバル                   | interval                                  |                        |
+| インターホン                   | interphone                                | 内线电话               |
 | インターンシップ               | internship                                | 实习                   |
-|                                |                                           |                        |
 | インタビュー                   | interview                                 | 采访                   |
 | インデックス                   | index                                     |                        |
 | インテリ（ゲンチャ）           | （ロシア) intelligentsiya                 | 知识分子               |
@@ -139,8 +139,6 @@
 | インフルエンザ                 | imfluenza                                 |                        |
 | インフレ（ーション）           | inflation                                 | 通货膨胀               |
 | インポート                     | import                                    |                        |
-|                                |                                           |                        |
-|                                |                                           |                        |
 | ウイスキー                     | whisky                                    |                        |
 | ウイルス                       | virus                                     |                        |
 | ウインカー                     | winker                                    | 车灯                   |
@@ -167,6 +165,7 @@
 | エア                           | air                                       |                        |
 | エアコン（ディショナー）       | air conditioner                           |                        |
 | エアポート                     | airport                                   |                        |
+| エアメール                     | air mail                                  |                        |
 | エイズ                         | AIDS                                      |                        |
 | エイト                         | eight                                     |                        |
 | エイリアン                     | alien                                     |                        |
@@ -217,7 +216,6 @@
 | エントランス                   | entrance                                  | 高级公寓的大厅         |
 | エンドレス                     | endless                                   |                        |
 | オイル                         | oil                                       |                        |
-|                                |                                           |                        |
 | オーガニック                   | organic                                   |                        |
 | オークション                   | auction                                   |                        |
 | オーケー                       | okay                                      |                        |
@@ -280,7 +278,6 @@
 | ガイド                   | guide                        |                        |
 | ガイドブック             | guidebook                    |                        |
 | ガイドライン             | guideline                    | 指导方针               |
-|                          |                              |                        |
 | カウンセラー             | counselor                    | 心理咨询师             |
 | カウンセリング           | counseling                   | 心理咨询               |
 | カウンター               | counter                      |                        |
@@ -316,6 +313,7 @@
 | ガムテープ               | gum + tape                   | 胶布                   |
 | カメラ                   | camera                       |                        |
 | カメラマン               | camera man                   | 摄影师                 |
+| カムバック               | come back                    | 重回，复归             |
 | カムフラージュ           | （フランス）camouflage       | 伪装                   |
 | カラー                   | color                        |                        |
 | カラオケ                 | 空 + orchestra               | 卡拉OK                 |
@@ -583,7 +581,6 @@
 | サッカー                       | soccer                 |                                    |
 | サディズム                     | sadist                 | 施虐狂                             |
 | サテライト                     | satellite              |                                    |
-|                                |                        |                                    |
 | サバイバー                     | survivor               |                                    |
 | サバイバル                     | survival               |                                    |
 | サバンナ                       | savanna                | 热带草原                           |
@@ -614,6 +611,7 @@
 | シーツ                         | sheet                  |                                    |
 | シート                         | seat                   |                                    |
 | シード                         | seed                   |                                    |
+| ジーパン                       | jeans + pants          | 牛仔裤                             |
 | シーリングライト               | ceiling light          | 吸顶灯                             |
 | シール                         | seal                   | 贴纸                               |
 | シールド                       | shield                 |                                    |
@@ -627,11 +625,11 @@
 | シカト                         |                        | 被无视                             |
 | システム                       | system                 |                                    |
 | シチュエーション               | situation              |                                    |
+| シック[1]                      | （フランス）chic       | 高雅，雅致                         |
 | シックス                       | six                    |                                    |
 | シティ                         | city                   |                                    |
 | シナモン                       | cinnamon               | 肉桂                               |
 | シナリオ                       | scenario               | 脚本                               |
-|                                |                        |                                    |
 | シニア                         | senior                 |                                    |
 | シニカル                       | cynical                | 讥讽                               |
 | シネマ                         | （フランス）cinéma     |                                    |
@@ -663,6 +661,7 @@
 | ジャンパー                     | jumper                 | 夹克                               |
 | ジャンプ                       | jump                   |                                    |
 | シャンプー                     | shampoo                | 洗发水                             |
+| ジャンボ[1]                    | jumbo                  | 巨型                               |
 | ジャンル                       | （フランス）genre      |                                    |
 | ジューシー                     | juicy                  |                                    |
 | シューズ                       | shoes                  |                                    |
@@ -703,14 +702,11 @@
 | シンメトリー                   | symmetry               |                                    |
 | スイーツ                       | sweets                 | 甜品                               |
 | スイッチ                       | switch                 |                                    |
-|                                |                        |                                    |
 | スーツ                         | suit                   | 正装                               |
 | スーツケース                   | suitcase               | 行李箱                             |
 | スーパー（マーケット）         | supermarket            |                                    |
 | スーパーバイザー               | supervisor             |                                    |
 | スープ                         | soup                   |                                    |
-|                                |                        |                                    |
-|                                |                        |                                    |
 | スカート                       | skirt                  |                                    |
 | スカーフ                       | scarf                  |                                    |
 | スカイダイビング               | sky diving             | 跳伞                               |
@@ -725,7 +721,6 @@
 | スクープ                       | scoop                  |                                    |
 | スクール                       | school                 |                                    |
 | スクエア                       | square                 |                                    |
-|                                |                        |                                    |
 | スクリーン                     | screen                 |                                    |
 | スクリーニング                 | screening              |                                    |
 | スクリプト                     | script                 | 脚本                               |
@@ -749,9 +744,7 @@
 | スタンダード                   | standard               |                                    |
 | スタンド                       | stand                  |                                    |
 | スタンプ                       | stamp                  | 表情包；邮戳                       |
-|                                |                        |                                    |
 | スチーム                       | steam                  |                                    |
-|                                |                        |                                    |
 | スチール                       | steel                  |                                    |
 | スチュワーデス                 | stewardess             | 空姐                               |
 | ステイ                         | stay                   |                                    |
@@ -765,7 +758,6 @@
 | ステロイド                     | steroid                | 类固醇                             |
 | ステンレス                     | stainless              |                                    |
 | ストイック                     | stoic                  | 禁欲的                             |
-|                                |                        |                                    |
 | ストーカー                     |                        | 跟踪狂                             |
 | ストーブ                       | stove                  |                                    |
 | ストーリー                     | story                  |                                    |
@@ -926,7 +918,6 @@
 | ダフ屋                       |                      | 黄牛                         |
 | タブレット                   | tablet               | 平板电脑                     |
 | ダミー                       | dummy                | 替身                         |
-|                              |                      |                              |
 | タブル                       | double               |                              |
 | ダム                         | dam                  |                              |
 | ダメージ                     | damage               |                              |
@@ -937,7 +928,6 @@
 | タンク                       | tank                 |                              |
 | タンクトップ                 | tank top             | 背心                         |
 | ダンス                       | dance                |                              |
-|                              |                      |                              |
 | タンバリン                   | tambourine           | 铃鼓                         |
 | ダンピング                   | dumping              | 倾销                         |
 | ダンプ（カー）               | dump                 | 自动卸货卡车                 |
@@ -1076,7 +1066,6 @@
 | ドラッグ                     | drug                 | 毒品                         |
 | ドラッグストア               | drugstore            | 药店                         |
 | トラップ                     | trap                 |                              |
-|                              |                      |                              |
 | トラブル                     | trouble              |                              |
 | トラベル                     | travel               |                              |
 | ドラマ                       | drama                |                              |
@@ -1140,7 +1129,6 @@
 | ネイル               | nail              |                                                      |
 | ネイルサロン         | nail salon        |                                                      |
 | ネーム               | name              |                                                      |
-|                      |                   |                                                      |
 | ネオ〜               | neo-              |                                                      |
 | ネガ（ティブ）       | negative          |                                                      |
 | ネクタイ             | necktie           |                                                      |
@@ -1246,7 +1234,6 @@
 | パスタ                           | （イタリア）pasta        | 意式面食                 |
 | バスト                           | bust                     | 胸围；半身像             |
 | パスポート                       | passport                 |                          |
-|                                  |                          |                          |
 | パズル                           | puzzle                   |                          |
 | ハズレ                           | 外れ                     | 不中                     |
 | パスワード                       | password                 |                          |
@@ -1267,7 +1254,6 @@
 | バッテリー                       | battery                  |                          |
 | バット                           | bat                      |                          |
 | ハッピー                         | happy                    |                          |
-|                                  |                          |                          |
 | パトカー                         | patrol car               | 巡逻车，警车             |
 | バトル                           | battle                   |                          |
 | パトロール                       | patrol                   |                          |
@@ -1305,6 +1291,7 @@
 | パワハラ                         | power + harassment       | 利用职权骚扰             |
 | パン                             | （ポルトガル）pão        | 面包                     |
 | バン                             | van                      | 面包车                   |
+| ハンガー                         | hunger                   | 衣架                     |
 | ハンカチ                         | handkerchief             |                          |
 | パンク                           | puncture                 | 爆胎                     |
 | ハングリー                       | hungry                   |                          |
@@ -1339,7 +1326,6 @@
 | ピクニック                       | picnic                   |                          |
 | ピザ                             | pizza                    |                          |
 | ビザ                             | visa                     |                          |
-|                                  |                          |                          |
 | ビジネス                         | business                 |                          |
 | ビジョン                         | vision                   | 理想；幻想               |
 | ヒステリー                       | （ドイツ）Hysterie       | 歇斯底里                 |
@@ -1389,7 +1375,6 @@
 | ファッション                     | fashion                  |                          |
 | ファミ（リー）レス（トラン）     | family restaurant        |                          |
 | ファン                           | fan                      |                          |
-|                                  |                          |                          |
 | ファンシー                       | fancy                    |                          |
 | ファンタジー                     | fantasy                  |                          |
 | ファンデーション                 | foundation               |                          |
@@ -1451,7 +1436,6 @@
 | プライバシー                     | privacy                  |                          |
 | フライパン                       | fry pan                  |                          |
 | プライベート                     | private                  |                          |
-|                                  |                          |                          |
 | ブラウザ                         | browser                  |                          |
 | ブラウス                         | blouse                   | 女罩衫                   |
 | ブラウニー                       | (chocolate) brownie      | 布朗尼                   |
@@ -1506,7 +1490,6 @@
 | プレー                           | play                     |                          |
 | プレーオフ                       | play off                 |                          |
 | ブレーカー                       | breaker                  | 电闸                     |
-|                                  |                          |                          |
 | ブレーキ                         | brake                    | 刹车                     |
 | ブレークスルー                   | breakthrough             |                          |
 | フレーズ                         | phrase                   |                          |
@@ -1524,7 +1507,6 @@
 | プレッシャー                     | pressure                 | 压力                     |
 | プレミア（ム）                   | premium                  | 加价；赠品               |
 | フレンチ                         | French                   |                          |
-|                                  |                          |                          |
 | フロア                           | floor                    |                          |
 | ブローカー                       | broker                   | 经纪人，中间人           |
 | ブローチ                         | broach                   | 胸针                     |
@@ -1590,7 +1572,6 @@
 | ボイコット                       | boycott                  |                          |
 | ホイッスル                       | whistle                  | 口哨                     |
 | ホイップ                         | whip                     |                          |
-|                                  |                          |                          |
 | ポイント                         | point                    |                          |
 | ボウリング・ボーリング           | bowling                  | 保龄球                   |
 | ボーイ                           | boy                      |                          |
@@ -1620,8 +1601,6 @@
 | ホステス                         | hostess                  | 陪酒女，女公关           |
 | ホスト                           | host                     | 牛郎，男公关             |
 | ポスト                           | post                     |                          |
-|                                  |                          |                          |
-|                                  |                          |                          |
 | ボタン                           | （ポルトガル）botão      | 纽扣                     |
 | ホチキス                         | （商标）Hotchikiss       | 订书机                   |
 | ボックス                         | box                      |                          |
@@ -1650,6 +1629,7 @@
 | ボンド                           | bond                     | 胶水                     |
 | ポンド                           | pound                    | 磅；英镑                 |
 | ポンプ                           | （オランダ）pomp         | 泵                       |
+|                                  |                          |                          |
 
 
 ## マ
@@ -1673,7 +1653,6 @@
 | マグ（カップ）             | mug cup             | 马克杯              |
 | マグネット                 | magnet              | 磁铁                |
 | マクロ                     | macro               |                     |
-|                            |                     |                     |
 | マジック                   | magic               | 魔法                |
 | マジョリティー             | majority            |                     |
 | マシン                     | machine             |                     |
@@ -1685,7 +1664,6 @@
 | マゾヒズム                 | masochist           | 受虐狂              |
 | マダム                     | madam               |                     |
 | マックス                   | max                 |                     |
-|                            |                     |                     |
 | マッサージ                 | massage             |                     |
 | マッスル                   | muscle              |                     |
 | マッチ                     | match               |                     |
@@ -1718,6 +1696,7 @@
 | ミス                       | Miss                | 小姐                |
 | ミスコン（テスト）         | Miss + contest      | 选美比赛            |
 | ミステリー                 | mystery             |                     |
+| ミスプリント               | misprint            |                     |
 | ミックス                   | mix                 |                     |
 | ミッション                 | mission             |                     |
 | ミディアム                 | medium              | 中等                |
@@ -1726,6 +1705,7 @@
 | ミネラル                   | mineral             |                     |
 | ミネラルウォーター         | mineral water       | 矿泉水              |
 | ミュージック               | music               |                     |
+| ミュージシャン             | musician            |                     |
 | ミラー                     | mirror              |                     |
 | ミラクル                   | miracle             |                     |
 | ミリ                       | （フランス）milli-  |                     |
@@ -1764,6 +1744,7 @@
 | メンバー                   | member              |                     |
 | モーション                 | motion              | 运动                |
 | モーター                   | motor               |                     |
+| モーテル[1]                | motel               |                     |
 | モード                     | mode                |                     |
 | モーニング                 | morning             |                     |
 | モーメント                 | moment              |                     |
@@ -1782,6 +1763,7 @@
 | モラハラ                   | moral + harassment  | 精神虐待            |
 | モラル                     | moral               |                     |
 | モンスター                 | monster             |                     |
+|                            |                     |                     |
 
 ## ヤ
 
@@ -1797,7 +1779,6 @@
 | ユートピア   | utopia               |        |
 | ユーモア     | humor                |        |
 | ユーロ       | euro                 |        |
-|              |                      |        |
 | ユニーク     | （フランス）unique   |        |
 | ユニット     | unit                 |        |
 | ユニバーサル | universal            |        |
@@ -1806,8 +1787,6 @@
 | ヨーヨー     | yoyo                 | 溜溜球 |
 | ヨット       | yacht                |        |
 |              |                      |        |
-|              |                      |        |
-
 
 
 ## ラ
@@ -1828,7 +1807,6 @@
 | ライン                 | line                    |                  |
 | ラウンジ               | lounge                  | 休息室           |
 | ラウンド               | round                   |                  |
-|                        |                         |                  |
 | ラケット               | racket                  |                  |
 | ラザニア               | （イタリア）lasagna     | 千层面           |
 | ラジオ                 | radio                   |                  |
@@ -1851,7 +1829,6 @@
 | ランドセル             | （オランダ）randsel     | 小学生书包       |
 | ランニング             | running                 |                  |
 | ランプ                 | （オランダ）lamp        |                  |
-|                        |                         |                  |
 | リアクション           | reaction                |                  |
 | リアル                 | real                    |                  |
 | リアルタイム           | real time               |                  |
@@ -1943,6 +1920,7 @@
 | レンジ                 | range                   | 微波炉           |
 | レンズ                 | （オランダ）lens        |                  |
 | レンタカー             | rent a car              |                  |
+| レントゲン             | （ドイツ）Röntgen       | X光              |
 | レンタル               | rental                  |                  |
 | ロイヤル               | royal                   |                  |
 | ロー                   | low, law                |                  |
