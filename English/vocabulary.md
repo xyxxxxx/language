@@ -4564,9 +4564,28 @@
 | videotape       | n.    | 录像带                                                                       |
 | view            | n.    | 视图                                                                         |
 | viewpoint       | n.    | 观点                                                                         |
+| vigilance       | n.    | 警惕，警觉，警戒                                                             |
+| vigilant        | a.    | 警惕，警觉，警戒                                                             |
+| vigilantly      | ad.   | 警惕，警觉，警戒                                                             |
+| vigor           | n.    | 活力，精力，热情                                                             |
+| vigorous        | a.    | 充满活力，精力充沛，主动坚决；强壮，茁壮                                     |
+| vigorously      | ad.   | 充满活力，精力充沛，主动坚决                                                 |
+| vilify          | v.    | 污蔑，诽谤，诋毁，中伤                                                       |
 | village         | n.    | 乡村，村庄                                                                   |
+| villager        | n.    | 村民                                                                         |
+| villain         | n.    | （小说、电视剧、电影等中的）反派，反面人物；恶棍，元凶，罪魁祸首             |
+| villainous      | a.    | 邪恶，可憎                                                                   |
+| vindicate       | v.    | 证实，证明；证明（无罪），澄清（嫌疑）                                       |
+| vindication     | n.    | 证实，证明                                                                   |
+| vinegar         | n.    | 醋                                                                           |
+| vintage         | n.    | 葡萄酒年份或产地                                                             |
+|                 | a.    | （某段时期的）优秀，最佳；（某艺术家的）代表作；成功的一年，成绩卓越的一年   |
+| vinyl           | n.    | 黑胶唱片                                                                     |
+| violate         | v.    | 违反；侵犯（隐私等）；亵渎                                                   |
 | violation       | n.    | 违反                                                                         |
+| violence        | n.    | 暴力，暴行；强烈，狂热，激情                                                 |
 | violent         | a.    | 暴力；感情强烈，激情；强烈，剧烈；（颜色）鲜艳                               |
+| violently       | ad.   | 强烈，激烈，剧烈，拼命；猛烈，强烈，严重；凶猛，暴力                         |
 | violet          | n.    | 紫罗兰                                                                       |
 |                 | a.    | 紫罗兰色                                                                     |
 | violin          | n.    | 小提琴                                                                       |
