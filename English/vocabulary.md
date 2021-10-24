@@ -816,19 +816,82 @@
 | coastal                    | a.   | 沿海，海滨                                                                                                             |
 | coconut                    | n.   | 椰子                                                                                                                   |
 | cod                        | n.   | 鳕鱼                                                                                                                   |
+| coerce                     | v.   | 强迫，胁迫，迫使                                                                                                       |
+| coercion                   | n.   | 强迫，胁迫                                                                                                             |
+| coercive                   | a.   | 强制，胁迫，武力逼迫                                                                                                   |
+| coexist                    | v.   | 共存，（和平）共处                                                                                                     |
+| coexistence                | n.   | 共存，共处                                                                                                             |
 | coffee                     | n.   | 咖啡                                                                                                                   |
 | coffin                     | n.   | 棺材                                                                                                                   |
+| cognition                  | n.   | （心）认知，感知                                                                                                       |
+| cognitive                  | a.   | （心）认知，感知                                                                                                       |
+| cohere                     | v.   | （观点、句子等）一致，连贯                                                                                             |
+| coherence                  | n.   | 一致，连贯，条理                                                                                                       |
+| cohesion                   | n.   | 结合，聚合，凝聚；（物，化）内聚力                                                                                     |
+| cohesive                   | a.   | 紧密团结，结合为整体；结合，聚合，凝聚                                                                                 |
+| coil                       | v.   | （使）缠绕，盘绕                                                                                                       |
+|                            | n.   | （绳索、金属线等的）圈，卷；一圈，一卷；线圈                                                                           |
 | coin                       | n.   | 硬币                                                                                                                   |
+| coincide                   | v.   | 同时发生；（想法、意见等）一致，相同，相符；（物品或位置）相接，相交，重合，重叠                                       |
+| coincidence                | n.   | （令人吃惊的）巧合；同时存在，并存；（想法、意见等的）一致，相同，相符                                                 |
+| coincident                 | a.   | 同时发生，同一地点发生                                                                                                 |
+| coincidental               | a.   | 碰巧，巧合                                                                                                             |
+| coincidentally             | ad.  | 碰巧，巧合的是                                                                                                         |
+| cola                       | n.   | 可乐                                                                                                                   |
+| cold                       | a.   | 冷，寒冷；冷，凉；冷漠，冷淡；冷色，清寒；冷（知识）                                                                   |
+| collaborate                | v.   | 合作，协作；通敌，勾结敌人                                                                                             |
+| collaboration              | n.   | 合作，协作；合作成果，合作作品；通敌，勾结敌人                                                                         |
+| collaborative              | a.   | 合作，协作                                                                                                             |
+| collaboratively            | ad.  | 合作，协作                                                                                                             |
+| collaborator               | n.   | 合作者，协作者；通敌者                                                                                                 |
+| collapse                   | v.   | （突然）倒塌，坍塌；（尤指因病重而）倒下，昏倒，晕倒；（尤指工作劳累后）躺倒，瘫倒；破裂，崩溃，瓦解；暴跌，暴降；折叠 |
+|                            | n.   | 突然失败，破裂，崩溃，瓦解，倒闭，瘫痪；（突然）倒塌，坍塌；病倒，昏倒，晕倒；暴跌，暴降                               |
 | collapsible                | a.   | 可折叠                                                                                                                 |
+| collar                     | n.   | 衣领；项圈；（机器部件的）圈，箍                                                                                       |
+| colleague                  | n.   | 同事，同僚                                                                                                             |
 | collect                    | v.   | 收集，采集；收藏，搜集；聚集，集合；积累，积聚；取走，领走；募捐，募集；收（钱），讨（债）；收到，赢得                 |
 | collection                 | n.   | 收藏品；一批；取走，收集；作品集；募捐，募捐额；系列时装                                                               |
+| collective                 | a.   | 集体，共同，共有；总体，全体                                                                                           |
+| collectively               | ad.  | 集体，共同；总                                                                                                         |
+| collector                  | n.   | 收集者，收藏家                                                                                                         |
+| college                    | n.   | （英）学院，职校，技校；（美）大学；（英）（大学中独立的）学院；（美）（大学的）学院；（英）中学，公学；               |
+|                            |      | 学会，协会，社团                                                                                                       |
+| collide                    | v.   | 碰撞，相撞；（人、意见等）冲突，抵触，严重不一致                                                                       |
+| collider                   | n.   | （物）对撞机                                                                                                           |
+| collision                  | n.   | 碰撞事故，相撞事故；（人、意见等之间的）冲突，抵触                                                                     |
+| collocate                  | v.   | （语）搭配，连用                                                                                                       |
+|                            | n.   | （语）搭配，连用                                                                                                       |
+| collocation                | n.   | 词组；（词语）搭配，连用                                                                                               |
+| collude                    | v.   | 密谋，勾结，串通                                                                                                       |
 | collusion                  | n.   | 勾结，串通                                                                                                             |
+| colon                      | n.   | 冒号                                                                                                                   |
+| colonial                   | a.   | 殖民                                                                                                                   |
+| colonialism                | n.   | 殖民主义                                                                                                               |
+| colonialist                | a.   | 殖民主义                                                                                                               |
+| colonize                   | v.   | 殖民，建立殖民地；（生）（动物或植物）（在某一区域）聚居，长满                                                         |
+| colonization               | n.   | 殖民                                                                                                                   |
+| colony                     | n.   | 殖民地；（出身、职业或兴趣相同的）聚居人群；（生）群落                                                                 |
 | color                      | n.   | 颜色，色                                                                                                               |
+| colored                    | a.   | 彩色，…色                                                                                                              |
 | colorful                   | a.   | 五颜六色；丰富多彩                                                                                                     |
+| colossal                   | a.   | 巨大，庞大                                                                                                             |
+| colossus                   | n.   | 巨人，巨物；巨型雕像，巨像                                                                                             |
 | column                     | n.   | 柱；（报刊的）栏，专栏；列；纵队                                                                                       |
+| coma                       | n.   | 昏迷                                                                                                                   |
+| comb                       | n.   | 梳子；梳，梳理                                                                                                         |
+|                            | v.   | 梳，梳理；搜索，搜寻                                                                                                   |
 | combat                     | n.   | 战斗                                                                                                                   |
 |                            | v.   | 战斗；防止                                                                                                             |
-| combine                    | v.   | 结合，组合                                                                                                             |
+| combination                | n.   | 结合，组合，化合，联合，混合；（密码锁的）字符组合                                                                     |
+| combine                    | v.   | 结合，组合，化合，联合，混合；兼有，兼具，兼备，融合；兼做，兼顾；结合，联合，符合，协力，联手                         |
+| combo                      | n.   | （尤指食物的）杂烩，组合餐                                                                                             |
+| combust                    | v.   | 开始燃烧                                                                                                               |
+| combustible                | a.   | 可燃，易燃                                                                                                             |
+| combustion                 | n.   | 燃烧；燃烧过程                                                                                                         |
+| come                       | v.   | 来，来到；                                                                                                             |
+| comeback                   | n.   | 复出，重返；再度流行，再次成功；追究他人责任                                                                           |
+| comedian                   | n.   | 滑稽演员，喜剧演员                                                                                                     |
+| comedy                     | n.   | 喜剧；滑稽，可笑，诙谐                                                                                                 |
 | comet                      | n.   | （天）彗星                                                                                                             |
 | comfort                    | n.   | 舒服，舒适；安慰，宽慰，慰藉；令人感到安慰的人/事/物；舒适的设施（或条件）                                             |
 |                            | v.   | 安慰，宽慰                                                                                                             |
@@ -839,11 +902,36 @@
 | comma                      | n.   | 逗号                                                                                                                   |
 | command                    | n.   | 命令                                                                                                                   |
 | command line               |      | 命令行                                                                                                                 |
+| commander                  | n.   | 指挥官                                                                                                                 |
+| commanding                 | a.   | 指挥；（比赛）居于领先位置，遥遥领先；权威，威严；居高临下，视野开阔                                                   |
+| commemorate                | v.   | 纪念                                                                                                                   |
+| commemoration              | n.   | 纪念，纪念仪式                                                                                                         |
+| commemorative              | a.   | 纪念                                                                                                                   |
+| commence                   | v.   | 开始，开始做                                                                                                           |
+| commencement               | n.   | 开始，开端                                                                                                             |
+| commend                    | v.   | （尤指公开地）表扬，赞扬，称赞；推荐，举荐；得到认可，得到认同；托付                                                   |
+| commendable                | a.   | 值得表扬，值得称赞                                                                                                     |
+| commendation               | n.   | 表扬，赞扬，称赞，嘉许；奖励，嘉奖                                                                                     |
+| commensurate               | a.   | （在大小、质量、重要性等方面）相称，相当                                                                               |
 | comment                    | n.   | 评论                                                                                                                   |
 |                            | v.   | 评论                                                                                                                   |
+| commentary                 | n.   | （尤指电视台的）实况报道，现场解说；注解，评论，评注；批评，评论                                                       |
+| commentate                 | v.   | （尤指在电视台）做实况报道，做现场解说                                                                                 |
+| commentator                | n.   | （电视台或报纸的）评论员；（尤指电视台的）现场解说员                                                                   |
 | commerce                   | n.   | 商业，商务                                                                                                             |
 | commercial                 | a.   | 商业，商务；营利；商业化，偏重收入而非品质；（电视或电台）商业                                                         |
-| commit                     | v.   | 犯（罪）                                                                                                               |
+| commercialism              | n.   | 商业主义，营利主义                                                                                                     |
+| commercialize              | v.   | 商业化                                                                                                                 |
+| commercialization          | n.   | 商业化                                                                                                                 |
+| commission                 | n.   | （通常为政府的或调查某事的）委员会；佣金，回扣；（银行等的）手续费；正式委托；犯错，犯罪                               |
+|                            | v.   | 正式委托；任命（为军官）                                                                                               |
+| commit                     | v.   | 犯（错/罪）；承诺，保证（做某事、遵守协议或遵从安排等）；（公开）表态，表达意见；花费，投入（钱或时间）；              |
+|                            |      | 忠于（某个人、机构等），全心全意投入（工作、活动等）；送进（医院、监狱等）                                             |
+| commitment                 | n.   | 承诺，许诺，保证；（对工作或活动的）奉献，投入；已承诺的事，必须做的事；花费，使用（资金、时间、人力）                 |
+| committed                  | a.   | 竭心尽力，坚定                                                                                                         |
+| committee                  | n.   | 委员会                                                                                                                 |
+| commodity                  | n.   | （经）商品；有用的事物                                                                                                 |
+| common                     | a.   | 常见，普遍；共有，共同，共享；普通，平常，寻常，平凡                                                                   |
 | community                  | n.   | 社区                                                                                                                   |
 | commute                    | v.   | 通勤，往返                                                                                                             |
 | commuter                   | n.   | 通勤的人                                                                                                               |
@@ -1306,6 +1394,7 @@
 | dualism         | n.  | （哲）二元论；双重性，二元性                                                                                                     |
 | dualist         | n.  | （哲）二元论者                                                                                                                   |
 | duality         | n.  | 双重性，二元性                                                                                                                   |
+| dub             | n.  | 配音                                                                                                                             |
 | duck            | n.  | 鸭子                                                                                                                             |
 | dumb            | a.  | 说不出话，不肯开口；愚蠢，傻，笨                                                                                                 |
 | dumbly          | ad. | 默默                                                                                                                             |
