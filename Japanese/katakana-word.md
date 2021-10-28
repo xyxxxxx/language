@@ -176,6 +176,8 @@
 | エクスタシー                   | ecstasy                                   | 陶醉，忘我             |
 | エクスプレス                   | express                                   | 特快列车               |
 | エクセレント                   | excellent                                 |                        |
+| エゴイズム                     | egoism                                    |                        |
+| エゴイスト                     | egoist                                    |                        |
 | エコー                         | echo                                      |                        |
 | エコ（ノミー）                 | economy                                   |                        |
 | エコ（ロジー）                 | ecology                                   |                        |
@@ -844,6 +846,7 @@
 | セルフネイル                   | self + neil            | 自主美甲                           |
 | セルロイド                     | celluloid              | 赛璐珞                             |
 | セレクション                   | selection              |                                    |
+| セレブ（リティ）               | celebrity              | 名人                               |
 | セレモニー                     | ceremony               |                                    |
 | ゼロ                           | zero                   |                                    |
 | セロハン                       | cellophane             | 玻璃纸                             |
