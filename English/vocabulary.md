@@ -3174,427 +3174,487 @@
 
 # P
 
-|                           |        |                                                                                                              |
-| ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------ |
-| pack                      | n.     | 批                                                                                                           |
-| page                      | n.     | 页                                                                                                           |
-| pain                      | n.     | 痛苦                                                                                                         |
-| painful                   | a.     | 痛苦的；艰难，不愉快                                                                                         |
-| paint                     | v.     | 刷油漆；（使用颜料）画；把…描绘成；涂（化妆品）                                                              |
-|                           | n.     | 油漆；（绘画）颜料                                                                                           |
-| palace                    | n.     | 宫，宫殿；（英国）王室                                                                                       |
-| panda                     | n.     | 熊猫                                                                                                         |
-| pandemic                  | n.     | （全国或全球）流行病                                                                                         |
-|                           | a.     | （全国或全球）流行（疾病）                                                                                   |
-| panel                     | n.     | 面板；钣金；专家组，讨论小组；仪表盘，面板                                                                   |
-| pants                     | n.     | （美）裤子                                                                                                   |
-| paper                     | n.     | 纸；论文                                                                                                     |
-| parachute                 | n.     | 降落伞                                                                                                       |
-| paragraph                 | n.     | 段落                                                                                                         |
-|                           | v.     | 跳伞，空投                                                                                                   |
-| paraphernalia             | n.     | （某活动所需的）装备，用具                                                                                   |
-| parent                    | n.     | 父母；亲代；母公司                                                                                           |
-| parenthesis (parentheses) | n.     | 小括号，圆括号                                                                                               |
-| park                      | n.     | 公园；园区；棒球场                                                                                           |
-|                           | v.     | 停车                                                                                                         |
-| parking                   | n.     | 停车场                                                                                                       |
-| parrot                    | n.     | 鹦鹉                                                                                                         |
-| parse                     | v.     | 解析                                                                                                         |
-| parser                    | n.     | 解析器                                                                                                       |
-| partially                 | ad.    | 部分，不完全                                                                                                 |
-| particle                  | n.     | 粒子                                                                                                         |
-| particular                | a.     | 特别的，特殊的，特定的                                                                                       |
-| particularly              | ad.    | 特别                                                                                                         |
-| partner                   | n.     | 配偶；合伙人；搭档，同伴；伙伴                                                                               |
-| party                     | n.     | 聚会；党                                                                                                     |
-| passenger                 | n.     | 乘客                                                                                                         |
-| passport                  | n.     | 护照                                                                                                         |
-| password                  | n.     | 密码                                                                                                         |
-| past                      | a.     | 过去                                                                                                         |
-| patent                    | n.     | 专利                                                                                                         |
-|                           | a.     | 专利；赤裸裸的                                                                                               |
-| path                      | n.     | 小路，小径；路线，道路；（实现特定目标的）道路，计划；（计）路径                                             |
-| patron                    | n.     | 赞助人，资助人；老主顾，常客                                                                                 |
-| patronize                 | v.     | 看不起，鄙视（以看似有好的方式对待，但从内心深处鄙夷）；经常光顾；赞助，资助                                 |
-| pattern                   | n.     | 模式；范例，典范，榜样，样板；图案；图样；样品                                                               |
-|                           | v.     | 构成图案；造成，促成（某种行为模式）                                                                         |
-| pause                     | v.     | 暂停                                                                                                         |
-| pay                       | v.     | 支付                                                                                                         |
-| peace                     | n.     | 和平                                                                                                         |
-| peach                     | n.     | 桃子                                                                                                         |
-| peacock                   | n.     | 雄孔雀                                                                                                       |
-| pear                      | n.     | 梨                                                                                                           |
-| peanut                    | n.     | 花生                                                                                                         |
-| pearl                     | n.     | 珍珠                                                                                                         |
-| peasant                   | n.     | 农民，佃农                                                                                                   |
-| pedal                     | n.     | 踏板                                                                                                         |
-|                           | v.     | 踩踏板；骑自行车                                                                                             |
-| pee                       | v.     | 撒尿                                                                                                         |
-| peek                      | v.     | 窥视，偷看；露出，探出                                                                                       |
-|                           | n.     | 窥视，偷看                                                                                                   |
-| peel                      | v.     | 剥，削（皮）；剥，揭开，脱落；剥落                                                                           |
-|                           | n.     | 果皮                                                                                                         |
-| peer                      | n.     | 同辈，同伴，同侪                                                                                             |
-|                           | v.     | 仔细看，端详                                                                                                 |
-| pen                       | n.     | 钢笔；圈，栏                                                                                                 |
-|                           | v.     | 圈起来，关起来                                                                                               |
-| pencil                    | n.     | 铅笔                                                                                                         |
-| penguin                   | n.     | 企鹅                                                                                                         |
-| penis                     | n.     | 阴茎                                                                                                         |
-| people                    | n.     | 人，人们；人民                                                                                               |
-| per                       | prep.  | 每                                                                                                           |
-| period                    | n.     | 一段时间，时期；阶段，时期；（地）纪                                                                         |
-| periodic                  | a.     | 周期，定期                                                                                                   |
-| perish                    | v.     | 死亡；毁灭，湮灭                                                                                             |
-| perfer                    | v.     | 更喜欢，更倾向                                                                                               |
-| perfect                   | a.     | 完美                                                                                                         |
-| perform                   | v.     | 做，发挥，执行；表演，演出；工作，表现，运转                                                                 |
-| performance               | n.     | 演出；表演，演技；表现，状况，性能，业绩；做，发挥，执行                                                     |
-| performer                 | n.     | 表演者；表现得…                                                                                              |
-| perfume                   | n.     | 香水；香味                                                                                                   |
-|                           | v.     | （花）使香味弥漫；抹/洒香水                                                                                  |
-| perfumed                  | a.     | 香，有香味                                                                                                   |
-| peril                     | n.     | 严重危险，严重危机；祸                                                                                       |
-| perilous                  | a.     | 非常危险，凶险                                                                                               |
-| perilously                | ad.    | 非常危险                                                                                                     |
-| period                    | n.     | 时期                                                                                                         |
-| perm                      | n.     | 烫发，卷发                                                                                                   |
-| perpendicular             | a.     | 垂直                                                                                                         |
-| perpetrate                | v.     | 作（案），行（凶），犯（罪）                                                                                 |
-| perpetrator               | n.     | 作案者，行凶者，犯罪者                                                                                       |
-| persist                   | v.     | 坚持，执着；保持，持续存在                                                                                   |
-| persistence               | n.     | 坚持，锲而不舍；维持，持续存在                                                                               |
-| persistent                | a.     | 坚持不懈，锲而不舍，执着；连绵，持续                                                                         |
-| persistently              | ad.    | 坚持，一再；持续                                                                                             |
-| person                    | n.     | 人                                                                                                           |
-| -person                   |        | （从事特定工作的）…人，…员                                                                                   |
-| persona                   | n.     | 人设，人格面具                                                                                               |
-| personal                  | a.     | 个人，私人；人际，个性；私；亲自；个别，个人；针对个人，人身攻击；身体                                       |
-| personality               | n.     | 性格，个性，人格；魅力，气质；（尤指娱乐圈或体育界的）名人，名流；有个性的人，性格突出的人；特色，个性       |
-| personalize               | v.     | 为个人量身定制；个人化                                                                                       |
-| personalized              | a.     | 个性化；个人化                                                                                               |
-| personally                | ad.    | 就个人而言，就个人意见；本人，亲自；个别，个人；无礼，冒犯；私人（与工作相对）                               |
-| personify                 | v.     | （人）体现，是…的典型；拟人化，把…人格化                                                                     |
-| personnel                 | n.     | （组织或军队中的）人员；人事部门                                                                             |
-| perspective               | n.     | 观点，角度；判断力，权衡事物的能力；透视（画法）；景观，远景                                                 |
-| persuade                  | v.     | 劝，劝说，说服；使信服，使相信                                                                               |
-| persuasion                | n.     | 劝，劝说，说服；（宗教或政治）信仰                                                                           |
-| persuasive                | a.     | 有说服力，令人信服                                                                                           |
-| pervert                   | v.     | 败坏，滥用；腐蚀，侵蚀，使堕落                                                                               |
-| pessimism                 | n.     | 悲观；悲观主义                                                                                               |
-| pessimist                 | n.     | 持悲观态度的人；悲观主义者                                                                                   |
-| pessimistic               | a.     | 悲观；悲观主义                                                                                               |
-| pest                      | n.     | 害虫；讨厌的人                                                                                               |
-| pester                    | v.     | 打扰，骚扰，纠缠，缠着                                                                                       |
-| pesticide                 | n.     | 杀虫剂                                                                                                       |
-| pet                       | n.     | 宠物                                                                                                         |
-| petal                     | n.     | 花瓣                                                                                                         |
-| petition                  | n.     | 请愿书；（法）申诉书，申请书；祈祷，祈求                                                                     |
-|                           | v.     | 请愿；（向法院）申诉，申请；祈祷，祈求                                                                       |
-| petitioner                | n.     | 请愿者；（法）申诉人；祈祷者，祈求者                                                                         |
-| petrol                    | n.     | 汽油                                                                                                         |
-| petroleum                 | n.     | 石油，原油                                                                                                   |
-| phantasm                  | n.     | 幻觉，幻象                                                                                                   |
-| phantom                   | n.     | 鬼，鬼魂，幽灵；幻觉，幻象                                                                                   |
-|                           | a.     | 鬼，鬼魂，幽灵；幻觉，幻象，虚幻                                                                             |
-| pharmaceutical            | a.     | 药，制药                                                                                                     |
-|                           | n.     | 药物                                                                                                         |
-| pharmacist                | n.     | 药剂师                                                                                                       |
-| pharmacologist            | n.     | 药物学家，药理学家                                                                                           |
-| pharmacology              | n.     | 药物学，药理学                                                                                               |
-| pharmacological           | a.     | 药物学，药理学                                                                                               |
-| pharmacy                  | n.     | 药店，药房；（医院的）药房；药剂学，制药学                                                                   |
-| phase                     | n.     | 阶段，时期；月相                                                                                             |
-|                           | v.     | 分阶段进行，逐步进行                                                                                         |
-| philo-                    |        | 爱好，喜爱                                                                                                   |
-| philosophical             | a.     | 哲学；达观，处乱不惊                                                                                         |
-| philosophically           | ad.    | 哲学；达观，处乱不惊                                                                                         |
-| philosopher               | n.     | 哲学家；善于思考的人                                                                                         |
-| philosophy                | n.     | 哲学；哲学体系，思想体系；人生哲学，生活态度                                                                 |
-| phishing                  | n.     | 网络诈骗，网络钓鱼                                                                                           |
-| phobic                    | n.     | 特别怕…的人，恐惧症                                                                                          |
-| -phobic                   |        | …恐惧的，仇视…的                                                                                             |
-| phoenix                   | n.     | 凤凰，不死鸟                                                                                                 |
-| phone                     | n.     | 电话；（语）因素                                                                                             |
-| -phone                    |        | （发声或使用声音的）工具，仪器                                                                               |
-| phonetics                 | n.     | 语音学                                                                                                       |
-| phosphorus                | n.     | 磷                                                                                                           |
-| photo                     | n.     | 照片                                                                                                         |
-| photographer              | n.     | 摄影师                                                                                                       |
-| photographic              | a.     | 摄影                                                                                                         |
-| photography               | n.     | 摄影                                                                                                         |
-| physical                  | a.     | 身体；物理；符合自然规律，科学；物理学；性                                                                   |
-| physics                   | n.     | 物理学                                                                                                       |
-| piano                     | n.     | 钢琴                                                                                                         |
-| picnic                    | n.     | 野餐                                                                                                         |
-| (picnicked, picnicking)   | v.     | 野餐                                                                                                         |
-| pick                      | v.     | 选择                                                                                                         |
-| picture                   | n.     | 画，图画，画像；照片；（屏幕）画面，图像；描绘，描述；头脑中的场景，记忆，印象；状况，情况，形势；电影       |
-|                           | v.     | 想象，设想，回忆；描绘，描述；图片显示                                                                       |
-| pig                       | n.     | 猪                                                                                                           |
-| pigeon                    | n.     | 鸽子                                                                                                         |
-| pillow                    | n.     | 枕头                                                                                                         |
-| pimp                      | n.     | 拉皮条的                                                                                                     |
-|                           | v.     | 拉皮条                                                                                                       |
-| pineapple                 | n.     | 菠萝                                                                                                         |
-| pioneer                   | n.     | 先锋，先驱；开拓者                                                                                           |
-|                           | v.     | 率先做；倡导                                                                                                 |
-| pipe                      | n.     | 管，管道；烟管                                                                                               |
-| piracy                    | n.     | 海盗；盗版                                                                                                   |
-| pirate                    | n.     | 海盗；盗版                                                                                                   |
-|                           | v.     | 盗版，盗印                                                                                                   |
-| pistol                    | n.     | 手枪                                                                                                         |
-| piston                    | n.     | 活塞                                                                                                         |
-| pitfall                   | n.     | 陷阱，圈套                                                                                                   |
-| plan                      | n.     | 计划                                                                                                         |
-|                           | v.     | 计划                                                                                                         |
-| plane                     | n.     | 飞机；（数）平面；（思想、存在或发展的）水平，程度，阶段                                                     |
-|                           | a.     | 平                                                                                                           |
-| planet                    | n.     | （天）行星                                                                                                   |
-| plank                     | n.     | 板                                                                                                           |
-| plant                     | n.     | 植物；电厂，工厂；（工业）大型机器，设备；内线，卧底                                                         |
-|                           | v.     | 种植，栽培，栽种；插，竖立；放置（炸弹）；栽（赃）；安插，使卧底；根植于                                     |
-| plasma                    | n.     | （生）血浆；（物）等离子体                                                                                   |
-| plastic                   | a.     | 塑料；（材料）可塑，塑性；做作，虚伪，矫饰                                                                   |
-|                           | n.     | 塑料                                                                                                         |
-| plate                     | n.     | 盘子；一盘；一道菜；（金属）板材；金属铭牌；车牌；（生）鳞甲；板块；（书的）整页插图；（印刷用的）印版       |
-| platform                  | n.     | （英）站台；讲台，舞台；平台；（政党）纲领，宣言；（观点）阵地，根据地                                       |
-| platinum                  | n.     | 铂，白金                                                                                                     |
-| play                      | v.     | 玩；播放                                                                                                     |
-| player                    | n.     | 玩家；选手                                                                                                   |
-| playlist                  | n.     | 播放列表                                                                                                     |
-| please                    | excla. | 请；请求                                                                                                     |
-| plot                      | n.     | 故事情节；阴谋，密谋；（专用）小块土地                                                                       |
-|                           | v.     | 密谋，暗中策划；（在地图上）画出，标出；绘制（图表或曲线）；设计故事情节                                     |
-| plus                      | prep.  | 加                                                                                                           |
-|                           | a.     | 多，余；好的，正面；零上                                                                                     |
-| Pluto                     | n.     | 冥王星                                                                                                       |
-| podcast                   | n.     | 播客                                                                                                         |
-| poem                      | n.     | 诗                                                                                                           |
-| poet                      | n.     | 诗人                                                                                                         |
-| poetic                    | a.     | 诗；富有诗意，像诗一般                                                                                       |
-| poetry                    | n.     | 诗歌，诗集；美好的品质，优雅的气质，诗意                                                                     |
-| point                     | n.     | 点                                                                                                           |
-| poison                    | n.     | 毒药，毒物，毒素；有害的思想                                                                                 |
-|                           | v.     | 毒死，毒害；下毒；毒化，使恶化                                                                               |
-| poisonous                 | a.     | 有毒；毒（动物）；恶劣                                                                                       |
-| polar                     | a.     | 极地，南（北）极；磁极；截然相反                                                                             |
-| polar bear                |        | 北极熊                                                                                                       |
-| police                    | n.     | 警察                                                                                                         |
-| policy                    | n.     | 政策                                                                                                         |
-| politics                  | n.     | 政治                                                                                                         |
-| political                 | a.     | 政治                                                                                                         |
-| polyethylene              | n.     | 聚乙烯                                                                                                       |
-| poor                      | a.     | 穷                                                                                                           |
-| pop                       | n.     | 流行（音乐风格）                                                                                             |
-| popular                   | a.     | 流行                                                                                                         |
-| porcupine                 | n.     | 豪猪                                                                                                         |
-| pork                      | n.     | 猪肉                                                                                                         |
-| port                      | n.     | 端口                                                                                                         |
-| positive                  | a.     |                                                                                                              |
-| possess                   | v.     | 有，具有                                                                                                     |
-| post                      | n.     | 派驻；哨岗                                                                                                   |
-|                           | v.     | 发布，公布（财经信息或警告）；（网络上）发布；交（保释金）                                                   |
-| post office               | n.     | 邮局                                                                                                         |
-| pot                       | n.     | 锅；（英）罐，瓶，壶；（特定用途的）容器；一罐，一瓶，一壶；筹集的资金，拼凑的钱；大麻；盲射，乱射           |
-|                           | v.     | （台球）击球入袋                                                                                             |
-| potato                    | n.     | 土豆                                                                                                         |
-| potassium                 | n.     | 钾                                                                                                           |
-| potent                    | a.     |                                                                                                              |
-| pottery                   | n.     | 陶器；陶土；陶艺                                                                                             |
-| pounce                    | v.     | 突袭                                                                                                         |
-| powder                    | n.     | 粉                                                                                                           |
-| power                     | n.     | 控制，掌握，操纵；统治，政权；能力；权力，权势；强国，列强；实力，力量；影响力；能量，动力；电力；力量，体力 |
-|                           | v.     | 驱动                                                                                                         |
-| practical                 | a.     | 实际，切实；（想法、方法或行动）切实可行；（物）实用，适用；（人）实事求是，实际；（人）心灵手巧，善于制作   |
-|                           |        | 近乎，实质上                                                                                                 |
-| practically               | ad.    | 几乎，差不多；实际上，实事求是地                                                                             |
-| practice                  | n.     | 实践；惯例，通常做法；习惯，习俗；练习                                                                       |
-|                           | v.     | 练习；培养，养成…习惯；从事（医疗、法律工作），执业                                                          |
-| practitioner              | n.     | 从业人员；专业人才                                                                                           |
-| praise                    | v.     | 称赞，赞扬                                                                                                   |
-| prawn                     | n.     | 大虾                                                                                                         |
-| pray                      | v.     | 祈祷，祷告；期盼，希望                                                                                       |
-| prayer                    | n.     | 祈祷，祷告（的内容）；祷告文；祈祷，祷告（的行为）；期盼，希望                                               |
-| preach                    | v.     | （教堂中礼拜时）布道；宣传，宣扬（宗教、体制、生活方式等）；说教                                             |
-| precaution                | n.     | 预防，预防措施；避孕措施                                                                                     |
-| precede                   | v.     | 在…之前，先于；走在…前面                                                                                     |
-| precedence                | n.     | 优先，优先级                                                                                                 |
-| precedent                 | n.     | （可援用参考的）范例，实例，判例；先例，前例；常规，传统                                                     |
-| precious                  | a.     | 珍贵，珍奇                                                                                                   |
-| precise                   | a.     | 精确                                                                                                         |
-| precisely                 | ad.    | 精确地                                                                                                       |
-| predator                  | n.     | 捕食者                                                                                                       |
-| predicate                 | n.     | 谓语                                                                                                         |
-|                           | v.     | 使基于，使以…为依据；表明，阐明，声明                                                                        |
-| preface                   | n.     | （书的）前言，序言                                                                                           |
-| prefix                    | n.     | 前缀                                                                                                         |
-| pregnancy                 | n.     | 怀孕，妊娠，孕期                                                                                             |
-| pregnant                  | a.     | 怀孕，妊娠；充满，饱含                                                                                       |
-| prehistoric               | a.     | 史前，远古                                                                                                   |
-| prehistory                | n.     | 史前时期，远古时期；（事物发展的）初期，萌芽时期                                                             |
-| prejudice                 | n.     | 偏见                                                                                                         |
-|                           | v.     | 使…产生偏见；损害                                                                                            |
-| premature                 | a.     | 未成熟，过早，提前；早产；草率，仓促，为时过早                                                               |
-| prematurely               | ad.    | 未成熟，过早，提前；早产；草率，仓促                                                                         |
-| premeditated              | a.     | 有预谋的，事先策划的                                                                                         |
-| premeditation             | n.     | 预谋，事先策划                                                                                               |
-| prepare                   | v.     | 准备                                                                                                         |
-| preparation               | n.     | 准备                                                                                                         |
-| prepend                   | v.     | 在开始位置添加                                                                                               |
-| prescribe                 | v.     | 给…开（药）；指示，规定                                                                                      |
-| president                 | n.     | 总统                                                                                                         |
-| press                     | v.     | 按，压，挤，紧贴；塞进；（人群）推搡，拥挤；催促，敦促；反复提及，坚持推进；压制（金属）                     |
-|                           | n.     | 报刊，新闻；记者，新闻采访；报道；印刷；出版社；按，压；压/榨工具                                            |
-| pressure                  | n.     | 压力                                                                                                         |
-| presume                   | v.     | 假设，假定；（法）推定，假定；设定，设想；僭越                                                               |
-| presumed                  | a.     | 假定，推定                                                                                                   |
-| presumption               | n.     | （一般认为）正确或可能发生的事；僭越，妄尊自大；（法）推定，假定                                             |
-| price                     | n.     | 价格                                                                                                         |
-| primate                   | n.     | 灵长类；（基督教）大主教                                                                                     |
-| primitive                 | a.     | 原始；原始，落后；（感觉或欲望）原始                                                                         |
-| primitively               | ad.    | 原始                                                                                                         |
-| prince                    | n.     | 王子，亲王                                                                                                   |
-| princess                  | n.     | 公主，王妃                                                                                                   |
-| principal                 | a.     | 主要                                                                                                         |
-|                           | n.     | （英）大学校长，学院院长；（美）校长；（商）本金；主角                                                       |
-| principle                 | n.     | （道德）原则；原则，原理，法则；观念，信条；定律                                                             |
-| in principle              |        | 原则上，理论上；大体上，基本上                                                                               |
-| print                     | v.     | 打印；印刷；刊登，登载；冲洗，冲印；用印刷体写；印，印在；印（图案），印染                                   |
-| printer                   | n.     | 打印机                                                                                                       |
-| prior                     | a.     | 先前，之前，预先；优先；在…之前                                                                              |
-| priority                  | n.     | 优先事项；优先，优先级                                                                                       |
-| prism                     | n.     | （数）棱柱；棱镜                                                                                             |
-| prison                    | n.     | 监狱，看守所；监禁，关押；牢笼，樊笼                                                                         |
-| prisoner                  | n.     | 囚犯，犯人；俘虏，战俘                                                                                       |
-| private                   | a.     | 私人；私密；私下，隐秘；私立，私营；私人（医疗或教育）；私（生活）；僻静，不受打扰；内向，不吐露感情         |
-| privately                 | ad.    | 私密，单独；私下，隐秘；私立，私营                                                                           |
-| prize                     | n.     | 奖                                                                                                           |
-| priority                  | n.     | 优先级                                                                                                       |
-| present                   | a.     | 现在                                                                                                         |
-|                           | n.     | 礼物                                                                                                         |
-| probability               | n.     | 概率                                                                                                         |
-| probable                  | a.     | 很可能                                                                                                       |
-| probe                     | n.     | 详细调查，探究；探测器；探测仪                                                                               |
-|                           | v.     | 追问，探究；检查，查看                                                                                       |
-| problem                   | n.     | 问题                                                                                                         |
-| proceed                   | v.     | 进行，进展；接着，继续；行进                                                                                 |
-| process                   | v.     | 处理，加工；审核，处理（文件）；（计）处理（数据）                                                           |
-|                           | n.     | 过程，进程，流程；流程，工序                                                                                 |
-| processor                 | n.     | （计）处理器                                                                                                 |
-| produce                   | v.     | 生产，制造；出产，繁育；制作；引起，产生；出示，展示；培养；制作（电影、电视、游戏等）                       |
-|                           | v.     | 产品                                                                                                         |
-| product                   | n.     | 产品                                                                                                         |
-| professor                 | n.     | 教授                                                                                                         |
-| profession                | n.     | 行业；业界                                                                                                   |
-| profiling                 | n.     | 资料搜集；（计）性能分析                                                                                     |
-| profit                    | n.     | 利润，获利，收益；好处，裨益                                                                                 |
-|                           | v.     | 受益，获益，得利，获得好处                                                                                   |
-| profitable                | a.     | 盈利，获利；受益，获益，有收获                                                                               |
-| profitably                | ad.    | 盈利，获利；受益，获益，有收获                                                                               |
-| profitless                | a.     | 无利可图；无益                                                                                               |
-| program                   | n.     | 程序                                                                                                         |
-|                           | v.     | 编程                                                                                                         |
-| programmer                | n.     | 程序员                                                                                                       |
-| programming               | n.     | 编程                                                                                                         |
-| progress                  | n.     | 进步；进展                                                                                                   |
-| progressive               | a.     | 进步，先进，开明；稳步，逐步；（语法）进行时                                                                 |
-|                           | n.     | 进步派，改革派                                                                                               |
-| progressively             | ad.    | 稳步，逐步，越发，愈发                                                                                       |
-| prohibit                  | v.     | 禁止；使不可能，使望而却步                                                                                   |
-| prohibition               | n.     | （尤指通过法律的）禁止；禁令                                                                                 |
-| prohibitive               | a.     | （价格或费用）难以承受，令人望而却步；（以法令）禁止的；夺冠热门                                             |
-| prohibitively             | ad.    | （价格或费用）难以承受，令人望而却步                                                                         |
-| project                   | n.     | 项目                                                                                                         |
-| projection                | n.     | 推断，预测；投影，射影；突起，隆起；使声音在远处能听见；（心）投射；（思想感情的）体现，具象化               |
-| projector                 | n.     | 投影仪                                                                                                       |
-| prolong                   | v.     | 延长                                                                                                         |
-| prolonged                 | a.     | 长期                                                                                                         |
-| prominence                | n.     | 重要，卓越，杰出，出名                                                                                       |
-| prominent                 | a.     | 重要，卓越，杰出，著名；显著，突出；突出                                                                     |
-| prominently               | ad.    | 显著，突出                                                                                                   |
-| promote                   | v.     | 促进，推动，提高；促销，推销；提拔，提升，晋升；使（体育队伍）晋级                                           |
-| promoter                  | n.     | 倡导者，支持者；（艺术演出或体育比赛的）筹办人，发起人                                                       |
-| promotion                 | n.     | 提拔，提升，晋升；（体育队伍的）晋级；促销活动，广告宣传；推广，促进                                         |
-| promotional               | a.     | 推销，广告宣传                                                                                               |
-| prompt                    | a.     | 立即，迅速，及时；（人）迅速，敏捷，准时                                                                     |
-|                           | v.     | 促使，导致，激起；提示/提醒（某人说话），（程序）提示（用户操作）；给（演员）提词                            |
-|                           | n.     | （计）提示符；（给演员的）提词                                                                               |
-|                           | ad.    | 准时                                                                                                         |
-| promptly                  | ad.    | 立即，迅速；及时，准时；立即，立刻                                                                           |
-| promptness                | n.     | 立即，迅速，及时；（人）迅速，敏捷，准时                                                                     |
-| prone                     | a.     | 容易遭受；有做（坏事）的倾向；俯卧                                                                           |
-| proneness                 | n.     | （不好的）倾向                                                                                               |
-| pronoun                   | n.     | （语法）代词                                                                                                 |
-| pronounce                 | v.     | 发音，读，念；（正式）宣布，发表，宣判，宣告，宣称                                                           |
-| pronounced                | a.     | 明显，明确                                                                                                   |
-| pronouncement             | n.     | 声明，公告，宣告                                                                                             |
-| pronounciation            | n.     | 发音，读音；（某人的）发音                                                                                   |
-| proof                     | n.     | 证据，证明；证明，证实；（数）证明                                                                           |
-|                           | a.     | 防，能够抵御/挡住/防范/防护；防/抗……                                                                         |
-|                           | v.     | 使防水/防火                                                                                                  |
-| proofread                 | v.     | 校阅，校对                                                                                                   |
-| proofreader               | n.     | 校阅（员），校对（员）                                                                                       |
-| propaganda                | n.     | （贬）宣传，鼓吹                                                                                             |
-| propagandist              | n.     | （贬）宣传者，鼓吹者                                                                                         |
-| propagandize              | v.     | （贬）大肆宣传，鼓吹                                                                                         |
-| propagate                 | v.     | 传播，宣传；繁殖，增殖                                                                                       |
-| propagation               | n.     | 传播，宣传；繁殖，增殖                                                                                       |
-| proper                    | a.     | （英）恰当，适当，正当，符合规则；（英）正经，像样；符合社会观念；严格意义上，狭义；独具，特有，天然         |
-| property                  | n.     | 财产，财物；不动产，房地产；房屋，地产；属性，性质，特性                                                     |
-| prophet                   | v.     | （基督教、犹太教和伊斯兰教的）先知；预言家；倡导者，拥护者，传播者                                           |
-| prophetic                 | a.     | 有预见性，有先见之明；先知，预言家                                                                           |
-| proportion                | n.     | 部分，占比，比例，份额；比例；成比例，匀称，均衡                                                             |
-| proportional              | a.     | 相称，成比例，成正比                                                                                         |
-| proportionally            | ad.    | 相称，成比例，成正比                                                                                         |
-| proportions               | n.     | 规模，大小                                                                                                   |
-| prostitute                | n.     | 妓女                                                                                                         |
-|                           | v.     | 卖淫；滥用（才能），糟践（自己）                                                                             |
-| prostitution              | n.     | 卖淫；滥用（才能），糟践（自己）                                                                             |
-| protect                   | v.     | 保护，防护；保障                                                                                             |
-| protection                | n.     | 保护；护身符；保险；贸易保护；保护费                                                                         |
-| protective                | a.     | 保护，防护；保护性（关税）                                                                                   |
-| protectively              | ad.    | 保护                                                                                                         |
-| protein                   | n.     | 蛋白质                                                                                                       |
-| protest                   | v.     | 抗议，反对；坚持，争辩                                                                                       |
-|                           | n.     | 抗议，反对                                                                                                   |
-| protester                 | n.     | 抗议者，反对者                                                                                               |
-| protocol                  | n.     | （数据传输）协议；条约，协定，协议；礼仪，外交礼节                                                           |
-| proton                    | n.     | 质子                                                                                                         |
-| prototype                 | n.     | 原型，雏形                                                                                                   |
-| proud                     | a.     | 骄傲，自豪，得意；荣耀，引以为傲；自负；自尊；亭亭玉立                                                       |
-| prove                     | v.     | 证明；后来发现，最后证明是；展现（自己）                                                                     |
-| proven                    | a.     | 已被证实                                                                                                     |
-| provide                   | v.     | 提供，给予                                                                                                   |
-| provided                  | conj.  | 假如，假定                                                                                                   |
-| provision                 | n.     | 提供，供给，供应；（为将来做的）准备；（法律文件的）规定，条款                                               |
-|                           | v.     | 提供（所需物品，尤指食物）                                                                                   |
-| provisional               | a.     | 临时，暂时；暂定                                                                                             |
-| provisionally             | ad.    | 暂定                                                                                                         |
-| proxy                     | n.     | 代理，代表；代理人，代表                                                                                     |
-| psycho                    | n.     | 神经病                                                                                                       |
-| psychologist              | n.     | 心理学家                                                                                                     |
-| psychology                | n.     | 心理学                                                                                                       |
-| psi                       | n.     | ψ（希腊字母）                                                                                                |
-| public                    | a.     | 公共；大众的；公开                                                                                           |
-|                           | n.     | 大众                                                                                                         |
-| publication               | n.     | 出版，发行；出版物；发表，公布，刊登                                                                         |
-| publish                   | v.     | 出版，发行；（在报刊上）发表，刊登；（在互联网上）发表                                                       |
-| publisher                 | n.     | 出版商，发行商                                                                                               |
-| pudding                   | n.     | 布丁                                                                                                         |
-| pull                      | v.     | 拉，拽，扯，揪，拖；拔出，抽出；（向某个方向）拉；拉，牵引；（向某个方向）移动身体部位；拉上；扳动，扣；     |
-|                           |        | （使车辆）转向；（发动机）吃力地运转；划，划动；吸引；（耍手段、犯罪等）得逞；取消，撤销（活动、广告等）     |
-|                           | n.     | 拉，拽，扯，揪，拖；引力；吸引力，诱惑；影响力；深吸，大口喝；拉伤，扭伤；把手，拉绳，拉环                   |
-| puma                      | n.     | 美洲狮                                                                                                       |
-| pump                      | n.     | 泵                                                                                                           |
-|                           | v.     | （用泵）抽，输；喷，涌                                                                                       |
-| purple                    | a.     | 紫色                                                                                                         |
-| purse                     | n.     | （英）（女用）钱包                                                                                           |
-| pursuit                   | n.     | 追逐                                                                                                         |
-| pus                       | n.     | 脓                                                                                                           |
-| push                      | v.     | 推                                                                                                           |
-| put                       | v.     | 放                                                                                                           |
-|                           |        |                                                                                                              |
+|                           |        |                                                                                                                        |
+| ------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| pack                      | n.     | 批                                                                                                                     |
+| page                      | n.     | 页                                                                                                                     |
+| pain                      | n.     | 痛苦                                                                                                                   |
+| painful                   | a.     | 痛苦的；艰难，不愉快                                                                                                   |
+| paint                     | v.     | 刷油漆；（使用颜料）画；把…描绘成；涂（化妆品）                                                                        |
+|                           | n.     | 油漆；（绘画）颜料                                                                                                     |
+| palace                    | n.     | 宫，宫殿；（英国）王室                                                                                                 |
+| panda                     | n.     | 熊猫                                                                                                                   |
+| pandemic                  | n.     | （全国或全球）流行病                                                                                                   |
+|                           | a.     | （全国或全球）流行（疾病）                                                                                             |
+| panel                     | n.     | 面板；钣金；专家组，讨论小组；仪表盘，面板                                                                             |
+| pants                     | n.     | （美）裤子                                                                                                             |
+| paper                     | n.     | 纸；论文                                                                                                               |
+| parachute                 | n.     | 降落伞                                                                                                                 |
+| paragraph                 | n.     | 段落                                                                                                                   |
+|                           | v.     | 跳伞，空投                                                                                                             |
+| paraphernalia             | n.     | （某活动所需的）装备，用具                                                                                             |
+| parent                    | n.     | 父母；亲代；母公司                                                                                                     |
+| parenthesis (parentheses) | n.     | 小括号，圆括号                                                                                                         |
+| park                      | n.     | 公园；园区；棒球场                                                                                                     |
+|                           | v.     | 停车                                                                                                                   |
+| parking                   | n.     | 停车场                                                                                                                 |
+| parrot                    | n.     | 鹦鹉                                                                                                                   |
+| parse                     | v.     | 解析                                                                                                                   |
+| parser                    | n.     | 解析器                                                                                                                 |
+| partially                 | ad.    | 部分，不完全                                                                                                           |
+| particle                  | n.     | 粒子                                                                                                                   |
+| particular                | a.     | 特别的，特殊的，特定的                                                                                                 |
+| particularly              | ad.    | 特别                                                                                                                   |
+| partner                   | n.     | 配偶；合伙人；搭档，同伴；伙伴                                                                                         |
+| party                     | n.     | 聚会；党                                                                                                               |
+| passenger                 | n.     | 乘客                                                                                                                   |
+| passport                  | n.     | 护照                                                                                                                   |
+| password                  | n.     | 密码                                                                                                                   |
+| past                      | a.     | 过去                                                                                                                   |
+| patent                    | n.     | 专利                                                                                                                   |
+|                           | a.     | 专利；赤裸裸的                                                                                                         |
+| path                      | n.     | 小路，小径；路线，道路；（实现特定目标的）道路，计划；（计）路径                                                       |
+| patron                    | n.     | 赞助人，资助人；老主顾，常客                                                                                           |
+| patronize                 | v.     | 看不起，鄙视（以看似有好的方式对待，但从内心深处鄙夷）；经常光顾；赞助，资助                                           |
+| pattern                   | n.     | 模式；范例，典范，榜样，样板；图案；图样；样品                                                                         |
+|                           | v.     | 构成图案；造成，促成（某种行为模式）                                                                                   |
+| pause                     | v.     | 暂停                                                                                                                   |
+| pay                       | v.     | 支付                                                                                                                   |
+| peace                     | n.     | 和平                                                                                                                   |
+| peach                     | n.     | 桃子                                                                                                                   |
+| peacock                   | n.     | 雄孔雀                                                                                                                 |
+| pear                      | n.     | 梨                                                                                                                     |
+| peanut                    | n.     | 花生                                                                                                                   |
+| pearl                     | n.     | 珍珠                                                                                                                   |
+| peasant                   | n.     | 农民，佃农                                                                                                             |
+| pedal                     | n.     | 踏板                                                                                                                   |
+|                           | v.     | 踩踏板；骑自行车                                                                                                       |
+| pee                       | v.     | 撒尿                                                                                                                   |
+| peek                      | v.     | 窥视，偷看；露出，探出                                                                                                 |
+|                           | n.     | 窥视，偷看                                                                                                             |
+| peel                      | v.     | 剥，削（皮）；剥，揭开，脱落；剥落                                                                                     |
+|                           | n.     | 果皮                                                                                                                   |
+| peer                      | n.     | 同辈，同伴，同侪                                                                                                       |
+|                           | v.     | 仔细看，端详                                                                                                           |
+| pen                       | n.     | 钢笔；圈，栏                                                                                                           |
+|                           | v.     | 圈起来，关起来                                                                                                         |
+| pencil                    | n.     | 铅笔                                                                                                                   |
+| penguin                   | n.     | 企鹅                                                                                                                   |
+| penis                     | n.     | 阴茎                                                                                                                   |
+| people                    | n.     | 人，人们；人民                                                                                                         |
+| per                       | prep.  | 每                                                                                                                     |
+| period                    | n.     | 一段时间，时期；阶段，时期；（地）纪                                                                                   |
+| periodic                  | a.     | 周期，定期                                                                                                             |
+| perish                    | v.     | 死亡；毁灭，湮灭                                                                                                       |
+| perfer                    | v.     | 更喜欢，更倾向                                                                                                         |
+| perfect                   | a.     | 完美                                                                                                                   |
+| perform                   | v.     | 做，发挥，执行；表演，演出；工作，表现，运转                                                                           |
+| performance               | n.     | 演出；表演，演技；表现，状况，性能，业绩；做，发挥，执行                                                               |
+| performer                 | n.     | 表演者；表现得…                                                                                                        |
+| perfume                   | n.     | 香水；香味                                                                                                             |
+|                           | v.     | （花）使香味弥漫；抹/洒香水                                                                                            |
+| perfumed                  | a.     | 香，有香味                                                                                                             |
+| peril                     | n.     | 严重危险，严重危机；祸                                                                                                 |
+| perilous                  | a.     | 非常危险，凶险                                                                                                         |
+| perilously                | ad.    | 非常危险                                                                                                               |
+| period                    | n.     | 时期                                                                                                                   |
+| perm                      | n.     | 烫发，卷发                                                                                                             |
+| perpendicular             | a.     | 垂直                                                                                                                   |
+| perpetrate                | v.     | 作（案），行（凶），犯（罪）                                                                                           |
+| perpetrator               | n.     | 作案者，行凶者，犯罪者                                                                                                 |
+| persist                   | v.     | 坚持，执着；保持，持续存在                                                                                             |
+| persistence               | n.     | 坚持，锲而不舍；维持，持续存在                                                                                         |
+| persistent                | a.     | 坚持不懈，锲而不舍，执着；连绵，持续                                                                                   |
+| persistently              | ad.    | 坚持，一再；持续                                                                                                       |
+| person                    | n.     | 人                                                                                                                     |
+| -person                   |        | （从事特定工作的）…人，…员                                                                                             |
+| persona                   | n.     | 人设，人格面具                                                                                                         |
+| personal                  | a.     | 个人，私人；人际，个性；私；亲自；个别，个人；针对个人，人身攻击；身体                                                 |
+| personality               | n.     | 性格，个性，人格；魅力，气质；（尤指娱乐圈或体育界的）名人，名流；有个性的人，性格突出的人；特色，个性                 |
+| personalize               | v.     | 为个人量身定制；个人化                                                                                                 |
+| personalized              | a.     | 个性化；个人化                                                                                                         |
+| personally                | ad.    | 就个人而言，就个人意见；本人，亲自；个别，个人；无礼，冒犯；私人（与工作相对）                                         |
+| personify                 | v.     | （人）体现，是…的典型；拟人化，把…人格化                                                                               |
+| personnel                 | n.     | （组织或军队中的）人员；人事部门                                                                                       |
+| perspective               | n.     | 观点，角度；判断力，权衡事物的能力；透视（画法）；景观，远景                                                           |
+| persuade                  | v.     | 劝，劝说，说服；使信服，使相信                                                                                         |
+| persuasion                | n.     | 劝，劝说，说服；（宗教或政治）信仰                                                                                     |
+| persuasive                | a.     | 有说服力，令人信服                                                                                                     |
+| pervert                   | v.     | 败坏，滥用；腐蚀，侵蚀，使堕落                                                                                         |
+| pessimism                 | n.     | 悲观；悲观主义                                                                                                         |
+| pessimist                 | n.     | 持悲观态度的人；悲观主义者                                                                                             |
+| pessimistic               | a.     | 悲观；悲观主义                                                                                                         |
+| pest                      | n.     | 害虫；讨厌的人                                                                                                         |
+| pester                    | v.     | 打扰，骚扰，纠缠，缠着                                                                                                 |
+| pesticide                 | n.     | 杀虫剂                                                                                                                 |
+| pet                       | n.     | 宠物                                                                                                                   |
+| petal                     | n.     | 花瓣                                                                                                                   |
+| petition                  | n.     | 请愿书；（法）申诉书，申请书；祈祷，祈求                                                                               |
+|                           | v.     | 请愿；（向法院）申诉，申请；祈祷，祈求                                                                                 |
+| petitioner                | n.     | 请愿者；（法）申诉人；祈祷者，祈求者                                                                                   |
+| petrol                    | n.     | 汽油                                                                                                                   |
+| petroleum                 | n.     | 石油，原油                                                                                                             |
+| phantasm                  | n.     | 幻觉，幻象                                                                                                             |
+| phantom                   | n.     | 鬼，鬼魂，幽灵；幻觉，幻象                                                                                             |
+|                           | a.     | 鬼，鬼魂，幽灵；幻觉，幻象，虚幻                                                                                       |
+| pharmaceutical            | a.     | 药，制药                                                                                                               |
+|                           | n.     | 药物                                                                                                                   |
+| pharmacist                | n.     | 药剂师                                                                                                                 |
+| pharmacologist            | n.     | 药物学家，药理学家                                                                                                     |
+| pharmacology              | n.     | 药物学，药理学                                                                                                         |
+| pharmacological           | a.     | 药物学，药理学                                                                                                         |
+| pharmacy                  | n.     | 药店，药房；（医院的）药房；药剂学，制药学                                                                             |
+| phase                     | n.     | 阶段，时期；月相                                                                                                       |
+|                           | v.     | 分阶段进行，逐步进行                                                                                                   |
+| phenomenon                | n.     | 现象                                                                                                                   |
+| philo-                    |        | 爱好，喜爱                                                                                                             |
+| philosophical             | a.     | 哲学；达观，处乱不惊                                                                                                   |
+| philosophically           | ad.    | 哲学；达观，处乱不惊                                                                                                   |
+| philosopher               | n.     | 哲学家；善于思考的人                                                                                                   |
+| philosophy                | n.     | 哲学；哲学体系，思想体系；人生哲学，生活态度                                                                           |
+| phishing                  | n.     | 网络诈骗，网络钓鱼                                                                                                     |
+| phobic                    | n.     | 特别怕…的人，恐惧症                                                                                                    |
+| -phobic                   |        | …恐惧的，仇视…的                                                                                                       |
+| phoenix                   | n.     | 凤凰，不死鸟                                                                                                           |
+| phone                     | n.     | 电话；（语）因素                                                                                                       |
+| -phone                    |        | （发声或使用声音的）工具，仪器                                                                                         |
+| phonetic                  | a.     | 音标的，注音的；表音，与发音近似；语音                                                                                 |
+| phonetics                 | n.     | 语音学                                                                                                                 |
+| phony                     | a.     | 假装的，冒充的，欺骗的                                                                                                 |
+| phosphate                 | n.     | （化）磷酸盐，磷肥，含磷化合物                                                                                         |
+| phosphorus                | n.     | 磷                                                                                                                     |
+| photo                     | n.     | 照片                                                                                                                   |
+| photo-                    |        | 光的；摄影的，照相的                                                                                                   |
+| photocopy                 | n.     | 复印件，影印件                                                                                                         |
+|                           | v.     | 复印，影印                                                                                                             |
+| photograph                | n.     | 照片，相片                                                                                                             |
+|                           | v.     | 照相，拍照                                                                                                             |
+| photographer              | n.     | 摄影师                                                                                                                 |
+| photographic              | a.     | 摄影                                                                                                                   |
+| photography               | n.     | 摄影                                                                                                                   |
+| photon                    | n.     | （物）光子                                                                                                             |
+| photosensitive            | a.     | 感光，光敏                                                                                                             |
+| photosynthesis            | n.     | （生）光合作用                                                                                                         |
+| photosynthesize           | v.     | （生）进行光合作用                                                                                                     |
+| phrasal                   | a.     | 短语，词组                                                                                                             |
+| phrasal verb              | n.     | 动词词组                                                                                                               |
+| phrase                    | n.     | 短语，词组；成语，习语，惯用语                                                                                         |
+|                           | v.     | （以某种方式）表达，措辞                                                                                               |
+| physical                  | a.     | 身体；物理；符合自然规律，科学；物理学；性                                                                             |
+| physics                   | n.     | 物理学                                                                                                                 |
+| pianist                   | n.     | 钢琴演奏者，钢琴家                                                                                                     |
+| piano                     | n.     | 钢琴                                                                                                                   |
+| picnic                    | n.     | 野餐                                                                                                                   |
+| (picnicked, picnicking)   | v.     | 野餐                                                                                                                   |
+| pick                      | v.     | 选择                                                                                                                   |
+| pickaxe                   | n.     | 镐                                                                                                                     |
+| pickup                    | n.     | 轻型货车，皮卡货车；好转，改善；接人，提货；（车辆的）加速能力                                                         |
+| picky                     | a.     | 挑剔，挑三拣四，难伺候                                                                                                 |
+| picnic                    | n.     | 野餐                                                                                                                   |
+|                           | v.     | 野餐                                                                                                                   |
+| picture                   | n.     | 画，图画，画像；照片；（屏幕）画面，图像；描绘，描述；头脑中的场景，记忆，印象；状况，情况，形势；电影                 |
+|                           | v.     | 想象，设想，回忆；描绘，描述；图片显示                                                                                 |
+| picturesque               | a.     | （地点、建筑物、景色等）优美，如画般，古色古香；（语言）生动，栩栩如生                                                 |
+| picturesquely             | ad.    | 优美，如画般；生动，栩栩如生                                                                                           |
+| pie                       | n.     | （果馅）派                                                                                                             |
+| piece                     | n.     | 片，段，截，块，粒；碎片；零件，部件；（一套中的）一件，一台；条，项，点；（文章、艺术品、音乐作品等）一件，一篇，一首 |
+|                           |        | （新闻传媒的）文章，报道；（美）部分，份额                                                                             |
+| pierce                    | v.     | 扎，刺破，穿透；（光、声等）划破，穿透，刺破；冲破，突破                                                               |
+| pig                       | n.     | 猪                                                                                                                     |
+| pigeon                    | n.     | 鸽子                                                                                                                   |
+| pile                      | n.     | 摞，垛，沓；堆，成堆的东西；大量，许多；绒，绒毛                                                                       |
+|                           | v.     | 堆放，叠放；堆，装；（许多人）蜂拥，拥挤                                                                               |
+| pill                      | n.     | 药丸，药片；口服避孕药                                                                                                 |
+| pillage                   | v.     | 抢劫，劫掠，掠夺                                                                                                       |
+| pillar                    | n.     | 柱，柱子；纪念柱；台柱，主心骨，中流砥柱；富有某种素质的人；（组织、制度、信仰等的）核心，支柱，基础                   |
+| pillow                    | n.     | 枕头                                                                                                                   |
+| pilot                     | n.     | 飞行员；领航员                                                                                                         |
+|                           | v.     | 驾驶（飞行器），领航（船只）；引导，使通过（尤指复杂的地方或系统）；试点，试行                                         |
+|                           | a.     | 试验性，试点                                                                                                           |
+| pimp                      | n.     | 拉皮条的                                                                                                               |
+|                           | v.     | 拉皮条                                                                                                                 |
+| pin                       | n.     | 大头针；胸针；（美）（有别针的）徽章；（插头的）管脚；（保龄球等的）木瓶，瓶柱；（手榴弹上的）保险针                   |
+|                           | v.     | （用大头针等）固定，钉住，别住；按住，卡住，使不能动弹                                                                 |
+| pinch                     | v.     | 拧，捏，掐；捏住，夹紧；夹（脚） ；使不能负担                                                                          |
+|                           | n.     | 拧，捏，掐；一撮                                                                                                       |
+| pine                      | n.     | 松树；松木                                                                                                             |
+|                           | v.     | （因死亡、离别）难过，悲伤                                                                                             |
+| pineapple                 | n.     | 菠萝                                                                                                                   |
+| ping-pong                 | n.     | 乒乓球                                                                                                                 |
+| pink                      | a.     | 粉红色                                                                                                                 |
+|                           | n.     | 粉红色                                                                                                                 |
+| pinpoint                  | v.     | 明确指出，准确找出（位置或时间）；准确解释，精准说明                                                                   |
+| pioneer                   | n.     | 先锋，先驱；开拓者                                                                                                     |
+|                           | v.     | 率先做；倡导                                                                                                           |
+| pipe                      | n.     | 管，管道；烟管                                                                                                         |
+| pipeline                  | n.     | （地下的）输油管道，输气管道                                                                                           |
+| piracy                    | n.     | 海盗；盗版                                                                                                             |
+| pirate                    | n.     | 海盗；盗版                                                                                                             |
+|                           | v.     | 盗版，盗印                                                                                                             |
+| pistol                    | n.     | 手枪                                                                                                                   |
+| piston                    | n.     | 活塞                                                                                                                   |
+| pitfall                   | n.     | 陷阱，圈套                                                                                                             |
+| pity                      | n.     | 同情，怜悯；（用于表示失望）遗憾，可惜                                                                                 |
+|                           | v.     | 同情，怜悯                                                                                                             |
+| pivot                     | n.     | 支点，枢轴，中心点；中心，核心，支柱                                                                                   |
+| pixel                     | n.     | （计）像素                                                                                                             |
+| pizza                     | n.     | 披萨                                                                                                                   |
+| placate                   | v.     | 安抚，平息（怒气）                                                                                                     |
+| placatory                 | a.     | 安抚，抚慰，安慰                                                                                                       |
+| place                     | n.     | 位置，地方，地点，场所；（具有某种用途的）位置，地点，地方，场所；座位，位置，位子；身份，地位，资格                   |
+|                           |        | 求学机会，入学名额；队员身份，队员资格；恰当的位置；名次；（小数点后的）位                                             |
+|                           | v.     | （小心或有意地）放置，安放；使处于特定位置；以某种态度对待；认出，辨认，识别；下指示，下请求；安置家庭（或工作等）     |
+|                           |        | （经比较）归类，划分，排名；名列，获名次                                                                               |
+| plagiarism                | n.     | 抄袭，剽窃                                                                                                             |
+| plan                      | n.     | 计划                                                                                                                   |
+|                           | v.     | 计划                                                                                                                   |
+| plane                     | n.     | 飞机；（数）平面；（思想、存在或发展的）水平，程度，阶段                                                               |
+|                           | a.     | 平                                                                                                                     |
+| planet                    | n.     | （天）行星                                                                                                             |
+| plank                     | n.     | 板                                                                                                                     |
+| plant                     | n.     | 植物；电厂，工厂；（工业）大型机器，设备；内线，卧底                                                                   |
+|                           | v.     | 种植，栽培，栽种；插，竖立；放置（炸弹）；栽（赃）；安插，使卧底；根植于                                               |
+| plasma                    | n.     | （生）血浆；（物）等离子体                                                                                             |
+| plastic                   | a.     | 塑料；（材料）可塑，塑性；做作，虚伪，矫饰                                                                             |
+|                           | n.     | 塑料                                                                                                                   |
+| plate                     | n.     | 盘子；一盘；一道菜；（金属）板材；金属铭牌；车牌；（生）鳞甲；板块；（书的）整页插图；（印刷用的）印版                 |
+| platform                  | n.     | （英）站台；讲台，舞台；平台；（政党）纲领，宣言；（观点）阵地，根据地                                                 |
+| platinum                  | n.     | 铂，白金                                                                                                               |
+| play                      | v.     | 玩；播放                                                                                                               |
+| player                    | n.     | 玩家；选手                                                                                                             |
+| playlist                  | n.     | 播放列表                                                                                                               |
+| please                    | excla. | 请；请求                                                                                                               |
+| plot                      | n.     | 故事情节；阴谋，密谋；（专用）小块土地                                                                                 |
+|                           | v.     | 密谋，暗中策划；（在地图上）画出，标出；绘制（图表或曲线）；设计故事情节                                               |
+| plus                      | prep.  | 加                                                                                                                     |
+|                           | a.     | 多，余；好的，正面；零上                                                                                               |
+| Pluto                     | n.     | 冥王星                                                                                                                 |
+| podcast                   | n.     | 播客                                                                                                                   |
+| poem                      | n.     | 诗                                                                                                                     |
+| poet                      | n.     | 诗人                                                                                                                   |
+| poetic                    | a.     | 诗；富有诗意，像诗一般                                                                                                 |
+| poetry                    | n.     | 诗歌，诗集；美好的品质，优雅的气质，诗意                                                                               |
+| point                     | n.     | 点                                                                                                                     |
+| poison                    | n.     | 毒药，毒物，毒素；有害的思想                                                                                           |
+|                           | v.     | 毒死，毒害；下毒；毒化，使恶化                                                                                         |
+| poisonous                 | a.     | 有毒；毒（动物）；恶劣                                                                                                 |
+| polar                     | a.     | 极地，南（北）极；磁极；截然相反                                                                                       |
+| polar bear                |        | 北极熊                                                                                                                 |
+| police                    | n.     | 警察                                                                                                                   |
+| policy                    | n.     | 政策                                                                                                                   |
+| politics                  | n.     | 政治                                                                                                                   |
+| political                 | a.     | 政治                                                                                                                   |
+| polyethylene              | n.     | 聚乙烯                                                                                                                 |
+| poor                      | a.     | 穷                                                                                                                     |
+| pop                       | n.     | 流行（音乐风格）                                                                                                       |
+| popular                   | a.     | 流行                                                                                                                   |
+| porcupine                 | n.     | 豪猪                                                                                                                   |
+| pork                      | n.     | 猪肉                                                                                                                   |
+| port                      | n.     | 端口                                                                                                                   |
+| positive                  | a.     |                                                                                                                        |
+| possess                   | v.     | 有，具有                                                                                                               |
+| post                      | n.     | 派驻；哨岗                                                                                                             |
+|                           | v.     | 发布，公布（财经信息或警告）；（网络上）发布；交（保释金）                                                             |
+| post office               | n.     | 邮局                                                                                                                   |
+| pot                       | n.     | 锅；（英）罐，瓶，壶；（特定用途的）容器；一罐，一瓶，一壶；筹集的资金，拼凑的钱；大麻；盲射，乱射                     |
+|                           | v.     | （台球）击球入袋                                                                                                       |
+| potato                    | n.     | 土豆                                                                                                                   |
+| potassium                 | n.     | 钾                                                                                                                     |
+| potent                    | a.     |                                                                                                                        |
+| pottery                   | n.     | 陶器；陶土；陶艺                                                                                                       |
+| pounce                    | v.     | 突袭                                                                                                                   |
+| powder                    | n.     | 粉                                                                                                                     |
+| power                     | n.     | 控制，掌握，操纵；统治，政权；能力；权力，权势；强国，列强；实力，力量；影响力；能量，动力；电力；力量，体力           |
+|                           | v.     | 驱动                                                                                                                   |
+| practical                 | a.     | 实际，切实；（想法、方法或行动）切实可行；（物）实用，适用；（人）实事求是，实际；（人）心灵手巧，善于制作             |
+|                           |        | 近乎，实质上                                                                                                           |
+| practically               | ad.    | 几乎，差不多；实际上，实事求是地                                                                                       |
+| practice                  | n.     | 实践；惯例，通常做法；习惯，习俗；练习                                                                                 |
+|                           | v.     | 练习；培养，养成…习惯；从事（医疗、法律工作），执业                                                                    |
+| practitioner              | n.     | 从业人员；专业人才                                                                                                     |
+| praise                    | v.     | 称赞，赞扬                                                                                                             |
+| prawn                     | n.     | 大虾                                                                                                                   |
+| pray                      | v.     | 祈祷，祷告；期盼，希望                                                                                                 |
+| prayer                    | n.     | 祈祷，祷告（的内容）；祷告文；祈祷，祷告（的行为）；期盼，希望                                                         |
+| preach                    | v.     | （教堂中礼拜时）布道；宣传，宣扬（宗教、体制、生活方式等）；说教                                                       |
+| precaution                | n.     | 预防，预防措施；避孕措施                                                                                               |
+| precede                   | v.     | 在…之前，先于；走在…前面                                                                                               |
+| precedence                | n.     | 优先，优先级                                                                                                           |
+| precedent                 | n.     | （可援用参考的）范例，实例，判例；先例，前例；常规，传统                                                               |
+| precious                  | a.     | 珍贵，珍奇                                                                                                             |
+| precise                   | a.     | 精确                                                                                                                   |
+| precisely                 | ad.    | 精确地                                                                                                                 |
+| predator                  | n.     | 捕食者                                                                                                                 |
+| predicate                 | n.     | 谓语                                                                                                                   |
+|                           | v.     | 使基于，使以…为依据；表明，阐明，声明                                                                                  |
+| preface                   | n.     | （书的）前言，序言                                                                                                     |
+| prefix                    | n.     | 前缀                                                                                                                   |
+| pregnancy                 | n.     | 怀孕，妊娠，孕期                                                                                                       |
+| pregnant                  | a.     | 怀孕，妊娠；充满，饱含                                                                                                 |
+| prehistoric               | a.     | 史前，远古                                                                                                             |
+| prehistory                | n.     | 史前时期，远古时期；（事物发展的）初期，萌芽时期                                                                       |
+| prejudice                 | n.     | 偏见                                                                                                                   |
+|                           | v.     | 使…产生偏见；损害                                                                                                      |
+| premature                 | a.     | 未成熟，过早，提前；早产；草率，仓促，为时过早                                                                         |
+| prematurely               | ad.    | 未成熟，过早，提前；早产；草率，仓促                                                                                   |
+| premeditated              | a.     | 有预谋的，事先策划的                                                                                                   |
+| premeditation             | n.     | 预谋，事先策划                                                                                                         |
+| prepare                   | v.     | 准备                                                                                                                   |
+| preparation               | n.     | 准备                                                                                                                   |
+| prepend                   | v.     | 在开始位置添加                                                                                                         |
+| prescribe                 | v.     | 给…开（药）；指示，规定                                                                                                |
+| president                 | n.     | 总统                                                                                                                   |
+| press                     | v.     | 按，压，挤，紧贴；塞进；（人群）推搡，拥挤；催促，敦促；反复提及，坚持推进；压制（金属）                               |
+|                           | n.     | 报刊，新闻；记者，新闻采访；报道；印刷；出版社；按，压；压/榨工具                                                      |
+| pressure                  | n.     | 压力                                                                                                                   |
+| presume                   | v.     | 假设，假定；（法）推定，假定；设定，设想；僭越                                                                         |
+| presumed                  | a.     | 假定，推定                                                                                                             |
+| presumption               | n.     | （一般认为）正确或可能发生的事；僭越，妄尊自大；（法）推定，假定                                                       |
+| price                     | n.     | 价格                                                                                                                   |
+| primate                   | n.     | 灵长类；（基督教）大主教                                                                                               |
+| primitive                 | a.     | 原始；原始，落后；（感觉或欲望）原始                                                                                   |
+| primitively               | ad.    | 原始                                                                                                                   |
+| prince                    | n.     | 王子，亲王                                                                                                             |
+| princess                  | n.     | 公主，王妃                                                                                                             |
+| principal                 | a.     | 主要                                                                                                                   |
+|                           | n.     | （英）大学校长，学院院长；（美）校长；（商）本金；主角                                                                 |
+| principle                 | n.     | （道德）原则；原则，原理，法则；观念，信条；定律                                                                       |
+| in principle              |        | 原则上，理论上；大体上，基本上                                                                                         |
+| print                     | v.     | 打印；印刷；刊登，登载；冲洗，冲印；用印刷体写；印，印在；印（图案），印染                                             |
+| printer                   | n.     | 打印机                                                                                                                 |
+| prior                     | a.     | 先前，之前，预先；优先；在…之前                                                                                        |
+| priority                  | n.     | 优先事项；优先，优先级                                                                                                 |
+| prism                     | n.     | （数）棱柱；棱镜                                                                                                       |
+| prison                    | n.     | 监狱，看守所；监禁，关押；牢笼，樊笼                                                                                   |
+| prisoner                  | n.     | 囚犯，犯人；俘虏，战俘                                                                                                 |
+| private                   | a.     | 私人；私密；私下，隐秘；私立，私营；私人（医疗或教育）；私（生活）；僻静，不受打扰；内向，不吐露感情                   |
+| privately                 | ad.    | 私密，单独；私下，隐秘；私立，私营                                                                                     |
+| prize                     | n.     | 奖                                                                                                                     |
+| priority                  | n.     | 优先级                                                                                                                 |
+| present                   | a.     | 现在                                                                                                                   |
+|                           | n.     | 礼物                                                                                                                   |
+| probability               | n.     | 概率                                                                                                                   |
+| probable                  | a.     | 很可能                                                                                                                 |
+| probe                     | n.     | 详细调查，探究；探测器；探测仪                                                                                         |
+|                           | v.     | 追问，探究；检查，查看                                                                                                 |
+| problem                   | n.     | 问题                                                                                                                   |
+| proceed                   | v.     | 进行，进展；接着，继续；行进                                                                                           |
+| process                   | v.     | 处理，加工；审核，处理（文件）；（计）处理（数据）                                                                     |
+|                           | n.     | 过程，进程，流程；流程，工序                                                                                           |
+| processor                 | n.     | （计）处理器                                                                                                           |
+| produce                   | v.     | 生产，制造；出产，繁育；制作；引起，产生；出示，展示；培养；制作（电影、电视、游戏等）                                 |
+|                           | v.     | 产品                                                                                                                   |
+| product                   | n.     | 产品                                                                                                                   |
+| professor                 | n.     | 教授                                                                                                                   |
+| profession                | n.     | 行业；业界                                                                                                             |
+| profiling                 | n.     | 资料搜集；（计）性能分析                                                                                               |
+| profit                    | n.     | 利润，获利，收益；好处，裨益                                                                                           |
+|                           | v.     | 受益，获益，得利，获得好处                                                                                             |
+| profitable                | a.     | 盈利，获利；受益，获益，有收获                                                                                         |
+| profitably                | ad.    | 盈利，获利；受益，获益，有收获                                                                                         |
+| profitless                | a.     | 无利可图；无益                                                                                                         |
+| program                   | n.     | 程序                                                                                                                   |
+|                           | v.     | 编程                                                                                                                   |
+| programmer                | n.     | 程序员                                                                                                                 |
+| programming               | n.     | 编程                                                                                                                   |
+| progress                  | n.     | 进步；进展                                                                                                             |
+| progressive               | a.     | 进步，先进，开明；稳步，逐步；（语法）进行时                                                                           |
+|                           | n.     | 进步派，改革派                                                                                                         |
+| progressively             | ad.    | 稳步，逐步，越发，愈发                                                                                                 |
+| prohibit                  | v.     | 禁止；使不可能，使望而却步                                                                                             |
+| prohibition               | n.     | （尤指通过法律的）禁止；禁令                                                                                           |
+| prohibitive               | a.     | （价格或费用）难以承受，令人望而却步；（以法令）禁止的；夺冠热门                                                       |
+| prohibitively             | ad.    | （价格或费用）难以承受，令人望而却步                                                                                   |
+| project                   | n.     | 项目                                                                                                                   |
+| projection                | n.     | 推断，预测；投影，射影；突起，隆起；使声音在远处能听见；（心）投射；（思想感情的）体现，具象化                         |
+| projector                 | n.     | 投影仪                                                                                                                 |
+| prolong                   | v.     | 延长                                                                                                                   |
+| prolonged                 | a.     | 长期                                                                                                                   |
+| prominence                | n.     | 重要，卓越，杰出，出名                                                                                                 |
+| prominent                 | a.     | 重要，卓越，杰出，著名；显著，突出；突出                                                                               |
+| prominently               | ad.    | 显著，突出                                                                                                             |
+| promote                   | v.     | 促进，推动，提高；促销，推销；提拔，提升，晋升；使（体育队伍）晋级                                                     |
+| promoter                  | n.     | 倡导者，支持者；（艺术演出或体育比赛的）筹办人，发起人                                                                 |
+| promotion                 | n.     | 提拔，提升，晋升；（体育队伍的）晋级；促销活动，广告宣传；推广，促进                                                   |
+| promotional               | a.     | 推销，广告宣传                                                                                                         |
+| prompt                    | a.     | 立即，迅速，及时；（人）迅速，敏捷，准时                                                                               |
+|                           | v.     | 促使，导致，激起；提示/提醒（某人说话），（程序）提示（用户操作）；给（演员）提词                                      |
+|                           | n.     | （计）提示符；（给演员的）提词                                                                                         |
+|                           | ad.    | 准时                                                                                                                   |
+| promptly                  | ad.    | 立即，迅速；及时，准时；立即，立刻                                                                                     |
+| promptness                | n.     | 立即，迅速，及时；（人）迅速，敏捷，准时                                                                               |
+| prone                     | a.     | 容易遭受；有做（坏事）的倾向；俯卧                                                                                     |
+| proneness                 | n.     | （不好的）倾向                                                                                                         |
+| pronoun                   | n.     | （语法）代词                                                                                                           |
+| pronounce                 | v.     | 发音，读，念；（正式）宣布，发表，宣判，宣告，宣称                                                                     |
+| pronounced                | a.     | 明显，明确                                                                                                             |
+| pronouncement             | n.     | 声明，公告，宣告                                                                                                       |
+| pronounciation            | n.     | 发音，读音；（某人的）发音                                                                                             |
+| proof                     | n.     | 证据，证明；证明，证实；（数）证明                                                                                     |
+|                           | a.     | 防，能够抵御/挡住/防范/防护；防/抗……                                                                                   |
+|                           | v.     | 使防水/防火                                                                                                            |
+| proofread                 | v.     | 校阅，校对                                                                                                             |
+| proofreader               | n.     | 校阅（员），校对（员）                                                                                                 |
+| propaganda                | n.     | （贬）宣传，鼓吹                                                                                                       |
+| propagandist              | n.     | （贬）宣传者，鼓吹者                                                                                                   |
+| propagandize              | v.     | （贬）大肆宣传，鼓吹                                                                                                   |
+| propagate                 | v.     | 传播，宣传；繁殖，增殖                                                                                                 |
+| propagation               | n.     | 传播，宣传；繁殖，增殖                                                                                                 |
+| proper                    | a.     | （英）恰当，适当，正当，符合规则；（英）正经，像样；符合社会观念；严格意义上，狭义；独具，特有，天然                   |
+| property                  | n.     | 财产，财物；不动产，房地产；房屋，地产；属性，性质，特性                                                               |
+| prophet                   | v.     | （基督教、犹太教和伊斯兰教的）先知；预言家；倡导者，拥护者，传播者                                                     |
+| prophetic                 | a.     | 有预见性，有先见之明；先知，预言家                                                                                     |
+| proportion                | n.     | 部分，占比，比例，份额；比例；成比例，匀称，均衡                                                                       |
+| proportional              | a.     | 相称，成比例，成正比                                                                                                   |
+| proportionally            | ad.    | 相称，成比例，成正比                                                                                                   |
+| proportions               | n.     | 规模，大小                                                                                                             |
+| prostitute                | n.     | 妓女                                                                                                                   |
+|                           | v.     | 卖淫；滥用（才能），糟践（自己）                                                                                       |
+| prostitution              | n.     | 卖淫；滥用（才能），糟践（自己）                                                                                       |
+| protect                   | v.     | 保护，防护；保障                                                                                                       |
+| protection                | n.     | 保护；护身符；保险；贸易保护；保护费                                                                                   |
+| protective                | a.     | 保护，防护；保护性（关税）                                                                                             |
+| protectively              | ad.    | 保护                                                                                                                   |
+| protein                   | n.     | 蛋白质                                                                                                                 |
+| protest                   | v.     | 抗议，反对；坚持，争辩                                                                                                 |
+|                           | n.     | 抗议，反对                                                                                                             |
+| protester                 | n.     | 抗议者，反对者                                                                                                         |
+| protocol                  | n.     | （数据传输）协议；条约，协定，协议；礼仪，外交礼节                                                                     |
+| proton                    | n.     | 质子                                                                                                                   |
+| prototype                 | n.     | 原型，雏形                                                                                                             |
+| proud                     | a.     | 骄傲，自豪，得意；荣耀，引以为傲；自负；自尊；亭亭玉立                                                                 |
+| prove                     | v.     | 证明；后来发现，最后证明是；展现（自己）                                                                               |
+| proven                    | a.     | 已被证实                                                                                                               |
+| provide                   | v.     | 提供，给予                                                                                                             |
+| provided                  | conj.  | 假如，假定                                                                                                             |
+| provision                 | n.     | 提供，供给，供应；（为将来做的）准备；（法律文件的）规定，条款                                                         |
+|                           | v.     | 提供（所需物品，尤指食物）                                                                                             |
+| provisional               | a.     | 临时，暂时；暂定                                                                                                       |
+| provisionally             | ad.    | 暂定                                                                                                                   |
+| proxy                     | n.     | 代理，代表；代理人，代表                                                                                               |
+| psycho                    | n.     | 神经病                                                                                                                 |
+| psychologist              | n.     | 心理学家                                                                                                               |
+| psychology                | n.     | 心理学                                                                                                                 |
+| psi                       | n.     | ψ（希腊字母）                                                                                                          |
+| public                    | a.     | 公共；大众的；公开                                                                                                     |
+|                           | n.     | 大众                                                                                                                   |
+| publication               | n.     | 出版，发行；出版物；发表，公布，刊登                                                                                   |
+| publish                   | v.     | 出版，发行；（在报刊上）发表，刊登；（在互联网上）发表                                                                 |
+| publisher                 | n.     | 出版商，发行商                                                                                                         |
+| pudding                   | n.     | 布丁                                                                                                                   |
+| pull                      | v.     | 拉，拽，扯，揪，拖；拔出，抽出；（向某个方向）拉；拉，牵引；（向某个方向）移动身体部位；拉上；扳动，扣；               |
+|                           |        | （使车辆）转向；（发动机）吃力地运转；划，划动；吸引；（耍手段、犯罪等）得逞；取消，撤销（活动、广告等）               |
+|                           | n.     | 拉，拽，扯，揪，拖；引力；吸引力，诱惑；影响力；深吸，大口喝；拉伤，扭伤；把手，拉绳，拉环                             |
+| puma                      | n.     | 美洲狮                                                                                                                 |
+| pump                      | n.     | 泵                                                                                                                     |
+|                           | v.     | （用泵）抽，输；喷，涌                                                                                                 |
+| purple                    | a.     | 紫色                                                                                                                   |
+| purse                     | n.     | （英）（女用）钱包                                                                                                     |
+| pursuit                   | n.     | 追逐                                                                                                                   |
+| pus                       | n.     | 脓                                                                                                                     |
+| push                      | v.     | 推                                                                                                                     |
+| put                       | v.     | 放                                                                                                                     |
+|                           |        |                                                                                                                        |
 
 # Q
 
