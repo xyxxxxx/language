@@ -1543,6 +1543,7 @@
 | ペース                           | pace                     |                          |
 | ベース                           | base                     |                          |
 | ペーパー                         | paper                    | 论文                     |
+| ペーパーカンパニー               | paper + company          | 皮包公司                 |
 | ベクトル                         | vector                   |                          |
 | ベスト                           | best                     |                          |
 | ベストセラー                     | best-seller              | 畅销书                   |
