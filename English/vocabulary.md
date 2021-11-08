@@ -4727,6 +4727,7 @@
 | unstoppable             | a.    | 不可阻挡                                                  |
 | unusual                 | a.    | 不寻常                                                    |
 | up                      |       |                                                           |
+| up front                | ad.   | 预先                                                      |
 | up to                   |       | 至多                                                      |
 | upcoming                | a.    | 即将到来                                                  |
 | update                  | v.    | 更新                                                      |
