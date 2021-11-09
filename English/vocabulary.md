@@ -1509,6 +1509,7 @@
 | entitle                     | v.            | 使有资格，使有权利                                                                     |
 | enumerate                   | v.            | 列举，枚举                                                                             |
 | envelope                    | n.            | 信封                                                                                   |
+| ephemeral                   | a.            | 转瞬即逝的                                                                             |
 | equal                       | a.            | 相等                                                                                   |
 | equate                      | v.            | 等同看待                                                                               |
 | equation                    | n.            | （数）方程；等同看待；（多种因素的）平衡                                               |
@@ -1541,7 +1542,7 @@
 | essentially                 | ad.           | 基本上，根本上，本质上                                                                 |
 | essentials                  | n.            | 必需品；基础，要点                                                                     |
 | established                 | a.            | 地位稳固，得到认可；（人）著名，公认                                                   |
-| estate                      | n.            |                                                                              |
+| estate                      | n.            |                                                                                        |
 | estimate                    | v.            | 估计，估算                                                                             |
 |                             | n.            | 估计，估算                                                                             |
 | estimation                  | n.            | 看法，评价；估计                                                                       |
@@ -1811,11 +1812,24 @@
 | fourth       | ord.num. | 第四                                                                                                                           |
 | forever      | ad.      | 永远                                                                                                                           |
 | fox          | n.       | 狐狸                                                                                                                           |
-| fragile      | a.       |                                                                                                                                |
+| fragile      | a.       | 易碎，易损坏；脆弱，不牢固；纤细，精巧；虚弱                                                                                   |
+| fragility    | n.       | 脆弱                                                                                                                           |
+| fragment     | n.       | 碎片，片段                                                                                                                     |
+|              | v.       | （使）破碎，碎裂                                                                                                               |
+| fragmented   | a.       | 破碎，分裂，四分五裂                                                                                                           |
+| fragmentary  | a.       | 零星，不完整，残缺不全                                                                                                         |
+| fragrance    | n.       | 香味，香气，芳香；香水                                                                                                         |
+| fragrant     | a.       | 香，芳香                                                                                                                       |
+| fragrantly   | ad.      | 香，芳香                                                                                                                       |
+| frail        | a.       | （尤指老人）瘦弱；柔弱，脆弱，易损坏                                                                                           |
 | frame        | n.       | 框；框架，骨架；身材，体形；体系，结构；帧                                                                                     |
 | framework    | n.       | 框架                                                                                                                           |
+| franchise    | n.       | （公司授予的）特许经销权，（国家授予的）特许经营权；特许经销（商），特许经营（商）；（公民）选举权                             |
+|              | v.       | 授予特许经销权（或特许经营权）                                                                                                 |
 | frank        | a.       | 坦率                                                                                                                           |
+| frankly      | ad.      | 坦率地，直率地；（表示直言）老实说                                                                                             |
 | frankness    | n.       | 坦率                                                                                                                           |
+| fraternal    | a.       | （指理念相同或兴趣相投者）兄弟般的；兄弟间的                                                                                   |
 | fraternity   | n.       | 同仁，同好；（美国大学男生的）兄弟会                                                                                           |
 | fraud        | n.       | 诈骗（罪）；骗子，诈骗犯；伪劣产品                                                                                             |
 | fraudulent   | a.       | 欺诈，虚假，不实                                                                                                               |
@@ -1823,6 +1837,13 @@
 | free         | a.       | 自由，随心所欲；不受限制，言行自由；免费；畅通；空着                                                                           |
 | -free        | a.       | 没有                                                                                                                           |
 | freedom      | n.       | 自由                                                                                                                           |
+| freehand     | a.       | 徒手                                                                                                                           |
+|              | ad.      | 徒手                                                                                                                           |
+| freelance    | a.       | 自由职业，特约                                                                                                                 |
+|              | v.       | 从事自由职业，做特约工作                                                                                                       |
+| freelancer   | n.       | 自由职业者，特约工作者                                                                                                         |
+| freestyle    | n.       | 自由泳；自由式                                                                                                                 |
+|              | v.       | 即兴说唱                                                                                                                       |
 | frequent     | a.       | 频繁的，经常的                                                                                                                 |
 | fresh        | a.       | （食物）新鲜，刚摘的，刚出炉的；新；新近；清新，清爽；淡（水）；凉飕飕；清爽，洁净，亮丽；精力充沛；刚结束，刚有…经历          |
 | Friday       | n.       | 星期五                                                                                                                         |
@@ -3681,219 +3702,220 @@
 
 # R
 
-|                     |     |                                                                                                            |
-| ------------------- | --- | ---------------------------------------------------------------------------------------------------------- |
-| rabbit              | n.  | 兔子                                                                                                       |
-| raccoon             | n.  | 浣熊                                                                                                       |
-| race                | n.  | 种族                                                                                                       |
-| racing              | n.  | 竞速                                                                                                       |
-| racism              | n.  | 种族主义                                                                                                   |
-| radio               | n.  | 广播；收音机；无线电                                                                                       |
-|                     | v.  | （无线电）发送                                                                                             |
-| radioactive         | a.  | 放射性                                                                                                     |
-| radiology           | n.  | 放射学                                                                                                     |
-| radium              | n.  | 镭                                                                                                         |
-| radius              | n.  | 半径                                                                                                       |
-| raid                | n.  | 突然袭击；突击检查，突击搜查；抢劫                                                                         |
-|                     | v.  | 突袭，偷袭；（警察）突击检查，突击搜查；抢劫，劫掠                                                         |
-| rain                | n.  | 雨                                                                                                         |
-|                     | v.  | 下雨                                                                                                       |
-| rainbow             | n.  | 彩虹                                                                                                       |
-| rampage             | v.  | 暴走，横冲直撞                                                                                             |
-|                     | n.  | 暴走，横冲直撞                                                                                             |
-| random              | a.  | 随机                                                                                                       |
-| randomly            | ad. | 随机                                                                                                       |
-| range               | n.  | 范围                                                                                                       |
-| rape                | v.  | 强奸                                                                                                       |
-| rare                | a.  | 稀有，罕见，稀罕；珍贵，珍奇                                                                               |
-| rat                 | n.  | 老鼠，鼠                                                                                                   |
-| rat out             |     | 告发                                                                                                       |
-| ravage              | v.  | 毁坏，损坏                                                                                                 |
-| raven               | n.  | 渡鸦                                                                                                       |
-| raw                 | a.  | 生                                                                                                         |
-| ridiculous          | a.  | 荒谬，荒唐                                                                                                 |
-| reaction            | n.  | 反应                                                                                                       |
-| read                | v.  | 读                                                                                                         |
-| readable            | a.  | （文章）可读性强，通俗易懂；（文字）清晰，易于阅读                                                         |
-| reader              | n.  | 读者；读物，读本                                                                                           |
-| readily             | ad. | 方便，快捷；欣然，乐意                                                                                     |
-| ready               | a.  | 准备好                                                                                                     |
-| real                | a.  | 真                                                                                                         |
-| reality             | n.  | 现实，实际情况；事实，，实际情况                                                                           |
-| in reality          |     | 实际上，事实上                                                                                             |
-| reason              | n.  | 原因，理由，缘故；正当理由，道理；思考能力，理解力，理性；道理，事理，情理                                 |
-|                     | v.  | 推理，推断；思考，理解                                                                                     |
-| rebel               | v.  | 背叛，反抗                                                                                                 |
-|                     | n.  | 叛乱分子；叛逆者                                                                                           |
-| rebellion           | n.  | 叛乱；反抗，不服从；叛逆                                                                                   |
-| recall              | v.  | 回忆                                                                                                       |
-| receipt             | n.  | 收据                                                                                                       |
-| recent              | a.  | 最近的                                                                                                     |
-| record              | n.  | 记录；专辑，唱片；前科                                                                                     |
-|                     | v.  | 记录；录制                                                                                                 |
-| recover             | v.  | 康复，痊愈；恢复；收回；赢回                                                                               |
-| red                 | a.  | 红色                                                                                                       |
-| refer to            |     | 引用                                                                                                       |
-| reference           | n.  | 参考                                                                                                       |
-| reflect             | v.  | 映照，映出；反射（声、光、热等）；表达，表明，反映（事物的属性或人的情感、态度等）；认真思考，沉思         |
-| reflection          | n.  | 映像；（声、光、热等的）反射；显示，表达，反映；沉思，审慎的思考；（关于某个主题的）思考，回忆；记录，描述 |
-| refresh             | v.  | 刷新                                                                                                       |
-| refuge              | n.  | 避难；避难所，保护区；收容所                                                                               |
-| refugee             | n.  | 难民                                                                                                       |
-| regard              | v.  | 当作                                                                                                       |
-| regeneration        | n.  | 再生                                                                                                       |
-| region              | n.  | 地区，区域                                                                                                 |
-| regional            | a.  | 地区，区域                                                                                                 |
-| register            | v.  | 登记，注册；（正式）提出；（测量仪器）显示，记录；流露出，面露；注意到                                     |
-|                     | n.  | 登记表；现金出纳机                                                                                         |
-| registration        | n.  | 登记，注册                                                                                                 |
-| registry            | n.  | 登记处                                                                                                     |
-| regular             | a.  | 定期                                                                                                       |
-| regularly           | ad. | 定期                                                                                                       |
-| rehabilitate        | v.  | 使复健；恢复…名誉，给…平反；修复（建筑）                                                                   |
-| rehabilitation      | n.  | 复健，复兴；恢复名誉；修复                                                                                 |
-| rehearsal           | n.  | 排练；演习；重复，复述                                                                                     |
-| reign               | n.  | （君主）统治时期                                                                                           |
-|                     | v.  | 统治，当政，在位；统治（某个领域）                                                                         |
-| rein                | n.  | 缰绳                                                                                                       |
-| reject              | v.  | 拒绝                                                                                                       |
-| related             | a.  | 相关                                                                                                       |
-| relation            | n.  | 关系                                                                                                       |
-| relax               | v.  | 放松，休息；放心，安心；放宽（限制）；松懈                                                                 |
-| relaxed             | a.  | 放松，镇定；自由，自在，不受拘束                                                                           |
-| relaxing            | a.  | 轻松                                                                                                       |
-| religion            | n.  | 宗教                                                                                                       |
-| religious           | a.  | 宗教；虔诚                                                                                                 |
-| reload              | v.  | 再装填（子弹等）；再装满；重新载入                                                                         |
-| remain              | v.  | 剩余                                                                                                       |
-| remainder           | n.  | 余数                                                                                                       |
-| remaster            | v.  | 重新录制；重制                                                                                             |
-| remote              | a.  | 远程                                                                                                       |
-| remove              | n.  | 拿开，拿走，拖走，开除；去除，去掉；免除，解除（职务）                                                     |
-| rendezvous          | n.  | 约会；约会地点；热门聚会场所                                                                               |
-| renounce            | v.  | 宣布放弃；宣布断绝与…的关系                                                                                |
-| renown              | n.  | 名誉，荣誉，声望                                                                                           |
-| renowned            | a.  | 有名，出名，闻名，受尊敬                                                                                   |
-| rent                | n.  | 租金；破裂处，裂口                                                                                         |
-|                     | v.  | 租用，租借（房屋、设备或土地）；出租；（短期）租；租金为                                                   |
-| rental              | n.  | 出租，租赁；租用的房屋、设备或土地                                                                         |
-| rented              | a.  | 租的                                                                                                       |
-| reopen              | v.  | 重新开业，重新开张；重新开始，重启                                                                         |
-| repair              | v.  | 修，修理，修补，修缮；补救，弥补                                                                           |
-|                     | n.  | 修，修理，修补，修缮                                                                                       |
-| repairman           | n.  | 修理工                                                                                                     |
-| repeat              | v.  | 重复                                                                                                       |
-|                     | n.  | 重演                                                                                                       |
-| repeated            | a.  | 重复，反复                                                                                                 |
-| replay              | v.  | 重放                                                                                                       |
-| report              | v.  | 报告，汇报；报道；据说，传闻；举报，告发；报到                                                             |
-| reporter            | n.  | 记者                                                                                                       |
-| represent           | v.  | 表示，代表；代表；代表…的利益；相当于，意味着；体现，代表；展示，描绘；（不公平地）描述，说得像是          |
-| representation      | n.  | 表示                                                                                                       |
-| reproduce           | v.  | 复制；再生产，再制造，再现；繁殖，生育                                                                     |
-| reproducilibity     | n.  | 复现，重现                                                                                                 |
-| reproduction        | n.  | 生殖，繁殖；复印；录制，录音；（尤指艺术品的）复制品                                                       |
-| reproof             | n.  | 责备，非难                                                                                                 |
-| reprove             | v.  | 指责，责备，非难                                                                                           |
-| reproving           | a.  | 指责，责备，非难                                                                                           |
-| reptile             | n.  | 爬行动物                                                                                                   |
-| reptilian           | a.  | 爬行动物                                                                                                   |
-| republic            | n.  | 共和，共和国                                                                                               |
-| repulse             | v.  | 使厌恶，使反感；击退；拒绝                                                                                 |
-| reputation          | n.  | 名声，名誉                                                                                                 |
-| request             | v.  | 请求                                                                                                       |
-| rescue              | v.  | 救援                                                                                                       |
-| research            | n.  | 研究                                                                                                       |
-| reserve             | v.  | 预留                                                                                                       |
-| residence           | n.  | 住所，住房，宅邸，豪宅；居住，定居；（在他国的）居留权，居留资格                                           |
-| resident            | n.  | 居民；（旅馆的）旅客，房客                                                                                 |
-|                     | a.  | （在某地）居住                                                                                             |
-| resist              | v.  | 抵制，抗拒；反抗，抵抗；（常用于否定）抵挡；抗，耐                                                         |
-| residue             | n.  | 剩余，残留                                                                                                 |
-| resistance          | n.  | 抵制，抗拒；反抗，抵抗；抵抗力；阻力；（物）电阻                                                           |
-| resolution          | n.  | 分辨率                                                                                                     |
-| resource            | n.  | 资源                                                                                                       |
-| respawn             | v.  | 复活                                                                                                       |
-| respect             | v.  | 尊敬                                                                                                       |
-|                     | n.  | 尊敬                                                                                                       |
-| respective          | a.  | 分别的                                                                                                     |
-| respectively        | ad. | 分别                                                                                                       |
-| respiration         | n.  | 呼吸                                                                                                       |
-| respirator          | n.  | 呼吸器；防毒面具，面罩                                                                                     |
-| respire             | v.  | 呼吸                                                                                                       |
-| respond             | v.  | 响应                                                                                                       |
-| respose             | n.  | 响应                                                                                                       |
-| resposible          | a.  | 负责                                                                                                       |
-| resposibility       | n.  | 责任                                                                                                       |
-| rest                | n.  | 剩余部分；其余的（人/事/物）；休息，睡眠                                                                   |
-|                     | v.  | 休息，放松；靠，托；被搁置；安息                                                                           |
-| rest in peace       | n.  | 安息                                                                                                       |
-| restaurant          | n.  | 餐馆                                                                                                       |
-| resume              | v.  | 继续                                                                                                       |
-| retarded            | a.  | 弱智，智力发育迟缓                                                                                         |
-| retire              | v.  | 退休；退役                                                                                                 |
-| return              | v.  | 返回                                                                                                       |
-| reveal              | v.  | 公开，披露，透露，显示；露出                                                                               |
-| revenge             | n.  | 复仇，报仇                                                                                                 |
-| revenue             | n.  | （政府）财政收入；（公司）收入                                                                             |
-| review              | n.  | 评审，审查；（对书影音的）评论；报告，汇报；阅兵式，检阅；复习（课）                                       |
-|                     | v.  | 复查；回顾，反思；写（对书影音的）评论；检阅（部队）；（为准备考试而）复习；校阅，审核                     |
-| rhythm              | n.  | 节奏，律动；更迭，节律                                                                                     |
-| rhythmic            | a.  | 有节奏的                                                                                                   |
-| rhythmic gymnastics |     | 艺术体操                                                                                                   |
-| rice                | n.  | 米，饭                                                                                                     |
-| rich                | a.  | 富，富有，富裕；丰富多彩；富含；肥沃；浓烈，深                                                             |
-| ride                | v.  | 骑；乘；嘲弄                                                                                               |
-| rights              | n.  | 权利                                                                                                       |
-| ring                | n.  | 戒指；（数）环                                                                                             |
-| risk                | n.  | 风险                                                                                                       |
-|                     | v.  | 冒风险                                                                                                     |
-| river               | n.  | 河                                                                                                         |
-| road                | n.  | 路                                                                                                         |
-| roar                | v.  |                                                                                                            |
-| rob                 | v.  | 抢劫，掠夺                                                                                                 |
-| robber              | n.  | 强盗，抢劫犯                                                                                               |
-| robbery             | n.  | 抢劫                                                                                                       |
-| Robin Hood          |     | 罗宾汉，劫富济贫者                                                                                         |
-| robot               | n.  | 机器人                                                                                                     |
-| robust              | a.  | 强健，强壮；结实，耐用，健壮；（系统或组织）强劲，富有活力；坚定，信心十足                                 |
-| robustly            | ad. | 强健，强壮；结实，耐用，健壮；（系统或组织）强劲，富有活力；坚定，信心十足                                 |
-| robustness          | n.  | 强健，强壮；结实，耐用，健壮；（系统或组织）强劲，富有活力；坚定，信心十足                                 |
-| rock                | n.  | 岩石；石山，礁石；巨岩，巨石；石头，石块；摇滚（音乐风格）                                                 |
-|                     | v.  | 摇晃，晃荡；震惊；剧烈晃动，震动                                                                           |
-| rocket              | n.  | 火箭                                                                                                       |
-| room                | n.  | 房间；空间                                                                                                 |
-| rooster             | n.  | 公鸡                                                                                                       |
-| rose                | n.  | 玫瑰，蔷薇                                                                                                 |
-| rotate              | v.  | 旋转                                                                                                       |
-| rough               | a.  | 大致，粗略；粗糙，不平整，参差不齐；粗暴，猛烈；（天气）恶劣，有暴风雨；艰难；让人不舒服，口感差，刺耳     |
-| roughly             | ad. | 大致                                                                                                       |
-| round               | n.  | 回合                                                                                                       |
-|                     | a.  | 圆                                                                                                         |
-| routine             | n.  | 常规，通常顺序，通常方式；生活乏味，无聊；（编排的）一套动作，一套笑话（等）；（计）例程                   |
-|                     | a.  | 常规，日常，例行公事；普通，平常；乏味，无聊                                                               |
-| routinely           | a.  | 例行                                                                                                       |
-| rove                | v.  | 漫游，漂泊，流浪；环视，打量                                                                               |
-| row                 | n.  | 行                                                                                                         |
-| rower               | n.  | 划船者                                                                                                     |
-| rowing              | n.  | 划船，划艇                                                                                                 |
-| royal               | a.  | 国王的，女王的，皇家的，王室的；庄严的，盛大的                                                             |
-| royalty             | n.  | 王室成员；版税                                                                                             |
-| rubber              | n.  | 橡胶；（英）橡皮，橡皮擦                                                                                   |
-|                     | a.  | 橡胶                                                                                                       |
-| rubbish             | n.  | （英）垃圾；（英）垃圾，差劲；（英）瞎说，废话                                                             |
-| ruby                | n.  | 红宝石；深红色                                                                                             |
-|                     | a.  | 深红色                                                                                                     |
-| rude                | a.  | 粗鲁，无礼；（英）猥亵，下流；突如其来，猛烈；简单，原始，粗糙                                             |
-| rudimentary         | a.  | 基础的，基本的；未充分发展，原始                                                                           |
-| rudiments           | n.  | 基础，基本技能                                                                                             |
-| ruffle              | v.  | 弄乱，弄皱，使不平整；使愤怒，使沮丧，使担心                                                               |
-| rugby               | n.  | 橄榄球                                                                                                     |
-| rugged              | a.  | （地形）崎岖，凹凸不平；（男人的脸）硬朗，粗犷；（人）坚强，坚毅；（设备、衣服等）结实，耐用               |
-| run                 | v.  | 跑；运行                                                                                                   |
-| rule                | n.  | 规则                                                                                                       |
-| rune                | n.  | 神符                                                                                                       |
-|                     |     |                                                                                                            |
+|                      |     |                                                                                                            |
+| -------------------- | --- | ---------------------------------------------------------------------------------------------------------- |
+| rabbit               | n.  | 兔子                                                                                                       |
+| raccoon              | n.  | 浣熊                                                                                                       |
+| race                 | n.  | 种族                                                                                                       |
+| racing               | n.  | 竞速                                                                                                       |
+| racism               | n.  | 种族主义                                                                                                   |
+| radio                | n.  | 广播；收音机；无线电                                                                                       |
+|                      | v.  | （无线电）发送                                                                                             |
+| radioactive          | a.  | 放射性                                                                                                     |
+| radiology            | n.  | 放射学                                                                                                     |
+| radium               | n.  | 镭                                                                                                         |
+| radius               | n.  | 半径                                                                                                       |
+| raid                 | n.  | 突然袭击；突击检查，突击搜查；抢劫                                                                         |
+|                      | v.  | 突袭，偷袭；（警察）突击检查，突击搜查；抢劫，劫掠                                                         |
+| rain                 | n.  | 雨                                                                                                         |
+|                      | v.  | 下雨                                                                                                       |
+| rainbow              | n.  | 彩虹                                                                                                       |
+| rampage              | v.  | 暴走，横冲直撞                                                                                             |
+|                      | n.  | 暴走，横冲直撞                                                                                             |
+| random               | a.  | 随机                                                                                                       |
+| randomly             | ad. | 随机                                                                                                       |
+| range                | n.  | 范围                                                                                                       |
+| rape                 | v.  | 强奸                                                                                                       |
+| rare                 | a.  | 稀有，罕见，稀罕；珍贵，珍奇                                                                               |
+| rat                  | n.  | 老鼠，鼠                                                                                                   |
+| rat out              |     | 告发                                                                                                       |
+| ravage               | v.  | 毁坏，损坏                                                                                                 |
+| raven                | n.  | 渡鸦                                                                                                       |
+| raw                  | a.  | 生                                                                                                         |
+| ridiculous           | a.  | 荒谬，荒唐                                                                                                 |
+| reaction             | n.  | 反应                                                                                                       |
+| read                 | v.  | 读                                                                                                         |
+| readable             | a.  | （文章）可读性强，通俗易懂；（文字）清晰，易于阅读                                                         |
+| reader               | n.  | 读者；读物，读本                                                                                           |
+| readily              | ad. | 方便，快捷；欣然，乐意                                                                                     |
+| ready                | a.  | 准备好                                                                                                     |
+| real                 | a.  | 真                                                                                                         |
+| reality              | n.  | 现实，实际情况；事实，，实际情况                                                                           |
+| in reality           |     | 实际上，事实上                                                                                             |
+| reason               | n.  | 原因，理由，缘故；正当理由，道理；思考能力，理解力，理性；道理，事理，情理                                 |
+|                      | v.  | 推理，推断；思考，理解                                                                                     |
+| rebel                | v.  | 背叛，反抗                                                                                                 |
+|                      | n.  | 叛乱分子；叛逆者                                                                                           |
+| rebellion            | n.  | 叛乱；反抗，不服从；叛逆                                                                                   |
+| recall               | v.  | 回忆                                                                                                       |
+| recapitulate (recap) | v.  | 总结，概括                                                                                                 |
+| receipt              | n.  | 收据                                                                                                       |
+| recent               | a.  | 最近的                                                                                                     |
+| record               | n.  | 记录；专辑，唱片；前科                                                                                     |
+|                      | v.  | 记录；录制                                                                                                 |
+| recover              | v.  | 康复，痊愈；恢复；收回；赢回                                                                               |
+| red                  | a.  | 红色                                                                                                       |
+| refer to             |     | 引用                                                                                                       |
+| reference            | n.  | 参考                                                                                                       |
+| reflect              | v.  | 映照，映出；反射（声、光、热等）；表达，表明，反映（事物的属性或人的情感、态度等）；认真思考，沉思         |
+| reflection           | n.  | 映像；（声、光、热等的）反射；显示，表达，反映；沉思，审慎的思考；（关于某个主题的）思考，回忆；记录，描述 |
+| refresh              | v.  | 刷新                                                                                                       |
+| refuge               | n.  | 避难；避难所，保护区；收容所                                                                               |
+| refugee              | n.  | 难民                                                                                                       |
+| regard               | v.  | 当作                                                                                                       |
+| regeneration         | n.  | 再生                                                                                                       |
+| region               | n.  | 地区，区域                                                                                                 |
+| regional             | a.  | 地区，区域                                                                                                 |
+| register             | v.  | 登记，注册；（正式）提出；（测量仪器）显示，记录；流露出，面露；注意到                                     |
+|                      | n.  | 登记表；现金出纳机                                                                                         |
+| registration         | n.  | 登记，注册                                                                                                 |
+| registry             | n.  | 登记处                                                                                                     |
+| regular              | a.  | 定期                                                                                                       |
+| regularly            | ad. | 定期                                                                                                       |
+| rehabilitate         | v.  | 使复健；恢复…名誉，给…平反；修复（建筑）                                                                   |
+| rehabilitation       | n.  | 复健，复兴；恢复名誉；修复                                                                                 |
+| rehearsal            | n.  | 排练；演习；重复，复述                                                                                     |
+| reign                | n.  | （君主）统治时期                                                                                           |
+|                      | v.  | 统治，当政，在位；统治（某个领域）                                                                         |
+| rein                 | n.  | 缰绳                                                                                                       |
+| reject               | v.  | 拒绝                                                                                                       |
+| related              | a.  | 相关                                                                                                       |
+| relation             | n.  | 关系                                                                                                       |
+| relax                | v.  | 放松，休息；放心，安心；放宽（限制）；松懈                                                                 |
+| relaxed              | a.  | 放松，镇定；自由，自在，不受拘束                                                                           |
+| relaxing             | a.  | 轻松                                                                                                       |
+| religion             | n.  | 宗教                                                                                                       |
+| religious            | a.  | 宗教；虔诚                                                                                                 |
+| reload               | v.  | 再装填（子弹等）；再装满；重新载入                                                                         |
+| remain               | v.  | 剩余                                                                                                       |
+| remainder            | n.  | 余数                                                                                                       |
+| remaster             | v.  | 重新录制；重制                                                                                             |
+| remote               | a.  | 远程                                                                                                       |
+| remove               | n.  | 拿开，拿走，拖走，开除；去除，去掉；免除，解除（职务）                                                     |
+| rendezvous           | n.  | 约会；约会地点；热门聚会场所                                                                               |
+| renounce             | v.  | 宣布放弃；宣布断绝与…的关系                                                                                |
+| renown               | n.  | 名誉，荣誉，声望                                                                                           |
+| renowned             | a.  | 有名，出名，闻名，受尊敬                                                                                   |
+| rent                 | n.  | 租金；破裂处，裂口                                                                                         |
+|                      | v.  | 租用，租借（房屋、设备或土地）；出租；（短期）租；租金为                                                   |
+| rental               | n.  | 出租，租赁；租用的房屋、设备或土地                                                                         |
+| rented               | a.  | 租的                                                                                                       |
+| reopen               | v.  | 重新开业，重新开张；重新开始，重启                                                                         |
+| repair               | v.  | 修，修理，修补，修缮；补救，弥补                                                                           |
+|                      | n.  | 修，修理，修补，修缮                                                                                       |
+| repairman            | n.  | 修理工                                                                                                     |
+| repeat               | v.  | 重复                                                                                                       |
+|                      | n.  | 重演                                                                                                       |
+| repeated             | a.  | 重复，反复                                                                                                 |
+| replay               | v.  | 重放                                                                                                       |
+| report               | v.  | 报告，汇报；报道；据说，传闻；举报，告发；报到                                                             |
+| reporter             | n.  | 记者                                                                                                       |
+| represent            | v.  | 表示，代表；代表；代表…的利益；相当于，意味着；体现，代表；展示，描绘；（不公平地）描述，说得像是          |
+| representation       | n.  | 表示                                                                                                       |
+| reproduce            | v.  | 复制；再生产，再制造，再现；繁殖，生育                                                                     |
+| reproducilibity      | n.  | 复现，重现                                                                                                 |
+| reproduction         | n.  | 生殖，繁殖；复印；录制，录音；（尤指艺术品的）复制品                                                       |
+| reproof              | n.  | 责备，非难                                                                                                 |
+| reprove              | v.  | 指责，责备，非难                                                                                           |
+| reproving            | a.  | 指责，责备，非难                                                                                           |
+| reptile              | n.  | 爬行动物                                                                                                   |
+| reptilian            | a.  | 爬行动物                                                                                                   |
+| republic             | n.  | 共和，共和国                                                                                               |
+| repulse              | v.  | 使厌恶，使反感；击退；拒绝                                                                                 |
+| reputation           | n.  | 名声，名誉                                                                                                 |
+| request              | v.  | 请求                                                                                                       |
+| rescue               | v.  | 救援                                                                                                       |
+| research             | n.  | 研究                                                                                                       |
+| reserve              | v.  | 预留                                                                                                       |
+| residence            | n.  | 住所，住房，宅邸，豪宅；居住，定居；（在他国的）居留权，居留资格                                           |
+| resident             | n.  | 居民；（旅馆的）旅客，房客                                                                                 |
+|                      | a.  | （在某地）居住                                                                                             |
+| resist               | v.  | 抵制，抗拒；反抗，抵抗；（常用于否定）抵挡；抗，耐                                                         |
+| residue              | n.  | 剩余，残留                                                                                                 |
+| resistance           | n.  | 抵制，抗拒；反抗，抵抗；抵抗力；阻力；（物）电阻                                                           |
+| resolution           | n.  | 分辨率                                                                                                     |
+| resource             | n.  | 资源                                                                                                       |
+| respawn              | v.  | 复活                                                                                                       |
+| respect              | v.  | 尊敬                                                                                                       |
+|                      | n.  | 尊敬                                                                                                       |
+| respective           | a.  | 分别的                                                                                                     |
+| respectively         | ad. | 分别                                                                                                       |
+| respiration          | n.  | 呼吸                                                                                                       |
+| respirator           | n.  | 呼吸器；防毒面具，面罩                                                                                     |
+| respire              | v.  | 呼吸                                                                                                       |
+| respond              | v.  | 响应                                                                                                       |
+| respose              | n.  | 响应                                                                                                       |
+| resposible           | a.  | 负责                                                                                                       |
+| resposibility        | n.  | 责任                                                                                                       |
+| rest                 | n.  | 剩余部分；其余的（人/事/物）；休息，睡眠                                                                   |
+|                      | v.  | 休息，放松；靠，托；被搁置；安息                                                                           |
+| rest in peace        | n.  | 安息                                                                                                       |
+| restaurant           | n.  | 餐馆                                                                                                       |
+| resume               | v.  | 继续                                                                                                       |
+| retarded             | a.  | 弱智，智力发育迟缓                                                                                         |
+| retire               | v.  | 退休；退役                                                                                                 |
+| return               | v.  | 返回                                                                                                       |
+| reveal               | v.  | 公开，披露，透露，显示；露出                                                                               |
+| revenge              | n.  | 复仇，报仇                                                                                                 |
+| revenue              | n.  | （政府）财政收入；（公司）收入                                                                             |
+| review               | n.  | 评审，审查；（对书影音的）评论；报告，汇报；阅兵式，检阅；复习（课）                                       |
+|                      | v.  | 复查；回顾，反思；写（对书影音的）评论；检阅（部队）；（为准备考试而）复习；校阅，审核                     |
+| rhythm               | n.  | 节奏，律动；更迭，节律                                                                                     |
+| rhythmic             | a.  | 有节奏的                                                                                                   |
+| rhythmic gymnastics  |     | 艺术体操                                                                                                   |
+| rice                 | n.  | 米，饭                                                                                                     |
+| rich                 | a.  | 富，富有，富裕；丰富多彩；富含；肥沃；浓烈，深                                                             |
+| ride                 | v.  | 骑；乘；嘲弄                                                                                               |
+| rights               | n.  | 权利                                                                                                       |
+| ring                 | n.  | 戒指；（数）环                                                                                             |
+| risk                 | n.  | 风险                                                                                                       |
+|                      | v.  | 冒风险                                                                                                     |
+| river                | n.  | 河                                                                                                         |
+| road                 | n.  | 路                                                                                                         |
+| roar                 | v.  |                                                                                                            |
+| rob                  | v.  | 抢劫，掠夺                                                                                                 |
+| robber               | n.  | 强盗，抢劫犯                                                                                               |
+| robbery              | n.  | 抢劫                                                                                                       |
+| Robin Hood           |     | 罗宾汉，劫富济贫者                                                                                         |
+| robot                | n.  | 机器人                                                                                                     |
+| robust               | a.  | 强健，强壮；结实，耐用，健壮；（系统或组织）强劲，富有活力；坚定，信心十足                                 |
+| robustly             | ad. | 强健，强壮；结实，耐用，健壮；（系统或组织）强劲，富有活力；坚定，信心十足                                 |
+| robustness           | n.  | 强健，强壮；结实，耐用，健壮；（系统或组织）强劲，富有活力；坚定，信心十足                                 |
+| rock                 | n.  | 岩石；石山，礁石；巨岩，巨石；石头，石块；摇滚（音乐风格）                                                 |
+|                      | v.  | 摇晃，晃荡；震惊；剧烈晃动，震动                                                                           |
+| rocket               | n.  | 火箭                                                                                                       |
+| room                 | n.  | 房间；空间                                                                                                 |
+| rooster              | n.  | 公鸡                                                                                                       |
+| rose                 | n.  | 玫瑰，蔷薇                                                                                                 |
+| rotate               | v.  | 旋转                                                                                                       |
+| rough                | a.  | 大致，粗略；粗糙，不平整，参差不齐；粗暴，猛烈；（天气）恶劣，有暴风雨；艰难；让人不舒服，口感差，刺耳     |
+| roughly              | ad. | 大致                                                                                                       |
+| round                | n.  | 回合                                                                                                       |
+|                      | a.  | 圆                                                                                                         |
+| routine              | n.  | 常规，通常顺序，通常方式；生活乏味，无聊；（编排的）一套动作，一套笑话（等）；（计）例程                   |
+|                      | a.  | 常规，日常，例行公事；普通，平常；乏味，无聊                                                               |
+| routinely            | a.  | 例行                                                                                                       |
+| rove                 | v.  | 漫游，漂泊，流浪；环视，打量                                                                               |
+| row                  | n.  | 行                                                                                                         |
+| rower                | n.  | 划船者                                                                                                     |
+| rowing               | n.  | 划船，划艇                                                                                                 |
+| royal                | a.  | 国王的，女王的，皇家的，王室的；庄严的，盛大的                                                             |
+| royalty              | n.  | 王室成员；版税                                                                                             |
+| rubber               | n.  | 橡胶；（英）橡皮，橡皮擦                                                                                   |
+|                      | a.  | 橡胶                                                                                                       |
+| rubbish              | n.  | （英）垃圾；（英）垃圾，差劲；（英）瞎说，废话                                                             |
+| ruby                 | n.  | 红宝石；深红色                                                                                             |
+|                      | a.  | 深红色                                                                                                     |
+| rude                 | a.  | 粗鲁，无礼；（英）猥亵，下流；突如其来，猛烈；简单，原始，粗糙                                             |
+| rudimentary          | a.  | 基础的，基本的；未充分发展，原始                                                                           |
+| rudiments            | n.  | 基础，基本技能                                                                                             |
+| ruffle               | v.  | 弄乱，弄皱，使不平整；使愤怒，使沮丧，使担心                                                               |
+| rugby                | n.  | 橄榄球                                                                                                     |
+| rugged               | a.  | （地形）崎岖，凹凸不平；（男人的脸）硬朗，粗犷；（人）坚强，坚毅；（设备、衣服等）结实，耐用               |
+| run                  | v.  | 跑；运行                                                                                                   |
+| rule                 | n.  | 规则                                                                                                       |
+| rune                 | n.  | 神符                                                                                                       |
+|                      |     |                                                                                                            |
 
 # S
 
