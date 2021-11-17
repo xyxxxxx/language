@@ -1229,6 +1229,7 @@
 | decouple        | v.  | 解耦                                                                                                                             |
 | dedicate        | v.  |                                                                                                                                  |
 | dedicated       | a.  | 献身；专门，专用                                                                                                                 |
+| deductible      | n.  | 免赔额，自负额                                                                                                                   |
 | deed            | n.  | 行为                                                                                                                             |
 | deer            | n.  | 鹿                                                                                                                               |
 | default         | a.  | 默认                                                                                                                             |
@@ -1655,6 +1656,8 @@
 | existing                    | a.            | 已有的，既有                                                                           |
 | exit                        | n.            | 出口                                                                                   |
 | exotic                      | a.            | 来自异国，有异域风情，有异国情调                                                       |
+| expend                      | v.            | 花费，消费，耗费                                                                       |
+| expenditure                 | n.            | 开支，支出；（精力、时间、材料等的）消耗，耗费                                         |
 | expedition                  | n.            | 远征，探险，考察；远征队，探险队，考察队；（短途）出行                                 |
 | expel                       | v.            | 开除，除名；驱逐出境；排出，呼出，喷出                                                 |
 | experience                  | n.            | 经验                                                                                   |
@@ -2989,6 +2992,7 @@
 | motivation           | n.    | 动机；激励                                                                                           |
 | mountain             | n.    | 山                                                                                                   |
 | mouse                | n.    | 鼠，老鼠                                                                                             |
+| mousetrap            | n.    | 捕鼠夹                                                                                               |
 | mouth                | n.    | 口，嘴；（需要供养的）嘴；（出入）口；（河流的）入海口                                               |
 | -mouthed             |       | 有…口的；言谈…的                                                                                     |
 | move                 | v.    | 移动                                                                                                 |
