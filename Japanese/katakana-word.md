@@ -340,6 +340,7 @@
 | キー                     | key                          |                        |
 | キープ                   | keep                         |                        |
 | キーボード               | keyboard                     |                        |
+| キーホルダー             | key + holder                 | 钥匙链                 |
 | キーワード               | keyword                      |                        |
 | ギア                     | gear                         | 齿轮                   |
 | ギガ                     | giga-                        |                        |
@@ -1199,6 +1200,7 @@
 | パール                           | pearl                    |                          |
 | バール                           | bar                      | 撬棍                     |
 | ハイ                             | high                     |                          |
+| バイアグラ                       | Viagra                   | 万艾可，伟哥             |
 | バイオ〜                         | bio-                     |                          |
 | バイオテクノロジー               | biotechnology            |                          |
 | パイオニア                       | pioneer                  |                          |
@@ -1437,6 +1439,7 @@
 | ブティック                       | （フランス）boutique     | 服装店，时装店           |
 | フライ                           | fry                      |                          |
 | プライオリティー                 | priority                 |                          |
+| ブライダル                       | bridal                   | （西式）婚礼             |
 | プライド                         | pride                    |                          |
 | プライバシー                     | privacy                  |                          |
 | フライパン                       | fry pan                  |                          |
@@ -1742,6 +1745,7 @@
 | メモリー                   | memory              |                     |
 | メリークリスマス           | merry Christmas     |                     |
 | メリット                   | merit               |                     |
+| メルヘン                   | （ドイツ）Märchen   | 童话                |
 | メロディー                 | melody              |                     |
 | メンズ                     | mens                | 男式（服装/发型/…） |
 | メンタル                   | mental              |                     |
