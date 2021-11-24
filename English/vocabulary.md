@@ -830,6 +830,8 @@
 | cleavage                   | n.   | 乳沟                                                                                                                   |
 | clever                     | a.   | 聪明                                                                                                                   |
 | click                      | v.   | 点击                                                                                                                   |
+| cliché                     | n.   | 陈词滥调，套话                                                                                                         |
+|                            | a.   | 陈词滥调的                                                                                                         |
 | client                     | n.   | 客户                                                                                                                   |
 | climate                    | n.   | 气候；气候区；气候，风气，倾向，思潮，气氛，环境                                                                       |
 | climatology                | n.   | 气候学                                                                                                                 |
@@ -1425,6 +1427,7 @@
 | disguise        | v.  | 装扮，假扮，伪装；掩饰，掩蔽                                                                                                     |
 |                 | n.  | 伪装的事物；装扮，假扮，伪装                                                                                                     |
 | disgusting      | a.  | 非常糟糕；恶心                                                                                                                   |
+| disparate       | a.  | 由不同人（或事物）组成的；（两种以上的事物）迥然不同                                                                             |
 | dispatch        | v.  | （计）分发（请求）                                                                                                               |
 | dissimilar      | a.  | 不相似，不一样                                                                                                                   |
 | dissimulate     | v.  | 掩盖，掩饰（真实情感或意图）                                                                                                     |
@@ -1522,6 +1525,7 @@
 |                             | ad.           | 向东                                                                                   |
 | eastern                     | a.            | 东方，东部                                                                             |
 | easy                        | a.            | 简单，容易                                                                             |
+| easy-to-use                 | a.            | 易用                                                                                   |
 | eat                         | v.            | 吃                                                                                     |
 | economics                   | n.            | 经济学                                                                                 |
 | economy                     | n.            | 经济；节约，节俭                                                                       |
@@ -2477,6 +2481,7 @@
 | insurance           | n.    | 保险；保险业；保险金；保险措施                                                                                     |
 | integrate           | v.    | 集成                                                                                                               |
 | integrated          | a.    | 集成                                                                                                               |
+| integration         | n.    | 集成                                                                                                               |
 | intelligence        | n.    | 智能；智力                                                                                                         |
 | intelligent         | a.    | 聪明，机智；有智力的；智能                                                                                         |
 | intend              | v.    | 想要，意图要                                                                                                       |
@@ -2739,7 +2744,7 @@
 | late           | a.  | 晚；迟                                                                                                                   |
 | lately         | ad. | 最近，不久前                                                                                                             |
 | latent         | a.  | 潜伏，潜在                                                                                                               |
-| latency        | n.  | 潜伏，潜在                                                                                                               |
+| latency        | n.  | 潜伏，潜在；（计）等待时间，时延，延迟                                                                                   |
 | later          | a.  | 后面的，以后的；末期，晚年                                                                                               |
 |                | ad. | 之后，以后                                                                                                               |
 | lateral        | a.  | 侧面，侧向                                                                                                               |
@@ -2931,6 +2936,7 @@
 | marine               | a.    | 海洋                                                                                                                       |
 | market               | n.    | 市场                                                                                                                       |
 |                      | n.    | 海军陆战队士兵                                                                                                             |
+| marketing            | n.    | 市场，营销，销售                                                                                                           |
 | marriage             | n.    | 婚姻                                                                                                                       |
 | marry                | v.    | 娶，嫁                                                                                                                     |
 | Mars                 | n.    | 火星                                                                                                                       |
@@ -4169,6 +4175,8 @@
 |                      | v.  | 记录；录制                                                                                                 |
 | recover              | v.  | 康复，痊愈；恢复；收回；赢回                                                                               |
 | red                  | a.  | 红色                                                                                                       |
+| redundancy           | n.  | 多余，累赘，繁复                                                                                           |
+| redundant            | a.  | 多余的，不必要的                                                                                           |
 | refer to             |     | 引用                                                                                                       |
 | reference            | n.  | 参考                                                                                                       |
 | reflect              | v.  | 映照，映出；反射（声、光、热等）；表达，表明，反映（事物的属性或人的情感、态度等）；认真思考，沉思         |
@@ -4464,6 +4472,8 @@
 |                          | v.            | 判决                                                                                                               |
 | sentry                   | n.            | 哨兵                                                                                                               |
 | September                | n.            | 九月                                                                                                               |
+| serial                   | n.            |                                                                                                                    |
+| serialize                | v.            | 连载，连播                                                                                                         |
 | serious                  | a.            | 严重；严肃；重要，需要重视；真，认真                                                                               |
 | server                   | n.            | 服务器                                                                                                             |
 | service                  | n.            | 服务                                                                                                               |
@@ -4557,6 +4567,10 @@
 | simple                   | a.            | 简单的                                                                                                             |
 | simplify                 | v.            | 简化                                                                                                               |
 | simplified               | a.            | 简化                                                                                                               |
+| simulate                 | v.            | 模拟                                                                                                               |
+| simulation               | n.            | 模拟                                                                                                               |
+| simultaneous             | a.            | 同时，同步                                                                                                         |
+| simultaneously           | ad.           | 同时，同步                                                                                                         |
 | since                    | prep.         | 自从                                                                                                               |
 |                          | conj.         | 自从；因为，既然                                                                                                   |
 | sing                     | v.            | 唱歌                                                                                                               |
@@ -5037,6 +5051,8 @@
 | syntax                   | n.            | 语法                                                                                                               |
 | syntactic                | a.            | 语法                                                                                                               |
 | system                   | n.            | 系统                                                                                                               |
+| systematic               | a.            | 系统的，有计划有步骤的                                                                                             |
+| systematically           | ad.           | 系统地，有计划有步骤地                                                                                             |
 |                          |               |                                                                                                                    |
 
 # T
@@ -5045,6 +5061,7 @@
 | -------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | table          | n.       | 桌子；表                                                                                                                     |
 | taboo          | n.       | 禁忌                                                                                                                         |
+| tabular        | a.       | 表格形式的                                                                                                                   |
 | taekwondo      | n.       | 跆拳道                                                                                                                       |
 | tag            | n.       | 标签                                                                                                                         |
 | tail           | n.       | 尾，尾巴；（硬币）反面                                                                                                       |
@@ -5103,6 +5120,11 @@
 | telephone      | n.       | 电话                                                                                                                         |
 | television     | n.       | 电视                                                                                                                         |
 | tell           | v.       | 讲                                                                                                                           |
+| temper         | n.       | 脾气，性情，性子；怒气，火气；心情，情绪                                                                                     |
+|                | v.       | 使缓和，使温和                                                                                                               |
+| temperate      | a.       | （气候或地区）气候温和，温带；温和，心平气和                                                                                 |
+| temperature    | n.       | 温度，气温；体温                                                                                                             |
+| template       | n.       | 模板，样板                                                                                                                   |
 | temple         | n.       | 寺                                                                                                                           |
 | temporary      | a.       | 临时                                                                                                                         |
 | ten            | num.     | 十                                                                                                                           |
@@ -5178,10 +5200,16 @@
 | toe            | n.       | 脚趾                                                                                                                         |
 | toilet         | n.       | 便器，抽水马桶；（英）卫生间                                                                                                 |
 | token          | n.       | 令牌，口令                                                                                                                   |
+| tolerable      | a.       | 还可以，还行，说得过去，凑合；可以接受，可以容忍，可以忍受                                                                   |
+| tolerably      | ad.      | 还可以，还行，还凑合                                                                                                         |
+| tolerance      | n.       | 忍受，容忍，包容，宽容；忍耐力，忍耐性；公差                                                                                 |
+| tolerant       | a.       | 包容的，宽容的；（植物、动物或机器）耐…                                                                                      |
+| tolerate       | v.       | 容许，容忍（不同意或不喜欢的事物）；忍受，忍耐，容忍；（对药物的）耐受性，经受得住（困难条件）                               |
 | tomato         | n.       | 西红柿                                                                                                                       |
 | tomorrow       | n.       | 明天；将来                                                                                                                   |
 |                | ad.      | 明天                                                                                                                         |
 | tool           | n.       | 工具                                                                                                                         |
+| toolkit        | n.       | 一套工具，工具箱；（计）一套软件工具，软件工具箱                                                                             |
 | tooth (teeth)  | n.       | 牙齿                                                                                                                         |
 | torsp          | n.       | （身体的）躯干                                                                                                               |
 | toss           | v.       | 抛，掷                                                                                                                       |
@@ -5244,6 +5272,8 @@
 | triangle       | n.       | 三角形                                                                                                                       |
 | trigger        | v.       | 引起，引发，触发                                                                                                             |
 |                | n.       | 扳机；起因，诱因；引爆装置                                                                                                   |
+| trivial        | a.       | 不重要，微不足道                                                                                                             |
+| trivially      | ad.      | 不重要，微不足道                                                                                                             |
 | troop          | n.       | 部队                                                                                                                         |
 | trousers       | n.       | （英）裤子                                                                                                                   |
 | trumpet        | n.       | 小号，喇叭                                                                                                                   |
@@ -5512,6 +5542,8 @@
 | wank        | v.    | （英）（俚）打飞机                                                                                                 |
 | war         | n.    | 战争                                                                                                               |
 | ward        | n.    | 病房；（城市的）区                                                                                                 |
+| warehouse   | n.    | 仓库                                                                                                               |
+| warfare     | n.    | 战，作战，战争；（群体、公司等之间的）斗争，竞争，冲突                                                             |
 | warlock     | n.    | （邪恶的）男巫，术士                                                                                               |
 | warm        | a.    | 温暖，暖和                                                                                                         |
 | warming     | n.    | 加热，变暖                                                                                                         |
