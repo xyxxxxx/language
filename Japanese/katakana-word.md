@@ -413,7 +413,7 @@
 | グラム                   | gram                         |                        |
 | クラン                   | clan                         | （游戏）工会           |
 | グランド                 | grand                        |                        |
-| グランプリ               | （フランス）grand prix       | 大奖                   |
+| グランプリ               | （フランス）grand prix       | 大奖，金奖，最高奖     |
 | クリア                   | clear                        |                        |
 | クリアランス             | clearance                    |                        |
 | グリース                 | grease                       | 润滑油                 |
