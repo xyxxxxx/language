@@ -1,523 +1,573 @@
 # A
 
-|                      |        |                                                                                                                      |
-| -------------------- | ------ | -------------------------------------------------------------------------------------------------------------------- |
-| aardvark             | n.     | 食蚁兽                                                                                                               |
-| abandon              | v.     | （不顾责任、义务等地）抛弃，遗弃；（不得已而）舍弃，丢弃；终止，放弃，不再有；停止（支持或帮助），放弃（信念）       |
-|                      |        | 陷入，沉湎于（某种情感）                                                                                             |
-| abandoned            | a.     | 被抛弃，被遗弃；（人或行为）放纵，堕落                                                                               |
-| abbreviate           | v.     | 略缩，缩写                                                                                                           |
-| abbreviated          | a.     | 略缩，缩写                                                                                                           |
-| abbreviation         | n.     | 缩写形式                                                                                                             |
-| abdicate             | v.     | 退位；失职，放弃职责                                                                                                 |
-| abdomen              | n.     | 腹部；（昆虫的）腹部                                                                                                 |
-| abdominal            | a.     | （解）腹部                                                                                                           |
-| abduct               | v.     | 诱拐，劫持，绑架                                                                                                     |
-| abduction            | n.     | 诱拐，劫持，绑架                                                                                                     |
-| abhorrent            | a.     | （尤指因道德原因）令人憎恨，令人厌恶                                                                                 |
-| abide                | v.     | （十分厌恶而）不能容忍，无法容忍；停留，驻留                                                                         |
-| ability              | n.     | 能力；才能，才干，才华                                                                                               |
-| able                 | a.     | 能，能够；有才能，有才干，有才华                                                                                     |
-| abnormal             | a.     | 不正常，反常，变态，畸形                                                                                             |
-| abnormally           | ad.    | 不正常，反常                                                                                                         |
-| abolish              | v.     | 废除，废止（法律、制度、习俗等）                                                                                     |
-| abolition            | n.     | （法律、制度、习俗等的）废除，废止                                                                                   |
-| abominable           | a.     | 令人憎恨，令人厌恶                                                                                                   |
-| abominably           | ad.    | 极其恶劣                                                                                                             |
-| abominate            | v.     | 憎恨，憎恶，厌恶                                                                                                     |
-| abomination          | n.     | 令人憎恨的事物，令人厌恶的事物                                                                                       |
-| abort                | v.     | 堕（胎），终止（妊娠）；流产；（使）夭折，中止（尤指很可能失败的事情）；（计）中止                                   |
-| abortion             | n.     | 堕胎，打胎；堕胎手术，人工流产                                                                                       |
-| about                | ad.    |                                                                                                                      |
-| above                | prep.  |                                                                                                                      |
-| abrupt               | a.     | 突然，骤然；（言行）粗鲁，莽撞，唐突，生硬                                                                           |
-| abruptly             | ad.    | 突然，骤然                                                                                                           |
-| absence              | n.     | 缺席，不在；不存在，缺少                                                                                             |
-| absent               | a.     | 缺席，不在；不存在，缺少；心不在焉，走神                                                                             |
-| absolute             | a.     | 完全，绝对；简直，十足，完全；肯定，确定，无疑；不受限制，不受约束，绝对；（相对于相对）绝对                         |
-|                      | n.     | 绝对真理，绝对准则                                                                                                   |
-| absolutely           | ad.    | （强调真实无误）完全，绝对；完全不，完全没有；极其；（强调同意或允许）当然；（强调不同意或不允许）绝对不行，绝对没有 |
-| absolve              | v.     | 宣告无罪，免除责任；赦免                                                                                             |
-| absorb               | v.     | 吸收（液体、气体等）；吸收（光、热、能量等）；使并入，同化；理解，掌握；使全神贯注，使专心致志，使沉迷；             |
-|                      |        | 耗费（大量时间、金钱等）；承受，承担（变化、结果、费用等）                                                           |
-| absorbable           | a.     | 可吸收                                                                                                               |
-| absorption           | n.     | （液体、气体等的）吸收；并入，同化；全神贯注，专心致志，沉迷                                                         |
-| abstain              | v.     | 弃权；戒（酒、毒、欲等）                                                                                             |
-| abstainer            | n.     | 弃权者；滴酒不沾的人                                                                                                 |
-| abstention           | n.     | 弃权；戒                                                                                                             |
-| abstract             | a.     | 抽象                                                                                                                 |
-|                      | n.     | 抽象派艺术作品；（文献等的）摘要                                                                                     |
-|                      | v.     | 抽象，概括，提取；写（书等的）摘要                                                                                   |
-| abstraction          | n.     | 抽象；抽取                                                                                                           |
-| absurd               | a.     | 荒谬，荒唐                                                                                                           |
-| absurdity            | n.     | 荒谬，荒唐                                                                                                           |
-| absurdly             | ad.    | 荒谬，荒唐，出奇                                                                                                     |
-| abundance            | n.     | 大量，丰富，充裕                                                                                                     |
-| abundant             | a.     | 大量，丰富，充裕                                                                                                     |
-| abundantly           | ad.    | 十分清楚，非常明白；大量，丰富，充裕                                                                                 |
-| abuse                | n.     | 滥用，嗜（毒），酗（酒）；虐待；辱骂，谩骂                                                                           |
-|                      | v.     | 滥用，嗜（毒），酗（酒）；虐待；辱骂，谩骂                                                                           |
-| abuser               | n.     | 嗜毒的人，酗酒的人；虐待……的人                                                                                       |
-| academic             | a.     | 学术，学业；学习好；纯理论，纸上谈兵                                                                                 |
-|                      | n.     | 高校教师（或科研人员）                                                                                               |
-| academic year        | n.     | 学年                                                                                                                 |
-| academy              | n.     | 学院；学会；（美）私立学校；（英）私立中学                                                                           |
-| academically         | ad.    | 学术，学业；纸上谈兵                                                                                                 |
-| accelerate           | v.     | （使）加速，加快；（车辆或人）加速，加快                                                                             |
-| acceleration         | n.     | 加速，加快；（车辆）加速性能；（物）加速度                                                                           |
-| accelerator          | n.     | （汽车）油门；（物）（粒子）加速器                                                                                   |
-| accelerometer        | n.     | （物）加速度计                                                                                                       |
-| accent               | n.     | 口音；重音；（标在字母上的）读音符号；着重点，强调                                                                   |
-|                      | v.     | 着重，强调，突出                                                                                                     |
-| accentuate           | v.     | 着重，强调，突出                                                                                                     |
-| accept               | v.     | 接受；承担（责任等）；相信（某事属实）；欢迎，接纳                                                                   |
-| acceptable           | a.     | （社会上）认同，认可；可以接受；差强人意                                                                             |
-| acceptance           | n.     | 接受；接纳                                                                                                           |
-| access               | n.     | 访问                                                                                                                 |
-|                      | v.     | 访问                                                                                                                 |
-| accessibility        | n.     | 无障碍；容易理解                                                                                                     |
-| accessible           | a.     | 可以到达、进入、使用或看到等；容易理解，易懂；（人）容易接近，容易相处，容易打交道                                   |
-| accessory            | n.     | 附件，配件；（衣服的）配饰；（法）从犯                                                                               |
-|                      | a.     | 辅助，副                                                                                                             |
-| accident             | n.     | 事故，意外事件，不测；意外，偶然                                                                                     |
-| accidental           | a.     | 意外，偶然                                                                                                           |
-| accidentally         | ad.    | 意外，偶然                                                                                                           |
-| acclaim              | v.     | 公开称誉，公开赞扬，给予高度评价                                                                                     |
-|                      | n.     | 称誉，赞扬，高度评价                                                                                                 |
-| acclamation          | n.     | 欢呼，喝彩，欢迎；口头表决                                                                                           |
-| acid                 | n.     | （化）酸                                                                                                             |
-|                      | a.     | （化）酸性；酸，酸味；尖酸，尖刻                                                                                     |
-| accommodate          | v.     | 提供住宿/膳宿；容纳，提供空间；考虑到，顾及；帮助，为…提供方便；顺应，适应（新情况）                                 |
-| accommodation        | n.     | 住宿，膳宿；和解，调解，调和                                                                                         |
-| accompany            | v.     | 陪同，陪伴；伴随，附带；（尤指用钢琴）为…伴奏                                                                        |
-| accomplish           | v.     | 完成，达成                                                                                                           |
-| accomplished         | a.     | 技艺高超，熟练                                                                                                       |
-| accomplishment       | n.     | 成就，成绩；才艺，专长；达成，实现                                                                                   |
-| accord               | n.     | 协议，条约                                                                                                           |
-|                      | v.     | 给予，赠予，授予（权力，地位）；一致，符合                                                                           |
-| according to         | prep.  | 根据，按照，依照                                                                                                     |
-| in accordance with   |        | 依照，依据                                                                                                           |
-| account              | n.     | 账户；账目；（商）老主顾；账户，账号；描述，叙述；（思想、理论、过程的）解释，说明，叙述                             |
-| accountable          | a.     | （对决定、行为）负有责任                                                                                             |
-| accountant           | n.     | 会计师                                                                                                               |
-| accounting           | n.     | 会计                                                                                                                 |
-| accumulate           | v.     | 积累，收集；逐渐增加                                                                                                 |
-| accumulation         | n.     | 积累                                                                                                                 |
-| accumulative         | a.     | 累积                                                                                                                 |
-| accusation           | n.     | 控告，起诉；指责，谴责                                                                                               |
-| accuse               | v.     | 控告，起诉；指责，谴责                                                                                               |
-| accused              | a.     | （刑事）被告                                                                                                         |
-| accustom             | v.     | 使习惯于                                                                                                             |
-| accustomed           | a.     | 习惯于；通常，惯常                                                                                                   |
-| ace                  | n.     | （扑克牌的）A；高手；（网球）发球得分                                                                                |
-|                      | a.     | （美）在…中获得成功                                                                                                  |
-| acetylene            | n.     | 乙炔                                                                                                                 |
-| ache                 | v.     | 疼痛；渴望                                                                                                           |
-|                      | n.     | （身体某部位的）疼痛                                                                                                 |
-| achieve              | v.     | （凭借长期努力）达到（某目标、地位、标准等）；完成，达成；成功                                                       |
-| achievable           | a.     | 可以达到，可以完成                                                                                                   |
-| achievement          | n.     | 成就，成绩；达成，实现                                                                                               |
-| acid                 | n.     | 酸                                                                                                                   |
-|                      | a.     | 酸性；酸，酸味；（言辞）尖酸，刻薄                                                                                   |
-| acidity              | n.     | 酸味，酸性                                                                                                           |
-| acknowledge          | v.     | 承认；告知收悉；（微笑、挥手等）致意；（公开）感谢                                                                   |
-| acknowledgement      | n.     | 承认；感谢，谢礼；收件复函；致谢，鸣谢                                                                               |
-| acoustic             | a.     | 声音，音响，听觉；（音）（乐器或演奏）原声，自然声                                                                   |
-| acoustics            | n.     | 声学；（房间、剧院的）音响效果                                                                                       |
-| acquaint             | v.     | 使熟悉，使了解                                                                                                       |
-| acquaintance         | n.     | 认识的人，熟人，泛泛之交；（与某人）认识，略有交情；（对某事物的）了解                                               |
-| acquainted           | a.     | 熟悉，了解；（与某人）认识，熟                                                                                       |
-| acre                 | n.     | 英亩                                                                                                                 |
-| acronym              | n.     | 首字母缩略词                                                                                                         |
-| across               | ad.    | 从一边到另一边，横越，宽；向特定方向；在对面                                                                         |
-|                      | prep.  | 从一边到另一边，横越；在…对面；在（某身体部位）上；在…各处，遍及                                                     |
-| act                  | v.     | 行动；表现得；假装；演；起作用                                                                                       |
-|                      | n.     | 行为；法案；假装；（戏剧）幕                                                                                         |
-| action               | n.     | 行动；行为；诉讼，起诉；作战，战斗；（故事）情节；令人激动的事件；（物理或化学）作用；（身体部位的）功能，作用；     |
-|                      |        | （机械部件的）活动方式                                                                                               |
-|                      | v.     | 确保会处理                                                                                                           |
-| activate             | v.     | 激活，使活动                                                                                                         |
-| active               | a.     | 忙碌，活跃；积极；（定期）活动，起作用；（思维）活跃，丰富；（化学上）起作用，有效；主动语态                         |
-| actively             | ad.    | 忙碌，活跃；积极                                                                                                     |
-| activist             | n.     | 积极分子，活跃分子                                                                                                   |
-| activity             | n.     | 活动，活跃（状态）；（未达到特定目的进行的）活动                                                                     |
-| actor                | n.     | 演员                                                                                                                 |
-| actress              | n.     | 女演员                                                                                                               |
-| actual               | a.     | 实际                                                                                                                 |
-| actually             | ad.    | 实际上                                                                                                               |
-| actuate              | v.     | 开动（机器、装置等）；激励，驱使                                                                                     |
-| acoustic             | a.     | 声音，音响，听觉；（音）原声                                                                                         |
-| acoustics            | n.     | 声学；（房间、剧院的）音响效果                                                                                       |
-| adapt                | v.     | 修改/改进/改装以适应/适合；适应；改编                                                                                |
-| adaptation           | n.     | 改编；适应                                                                                                           |
-| adaptor              | n.     | 电源适配器                                                                                                           |
-| adaptable            | a.     | 有适应能力的，适应能力强的                                                                                           |
-| add                  | v.     |                                                                                                                      |
-| add-on               | n.     | 附加物，附加装置                                                                                                     |
-| addict               | v.     | 吸毒成瘾的人，瘾君子；对…入迷的人                                                                                    |
-| addicted             | a.     | 上瘾，成瘾；入迷                                                                                                     |
-| addiction            | n.     | 瘾                                                                                                                   |
-| addictive            | a.     | 使人上瘾；使人入迷                                                                                                   |
-| addition             | n.     | 加，加法；添加，增加；添加物，增加物；（美）（建筑物的）扩建部分                                                     |
-| additional           | a.     | 附加，额外                                                                                                           |
-| additionally         | ad.    | 此外                                                                                                                 |
-| additive             | n.     | （食品的）添加剂                                                                                                     |
-| address              | n.     | 地址                                                                                                                 |
-|                      | v.     | 解决                                                                                                                 |
-| adjust               | v.     | 调整                                                                                                                 |
-| adjustment           | n.     | 调整                                                                                                                 |
-| administer           | v.     | 管理（公司、组织、机构等），治理（国家）；执行，施行；给予，提供；给予，施用（药物等）                               |
-| administration       | n.     | （公司、机构等的）管理（部门），行政（部门）；执行，施行；（美国）政府；（药物的）施用                               |
-| administrative       | a.     | 管理，行政                                                                                                           |
-| administrator        | n.     | （公司、机构等的）管理人员，行政人员                                                                                 |
-| admission            | n.     | 进入，加入（入院、录取资格等）；供认，承认（罪行、过错等）                                                           |
-| admit                | v.     | 承认                                                                                                                 |
-| adolescence          | n.     | 青春期，青春                                                                                                         |
-| adolescent           | n.     | 青少年                                                                                                               |
-| adopt                | v.     | 收养，领养；采用（某方法），采取（某态度）；正式通过（决议、政策等）；承袭，取（新的名字），使用（新的语言）；       |
-|                      |        | 采取（某种言行方式）                                                                                                 |
-| adopted              | a.     | 收养，领养；移居                                                                                                     |
-| adoptive             | a.     | 收养关系的                                                                                                           |
-| adopter              | n.     | 收养者，领养者；（新技术的）采用者                                                                                   |
-| adoption             | n.     | 收养，领养；采用（技术、想法、计划等）                                                                               |
-| adorable             | a.     | 可爱，讨人喜爱                                                                                                       |
-| adore                | v.     | 爱慕（某人）；喜爱，热爱（某事物）                                                                                   |
-| adult                | n.     | 成年人                                                                                                               |
-| adulterant           | n.     | （食品中）掺的假                                                                                                     |
-| adulterate           | v.     | （食品中）掺假                                                                                                       |
-| adulteration         | n.     | （食品中）掺假                                                                                                       |
-| adulthood            | n.     | 成年                                                                                                                 |
-| advance              | n.     | （部队）前进，行进；进步，进展；预付款；（商）上涨                                                                   |
-|                      | v.     | （部队）前进，行进；进步，发展；促进，推动；预付；提出（想法、计划、理论等）；提前；（使）向前移动；（商）上涨       |
-|                      | a.     | 事先，预先                                                                                                           |
-| advanced             | a.     | 先进；高级，高等；（疾病）晚期                                                                                       |
-| advancement          | n.     | 发展，进步；促进，推动；晋升，（阶级）提升                                                                           |
-| advances             | n.     | 追求                                                                                                                 |
-| advantage            | n.     | 优势；优点                                                                                                           |
-| advent               | n.     | （新技术、事件、人物等的）出现，到来                                                                                 |
-| adventure            | n.     | 冒险，历险；冒险精神                                                                                                 |
-| adventurer           | n.     | 投机分子                                                                                                             |
-| adverb               | n.     | 副词                                                                                                                 |
-| adversary            | n.     | 对手，对方，敌方                                                                                                     |
-| adversity            | n.     | 困境，逆境                                                                                                           |
-| advertise            | v.     | 投放广告，宣传；公开，公开招聘；宣传，声张                                                                           |
-| advertisement        | n.     | 广告                                                                                                                 |
-| advertiser           | n.     | 广告商                                                                                                               |
-| advice               | n.     | 建议，咨询，忠告，劝告                                                                                               |
-| advisable            | a.     | 宜，明智                                                                                                             |
-| advise               | v.     | 建议，忠告，劝告，告诫，奉劝；提供建议；通知，正式告知                                                               |
-| advisement           | n.     | 建议，咨询                                                                                                           |
-| adviser              | n.     | 顾问                                                                                                                 |
-| advisory             | a.     | 顾问，咨询                                                                                                           |
-| advocate             | v.     | 拥护，支持，提倡，主张                                                                                               |
-|                      | n.     | 拥护者，支持者，提倡者；辩护律师                                                                                     |
-| aero-                |        | 空气；航空                                                                                                           |
-| aerobic              | a.     | （生）好氧；（健身运动）有氧                                                                                         |
-| aerobics             | n.     | 有氧运动                                                                                                             |
-| aerodynamics         | n.     | 空气动力（性质）；空气动力学                                                                                         |
-| aerodynamic          | a.     | 空气动力，流线（型）                                                                                                 |
-| aerodynamically      | ad.    | 空气动力                                                                                                             |
-| affair               | n.     | 事务                                                                                                                 |
-| affirm               | v.     | 肯定，确认，申明                                                                                                     |
-| affirmation          | n.     | 肯定，确认                                                                                                           |
-| affirmative          | a.     | 肯定，同意                                                                                                           |
-|                      | n.     | 肯定，同意                                                                                                           |
-| affirmatively        | ad.    | 同意，赞成                                                                                                           |
-| after all            |        | 毕竟，终归；（解释或说明理由）说到底                                                                                 |
-| aftercare            | n.     | （病人出院后的）护理，治疗；（犯人出狱后的）安置                                                                     |
-| afternoon            | n.     | 下午                                                                                                                 |
-| afternoons           | ad.    | 下午                                                                                                                 |
-| again                | ad.    | 又，再；再说，另一方面；请再说一遍                                                                                   |
-| agonizing            | a.     | 造成巨大痛苦、焦虑或困难                                                                                             |
-| agonizingly          | ad.    | （强调负面程度）极其                                                                                                 |
-| age                  | n.     | 年龄；时代                                                                                                           |
-| agent                | n.     | 经纪人，代理人；探员；动因；（化）剂                                                                                 |
-| aghast               | a.     | 惊恐，惊骇                                                                                                           |
-| agitate              | v.     | （尤指为法律、社会状况地改变而）激烈争论，鼓吹，煽动，游说；激怒，使紧张不安；搅动，摇动（液体等）                   |
-| agitated             | a.     | 激动，紧张不安                                                                                                       |
-| agitation            | n.     | 焦虑不安，忧虑，烦乱；鼓动，煽动，骚动；（液体地）搅动，摇动                                                         |
-| agitator             | n.     | （贬）（政治上的）煽动者，鼓动者                                                                                     |
-| ago                  | ad.    | 以前，之前                                                                                                           |
-| agriculture          | n.     | 农业                                                                                                                 |
-| agricultural         | a.     | 农业                                                                                                                 |
-| aid                  | n.     | 援助，援助物资，援助款项；（完成工作所需的）助手，辅助；帮助，援助；辅助设备                                         |
-|                      | v.     | 帮助，援助                                                                                                           |
-| air                  | n.     | 空气                                                                                                                 |
-| aircraft             | n.     | 飞机，航空器                                                                                                         |
-| airline              | n.     | 航线                                                                                                                 |
-| airport              | n.     | 机场，空港                                                                                                           |
-| albeit               | conj.  | 尽管                                                                                                                 |
-| album                | n.     | 相簿                                                                                                                 |
-| alcohol              | n.     | 酒精                                                                                                                 |
-| alcoholic            | a.     | 含酒精的                                                                                                             |
-|                      | n.     | 酒鬼                                                                                                                 |
-| alert                | a.     | 警觉，警惕，戒备；意识到，认识到                                                                                     |
-|                      | v.     | 使警觉，使警惕，使戒备；使意识到，使认识到                                                                           |
-|                      | n.     | 警觉，警惕，戒备；警报                                                                                               |
-| algae                | n.     | 藻                                                                                                                   |
-| algebra              | n.     | 代数                                                                                                                 |
-| algorithm            | n.     | 算法                                                                                                                 |
-| alien                | a.     | 陌生，不熟悉；外国，异族；不相容，相抵触；外星                                                                       |
-|                      | n.     | （法）外侨；外星人                                                                                                   |
-| align                | v.     | 对齐                                                                                                                 |
-| alkali               | n.     | （化）碱                                                                                                             |
-| alkaline             | a.     | （化）碱性                                                                                                           |
-| alkalinity           | n.     | （化）碱性，碱度                                                                                                     |
-| allow                | v.     | 允许                                                                                                                 |
-| ally                 | n.     | 盟友；盟军                                                                                                           |
-| along                | prep.  | 沿着                                                                                                                 |
-| alongside            | prep.  | 和…一起                                                                                                              |
-| alpaca               | n.     | 羊驼                                                                                                                 |
-| alpha                | n.     | α（希腊字母）                                                                                                        |
-| alphabet             | n.     | 字母表                                                                                                               |
-| alphabetic           | a.     | 字母                                                                                                                 |
-| alphabetical         | a.     | 按字母顺序                                                                                                           |
-| alphabetically       | ad.    | 按字母顺序                                                                                                           |
-| alphabetize          | v.     | 按字母顺序排列                                                                                                       |
-| alter                | v.     |                                                                                                                      |
-| alteration           | n.     | 改变，改动，变化                                                                                                     |
-| alternate            | n.     |                                                                                                                      |
-| aluminium            | n.     | 铝                                                                                                                   |
-| amaze                | v.     | 惊人，使惊奇                                                                                                         |
-| amazed               | a.     | 惊奇，惊异，惊叹，惊喜                                                                                               |
-| amazing              | a.     | 惊人，令人惊叹                                                                                                       |
-| ambassador           | n.     | 大使                                                                                                                 |
-| amenity              | n.     | 生活设施，便利设施                                                                                                   |
-| ammunition           | n.     | 弹药；（辩论中可以攻击对方的）信息，事实，证据                                                                       |
-| amnesia              | n.     | 失忆症                                                                                                               |
-| amuse                | v.     | 逗笑，逗乐；提供消遣，使娱乐                                                                                         |
-| amused               | a.     | 被逗乐，觉得好笑                                                                                                     |
-| amusement            | n.     | 愉悦，好笑；娱乐，消遣                                                                                               |
-| amusing              | a.     | 好笑                                                                                                                 |
-| analogous            | a.     | 类似                                                                                                                 |
-| analogy              | n.     | 类比；类推                                                                                                           |
-| anarchy              | n.     | 无政府状态；混乱，无法无天                                                                                           |
-| anatomy              | n.     | 解剖学                                                                                                               |
-| ancestor             | n.     | 祖先；（动物的）原种；（机器的）原型                                                                                 |
-| ancestry             | n.     | 祖籍                                                                                                                 |
-| anchor               | n.     | 锚                                                                                                                   |
-| ancient              | a.     | 古代；古，老                                                                                                         |
-| ancients             | n.     | 古代人                                                                                                               |
-| ancillary            | a.     | 辅助；附属，附带，附加                                                                                               |
-| anger                | n.     | 愤怒                                                                                                                 |
-| angle                | n.     | 角                                                                                                                   |
-| angry                | a.     | 生气，愤怒                                                                                                           |
-| ankle                | n.     | 踝                                                                                                                   |
-| animal               | n.     | 动物（不包括鸟、鱼、爬行动物、昆虫和人）；动物（与植物相对）；衣冠禽兽，畜生；某种类型的人（或事物、机构等）         |
-| animate              | v.     | 使有生机，使有活力；动画化                                                                                           |
-|                      | a.     | 有生命；有生机，有活力                                                                                               |
-| animation            | n.     | 生机，活力；（电影、游戏等的）动画制作；动画                                                                         |
-| anime                | n.     | 日本动画                                                                                                             |
-| anneal               | v.     | 退火                                                                                                                 |
-| annihilate           | v.     | 消灭，歼灭，毁灭；彻底击败                                                                                           |
-| annihilation         | n.     | 毁灭                                                                                                                 |
-| anniversary          | n.     | 周年纪念日                                                                                                           |
-| annotate             | v.     | 作注解，作评注                                                                                                       |
-| annotated            | a.     | 被注解，附注解                                                                                                       |
-| annotation           | n.     | 注解，评注                                                                                                           |
-| announce             | v.     | 宣布；通知；声称，宣称；告知（某人）到来；播音，广播                                                                 |
-| annoy                | v.     | 使生气，使恼怒；打扰，骚扰，烦扰                                                                                     |
-| annoyed              | a.     | 生气，恼怒，恼火，懊恼                                                                                               |
-| annoying             | a.     | 令人生气，令人恼怒，让人讨厌                                                                                         |
-| annual               | a.     | 年度，年；一年的，年                                                                                                 |
-|                      | n.     | 年报，年鉴；一年生植物                                                                                               |
-| annually             | ad.    | 一年一次                                                                                                             |
-| anomalous            | a.     | 异常，反常                                                                                                           |
-| anomaly              | n.     | 异常，反常                                                                                                           |
-| anonymous            | a.     | 匿名                                                                                                                 |
-| another              | pron.  | 另一个                                                                                                               |
-| ant                  | n.     | 蚂蚁                                                                                                                 |
-| antecedent           | n.     | 前情；祖先，先人；（语法）先行词                                                                                     |
-|                      | a.     | 先前的                                                                                                               |
-| anthem               | n.     | 国歌，校歌                                                                                                           |
-| apart                | ad.    | （空间或时间上）相距，相隔；分开，疏远，保持距离，分辨；粉碎，拆卸，破裂；除外，不包括                               |
-| apathy               | n.     | 冷漠，冷淡                                                                                                           |
-| apartment            | n.     | 公寓                                                                                                                 |
-| ape                  | n.     | 类人猿                                                                                                               |
-| aphrodisiac          | n.     | 春药，激发性欲的食物                                                                                                 |
-|                      | a.     | 激发性欲                                                                                                             |
-| apocalypse           | n.     | 世界毁灭；大动乱，大灾变                                                                                             |
-| apocalyptic          | a.     | 描述（历史）大动乱，预示（未来）大灾变；末世，如同世界末日的                                                         |
-| apocryphal           | a.     | （传闻）广泛流传，但是虚构的                                                                                         |
-| appalled             | a.     | （对令人不快的事物）感到惊骇（或憎恶）                                                                               |
-| appalling            | a.     | 极为恶劣，令人震惊；非常糟糕，很不像话                                                                               |
-| appallingly          | ad.    | 极差，一塌糊涂                                                                                                       |
-| apparent             | a.     | 显而易见，显然；貌似的，表面上的                                                                                     |
-| apparently           | ad.    | 显然，看样子                                                                                                         |
-| apple                | n.     | 苹果                                                                                                                 |
-| applicant            | n.     | 申请人                                                                                                               |
-| application          | n.     | 应用                                                                                                                 |
-| apply                | v.     | 申请                                                                                                                 |
-| appoint              | v.     |                                                                                                                      |
-| appointment          | n.     | 预约，预定，约定；任命，委任                                                                                         |
-| appreciable          | a.     | 大到可以察觉，可观                                                                                                   |
-| appreciably          | ad.    | 不少                                                                                                                 |
-| appreciate           | v.     | 欣赏，赏识，重视；感激，感谢，欢迎；意识到，认识到，了解，领会；增值，升值                                           |
-| apprehend            | v.     | 逮捕                                                                                                                 |
-| apprentice           | n.     | 学徒，徒弟                                                                                                           |
-| approach             | v.     | （空间或时间上）靠近，接近；接洽，谈；（数量、质量上）接近；处理                                                     |
-|                      | n.     | 方式，方法，手段；靠近，接近，来临；接洽，谈；道路，通路，路径；接近的事物                                           |
-| approbation          | n.     | 认可，批准                                                                                                           |
-| approve              | v.     | 赞成，同意；批准，通过，认可                                                                                         |
-| approval             | n.     | 赞成，同意；批准，通过，认可                                                                                         |
-| April                | n.     | 四月                                                                                                                 |
-| apron                | n.     | 围裙                                                                                                                 |
-| aquaculture          | n.     | 水产养殖                                                                                                             |
-| aquamarine           | a.     | 海蓝色                                                                                                               |
-| aquarium             | n.     | 水族馆；水族玻璃槽                                                                                                   |
-| Aquarius             | n.     | 水瓶座                                                                                                               |
-| aquatic              | a.     | 水生；水，水上                                                                                                       |
-| arable               | a.     | 耕作，可耕作                                                                                                         |
-| area                 | n.     | 地区，地域，区域；区，场地，处；区，部位；领域，方面，范围；面积                                                     |
-| arbiter              | n.     | 仲裁；权威人士                                                                                                       |
-| arbitrary            | a.     | 任意，随心所欲；专制                                                                                                 |
-| arch                 | n.     | 拱（结构）；拱门；足弓；拱形                                                                                         |
-| archer               | n.     | 弓箭手；射箭运动员                                                                                                   |
-| archery              | n.     | 射箭                                                                                                                 |
-| archon               | n.     | 执政官                                                                                                               |
-| arduous              | a.     | 艰苦，艰难                                                                                                           |
-| ark                  | n.     | （诺亚）方舟                                                                                                         |
-| arm                  | n.     | 手臂；扶手；（机械的）臂；职能部门                                                                                   |
-|                      | v.     | 武装，装备                                                                                                           |
-| armchair             | n.     | 扶手椅                                                                                                               |
-| armed                | a.     | 武装的                                                                                                               |
-| armor                | n.     | 盔甲，护甲；装甲；装甲部队                                                                                           |
-| army                 | n.     | 陆军，军队，部队；大批，大群                                                                                         |
-| army knife           | n.     | 军刀                                                                                                                 |
-| arrest               | v.     | 逮捕                                                                                                                 |
-| arrive               | v.     | 到达                                                                                                                 |
-| arrogance            | n.     | 傲慢，自大                                                                                                           |
-| arrogant             | a.     | 傲慢，自大                                                                                                           |
-| arrow                | n.     | 箭；箭头                                                                                                             |
-| arrowhead            | n.     | 箭头                                                                                                                 |
-| art                  | n.     | 艺术                                                                                                                 |
-| artical              | n.     | 文章，报道；（法）条，项；物件                                                                                       |
-| artificial           | a.     | 人工                                                                                                                 |
-| artist               | n.     | 艺术家                                                                                                               |
-| asbestos             | n.     | 石棉                                                                                                                 |
-| ascertain            | v.     | 查明，确认，弄清楚                                                                                                   |
-| asexual              | a.     | 无性；性缺乏，性冷淡                                                                                                 |
-| aspect               | n.     | 方面                                                                                                                 |
-| ass                  | n.     | 屁股；混蛋                                                                                                           |
-| assail               | v.     | 攻击，袭击，抨击；困扰，使苦恼                                                                                       |
-| assailant            | n.     | 攻击者，行凶者                                                                                                       |
-| assassin             | n.     | 刺客                                                                                                                 |
-| assault              | n.     | 人身侵犯罪，攻击；（军队等）攻击，突击；（向困难或危险事物）冲击；抨击，攻击                                         |
-|                      | v.     | 袭击，侵犯（尤指构成罪）；使（感官）难受，强奸                                                                       |
-| assembly             | n.     | 议会，（美）众议院；集会；（全校师生的）早会，晨会；装配，组装                                                       |
-| assembly line        | n.     | 生产线，流水线                                                                                                       |
-| assent               | n.     | 同意，赞成                                                                                                           |
-|                      | v.     | 同意，赞成                                                                                                           |
-| assert               | v.     | 坚称，断言；维护（权利或权威）                                                                                       |
-| assert oneself       |        | 坚持主张                                                                                                             |
-| assert itself        |        | 有效果，起作用                                                                                                       |
-| assertion            | n.     | 断言                                                                                                                 |
-| assign               | v.     | 赋值；分配，分派，布置；指定，指派；委派，派遣；（法）转让                                                           |
-| assignment           | n.     | 赋值                                                                                                                 |
-| assist               | v.     | 协助                                                                                                                 |
-| assistant            | n.     | 助手                                                                                                                 |
-| associate            | v.     | 联系                                                                                                                 |
-| asymmetric           | a.     | 不对称                                                                                                               |
-| asteroid             | n.     | （天）小行星                                                                                                         |
-| astonish             | v.     | 使惊讶，使大吃一惊                                                                                                   |
-| astonished           | a.     | 惊讶，大吃一惊                                                                                                       |
-| astonishing          | a.     | 惊人，令人难以置信                                                                                                   |
-| astound              | v.     | 使震惊                                                                                                               |
-| astounded            | a.     | 震惊，大吃一惊                                                                                                       |
-| astounding           | a.     | 惊人，令人大吃一惊                                                                                                   |
-| astronaut            | n.     | 宇航员                                                                                                               |
-| astronomer           | n.     | 天文学家                                                                                                             |
-| astronomical         | a.     | 天文，天文学；天文数字的，极其巨大的                                                                                 |
-| astronomically       | ad.    | 天文，天文学；天文数字般，极其巨大                                                                                   |
-| astronomy            | n.     | 天文学                                                                                                               |
-| athlete              | n.     | 运动员；运动健将                                                                                                     |
-| athletic             | a.     | 健壮，健美                                                                                                           |
-| athletically         | ad.    | 健壮，健美                                                                                                           |
-| athletics            | n.     | 田径                                                                                                                 |
-| atom                 | n.     | 原子                                                                                                                 |
-| atom bomb            | n.     | 原子弹                                                                                                               |
-| atomic               | a.     | 原子                                                                                                                 |
-| attack               | v.     | 攻击                                                                                                                 |
-| attacker             | n.     | 攻击者                                                                                                               |
-| attempt              | v.     | 尝试                                                                                                                 |
-| attend               | v.     | 出席，参加；定期去；专心，注意；伴随…而来；随同，陪同                                                                |
-| attendance           | n.     | 出席，参加；出席人数                                                                                                 |
-| attendant            | n.     | 服务员，侍者；随从，侍从                                                                                             |
-|                      | a.     | 随之而来的，伴随而来的                                                                                               |
-| attendee             | n.     | 出席者                                                                                                               |
-| attention            | n.     | 注意，留意，注意力；兴趣，关注；殷勤，关心；特别关照，特别处理                                                       |
-|                      | excla. | 注意；立正                                                                                                           |
-| attitude             | n.     | 态度，看法；（我行我素的）态度，做派；姿势                                                                           |
-| attorney             | n.     | （代表当事人出庭的）律师；（业务或法律的）代理人                                                                     |
-| attract              | v.     | 吸引，引起…好感；招引，招来；引起（反应）                                                                            |
-| attraction           | n.     | （两性之间的）爱慕，吸引；有吸引力的地点/事情/人/特征；（物）吸引力                                                  |
-| attractive           | a.     | （人）性感，英俊，妩媚；吸引人的，令人愉快；诱人                                                                     |
-| attractively         | ad.    | 吸引人，诱人                                                                                                         |
-| attribute            | a.     | 属性                                                                                                                 |
-| auction              | n.     | 拍卖                                                                                                                 |
-|                      | v.     | 拍卖                                                                                                                 |
-| audience             | n.     | 观众                                                                                                                 |
-| audio                | a.     | 声音，录音                                                                                                           |
-|                      | n.     | 音频                                                                                                                 |
-| audio-               |        | 声，音，听                                                                                                           |
-| audit                | n.     | 审计；（质量或标准）检查                                                                                             |
-|                      | v.     | 审计                                                                                                                 |
-| audition             | n.     | 试镜，试音                                                                                                           |
-|                      | v.     | 试镜，试音                                                                                                           |
-| auditor              | n.     | 审计员                                                                                                               |
-| auditory             | a.     | 听觉                                                                                                                 |
-| augment              | v.     | 增加，提高，扩大，增强                                                                                               |
-| augmentation         | n.     | 增加，提高，扩大，增强                                                                                               |
-| August               | n.     | 八月                                                                                                                 |
-| aunt                 | n.     | 阿姨，姑妈，姨妈，舅妈，…                                                                                            |
-| auntie               | n.     | 阿姨，姑妈，姨妈，舅妈，…                                                                                            |
-| aura                 | n.     | 气氛，氛围                                                                                                           |
-| aural                | a.     | 听觉，听力                                                                                                           |
-| austere              | a.     | 简陋，朴素；（人）严肃，严厉；苦行，禁欲                                                                             |
-| austerity            | n.     | 经济紧缩，严格节制消费；艰苦，朴素；苦行，禁欲                                                                       |
-| authentic            | a.     | 真品，真迹；真实，真正；仿真，逼真                                                                                   |
-| authentically        | ad.    | 真实，真正                                                                                                           |
-| author               | n.     | 作者                                                                                                                 |
-| authority            | n.     | 权力，当权；有权，职权；当局，官方；权威，威信；专家，学术权威，泰斗                                                 |
-| authorization        | n.     | 批准，授权                                                                                                           |
-| authorize            | v.     | 批准，授权                                                                                                           |
-| auto                 | n.     | （美）汽车                                                                                                           |
-| auto-                |        | 自己（的）；自动                                                                                                     |
-| autobiography        | n.     | 自传                                                                                                                 |
-| autocrat             | n.     | 独裁者，专制君主；专横的人，独断专行的人                                                                             |
-| autograph            | n.     | 亲笔签名                                                                                                             |
-|                      | v.     | 签名                                                                                                                 |
-| automate             | v.     | 使自动化                                                                                                             |
-| automatic            | a.     | 自动                                                                                                                 |
-| automation           | n.     | 自动化                                                                                                               |
-| automaton (automata) | n.     | 自动机                                                                                                               |
-| automobile           | n.     | （美）汽车                                                                                                           |
-| automotive           | a.     | 汽车                                                                                                                 |
-| autonomous           | a.     | （地区）自治，有自治权；（人）自主，有自主权                                                                         |
-| autonomy             | n.     | （地区）自治，自治权；（人）自主，自主权                                                                             |
-| autopsy              | n.     | 尸检                                                                                                                 |
-| autosave             | v.     | （计）自动保存                                                                                                       |
-| autumn               | n.     | （英）秋季                                                                                                           |
-| auxiliary            | a.     | （工人）辅助，助理；备用                                                                                             |
-|                      | n.     | 辅助工，辅助人员                                                                                                     |
-| avatar               | n.     | 头像                                                                                                                 |
-| avenge               | v.     | 为（某事）报仇，向（某人）报仇                                                                                       |
-| avenue               | n.     | 大道                                                                                                                 |
-| avoid                | v.     | 避免，防止；回避，躲避，避开；避免撞到                                                                               |
-| avoidable            | a.     | 可以避免的                                                                                                           |
-| avoidance            | a.     | 避免，防止；回避，躲避，避开                                                                                         |
-| await                | v.     | 等候，等待，期待；将发生在，将降临到（某人头上）                                                                     |
-| awake                | a.     | 醒着（睡觉前后）                                                                                                     |
-|                      | v.     | （使）醒来；（被）唤起                                                                                               |
-| awaken               | v.     | （使）醒来；（被）唤起                                                                                               |
-| award                | n.     | 奖；（收入）增加；授予（毕业证书）                                                                                   |
-|                      | v.     | 授予，判定                                                                                                           |
-| away                 |        | 离开                                                                                                                 |
-| awesome              | a.     | 惊人，艰巨；很好，棒                                                                                                 |
-| awkward              | a.     | 令人尴尬，令人难堪；难对付，难处理；不方便；（由于形状或设计）别扭；（动作）笨拙                                     |
-| awkwardly            | ad.    | 尴尬，难堪；别扭；笨拙                                                                                               |
-| awkwardness          | n.     | 尴尬，难堪                                                                                                           |
-|                      |        |                                                                                                                      |
+|                      |         |                                                                                                                      |
+| -------------------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
+| a                    | in.art. |                                                                                                                      |
+| aardvark             | n.      | 食蚁兽                                                                                                               |
+| abandon              | v.      | （不顾责任、义务等地）抛弃，遗弃；（不得已而）舍弃，丢弃；终止，放弃，不再有；停止（支持或帮助），放弃（信念）       |
+|                      |         | 陷入，沉湎于（某种情感）                                                                                             |
+| abandoned            | a.      | 被抛弃，被遗弃；（人或行为）放纵，堕落                                                                               |
+| abbreviate           | v.      | 略缩，缩写                                                                                                           |
+| abbreviated          | a.      | 略缩，缩写                                                                                                           |
+| abbreviation         | n.      | 缩写形式                                                                                                             |
+| abdicate             | v.      | 退位；失职，放弃职责                                                                                                 |
+| abdomen              | n.      | 腹部；（昆虫的）腹部                                                                                                 |
+| abdominal            | a.      | （解）腹部                                                                                                           |
+| abduct               | v.      | 诱拐，劫持，绑架                                                                                                     |
+| abduction            | n.      | 诱拐，劫持，绑架                                                                                                     |
+| abhorrent            | a.      | （尤指因道德原因）令人憎恨，令人厌恶                                                                                 |
+| abide                | v.      | （十分厌恶而）不能容忍，无法容忍；停留，驻留                                                                         |
+| ability              | n.      | 能力；才能，才干，才华                                                                                               |
+| able                 | a.      | 能，能够；有才能，有才干，有才华                                                                                     |
+| abnormal             | a.      | 不正常，反常，变态，畸形                                                                                             |
+| abnormally           | ad.     | 不正常，反常                                                                                                         |
+| abolish              | v.      | 废除，废止（法律、制度、习俗等）                                                                                     |
+| abolition            | n.      | （法律、制度、习俗等的）废除，废止                                                                                   |
+| abominable           | a.      | 令人憎恨，令人厌恶                                                                                                   |
+| abominably           | ad.     | 极其恶劣                                                                                                             |
+| abominate            | v.      | 憎恨，憎恶，厌恶                                                                                                     |
+| abomination          | n.      | 令人憎恨的事物，令人厌恶的事物                                                                                       |
+| abort                | v.      | 堕（胎），终止（妊娠）；流产；（使）夭折，中止（尤指很可能失败的事情）；（计）中止                                   |
+| abortion             | n.      | 堕胎，打胎；堕胎手术，人工流产                                                                                       |
+| about                | ad.     |                                                                                                                      |
+| above                | prep.   | 在…上；（数量、水平、年龄）超过，多于，高于，以上；（重要性、质量）超过，胜过                                        |
+|                      | ad.     | 在…上；（数量、水平、年龄）超过，更多，更高，以上；上文，前文                                                        |
+|                      | a.      | 上述                                                                                                                 |
+| abrupt               | a.      | 突然，骤然；（言行）粗鲁，莽撞，唐突，生硬                                                                           |
+| abruptly             | ad.     | 突然，骤然                                                                                                           |
+| absence              | n.      | 缺席，不在；不存在，缺少                                                                                             |
+| absent               | a.      | 缺席，不在；不存在，缺少；心不在焉，走神                                                                             |
+| absolute             | a.      | 完全，绝对；简直，十足，完全；肯定，确定，无疑；不受限制，不受约束，绝对；（相对于相对）绝对                         |
+|                      | n.      | 绝对真理，绝对准则                                                                                                   |
+| absolutely           | ad.     | （强调真实无误）完全，绝对；完全不，完全没有；极其；（强调同意或允许）当然；（强调不同意或不允许）绝对不行，绝对没有 |
+| absolve              | v.      | 宣告无罪，免除责任；赦免                                                                                             |
+| absorb               | v.      | 吸收（液体、气体等）；吸收（光、热、能量等）；使并入，同化；理解，掌握；使全神贯注，使专心致志，使沉迷；             |
+|                      |         | 耗费（大量时间、金钱等）；承受，承担（变化、结果、费用等）                                                           |
+| absorbable           | a.      | 可吸收                                                                                                               |
+| absorption           | n.      | （液体、气体等的）吸收；并入，同化；全神贯注，专心致志，沉迷                                                         |
+| abstain              | v.      | 弃权；戒（酒、毒、欲等）                                                                                             |
+| abstainer            | n.      | 弃权者；滴酒不沾的人                                                                                                 |
+| abstention           | n.      | 弃权；戒                                                                                                             |
+| abstract             | a.      | 抽象                                                                                                                 |
+|                      | n.      | 抽象派艺术作品；（文献等的）摘要                                                                                     |
+|                      | v.      | 抽象，概括，提取；写（书等的）摘要                                                                                   |
+| abstraction          | n.      | 抽象；抽取                                                                                                           |
+| absurd               | a.      | 荒谬，荒唐                                                                                                           |
+| absurdity            | n.      | 荒谬，荒唐                                                                                                           |
+| absurdly             | ad.     | 荒谬，荒唐，出奇                                                                                                     |
+| abundance            | n.      | 大量，丰富，充裕                                                                                                     |
+| abundant             | a.      | 大量，丰富，充裕                                                                                                     |
+| abundantly           | ad.     | 十分清楚，非常明白；大量，丰富，充裕                                                                                 |
+| abuse                | n.      | 滥用，嗜（毒），酗（酒）；虐待；辱骂，谩骂                                                                           |
+|                      | v.      | 滥用，嗜（毒），酗（酒）；虐待；辱骂，谩骂                                                                           |
+| abuser               | n.      | 嗜毒的人，酗酒的人；虐待……的人                                                                                       |
+| academic             | a.      | 学术，学业；学习好；纯理论，纸上谈兵                                                                                 |
+|                      | n.      | 高校教师（或科研人员）                                                                                               |
+| academic year        | n.      | 学年                                                                                                                 |
+| academy              | n.      | 学院；学会；（美）私立学校；（英）私立中学                                                                           |
+| academically         | ad.     | 学术，学业；纸上谈兵                                                                                                 |
+| accelerate           | v.      | （使）加速，加快；（车辆或人）加速，加快                                                                             |
+| acceleration         | n.      | 加速，加快；（车辆）加速性能；（物）加速度                                                                           |
+| accelerator          | n.      | （汽车）油门；（物）（粒子）加速器                                                                                   |
+| accelerometer        | n.      | （物）加速度计                                                                                                       |
+| accent               | n.      | 口音；重音；（标在字母上的）读音符号；着重点，强调                                                                   |
+|                      | v.      | 着重，强调，突出                                                                                                     |
+| accentuate           | v.      | 着重，强调，突出                                                                                                     |
+| accept               | v.      | 接受；承担（责任等）；相信（某事属实）；欢迎，接纳                                                                   |
+| acceptable           | a.      | （社会上）认同，认可；可以接受；差强人意                                                                             |
+| acceptance           | n.      | 接受；接纳                                                                                                           |
+| access               | n.      | 访问                                                                                                                 |
+|                      | v.      | 访问                                                                                                                 |
+| accessibility        | n.      | 无障碍；容易理解                                                                                                     |
+| accessible           | a.      | 可以到达、进入、使用或看到等；容易理解，易懂；（人）容易接近，容易相处，容易打交道                                   |
+| accessory            | n.      | 附件，配件；（衣服的）配饰；（法）从犯                                                                               |
+|                      | a.      | 辅助，副                                                                                                             |
+| accident             | n.      | 事故，意外事件，不测；意外，偶然                                                                                     |
+| accidental           | a.      | 意外，偶然                                                                                                           |
+| accidentally         | ad.     | 意外，偶然                                                                                                           |
+| acclaim              | v.      | 公开称誉，公开赞扬，给予高度评价                                                                                     |
+|                      | n.      | 称誉，赞扬，高度评价                                                                                                 |
+| acclamation          | n.      | 欢呼，喝彩，欢迎；口头表决                                                                                           |
+| acid                 | n.      | （化）酸                                                                                                             |
+|                      | a.      | （化）酸性；酸，酸味；尖酸，尖刻                                                                                     |
+| accommodate          | v.      | 提供住宿/膳宿；容纳，提供空间；考虑到，顾及；帮助，为…提供方便；顺应，适应（新情况）                                 |
+| accommodation        | n.      | 住宿，膳宿；和解，调解，调和                                                                                         |
+| accompany            | v.      | 陪同，陪伴；伴随，附带；（尤指用钢琴）为…伴奏                                                                        |
+| accomplish           | v.      | 完成，达成                                                                                                           |
+| accomplished         | a.      | 技艺高超，熟练                                                                                                       |
+| accomplishment       | n.      | 成就，成绩；才艺，专长；达成，实现                                                                                   |
+| accord               | n.      | 协议，条约                                                                                                           |
+|                      | v.      | 给予，赠予，授予（权力，地位）；一致，符合                                                                           |
+| according to         | prep.   | 根据，按照，依照                                                                                                     |
+| in accordance with   |         | 依照，依据                                                                                                           |
+| account              | n.      | 账户；账目；（商）老主顾；账户，账号；描述，叙述；（思想、理论、过程的）解释，说明，叙述                             |
+| accountable          | a.      | （对决定、行为）负有责任                                                                                             |
+| accountant           | n.      | 会计师                                                                                                               |
+| accounting           | n.      | 会计                                                                                                                 |
+| accumulate           | v.      | 积累，收集；逐渐增加                                                                                                 |
+| accumulation         | n.      | 积累                                                                                                                 |
+| accumulative         | a.      | 累积                                                                                                                 |
+| accusation           | n.      | 控告，起诉；指责，谴责                                                                                               |
+| accuse               | v.      | 控告，起诉；指责，谴责                                                                                               |
+| accused              | a.      | （刑事）被告                                                                                                         |
+| accustom             | v.      | 使习惯于                                                                                                             |
+| accustomed           | a.      | 习惯于；通常，惯常                                                                                                   |
+| ace                  | n.      | （扑克牌的）A；高手；（网球）发球得分                                                                                |
+|                      | a.      | （美）在…中获得成功                                                                                                  |
+| acetylene            | n.      | 乙炔                                                                                                                 |
+| ache                 | v.      | 疼痛；渴望                                                                                                           |
+|                      | n.      | （身体某部位的）疼痛                                                                                                 |
+| achieve              | v.      | （凭借长期努力）达到（某目标、地位、标准等）；完成，达成；成功                                                       |
+| achievable           | a.      | 可以达到，可以完成                                                                                                   |
+| achievement          | n.      | 成就，成绩；达成，实现                                                                                               |
+| acid                 | n.      | 酸                                                                                                                   |
+|                      | a.      | 酸性；酸，酸味；（言辞）尖酸，刻薄                                                                                   |
+| acidity              | n.      | 酸味，酸性                                                                                                           |
+| acknowledge          | v.      | 承认；告知收悉；（微笑、挥手等）致意；（公开）感谢                                                                   |
+| acknowledgement      | n.      | 承认；感谢，谢礼；收件复函；致谢，鸣谢                                                                               |
+| acoustic             | a.      | 声音，音响，听觉；（音）（乐器或演奏）原声，自然声                                                                   |
+| acoustics            | n.      | 声学；（房间、剧院的）音响效果                                                                                       |
+| acquaint             | v.      | 使熟悉，使了解                                                                                                       |
+| acquaintance         | n.      | 认识的人，熟人，泛泛之交；（与某人）认识，略有交情；（对某事物的）了解                                               |
+| acquainted           | a.      | 熟悉，了解；（与某人）认识，熟                                                                                       |
+| acre                 | n.      | 英亩                                                                                                                 |
+| acronym              | n.      | 首字母缩略词                                                                                                         |
+| across               | ad.     | 从一边到另一边，横越，宽；向特定方向；在对面                                                                         |
+|                      | prep.   | 从一边到另一边，横越；在…对面；在（某身体部位）上；在…各处，遍及                                                     |
+| act                  | v.      | 行动；表现得；假装；演；起作用                                                                                       |
+|                      | n.      | 行为；法案；假装；（戏剧）幕                                                                                         |
+| action               | n.      | 行动；行为；诉讼，起诉；作战，战斗；（故事）情节；令人激动的事件；（物理或化学）作用；（身体部位的）功能，作用；     |
+|                      |         | （机械部件的）活动方式                                                                                               |
+|                      | v.      | 确保会处理                                                                                                           |
+| activate             | v.      | 激活，使活动                                                                                                         |
+| active               | a.      | 忙碌，活跃；积极；（定期）活动，起作用；（思维）活跃，丰富；（化学上）起作用，有效；主动语态                         |
+| actively             | ad.     | 忙碌，活跃；积极                                                                                                     |
+| activist             | n.      | 积极分子，活跃分子                                                                                                   |
+| activity             | n.      | 活动，活跃（状态）；（未达到特定目的进行的）活动                                                                     |
+| actor                | n.      | 演员                                                                                                                 |
+| actress              | n.      | 女演员                                                                                                               |
+| actual               | a.      | 实际                                                                                                                 |
+| actually             | ad.     | 实际上                                                                                                               |
+| actuate              | v.      | 开动（机器、装置等）；激励，驱使                                                                                     |
+| acoustic             | a.      | 声音，音响，听觉；（音）原声                                                                                         |
+| acoustics            | n.      | 声学；（房间、剧院的）音响效果                                                                                       |
+| acute                | a.      | （医）急性                                                                                                           |
+| adapt                | v.      | 修改/改进/改装以适应/适合；适应；改编                                                                                |
+| adaptation           | n.      | 改编；适应                                                                                                           |
+| adaptor              | n.      | 电源适配器                                                                                                           |
+| adaptable            | a.      | 有适应能力的，适应能力强的                                                                                           |
+| add                  | v.      |                                                                                                                      |
+| add-on               | n.      | 附加物，附加装置                                                                                                     |
+| addict               | v.      | 吸毒成瘾的人，瘾君子；对…入迷的人                                                                                    |
+| addicted             | a.      | 上瘾，成瘾；入迷                                                                                                     |
+| addiction            | n.      | 瘾                                                                                                                   |
+| addictive            | a.      | 使人上瘾；使人入迷                                                                                                   |
+| addition             | n.      | 加，加法；添加，增加；添加物，增加物；（美）（建筑物的）扩建部分                                                     |
+| additional           | a.      | 附加，额外                                                                                                           |
+| additionally         | ad.     | 此外                                                                                                                 |
+| additive             | n.      | （食品的）添加剂                                                                                                     |
+| address              | n.      | 地址                                                                                                                 |
+|                      | v.      | 解决                                                                                                                 |
+| adjust               | v.      | 调整                                                                                                                 |
+| adjustment           | n.      | 调整                                                                                                                 |
+| administer           | v.      | 管理（公司、组织、机构等），治理（国家）；执行，施行；给予，提供；给予，施用（药物等）                               |
+| administration       | n.      | （公司、机构等的）管理（部门），行政（部门）；执行，施行；（美国）政府；（药物的）施用                               |
+| administrative       | a.      | 管理，行政                                                                                                           |
+| administrator        | n.      | （公司、机构等的）管理人员，行政人员                                                                                 |
+| admission            | n.      | 进入，加入（入院、录取资格等）；供认，承认（罪行、过错等）                                                           |
+| admit                | v.      | 承认                                                                                                                 |
+| adolescence          | n.      | 青春期，青春                                                                                                         |
+| adolescent           | n.      | 青少年                                                                                                               |
+| adopt                | v.      | 收养，领养；采用（某方法），采取（某态度）；正式通过（决议、政策等）；承袭，取（新的名字），使用（新的语言）；       |
+|                      |         | 采取（某种言行方式）                                                                                                 |
+| adopted              | a.      | 收养，领养；移居                                                                                                     |
+| adoptive             | a.      | 收养关系的                                                                                                           |
+| adopter              | n.      | 收养者，领养者；（新技术的）采用者                                                                                   |
+| adoption             | n.      | 收养，领养；采用（技术、想法、计划等）                                                                               |
+| adorable             | a.      | 可爱，讨人喜爱                                                                                                       |
+| adore                | v.      | 爱慕（某人）；喜爱，热爱（某事物）                                                                                   |
+| adult                | n.      | 成年人                                                                                                               |
+| adulterant           | n.      | （食品中）掺的假                                                                                                     |
+| adulterate           | v.      | （食品中）掺假                                                                                                       |
+| adulteration         | n.      | （食品中）掺假                                                                                                       |
+| adulthood            | n.      | 成年                                                                                                                 |
+| advance              | n.      | （部队）前进，行进；进步，进展；预付款；（商）上涨                                                                   |
+|                      | v.      | （部队）前进，行进；进步，发展；促进，推动；预付；提出（想法、计划、理论等）；提前；（使）向前移动；（商）上涨       |
+|                      | a.      | 事先，预先                                                                                                           |
+| advanced             | a.      | 先进；高级，高等；（疾病）晚期                                                                                       |
+| advancement          | n.      | 发展，进步；促进，推动；晋升，（阶级）提升                                                                           |
+| advances             | n.      | 追求                                                                                                                 |
+| advantage            | n.      | 优势；优点                                                                                                           |
+| advent               | n.      | （新技术、事件、人物等的）出现，到来                                                                                 |
+| adventure            | n.      | 冒险，历险；冒险精神                                                                                                 |
+| adventurer           | n.      | 投机分子                                                                                                             |
+| adverb               | n.      | 副词                                                                                                                 |
+| adversary            | n.      | 对手，对方，敌方                                                                                                     |
+| adversity            | n.      | 困境，逆境                                                                                                           |
+| advertise            | v.      | 投放广告，宣传；公开，公开招聘；宣传，声张                                                                           |
+| advertisement        | n.      | 广告                                                                                                                 |
+| advertiser           | n.      | 广告商                                                                                                               |
+| advice               | n.      | 建议，咨询，忠告，劝告                                                                                               |
+| advisable            | a.      | 宜，明智                                                                                                             |
+| advise               | v.      | 建议，忠告，劝告，告诫，奉劝；提供建议；通知，正式告知                                                               |
+| advisement           | n.      | 建议，咨询                                                                                                           |
+| adviser              | n.      | 顾问                                                                                                                 |
+| advisory             | a.      | 顾问，咨询                                                                                                           |
+| advocate             | v.      | 拥护，支持，提倡，主张                                                                                               |
+|                      | n.      | 拥护者，支持者，提倡者；辩护律师                                                                                     |
+| aero-                |         | 空气；航空                                                                                                           |
+| aerobic              | a.      | （生）好氧；（健身运动）有氧                                                                                         |
+| aerobics             | n.      | 有氧运动                                                                                                             |
+| aerodynamics         | n.      | 空气动力（性质）；空气动力学                                                                                         |
+| aerodynamic          | a.      | 空气动力，流线（型）                                                                                                 |
+| aerodynamically      | ad.     | 空气动力                                                                                                             |
+| affair               | n.      | 事务                                                                                                                 |
+| affirm               | v.      | 肯定，确认，申明                                                                                                     |
+| affirmation          | n.      | 肯定，确认                                                                                                           |
+| affirmative          | a.      | 肯定，同意                                                                                                           |
+|                      | n.      | 肯定，同意                                                                                                           |
+| affirmatively        | ad.     | 同意，赞成                                                                                                           |
+| after all            |         | 毕竟，终归；（解释或说明理由）说到底                                                                                 |
+| aftercare            | n.      | （病人出院后的）护理，治疗；（犯人出狱后的）安置                                                                     |
+| afternoon            | n.      | 下午                                                                                                                 |
+| afternoons           | ad.     | 下午                                                                                                                 |
+| again                | ad.     | 又，再；再说，另一方面；请再说一遍                                                                                   |
+| agonizing            | a.      | 造成巨大痛苦、焦虑或困难                                                                                             |
+| agonizingly          | ad.     | （强调负面程度）极其                                                                                                 |
+| age                  | n.      | 年龄；时代                                                                                                           |
+| agent                | n.      | 经纪人，代理人；探员；动因；（化）剂                                                                                 |
+| aghast               | a.      | 惊恐，惊骇                                                                                                           |
+| agitate              | v.      | （尤指为法律、社会状况地改变而）激烈争论，鼓吹，煽动，游说；激怒，使紧张不安；搅动，摇动（液体等）                   |
+| agitated             | a.      | 激动，紧张不安                                                                                                       |
+| agitation            | n.      | 焦虑不安，忧虑，烦乱；鼓动，煽动，骚动；（液体地）搅动，摇动                                                         |
+| agitator             | n.      | （贬）（政治上的）煽动者，鼓动者                                                                                     |
+| ago                  | ad.     | 以前，之前                                                                                                           |
+| agriculture          | n.      | 农业                                                                                                                 |
+| agricultural         | a.      | 农业                                                                                                                 |
+| aid                  | n.      | 援助，援助物资，援助款项；（完成工作所需的）助手，辅助；帮助，援助；辅助设备                                         |
+|                      | v.      | 帮助，援助                                                                                                           |
+| air                  | n.      | 空气                                                                                                                 |
+| aircraft             | n.      | 飞机，航空器                                                                                                         |
+| airline              | n.      | 航线                                                                                                                 |
+| airport              | n.      | 机场，空港                                                                                                           |
+| albeit               | conj.   | 尽管                                                                                                                 |
+| album                | n.      | 相簿                                                                                                                 |
+| alcohol              | n.      | 酒精                                                                                                                 |
+| alcoholic            | a.      | 含酒精的                                                                                                             |
+|                      | n.      | 酒鬼                                                                                                                 |
+| alert                | a.      | 警觉，警惕，戒备；意识到，认识到                                                                                     |
+|                      | v.      | 使警觉，使警惕，使戒备；使意识到，使认识到                                                                           |
+|                      | n.      | 警觉，警惕，戒备；警报                                                                                               |
+| algae                | n.      | 藻                                                                                                                   |
+| algebra              | n.      | 代数                                                                                                                 |
+| algorithm            | n.      | 算法                                                                                                                 |
+| alien                | a.      | 陌生，不熟悉；外国，异族；不相容，相抵触；外星                                                                       |
+|                      | n.      | （法）外侨；外星人                                                                                                   |
+| align                | v.      | 对齐                                                                                                                 |
+| alkali               | n.      | （化）碱                                                                                                             |
+| alkaline             | a.      | （化）碱性                                                                                                           |
+| alkalinity           | n.      | （化）碱性，碱度                                                                                                     |
+| allow                | v.      | 允许                                                                                                                 |
+| allude to            | v.      | 间接提到，暗指，影射                                                                                                 |
+| ally                 | n.      | 盟友；盟军                                                                                                           |
+| along                | prep.   | 沿着                                                                                                                 |
+| alongside            | prep.   | 和…一起                                                                                                              |
+| alpaca               | n.      | 羊驼                                                                                                                 |
+| alpha                | n.      | α（希腊字母）                                                                                                        |
+| alphabet             | n.      | 字母表                                                                                                               |
+| alphabetic           | a.      | 字母                                                                                                                 |
+| alphabetical         | a.      | 按字母顺序                                                                                                           |
+| alphabetically       | ad.     | 按字母顺序                                                                                                           |
+| alphabetize          | v.      | 按字母顺序排列                                                                                                       |
+| alter                | v.      | （使）改变，更改，改动，变化；修改（衣服使更合身）                                                                   |
+| alteration           | n.      | 改变，改动，变化                                                                                                     |
+| alternate            | a.      | （两事物）交替，轮流；间隔的                                                                                         |
+|                      | v.      | （使）交替，轮流                                                                                                     |
+|                      | n.      | （美）候补者                                                                                                         |
+| alternation          | n.      | 交替                                                                                                                 |
+| alternative          | n.      | 可供选择的事物                                                                                                       |
+|                      | a.      | 可供选择的，替代的，其他的，别的；非传统的                                                                           |
+| alternatively        | ad.     | 或者                                                                                                                 |
+| altitude             | n.      | 海拔；（高海拔）地区                                                                                                 |
+| aluminium            | n.      | 铝                                                                                                                   |
+| alumni               | n.      | （美）校友                                                                                                           |
+| always               | ad.     | 总是；一直；永远；（建议可能的行动）总还                                                                             |
+| amalgam              | n.      | 混合物，综合体                                                                                                       |
+| amalgamate           | v.      | （使）合并，联合，综合                                                                                               |
+| amalgamation         | n.      | 合并，联合                                                                                                           |
+| amateur              | n.      | 业余选手；（贬）外行                                                                                                 |
+|                      | a.      | 业余，业余爱好                                                                                                       |
+| amaze                | v.      | 惊人，使惊奇                                                                                                         |
+| amazed               | a.      | 惊奇，惊异，惊叹，惊喜                                                                                               |
+| amazing              | a.      | 惊人，令人惊叹                                                                                                       |
+| ambassador           | n.      | 大使                                                                                                                 |
+| ambiguity            | n.      | 歧义；模棱两可/含糊不清的语句；不明确                                                                                |
+| ambiguous            | a.      | 模棱两可，含糊不清；不明确                                                                                           |
+| ambiguously          | ad.     | 模棱两可，含糊不清                                                                                                   |
+| ambition             | n.      | 目标，夙愿；野心，雄心，志向，抱负                                                                                   |
+| ambitious            | a.      | 有野心，有志向，有抱负，雄心勃勃；费力，耗资                                                                         |
+| ambivalence          | n.      | 喜忧参半，感觉矛盾                                                                                                   |
+| ambivalent           | a.      | 喜忧参半，感觉矛盾                                                                                                   |
+| ambulance            | n.      | 救护车                                                                                                               |
+| amend                | v.      | 修订（法律、文件、声明等）                                                                                           |
+| amendment            | n.      | （法律、文件的）修改，修订，修正案；（美国宪法的）修正案                                                             |
+| amenity              | n.      | 生活设施，便利设施                                                                                                   |
+| amid                 | prep.   | 在…中                                                                                                                |
+| ammunition           | n.      | 弹药；（辩论中可以攻击对方的）信息，事实，证据                                                                       |
+| amnesia              | n.      | 失忆症                                                                                                               |
+| amount               | n.      | 金额；数量，数额                                                                                                     |
+| amphibian            | n.      | 两栖动物                                                                                                             |
+| amphibious           | a.      | （生物）水陆两栖；水陆两用；（军事行动）两栖作战，登陆                                                               |
+| ample                | a.      | 足够，充足，充分，宽敞，丰裕；（人的体型）丰满                                                                       |
+| amplifier            | n.      | 放大器，扩音器，扬声器                                                                                               |
+| amplification        | n.      | 放大，增强；阐明                                                                                                     |
+| amplify              | v.      | 放大，增强（声音、信号等）；进一步阐述，提供详情                                                                     |
+| amplitude            | n.      | （物）振幅                                                                                                           |
+| amuse                | v.      | 逗笑，逗乐；提供消遣，使娱乐                                                                                         |
+| amused               | a.      | 被逗乐，觉得好笑                                                                                                     |
+| amusement            | n.      | 愉悦，好笑；娱乐，消遣                                                                                               |
+| amusing              | a.      | 好笑                                                                                                                 |
+| an                   | in.art. |                                                                                                                      |
+| analogous            | a.      | 类似                                                                                                                 |
+| analogy              | n.      | 类比；类推                                                                                                           |
+| analyze              | v.      | （美）分析                                                                                                           |
+| analysis             | n.      | 分析                                                                                                                 |
+| analyst              | n.      | 分析家，分析员                                                                                                       |
+| analytical           | a.      | 分析，解析                                                                                                           |
+| anarchy              | n.      | 无政府状态；混乱，无法无天                                                                                           |
+| anatomy              | n.      | 解剖学                                                                                                               |
+| ancestor             | n.      | 祖先；（动物的）原种；（机器的）原型                                                                                 |
+| ancestry             | n.      | 祖籍                                                                                                                 |
+| anchor               | n.      | 锚                                                                                                                   |
+| ancient              | a.      | 古代；古，老                                                                                                         |
+| ancients             | n.      | 古代人                                                                                                               |
+| ancillary            | a.      | 辅助；附属，附带，附加                                                                                               |
+| android              | n.      | 人形机器人                                                                                                           |
+| anecdotal            | a.      | 轶事，趣闻；传闻                                                                                                     |
+| anecdotally          | ad.     | 据传                                                                                                                 |
+| anecdote             | n.      | 轶事，趣闻；传闻                                                                                                     |
+| angel                | n.      | 天使                                                                                                                 |
+| anger                | n.      | 愤怒                                                                                                                 |
+| angle                | n.      | 角                                                                                                                   |
+| angry                | a.      | 生气，愤怒                                                                                                           |
+| ankle                | n.      | 踝                                                                                                                   |
+| animal               | n.      | 动物（不包括鸟、鱼、爬行动物、昆虫和人）；动物（与植物相对）；衣冠禽兽，畜生；某种类型的人（或事物、机构等）         |
+| animate              | v.      | 使有生机，使有活力；动画化                                                                                           |
+|                      | a.      | 有生命；有生机，有活力                                                                                               |
+| animation            | n.      | 生机，活力；（电影、游戏等的）动画制作；动画                                                                         |
+| anime                | n.      | 日本动画                                                                                                             |
+| anneal               | v.      | 退火                                                                                                                 |
+| annihilate           | v.      | 消灭，歼灭，毁灭；彻底击败                                                                                           |
+| annihilation         | n.      | 毁灭                                                                                                                 |
+| anniversary          | n.      | 周年纪念日                                                                                                           |
+| annotate             | v.      | 作注解，作评注                                                                                                       |
+| annotated            | a.      | 被注解，附注解                                                                                                       |
+| annotation           | n.      | 注解，评注                                                                                                           |
+| announce             | v.      | 宣布；通知；声称，宣称；告知（某人）到来；播音，广播                                                                 |
+| annoy                | v.      | 使生气，使恼怒；打扰，骚扰，烦扰                                                                                     |
+| annoyed              | a.      | 生气，恼怒，恼火，懊恼                                                                                               |
+| annoying             | a.      | 令人生气，令人恼怒，让人讨厌                                                                                         |
+| annual               | a.      | 年度，年；一年的，年                                                                                                 |
+|                      | n.      | 年报，年鉴；一年生植物                                                                                               |
+| annually             | ad.     | 一年一次                                                                                                             |
+| anomalous            | a.      | 异常，反常                                                                                                           |
+| anomaly              | n.      | 异常，反常                                                                                                           |
+| anonymous            | a.      | 匿名                                                                                                                 |
+| another              | pron.   | 另一个                                                                                                               |
+| ant                  | n.      | 蚂蚁                                                                                                                 |
+| antecedent           | n.      | 前情；祖先，先人；（语法）先行词                                                                                     |
+|                      | a.      | 先前的                                                                                                               |
+| anthem               | n.      | 国歌，校歌                                                                                                           |
+| apart                | ad.     | （空间或时间上）相距，相隔；分开，疏远，保持距离，分辨；粉碎，拆卸，破裂；除外，不包括                               |
+| apathy               | n.      | 冷漠，冷淡                                                                                                           |
+| apartment            | n.      | 公寓                                                                                                                 |
+| ape                  | n.      | 类人猿                                                                                                               |
+| aphrodisiac          | n.      | 春药，激发性欲的食物                                                                                                 |
+|                      | a.      | 激发性欲                                                                                                             |
+| apocalypse           | n.      | 世界毁灭；大动乱，大灾变                                                                                             |
+| apocalyptic          | a.      | 描述（历史）大动乱，预示（未来）大灾变；末世，如同世界末日的                                                         |
+| apocryphal           | a.      | （传闻）广泛流传，但是虚构的                                                                                         |
+| appalled             | a.      | （对令人不快的事物）感到惊骇（或憎恶）                                                                               |
+| appalling            | a.      | 极为恶劣，令人震惊；非常糟糕，很不像话                                                                               |
+| appallingly          | ad.     | 极差，一塌糊涂                                                                                                       |
+| apparent             | a.      | 显而易见，显然；貌似的，表面上的                                                                                     |
+| apparently           | ad.     | 显然，看样子                                                                                                         |
+| append               | v.      | （在末尾）添加，附加，增补                                                                                           |
+| apple                | n.      | 苹果                                                                                                                 |
+| applicant            | n.      | 申请人                                                                                                               |
+| application          | n.      | 应用                                                                                                                 |
+| apply                | v.      | 申请                                                                                                                 |
+| appoint              | v.      |                                                                                                                      |
+| appointment          | n.      | 预约，预定，约定；任命，委任                                                                                         |
+| appreciable          | a.      | 大到可以察觉，可观                                                                                                   |
+| appreciably          | ad.     | 不少                                                                                                                 |
+| appreciate           | v.      | 欣赏，赏识，重视；感激，感谢，欢迎；意识到，认识到，了解，领会；增值，升值                                           |
+| apprehend            | v.      | 逮捕                                                                                                                 |
+| apprentice           | n.      | 学徒，徒弟                                                                                                           |
+| approach             | v.      | （空间或时间上）靠近，接近；接洽，谈；（数量、质量上）接近；处理                                                     |
+|                      | n.      | 方式，方法，手段；靠近，接近，来临；接洽，谈；道路，通路，路径；接近的事物                                           |
+| approbation          | n.      | 认可，批准                                                                                                           |
+| approve              | v.      | 赞成，同意；批准，通过，认可                                                                                         |
+| approval             | n.      | 赞成，同意；批准，通过，认可                                                                                         |
+| April                | n.      | 四月                                                                                                                 |
+| apron                | n.      | 围裙                                                                                                                 |
+| aquaculture          | n.      | 水产养殖                                                                                                             |
+| aquamarine           | a.      | 海蓝色                                                                                                               |
+| aquarium             | n.      | 水族馆；水族玻璃槽                                                                                                   |
+| Aquarius             | n.      | 水瓶座                                                                                                               |
+| aquatic              | a.      | 水生；水，水上                                                                                                       |
+| arable               | a.      | 耕作，可耕作                                                                                                         |
+| area                 | n.      | 地区，地域，区域；区，场地，处；区，部位；领域，方面，范围；面积                                                     |
+| arbiter              | n.      | 仲裁；权威人士                                                                                                       |
+| arbitrary            | a.      | 任意，随心所欲；专制                                                                                                 |
+| arch                 | n.      | 拱（结构）；拱门；足弓；拱形                                                                                         |
+| archer               | n.      | 弓箭手；射箭运动员                                                                                                   |
+| archery              | n.      | 射箭                                                                                                                 |
+| archon               | n.      | 执政官                                                                                                               |
+| arduous              | a.      | 艰苦，艰难                                                                                                           |
+| ark                  | n.      | （诺亚）方舟                                                                                                         |
+| arm                  | n.      | 手臂；扶手；（机械的）臂；职能部门                                                                                   |
+|                      | v.      | 武装，装备                                                                                                           |
+| armchair             | n.      | 扶手椅                                                                                                               |
+| armed                | a.      | 武装的                                                                                                               |
+| armor                | n.      | 盔甲，护甲；装甲；装甲部队                                                                                           |
+| army                 | n.      | 陆军，军队，部队；大批，大群                                                                                         |
+| army knife           | n.      | 军刀                                                                                                                 |
+| arrest               | v.      | 逮捕                                                                                                                 |
+| arrive               | v.      | 到达                                                                                                                 |
+| arrogance            | n.      | 傲慢，自大                                                                                                           |
+| arrogant             | a.      | 傲慢，自大                                                                                                           |
+| arrow                | n.      | 箭；箭头                                                                                                             |
+| arrowhead            | n.      | 箭头                                                                                                                 |
+| art                  | n.      | 艺术                                                                                                                 |
+| artical              | n.      | 文章，报道；（法）条，项；物件                                                                                       |
+| artificial           | a.      | 人工                                                                                                                 |
+| artist               | n.      | 艺术家                                                                                                               |
+| asbestos             | n.      | 石棉                                                                                                                 |
+| ascertain            | v.      | 查明，确认，弄清楚                                                                                                   |
+| asexual              | a.      | 无性；性缺乏，性冷淡                                                                                                 |
+| aspect               | n.      | 方面                                                                                                                 |
+| ass                  | n.      | 屁股；混蛋                                                                                                           |
+| assail               | v.      | 攻击，袭击，抨击；困扰，使苦恼                                                                                       |
+| assailant            | n.      | 攻击者，行凶者                                                                                                       |
+| assassin             | n.      | 刺客                                                                                                                 |
+| assault              | n.      | 人身侵犯罪，攻击；（军队等）攻击，突击；（向困难或危险事物）冲击；抨击，攻击                                         |
+|                      | v.      | 袭击，侵犯（尤指构成罪）；使（感官）难受，强奸                                                                       |
+| assembly             | n.      | 议会，（美）众议院；集会；（全校师生的）早会，晨会；装配，组装                                                       |
+| assembly line        | n.      | 生产线，流水线                                                                                                       |
+| assent               | n.      | 同意，赞成                                                                                                           |
+|                      | v.      | 同意，赞成                                                                                                           |
+| assert               | v.      | 坚称，断言；维护（权利或权威）                                                                                       |
+| assert oneself       |         | 坚持主张                                                                                                             |
+| assert itself        |         | 有效果，起作用                                                                                                       |
+| assertion            | n.      | 断言                                                                                                                 |
+| assign               | v.      | 赋值；分配，分派，布置；指定，指派；委派，派遣；（法）转让                                                           |
+| assignment           | n.      | 赋值                                                                                                                 |
+| assist               | v.      | 协助                                                                                                                 |
+| assistant            | n.      | 助手                                                                                                                 |
+| associate            | v.      | 联系                                                                                                                 |
+| asymmetric           | a.      | 不对称                                                                                                               |
+| asteroid             | n.      | （天）小行星                                                                                                         |
+| astonish             | v.      | 使惊讶，使大吃一惊                                                                                                   |
+| astonished           | a.      | 惊讶，大吃一惊                                                                                                       |
+| astonishing          | a.      | 惊人，令人难以置信                                                                                                   |
+| astound              | v.      | 使震惊                                                                                                               |
+| astounded            | a.      | 震惊，大吃一惊                                                                                                       |
+| astounding           | a.      | 惊人，令人大吃一惊                                                                                                   |
+| astronaut            | n.      | 宇航员                                                                                                               |
+| astronomer           | n.      | 天文学家                                                                                                             |
+| astronomical         | a.      | 天文，天文学；天文数字的，极其巨大的                                                                                 |
+| astronomically       | ad.     | 天文，天文学；天文数字般，极其巨大                                                                                   |
+| astronomy            | n.      | 天文学                                                                                                               |
+| athlete              | n.      | 运动员；运动健将                                                                                                     |
+| athletic             | a.      | 健壮，健美                                                                                                           |
+| athletically         | ad.     | 健壮，健美                                                                                                           |
+| athletics            | n.      | 田径                                                                                                                 |
+| atom                 | n.      | 原子                                                                                                                 |
+| atom bomb            | n.      | 原子弹                                                                                                               |
+| atomic               | a.      | 原子                                                                                                                 |
+| atomicity            | n.      | 原子性                                                                                                               |
+| attack               | v.      | 攻击                                                                                                                 |
+| attacker             | n.      | 攻击者                                                                                                               |
+| attempt              | v.      | 尝试                                                                                                                 |
+| attend               | v.      | 出席，参加；定期去；专心，注意；伴随…而来；随同，陪同                                                                |
+| attendance           | n.      | 出席，参加；出席人数                                                                                                 |
+| attendant            | n.      | 服务员，侍者；随从，侍从                                                                                             |
+|                      | a.      | 随之而来的，伴随而来的                                                                                               |
+| attendee             | n.      | 出席者                                                                                                               |
+| attention            | n.      | 注意，留意，注意力；兴趣，关注；殷勤，关心；特别关照，特别处理                                                       |
+|                      | excla.  | 注意；立正                                                                                                           |
+| attitude             | n.      | 态度，看法；（我行我素的）态度，做派；姿势                                                                           |
+| attorney             | n.      | （代表当事人出庭的）律师；（业务或法律的）代理人                                                                     |
+| attract              | v.      | 吸引，引起…好感；招引，招来；引起（反应）                                                                            |
+| attraction           | n.      | （两性之间的）爱慕，吸引；有吸引力的地点/事情/人/特征；（物）吸引力                                                  |
+| attractive           | a.      | （人）性感，英俊，妩媚；吸引人的，令人愉快；诱人                                                                     |
+| attractively         | ad.     | 吸引人，诱人                                                                                                         |
+| attribute            | a.      | 属性                                                                                                                 |
+| auction              | n.      | 拍卖                                                                                                                 |
+|                      | v.      | 拍卖                                                                                                                 |
+| audience             | n.      | 观众                                                                                                                 |
+| audio                | a.      | 声音，录音                                                                                                           |
+|                      | n.      | 音频                                                                                                                 |
+| audio-               |         | 声，音，听                                                                                                           |
+| audit                | n.      | 审计；（质量或标准）检查                                                                                             |
+|                      | v.      | 审计                                                                                                                 |
+| audition             | n.      | 试镜，试音                                                                                                           |
+|                      | v.      | 试镜，试音                                                                                                           |
+| auditor              | n.      | 审计员                                                                                                               |
+| auditory             | a.      | 听觉                                                                                                                 |
+| augment              | v.      | 增加，提高，扩大，增强                                                                                               |
+| augmentation         | n.      | 增加，提高，扩大，增强                                                                                               |
+| August               | n.      | 八月                                                                                                                 |
+| aunt                 | n.      | 阿姨，姑妈，姨妈，舅妈，…                                                                                            |
+| auntie               | n.      | 阿姨，姑妈，姨妈，舅妈，…                                                                                            |
+| aura                 | n.      | 气氛，氛围                                                                                                           |
+| aural                | a.      | 听觉，听力                                                                                                           |
+| austere              | a.      | 简陋，朴素；（人）严肃，严厉；苦行，禁欲                                                                             |
+| austerity            | n.      | 经济紧缩，严格节制消费；艰苦，朴素；苦行，禁欲                                                                       |
+| authentic            | a.      | 真品，真迹；真实，真正；仿真，逼真                                                                                   |
+| authentically        | ad.     | 真实，真正                                                                                                           |
+| author               | n.      | 作者                                                                                                                 |
+| authority            | n.      | 权力，当权；有权，职权；当局，官方；权威，威信；专家，学术权威，泰斗                                                 |
+| authorization        | n.      | 批准，授权                                                                                                           |
+| authorize            | v.      | 批准，授权                                                                                                           |
+| auto                 | n.      | （美）汽车                                                                                                           |
+| auto-                |         | 自己（的）；自动                                                                                                     |
+| autobiography        | n.      | 自传                                                                                                                 |
+| autocrat             | n.      | 独裁者，专制君主；专横的人，独断专行的人                                                                             |
+| autograph            | n.      | 亲笔签名                                                                                                             |
+|                      | v.      | 签名                                                                                                                 |
+| automate             | v.      | 使自动化                                                                                                             |
+| automatic            | a.      | 自动                                                                                                                 |
+| automation           | n.      | 自动化                                                                                                               |
+| automaton (automata) | n.      | 自动机                                                                                                               |
+| automobile           | n.      | （美）汽车                                                                                                           |
+| automotive           | a.      | 汽车                                                                                                                 |
+| autonomous           | a.      | （地区）自治，有自治权；（人）自主，有自主权                                                                         |
+| autonomy             | n.      | （地区）自治，自治权；（人）自主，自主权                                                                             |
+| autopsy              | n.      | 尸检                                                                                                                 |
+| autosave             | v.      | （计）自动保存                                                                                                       |
+| autumn               | n.      | （英）秋季                                                                                                           |
+| auxiliary            | a.      | （工人）辅助，助理；备用                                                                                             |
+|                      | n.      | 辅助工，辅助人员                                                                                                     |
+| avatar               | n.      | 头像                                                                                                                 |
+| avenge               | v.      | 为（某事）报仇，向（某人）报仇                                                                                       |
+| avenue               | n.      | 大道                                                                                                                 |
+| avoid                | v.      | 避免，防止；回避，躲避，避开；避免撞到                                                                               |
+| avoidable            | a.      | 可以避免的                                                                                                           |
+| avoidance            | a.      | 避免，防止；回避，躲避，避开                                                                                         |
+| await                | v.      | 等候，等待，期待；将发生在，将降临到（某人头上）                                                                     |
+| awake                | a.      | 醒着（睡觉前后）                                                                                                     |
+|                      | v.      | （使）醒来；（被）唤起                                                                                               |
+| awaken               | v.      | （使）醒来；（被）唤起                                                                                               |
+| award                | n.      | 奖；（收入）增加；授予（毕业证书）                                                                                   |
+|                      | v.      | 授予，判定                                                                                                           |
+| away                 |         | 离开                                                                                                                 |
+| awesome              | a.      | 惊人，艰巨；很好，棒                                                                                                 |
+| awkward              | a.      | 令人尴尬，令人难堪；难对付，难处理；不方便；（由于形状或设计）别扭；（动作）笨拙                                     |
+| awkwardly            | ad.     | 尴尬，难堪；别扭；笨拙                                                                                               |
+| awkwardness          | n.      | 尴尬，难堪                                                                                                           |
+|                      |         |                                                                                                                      |
 
 # B
 
@@ -619,6 +669,13 @@
 | beginning       | n.        | 初，开头，开始，（从）头                                                                                       |
 | behavior        | n.        | 行为                                                                                                           |
 | believe         | v.        | 相信                                                                                                           |
+| benefaction     | n.        | 捐赠                                                                                                           |
+| benefactor      | n.        | 捐赠者                                                                                                         |
+| beneficial      | a.        | 有益，有利于，有助于                                                                                           |
+| benefit         | n.        | 益处，好处；（公司发的）奖金，补贴，（保险公司发的）给付；慈善/公益活动                                        |
+|                 | v.        | 使受益；从…获益                                                                                                |
+| benevolent      | a.        | （尤指当权者）和蔼，仁慈，乐善好施；（用于慈善机构名称）                                                       |
+| benign          | a.        | （人）和蔼，和善；（医）（肿瘤）良性                                                                           |
 | besiege         | v.        | 围困，封锁；团团围住；使应接不暇                                                                               |
 | best            | a.        | 最好，最佳                                                                                                     |
 | bet             | v.        | 赌，打赌                                                                                                       |
@@ -638,6 +695,7 @@
 | bill            | n.        | 账单；钞票；（提交议会讨论的）议案，法案；节目单；喙                                                           |
 | billboard       | n.        | 户外大幅广告牌                                                                                                 |
 | billion         | num.      | 十亿                                                                                                           |
+| billionaire     | n.        | 亿万富翁                                                                                                       |
 | binary          | a.        | 二元；（数，计）二进制                                                                                         |
 |                 | n.        | （数，计）二进制                                                                                               |
 | biography       | n.        | 传记                                                                                                           |
@@ -700,6 +758,7 @@
 |                 | n.        | 麻烦，费事                                                                                                     |
 | bottle          | n.        | 瓶子；一瓶；酒                                                                                                 |
 |                 | v.        | 装瓶                                                                                                           |
+| bottleneck      | n.        | 瓶颈                                                                                                           |
 | bottom          | n.        | 底部；底，底面；（容器）底；水底；排名末位的人/队伍；（套装的）裤                                              |
 |                 | a.        | 底部，底，下，最下，最低                                                                                       |
 | -bottom         |           | …底                                                                                                            |
@@ -773,6 +832,8 @@
 |                 | n.        | 身材，体形                                                                                                     |
 | builder         | n.        | 建造者                                                                                                         |
 | building        | n.        | 建筑                                                                                                           |
+| bulk            | n.        | 主体，大部分；大尺寸，大批量，批量；巨大的重量（或形状、身体等）                                               |
+| bull            | n.        | 公牛                                                                                                           |
 | bullet          | n.        | 子弹                                                                                                           |
 | bureau          | n.        | （英）（附抽屉和活动写字台的）书桌；（提供某方面信息的）办公室，机构；（美国政府部门）局                       |
 | bureaucracy     | n.        | （贬）官僚主义，官僚作风；官僚体制                                                                             |
@@ -1040,8 +1101,10 @@
 | choppy                     | a.   | （水面）波浪起伏；（美）（贬）（文风）不连贯，支离破碎                                                                 |
 | chore                      | n.   | 日常事务；令人厌烦的任务，乏味无聊的工作                                                                               |
 | chromium                   | n.   | 铬                                                                                                                     |
+| chronic                    | a.   | （医）慢性                                                                                                             |
 | chronological              | a.   | 按时间顺序的，按先后顺序的                                                                                             |
 | chronology                 | n.   | 年代顺序；年表                                                                                                         |
+| chunk                      | n.   | 块                                                                                                                     |
 | church                     | n.   | （基督教）教堂；礼拜；基督教派；基督教会，基督教牧师                                                                   |
 | chute                      | n.   | 槽，溜道；降落伞                                                                                                       |
 | cigar                      | n.   | 雪茄                                                                                                                   |
@@ -1253,6 +1316,12 @@
 | compact                    | a.   | 小型，袖珍；紧凑，短小精悍；紧密，坚实；（人或动物）矮小强壮                                                           |
 |                            | v.   | 压实                                                                                                                   |
 | companion                  | n.   |                                                                                                                        |
+| comparability              | n.   | 可比性                                                                                                                 |
+| comparable                 | a.   | 类似的，差不多的，可比较的                                                                                             |
+| comparative                | a.   | 比较；相较而言的，相对而言的；（形容词或副词）比较级                                                                   |
+|                            | n.   | （形容词或副词的）比较级                                                                                               |
+| comparatively              | ad.  | 比较，相较而言，相对而言                                                                                               |
+| compare                    | v.   | 比较                                                                                                                   |
 | compassion                 | n.   | 同情，怜悯                                                                                                             |
 | compassionate              | a.   | 有同情心，表示怜悯                                                                                                     |
 | compatible                 | a.   | （计算机软硬件）兼容的；（想法、方法或事物）可共存，相容；（因思想、志趣等相投而）关系好，和睦相处                     |
@@ -1386,6 +1455,7 @@
 | conspiracy theory          | n.   | 阴谋论                                                                                                                 |
 | constant                   | n.   | 常数                                                                                                                   |
 |                            | a.   | 不断重复，无休止，络绎不绝；不变，恒定                                                                                 |
+| constantly                 | ad.  | 始终，不断                                                                                                             |
 | constellation              | n.   | 星座                                                                                                                   |
 | constituency               | n.   | （英）选区；选区选民                                                                                                   |
 | constituent                | n.   | 选民；成分，构成要素                                                                                                   |
@@ -1776,11 +1846,18 @@
 | dataset         | n.     | 数据集                                                                                                                           |
 | date            | n.     | 日期                                                                                                                             |
 | daughter        | n.     | 女儿                                                                                                                             |
+| daughter-in-law | n.     | 儿媳                                                                                                                             |
 | daunt           | v.     | 使胆怯，使失去信心                                                                                                               |
 | daunted         | a.     | 胆怯，失去信心                                                                                                                   |
 | daunting        | a.     | 令人望而却步                                                                                                                     |
 | dauntingly      | ad.    | 令人望而却步                                                                                                                     |
+| dawn            | n.     | 黎明，拂晓；开端，曙光，萌芽                                                                                                     |
+|                 | v.     | （一天或一个时期）开始                                                                                                           |
 | day             | n.     | 天                                                                                                                               |
+| daydream        | n.     | 白日梦，幻想                                                                                                                     |
+|                 | v.     | 白日梦，幻想                                                                                                                     |
+| daylight        | n.     | 日光                                                                                                                             |
+| daytime         | n.     | 白天，白昼，日间                                                                                                                 |
 | dead            | a.     | 死，死亡                                                                                                                         |
 | deal            | n.     | 交易                                                                                                                             |
 | dear            | a.     | 亲爱的；亲密，心爱                                                                                                               |
@@ -1893,9 +1970,19 @@
 | dental          | a.     | 牙齿，牙科                                                                                                                       |
 | dentist         | n.     | 牙医                                                                                                                             |
 | deodorant       | n.     | 除臭剂（用于消除体臭）                                                                                                           |
+| depart          | v.     | 离开，启程，出发；（美）离职                                                                                                     |
+| department      | n.     | 部，部门，系                                                                                                                     |
+| departure       | n.     | 离开，启程，出发；违背，背离，逾越                                                                                               |
+| depend on       | v.     | 取决于；依靠，信赖；相信，指望                                                                                                   |
+| dependence      | n.     | 依靠，依赖，依存；瘾；相关（性），相互依存（性）                                                                                 |
+| dependency      | n.     | （尤指不正常或过分的）依靠，依赖                                                                                                 |
+| dependent       | a.     | 依靠，依赖；上瘾；取决于                                                                                                         |
+| depict          | v.     | 描绘；描写，描述，刻画                                                                                                           |
+| depiction       | n.     | 描绘；描写，描述，刻画                                                                                                           |
 | deplore         | v.     | 强烈谴责                                                                                                                         |
 | deploy          | v.     | 部署（军队或武器）；有效利用，调动                                                                                               |
 | deployment      | n.     | 部署                                                                                                                             |
+| depredation     | n.     | 掠夺，劫掠                                                                                                                       |
 | depress         | v.     | 使抑郁，沮丧，消沉；使不景气，萧条；减少（工资），降低（价格）                                                                   |
 | depressed       | a.     | 抑郁，沮丧，消沉；患抑郁症；不景气，萧条；降低了的，削弱后的                                                                     |
 | deputation      | n.     | 代表团                                                                                                                           |
@@ -1931,8 +2018,14 @@
 | determinism     | n.     | （哲）决定论                                                                                                                     |
 | detour          | n.     | 绕道，迂回                                                                                                                       |
 |                 | v.     | （使）绕行                                                                                                                       |
+| detrimental     | a.     | 有害，不利于                                                                                                                     |
+| devalue         | v.     | （经）使（货币）贬值；贬低                                                                                                       |
+| devaluation     | n.     | （经）贬值                                                                                                                       |
 | device          | n.     | 设备                                                                                                                             |
 | devil           | n.     | （基督教、犹太教和伊斯兰教的）魔鬼；魔鬼，恶魔；淘气鬼，调皮鬼                                                                   |
+| devote          | v.     | 献身，致力，倾注；把…用于                                                                                                        |
+| devoted         | a.     | 挚爱，忠诚，全心全意                                                                                                             |
+| devotion        | n.     | 奉献，投入，专心；挚爱，全心全意                                                                                                 |
 | diagonal        | n.     | 对角线                                                                                                                           |
 |                 | a.     | 对角                                                                                                                             |
 | dial            | n.     | 仪表盘，刻度盘                                                                                                                   |
@@ -2045,6 +2138,7 @@
 | disturb         | v.     | 打扰，干扰，妨碍；弄乱，搞乱；使焦虑，使不安                                                                                     |
 | disturbance     | n.     | 打扰，干扰，妨碍；骚乱，动乱；障碍，失调，紊乱                                                                                   |
 | disturbed       | a.     | 精神异常，心理不正常；坎坷，不幸；焦虑，不安，烦恼                                                                               |
+| divert          | v.     | 使转向，使绕道；改变（资金、材料等）的用途；转移…的注意力，使分心；娱乐，使消遣                                                  |
 | divide          | v.     | 分，分为，划分，分裂；分配，分工；分到，分别用于；分隔，隔开；（道路）分岔；使产生分歧；除以，除                                 |
 |                 | n.     | 差异，分歧；分水岭                                                                                                               |
 | dividend        | n.     | 红利，股息                                                                                                                       |
@@ -2056,6 +2150,9 @@
 | divorce         | n.     | 离婚；分裂，分离，脱离                                                                                                           |
 |                 | v.     | 与…离婚；使分离，使脱离                                                                                                          |
 | doctor          | n.     | 医生；博士                                                                                                                       |
+| doctorate       | n.     | 博士学位                                                                                                                         |
+| doctrinal       | a.     | 教义，主义，学说，教条                                                                                                           |
+| doctrine        | n.     | 教义，主义，学说，教条                                                                                                           |
 | document        | n.     | 文件；文档                                                                                                                       |
 | dog             | n.     | 狗                                                                                                                               |
 | dole            | n.     | （英）失业救济金，施舍金                                                                                                         |
@@ -2173,6 +2270,7 @@
 | education                   | n.            | 教育                                                                                               |
 | effect                      | n.            | 效果，影响，作用                                                                                   |
 | effective                   | a.            | 有效，发挥作用；实际的，事实上的；（法）生效                                                       |
+| effectively                 | ad.           | 有效地；实际上，事实上                                                                             |
 | efficacy                    | n.            | （尤指药物或治疗方法的）功效，疗效                                                                 |
 | egg                         | n.            | 蛋，卵；鸡蛋；卵子                                                                                 |
 | eggshell                    | n.            | 蛋壳                                                                                               |
@@ -2256,6 +2354,9 @@
 | enigmatic                   | a.            | 神秘，令人费解                                                                                     |
 | enigmatically               | ad.           | 神秘地                                                                                             |
 | enjoy                       | v.            | 享受                                                                                               |
+| enjoyable                   | a.            | 令人愉快                                                                                           |
+| enjoyably                   | ad.           | 愉快                                                                                               |
+| enjoyment                   | n.            | 愉快，兴致，兴趣，乐趣；乐事；享有                                                                 |
 | enlighten                   | v.            | 启发                                                                                               |
 | enlightened                 | a.            | 开明                                                                                               |
 | enlightenment               | n.            | 启发，启迪，开导，开明                                                                             |
@@ -2278,6 +2379,7 @@
 | enthusiast                  | n.            | 爱好者；热烈支持者                                                                                 |
 | enthusiastic                | a.            | 热情，热烈，热心，感兴趣                                                                           |
 | entire                      | a.            | 整个，全部                                                                                         |
+| entirety                    | n.            | 全部，全体，整体                                                                                   |
 | entitle                     | v.            | 使有资格，使有权利                                                                                 |
 | enumerate                   | v.            | 列举，枚举                                                                                         |
 | envelope                    | n.            | 信封                                                                                               |
@@ -2426,6 +2528,8 @@
 |                             | a.            | 专家，内行；熟练，娴熟                                                                             |
 | expertise                   | n.            | 专业知识，专门技能                                                                                 |
 | expertly                    | ad.           | 熟练，娴熟                                                                                         |
+| expire                      | v.            | 到期，过期；（任期）届满                                                                           |
+| expired                     | a.            | 过期                                                                                               |
 | explicit                    | a.            | 显式                                                                                               |
 | explode                     | v.            | 爆炸                                                                                               |
 | explore                     | v.            | 探索                                                                                               |
@@ -2577,6 +2681,7 @@
 | fixed         | a.       | 固定，不变；（思想和期望）固有，难以改变；（面部表情）呆板，不变                                                               |
 | fixed assets  | n.       | 固定资产                                                                                                                       |
 | flag          | n.       | 旗                                                                                                                             |
+| flaky         | a.       | （计）（英）运行不正常，经常出问题                                                                                             |
 | flammable     | a.       | 易燃                                                                                                                           |
 | flamingo      | n.       | 火烈鸟                                                                                                                         |
 | flask         | a.       | 烧瓶                                                                                                                           |
@@ -2645,7 +2750,12 @@
 | forerunner    | n.       | 先驱；预兆，前兆                                                                                                               |
 | foresee       | v.       | 预见，预料                                                                                                                     |
 | forest        | n.       | 森林；林立                                                                                                                     |
+| forestry      | n.       | 林学，林业                                                                                                                     |
+| foretell      | v.       | （尤指用魔法）预知，预言                                                                                                       |
 | forever       | ad.      | 永远；总是，没完没了                                                                                                           |
+| forewarn      | v.       | 预先警告                                                                                                                       |
+| forfeit       | v.       | 失去，被处罚，被没收，被取消                                                                                                   |
+|               | n.       | 罚金                                                                                                                           |
 | forge         | v.       | 努力构建/创造/达成；伪造；锻造；稳步前进                                                                                       |
 |               | n.       | 铁匠铺；锻造炉，锻造车间                                                                                                       |
 | forget        | v.       | 忘记，遗忘；不再去想，不放在心上，不再考虑                                                                                     |
@@ -2683,6 +2793,8 @@
 | frank         | a.       | 坦率                                                                                                                           |
 | frankly       | ad.      | 坦率地，直率地；（表示直言）老实说                                                                                             |
 | frankness     | n.       | 坦率                                                                                                                           |
+| frantic       | a.       | 手忙脚乱，拼命，不顾一切；（由于恐惧或担心）无法控制感情，发疯，要命                                                           |
+| frantically   | ad.      | 拼命                                                                                                                           |
 | fraternal     | a.       | （指理念相同或兴趣相投者）兄弟般的；兄弟间的                                                                                   |
 | fraternity    | n.       | 同仁，同好；（美国大学男生的）兄弟会                                                                                           |
 | fraud         | n.       | 诈骗（罪）；骗子，诈骗犯；伪劣产品                                                                                             |
@@ -2876,6 +2988,9 @@
 | gun            | n.  | 枪                                                                                                                           |
 | gunshot        | n.  | 子弹；射击，枪声；（枪的）射程                                                                                               |
 | guru           | n.  | 专家，大师                                                                                                                   |
+| gust           | n.  | 一阵强风，一阵狂风；（感情的）迸发，爆发，发作                                                                               |
+|                | v.  | （风）猛刮                                                                                                                   |
+| gustation      | n.  | 味觉                                                                                                                         |
 | gut            | n.  | 消化道，肠道；大肚子，啤酒肚                                                                                                 |
 | guts           | n.  | （动物）内脏；勇气，胆量，决心，毅力；直觉，本能；实质，要点                                                                 |
 | guy            | n.  | 男人，伙计；伙计们，兄弟们                                                                                                   |
@@ -2894,7 +3009,10 @@
 | hack          | v.       | 劈，砍；（计）非法侵入（系统）                                                                                         |
 | hair          | n.       | 头发                                                                                                                   |
 | hallmark      | n.       | 特征                                                                                                                   |
+| hallowed      | a.       | （尤指古老的事物）受尊崇；神圣                                                                                         |
+| Halloween     | n.       | 万圣节                                                                                                                 |
 | hallway       | n.       | 走廊                                                                                                                   |
+| halo          | n.       | （绘画等中环绕圣人头上的）光环，光轮                                                                                   |
 | halt          | v.       | （使）停止，停下，暂停                                                                                                 |
 |               | n.       | 停止，阻止，暂停                                                                                                       |
 | ham           | n.       | 火腿                                                                                                                   |
@@ -2905,6 +3023,8 @@
 | handball      | n.       | 手球                                                                                                                   |
 | handcuff      | n.       | 手铐                                                                                                                   |
 |               | v.       | 铐住                                                                                                                   |
+| handicap      | n.       | （过时）生理缺陷，残疾；障碍，阻碍；（体）让步赛                                                                       |
+|               | v.       | 妨碍，阻碍                                                                                                             |
 | handout       | n.       | 讲义                                                                                                                   |
 | handover      | n.       | （权力、责任等的）移交，交接；（某人或某物的）交出，上交                                                               |
 | happen        | v.       | 发生                                                                                                                   |
@@ -2984,7 +3104,15 @@
 |               | v.       | 加热                                                                                                                   |
 | heart         | n.       | 心脏；心，爱心，品格；核心；中心；心形；红心                                                                           |
 | heater        | n.       | 热水器                                                                                                                 |
+| heaven        | n.       | 天堂，天国；极乐之地，人间天堂                                                                                         |
+| heavenly      | a.       | 天堂，天国；天空，天；非常愉快/美好                                                                                    |
+| heavily       | ad.      | 很大程度上，严重，凶，强烈，大量；猛地，沉重地；（喘气、打鼾等）粗重；沉重                                             |
 | heavy         | a.       | 重                                                                                                                     |
+| heel          | n.       | 脚后跟；（鞋、靴子等的）后跟；掌根                                                                                     |
+| heels         | n.       | 高跟鞋                                                                                                                 |
+| height        | n.       | 高度，身高；高地，高处；巅峰，顶点；极端，极度                                                                         |
+| heights       | n.       | 高度，高水平                                                                                                           |
+| heir          | n.       | 继承人，后嗣；（工作或传统的）继承者，传人                                                                             |
 | helicopter    | n.       | 直升机                                                                                                                 |
 | helium        | n.       | 氦                                                                                                                     |
 | hell          | n.       | 地狱；悲惨的境况，受罪，吃苦头；该死，见鬼                                                                             |
@@ -2996,7 +3124,12 @@
 | helpless      | a.       | 无助，无能为力，无可奈何；无法抑制，情不自禁                                                                           |
 | helplessly    | ad.      | 无助，无能为力，无可奈何；无法抑制，情不自禁                                                                           |
 | helplessness  | n.       | 无助，无能为力，无可奈何；无法抑制，情不自禁                                                                           |
+| hemisphere    | n.       | （球体的）半球；（地球的）半球；（大脑的）半球                                                                         |
+| hen           | n.       | 母鸡                                                                                                                   |
+| hence         | ad.      | 因此                                                                                                                   |
+| henceforth    | ad.      | 此后                                                                                                                   |
 | henchman      | n.       | （政治领袖或罪犯等的）亲信，心腹                                                                                       |
+| herald        | v.       |                                                                                                                        |
 | heredity      | n.       | 遗传，遗传特征                                                                                                         |
 | heretical     | a.       | 异端                                                                                                                   |
 | heritage      | n.       | 遗产                                                                                                                   |
@@ -3004,7 +3137,7 @@
 | hero          | n.       | 英雄                                                                                                                   |
 | hesitant      | a.       | 犹豫，踌躇，迟疑，勉强，不情愿                                                                                         |
 | hesitate      | v.       | （对某事）犹豫，迟疑不决；顾虑，疑虑                                                                                   |
-| hesitation    | n.       | 犹豫，迟疑；顾虑，疑虑                                                                                   |
+| hesitation    | n.       | 犹豫，迟疑；顾虑，疑虑                                                                                                 |
 | high          | a.       | 高；（程度）高；（含量）高；（地位）高；（价值）高；（评价）高；（音调）高；高尚，崇高                                 |
 | highway       | n.       | 高速公路                                                                                                               |
 | hilarious     | a.       | 滑稽                                                                                                                   |
@@ -3042,6 +3175,7 @@
 |               | v.       | 尊敬，尊重；给予表扬（或奖励、头衔、称号等）；信守，执行（承诺）                                                       |
 | honorable     | a.       | 可敬，值得敬佩；品格高尚；保护声誉，体面                                                                               |
 | honorably     | ad.      | 品格高尚，光明磊落                                                                                                     |
+| honorary      | a.       | 荣誉（学位）；（机构中的职位）无报酬的，义务的                                                                         |
 | hoover        | n.       | （英）真空吸尘器                                                                                                       |
 |               | v.       | （英）用真空吸尘器清扫                                                                                                 |
 | hope          | v.       | 希望                                                                                                                   |
@@ -3054,7 +3188,9 @@
 | hostage       | n.       | 人质                                                                                                                   |
 | hostess       | n.       | 老板娘                                                                                                                 |
 | hostile       | a.       | 敌意，敌对，对抗；强烈反对；阻碍，不利；敌方，敌军；（商）（收购公司等）恶意                                           |
+| hostility     | n.       | 敌意，敌视，敌对；（对思想、计划或情形的）愤然反对/反抗                                                                |
 | hot           | a.       | 热；辣，辛辣；激烈，热门；艰难，严峻；流行，炙手可热；最新的（令人兴奋的）；性感，（性）激动；过激，过火               |
+| hot dog       | n.       | 热狗                                                                                                                   |
 | hotel         | n.       | 宾馆，酒店                                                                                                             |
 | house         | n.       | 房                                                                                                                     |
 | hover         | v.       | 盘旋；踌躇，徘徊，走来走去                                                                                             |
@@ -3254,6 +3390,7 @@
 | inappropriately     | ad.   | 不适当，不合适，不恰当                                                                                             |
 | inaugurate          | v.    | 为（某人）举行就职典礼；为（某建筑）举行落成仪式；引进，引入，开创                                                 |
 | inauguration        | n.    | 就职典礼；落成仪式；引进，引入，开创                                                                               |
+| inbound             | a.    | 向内                                                                                                               |
 | inbox               | n.    | 收件箱                                                                                                             |
 | incalculable        | a.    | 不可估量，难以估计                                                                                                 |
 | incandescent        | a.    | 白炽；耀眼；感情强烈，充满激情                                                                                     |
@@ -3306,6 +3443,10 @@
 | inertia             | n.    | （贬）惰性；（物）惯性                                                                                             |
 | inevitable          | a.    | 不可避免，必然；惯常，例行                                                                                         |
 | inevitability       | n.    | 必然，必然性                                                                                                       |
+| inexpensive         | a.    | 不贵                                                                                                               |
+| inexperience        | n.    | 缺乏经验，经验不足                                                                                                 |
+| inexperienced       | a.    | 没有经验，经验不足                                                                                                 |
+| infamous            | a.    | 臭名昭著，声名狼藉                                                                                                 |
 | infantry            | n.    | 步兵                                                                                                               |
 | infection           | n.    | 感染                                                                                                               |
 | infectious          | a.    | 传染的；有感染力                                                                                                   |
@@ -3349,21 +3490,46 @@
 | insert              | v.    | 插入                                                                                                               |
 | insertion           | n.    | 插入                                                                                                               |
 | insist              | v.    | 坚持，坚决要求                                                                                                     |
+| instant             | a.    | 立刻，立即；（食物）即食，速溶，方便                                                                               |
+|                     | n.    | 瞬间，片刻；（某一）时刻                                                                                           |
+| instantaneous       | a.    | 立刻，立即，即时                                                                                                   |
+| instantaneously     | ad.   | 立刻，立即                                                                                                         |
+| instantly           | ad.   | 立刻，立即                                                                                                         |
 | instead             | ad.   | 代替，而，却                                                                                                       |
+| instinct            | n.    | 本能，天性，天赋；直觉                                                                                             |
+| instinctive         | a.    | 本能，天生；直觉                                                                                                   |
+| instinctively       | ad.   | 凭本能；凭直觉                                                                                                     |
 | institute           | n.    | （教育、专业等）机构                                                                                               |
 |                     | v.    | 建立（规范），制订（规定、政策），实行（改革）                                                                     |
+| institution         | n.    | 机构；（贬）社会福利机构，收容所；（由来已久的）风俗习惯，制度；建立，设立，制订                                   |
+| institutional       | a.    | 机构                                                                                                               |
+| instruct            | v.    | 指示，命令，下令，吩咐；教授（技能等）；告知，通知                                                                 |
+| instruction         | n.    | 操作说明，操作指南；指示，命令，吩咐；（计算机的）指令；教授，传授，讲授                                           |
+| instrument          | n.    | 器械，仪器，器具；乐器；（车辆、机器的）仪器，仪表；手段，方法，措施；受利用/控制/摆布的人                         |
+| instrumental        | a.    | 起重要作用；乐器                                                                                                   |
 | insufficient        | a.    | 不足，不够                                                                                                         |
 | insufficiency       | n.    | 不全                                                                                                               |
+| insulate            | v.    | 使隔热，使隔音，使绝缘；使免除（不愉快的经历），使免受（不良影响）                                                 |
+| insulated           | a.    | 受隔热（或隔音、绝缘）保护的                                                                                       |
+| insulating          | a.    | 起隔热（或隔音、绝缘）作用的                                                                                       |
+| insulation          | n.    | 隔热，隔音，绝缘（材料）                                                                                           |
 | insult              | v.    | 侮辱                                                                                                               |
 |                     | n.    | 侮辱，辱骂                                                                                                         |
 | insulting           | a.    | 侮辱性的                                                                                                           |
 | insurance           | n.    | 保险；保险业；保险金；保险措施                                                                                     |
+| insure              | v.    | 投保；承保                                                                                                         |
+| integer             | n.    | 整数                                                                                                               |
+| integral            | a.    | 必需，不可或缺；作为组成部分的；完整，完备                                                                         |
 | integrate           | v.    | 集成                                                                                                               |
 | integrated          | a.    | 集成                                                                                                               |
 | integration         | n.    | 集成                                                                                                               |
 | integrity           | n.    | 诚实正直；完整，完好                                                                                               |
+| intellect           | n.    | 智力；智力高的人                                                                                                   |
+| intellectual        | a.    | 智力，知识；（人）聪慧                                                                                             |
+| intellectually      | ad.   | 智力上                                                                                                             |
 | intelligence        | n.    | 智能；智力                                                                                                         |
 | intelligent         | a.    | 聪明，机智；有智力的；智能                                                                                         |
+| intelligible        | a.    | 易懂，容易理解                                                                                                     |
 | intend              | v.    | 想要，意图要                                                                                                       |
 | intended            | a.    | 预期，原本计划，打算；为…设计打造，面向                                                                            |
 | intense             | a.    | 强烈，剧烈，严酷，浓厚，沉重，十分，极端，…；紧张激烈；（人）有强烈感情，热切                                      |
@@ -3677,8 +3843,8 @@
 | juncture      | n.     | 时刻，关头                                                                                                                         |
 | June          | n.     | 六月                                                                                                                               |
 | jungle        | n.     | （热带）丛林                                                                                                                       |
-| junior        | a.     | 地位（或职位、级别）低；青少年；（英）初级（中学）；（美）大学三年级                                                               |
-|               | n.     | 青少年，青少年运动员；（英）初中生；（美）大三学生                                                                                 |
+| junior        | a.     | 地位（或职位、级别）低；青少年；（美）大学三年级                                                                                   |
+|               | n.     | 青少年，青少年运动员；（美）大三学生                                                                                               |
 | junk          | n.     | 无用的东西，无价值的东西                                                                                                           |
 | junk food     | n.     | 垃圾食品                                                                                                                           |
 | junk mail     | n.     | 垃圾邮件                                                                                                                           |
@@ -3787,8 +3953,10 @@
 |                | v.  | （合同、协议等）失效，到期终止；衰退，衰弱，消失，结束；背弃，放弃（宗教信仰）                                           |
 | lapsed         | a.  | 过期；背弃                                                                                                               |
 | laptop         | n.  | 笔记本电脑                                                                                                               |
-| large          | a.  |                                                                                                                          |
+| large          | a.  | 大，大规模，大量；大号；广大                                                                                             |
 | largely        | ad. | 主要，多半                                                                                                               |
+| laser          | n.  | 激光                                                                                                                     |
+| lasso          | n.  | （捕马、套牛等用的）套索                                                                                                 |
 | last           | a.  | 最后，尽头，末尾，某班；最近，上一个；最后的，仅剩的；（强调）最不可能，最不应当                                         |
 |                | ad. | 最后，最末；最近，上一次                                                                                                 |
 |                | n.  | 最后到的人；剩余部分，剩余事项                                                                                           |
@@ -3805,7 +3973,11 @@
 | latest         | a.  | 最新                                                                                                                     |
 | laud           | n.  | 赞扬，赞美                                                                                                               |
 | laugh          | v.  | 笑                                                                                                                       |
-| launch         | v.  | 发射；启动                                                                                                               |
+| laughter       | n.  | 笑，笑声                                                                                                                 |
+| launch         | v.  | 发起，发动（尤指有组织的活动）；（首次）上市，发行；使（新船）下水；发射；（计）启动（计算机程序）                       |
+| launcher       | n.  | 发射装置，发射器                                                                                                         |
+| laundry        | n.  | 要洗/正在洗/洗好的衣物；洗衣；洗衣房                                                                                     |
+| lava           | n.  | 岩浆                                                                                                                     |
 | lavish         | a.  | 丰厚，昂贵，规模盛大，耗资巨大，挥霍无度；慷慨，大方                                                                     |
 | lavish on      | v.  | 过分给予，滥施                                                                                                           |
 | lavishly       | ad. | 丰富，规模盛大，耗资巨大，挥霍无度；慷慨，大方                                                                           |
@@ -3949,17 +4121,41 @@
 | lose           | v.  | 遗失；损失，丧失，失去；输掉；错过                                                                                       |
 | loser          | n.  | 败者；失败者；受损害者，输家                                                                                             |
 | loss           | n.  | 损失，丢失；亏损；去世，死亡；失败                                                                                       |
-| loud           | a.  |                                                                                                                          |
+| loud           | a.  | 响亮，大声，吵；喧闹，吵闹；（颜色、图案等）俗艳，花哨                                                                   |
+| loudly         | ad. | 响亮，大声；喧闹，吵闹                                                                                                   |
 | loudness       | n.  | 响度                                                                                                                     |
+| lounge         | n.  | （机场等的）等候室；（旅馆、俱乐部等的）休息室                                                                           |
 | lousy          | a.  | 糟糕，恶劣，坏，烂；（认为某物无太大价值而感到不满或受辱）破，烂                                                         |
-| love           | v.  | 爱                                                                                                                       |
+| love           | n.  | 爱，喜爱，热爱；爱情，恋爱；爱好，喜好；心爱之人，钟爱之物                                                               |
+|                | v.  | 爱，喜爱，热爱；喜欢，喜爱                                                                                               |
+| love letter    | n.  | 情书                                                                                                                     |
+| loveless       | a.  | 没有爱情的                                                                                                               |
+| lovely         | a.  | （英）美丽，优美，迷人，动人；令人愉快的，极好的；（人）心地善良，亲切友好                                               |
+| lover          | n.  | 情人；爱好者                                                                                                             |
+| low            | a.  | 低，矮；低处，底部；减少，下降，不足；低声，小声；低等，低下，次要；不好，差；沮丧，消沉，无精打采；暗淡，微弱           |
+|                | ad. | 低，向下；低声，小声；低水平，低点；艰难时期，低谷                                                                       |
+| low-key        | a.  | 低调                                                                                                                     |
+| low-level      | a.  | 低空；低级；（计）（计算机语言）低级                                                                                     |
+| low-paid       | a.  | 薪水低                                                                                                                   |
+| low-ranking    | a.  | 下级                                                                                                                     |
+| lower          | a.  | 下边，下面，下方，下层（尤指同类或一对中的一个）；下，下部，底部；（地理位置）下游，低地                                 |
+|                | v.  | 降低，放低，放下；减少，降低，压低                                                                                       |
+| lowland        | a.  | 低地                                                                                                                     |
+|                | n.  | 低地                                                                                                                     |
+| loyal          | a.  | 忠诚，忠实                                                                                                               |
+| loyalty        | n.  | 忠诚，忠实，效忠，忠心耿耿                                                                                               |
 | lucid          | a.  | 表达清楚，易懂；（尤指生病期间或病愈后，糊涂状态中或过后）头脑清晰，清醒                                                 |
 | luck           | n.  | 好运；运气                                                                                                               |
 | lucky          | a.  | 幸运                                                                                                                     |
+| luggage        | n.  | （英）行李                                                                                                               |
+| luminance      | n.  | （物）亮度                                                                                                               |
+| luminous       | a.  | 发光，夜光；鲜亮，鲜艳                                                                                                   |
 | lunar          | a.  | 月                                                                                                                       |
 | lunch          | n.  | 午餐，午饭                                                                                                               |
 | lung           | n.  | 肺                                                                                                                       |
 | lurk           | v.  | （为做不正当的事而）埋伏，潜伏；（不好或危险的事）潜伏，隐藏；潜水，隐身（网络聊天室中不发言）                           |
+| luxurious      | a.  | 奢侈，奢华，豪华，富丽堂皇                                                                                               |
+| luxuriously    | ad. | 奢侈，奢华，豪华，富丽堂皇                                                                                               |
 | luxury         | n.  | 奢侈，奢华，豪华；奢侈品；不常有的享受/乐趣/优势                                                                         |
 | lymph          | n.  | 淋巴                                                                                                                     |
 | lymph node     | n.  | 淋巴结                                                                                                                   |
@@ -3976,6 +4172,13 @@
 
 |                      |       |                                                                                                                              |
 | -------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------- |
+| machine              | n.    | 机器；团队                                                                                                                   |
+| machinery            | n.    | 机器，机械；机械装置；组织，机构，机制                                                                                       |
+| machinist            | n.    | 机械师                                                                                                                       |
+| macro                | n.    | （计）宏                                                                                                                     |
+| macro-               |       | 宏观                                                                                                                         |
+| mad                  | a.    | （英）疯，精神错乱；（英）愚蠢透顶；（美）非常生气，气愤；不理智，疯狂，激动                                                 |
+| madam                | n.    | 夫人，女士                                                                                                                   |
 | magazine             | n.    | 杂志                                                                                                                         |
 | magic                | a.    | 魔法                                                                                                                         |
 | magma                | n.    | 岩浆                                                                                                                         |
@@ -4024,6 +4227,10 @@
 | marginally           | ad.   | 一点点                                                                                                                       |
 | marijuana (pot)      | n.    | 大麻                                                                                                                         |
 | marine               | a.    | 海洋                                                                                                                         |
+| mark                 | v.    | 做记号，做标记；留下痕迹/污点；标示，标明；纪念，庆贺；表明，标志；（英）批改（作业），阅（卷）；赋予特征；                  |
+|                      | n.    | 污点，污渍，斑点，疤痕；符号，记号，标记；（品质或情感的）标志；（英）成绩，分数；标志点，大关；目标，标靶                   |
+| marked               | a.    | 明显，显著                                                                                                                   |
+| markedly             | ad.   | 明显，显著                                                                                                                   |
 | market               | n.    | 市场                                                                                                                         |
 |                      | n.    | 海军陆战队士兵                                                                                                               |
 | marketing            | n.    | 市场，营销，销售                                                                                                             |
@@ -4241,6 +4448,7 @@
 | mineral              | n.    | 矿物                                                                                                                         |
 | mineralogy           | n.    | 矿物学                                                                                                                       |
 | mineworker           | n.    | 矿工                                                                                                                         |
+| mingle               | v.    | （使）混合，交织                                                                                                             |
 | minimal              | a.    | 最小，最少，极小                                                                                                             |
 | minister             | n.    | （英）大臣，部长                                                                                                             |
 | ministerial          | a.    | （英）大臣，部长                                                                                                             |
@@ -4530,6 +4738,7 @@
 | oak             | n.       | 橡树                                                                                                                 |
 | object          | n.       | 物品；对象；目标                                                                                                     |
 |                 | v.       | 反对                                                                                                                 |
+| objection       | n.       | 反对，异议                                                                                                           |
 | objective       | n.       | 目标                                                                                                                 |
 | obligated       | a.       | （道义或法律上）有义务，有责任，必须                                                                                 |
 | obligation      | n.       | 义务，责任；（已承诺的或法律等规定的）义务，责任                                                                     |
@@ -4651,6 +4860,7 @@
 | ought to        | m.v.     | 应该，应当                                                                                                           |
 | out             | ad.prep. | 出去；在…外面                                                                                                        |
 | out of          |          | 出于                                                                                                                 |
+| outbound        | a.       | 向外                                                                                                                 |
 | outcry          | n.       | 一片哗然，强烈抗议                                                                                                   |
 | outdated        | a.       | 过时                                                                                                                 |
 | outfit          | n.       | （尤指为某场合或目的的）全套服装，装束；小队，小组                                                                   |
@@ -4906,6 +5116,7 @@
 | pattern                   | n.     | 模式；范例，典范，榜样，样板；图案；图样；样品                                                                         |
 |                           | v.     | 构成图案；造成，促成（某种行为模式）                                                                                   |
 | pause                     | v.     | 暂停                                                                                                                   |
+| pavement                  | n.     | （英）人行道                                                                                                           |
 | pay                       | v.     | 支付                                                                                                                   |
 | peace                     | n.     | 和平                                                                                                                   |
 | peach                     | n.     | 桃子                                                                                                                   |
@@ -4950,6 +5161,7 @@
 | perceptual                | a.     | （心）知觉，感知                                                                                                       |
 | period                    | n.     | 一段时间，时期；阶段，时期；（地）纪                                                                                   |
 | periodic                  | a.     | 周期，定期                                                                                                             |
+| periodically              | ad.    | 周期性地，定期地                                                                                                       |
 | peripheral                | a.     | 次要，辅助，附带；外围，周边；（计）外围（设备）                                                                       |
 |                           | n.     | （计）外围设备                                                                                                         |
 | perish                    | v.     | 死亡；毁灭，湮灭                                                                                                       |
@@ -5081,6 +5293,8 @@
 | pierce                    | v.     | 扎，刺破，穿透；（光、声等）划破，穿透，刺破；冲破，突破                                                               |
 | pig                       | n.     | 猪                                                                                                                     |
 | pigeon                    | n.     | 鸽子                                                                                                                   |
+| piggyback                 | n.     | 背，驮                                                                                                                 |
+| piggyback on              | v.     | 利用，借助                                                                                                             |
 | pile                      | n.     | 摞，垛，沓；堆，成堆的东西；大量，许多；绒，绒毛                                                                       |
 |                           | v.     | 堆放，叠放；堆，装；（许多人）蜂拥，拥挤                                                                               |
 | piles                     | n.     | 痔疮                                                                                                                   |
@@ -5183,6 +5397,8 @@
 | policy                    | n.     | 政策                                                                                                                   |
 | politics                  | n.     | 政治                                                                                                                   |
 | political                 | a.     | 政治                                                                                                                   |
+| poll                      | n.     | 民意调查，民调；选举投票；票数                                                                                         |
+|                           | v.     | 获得（票数）；做民意调查                                                                                               |
 | polyethylene              | n.     | 聚乙烯                                                                                                                 |
 | poor                      | a.     | 穷                                                                                                                     |
 | pop                       | n.     | 流行（音乐风格）                                                                                                       |
@@ -5255,6 +5471,8 @@
 | prematurely               | ad.    | 未成熟，过早，提前；早产；草率，仓促                                                                                   |
 | premeditated              | a.     | 有预谋的，事先策划的                                                                                                   |
 | premeditation             | n.     | 预谋，事先策划                                                                                                         |
+| premium                   | n.     | 保险费；额外费用                                                                                                       |
+|                           | a.     | 高价，优质                                                                                                             |
 | prepare                   | v.     | 准备                                                                                                                   |
 | preparation               | n.     | 准备                                                                                                                   |
 | prepend                   | v.     | 在开始位置添加                                                                                                         |
@@ -5303,6 +5521,7 @@
 | proceed                   | v.     | 进行，进展；接着，继续；行进                                                                                           |
 | process                   | v.     | 处理，加工；审核，处理（文件）；（计）处理（数据）                                                                     |
 |                           | n.     | 过程，进程，流程；流程，工序                                                                                           |
+| processing                | n.     | 处理，加工；（计）（数据）处理                                                                                         |
 | processor                 | n.     | （计）处理器                                                                                                           |
 | produce                   | v.     | 生产，制造；出产，繁育；制作；引起，产生；出示，展示；培养；制作（电影、电视、游戏等）                                 |
 |                           | v.     | 产品                                                                                                                   |
@@ -5541,6 +5760,7 @@
 | receipt              | n.  | 收据                                                                                                                         |
 | reception            | n.  | （英）接待处；招待会；欢迎，接受；（信号的）接受效果；接纳                                                                   |
 | recent               | a.  | 最近的                                                                                                                       |
+| recipient            | n.  | 接收者                                                                                                                       |
 | reckon               | v.  | （英）认为；被普遍认为是；估算，估计                                                                                         |
 | recognition          | n.  | 认出，识别；承认，认可；赞誉，认可，奖赏                                                                                     |
 | recollect            | v.  | 回忆，记得，记起                                                                                                             |
@@ -5601,6 +5821,8 @@
 | rein                 | n.  | 缰绳                                                                                                                         |
 | reinstate            | v.  | 使恢复原职，使重返岗位；恢复                                                                                                 |
 | reintroduce          | v.  | 重新使用，重新引入                                                                                                           |
+| reissue              | v.  | 重新发行，再版                                                                                                               |
+| reiterate            | v.  | 重申                                                                                                                         |
 | reject               | v.  | 拒绝                                                                                                                         |
 | related              | a.  | 相关                                                                                                                         |
 | relation             | n.  | 关系                                                                                                                         |
@@ -5610,6 +5832,10 @@
 | religion             | n.  | 宗教                                                                                                                         |
 | religious            | a.  | 宗教；虔诚                                                                                                                   |
 | reload               | v.  | 再装填（子弹等）；再装满；重新载入                                                                                           |
+| reliability          | n.  | 可靠性，可信程度                                                                                                             |
+| reliable             | a.  | 可靠，可信，可信赖                                                                                                           |
+| reliably             | ad. | 可靠，可信                                                                                                                   |
+| rely                 | v.  |                                                                                                                              |
 | remain               | v.  | 剩余                                                                                                                         |
 | remainder            | n.  | 余数                                                                                                                         |
 | remark               | n.  | 评论                                                                                                                         |
@@ -5626,7 +5852,7 @@
 | reminisce            | v.  | 回忆，追忆，缅怀（昔日的快乐时光）                                                                                           |
 | reminiscence         | n.  | 回忆，追忆；回忆录；引起联想的相似事物                                                                                       |
 | reminiscent          | a.  | 使回忆起；回忆，追忆，缅怀                                                                                                   |
-| remission            | n.  | （重症）缓解；（费用）减免                                                                                                   |
+| remission            | n.  | （重症）缓解；（费用）减免；（英）减刑                                                                                       |
 | remit                | n.  | （英）职权范围，控制范围                                                                                                     |
 |                      | v.  | 汇付，汇款；免除，赦免（债务、惩罚等）                                                                                       |
 | remix                | v.  | 合成（音乐录音）                                                                                                             |
@@ -5683,6 +5909,9 @@
 | reprehensible        | a.  | 不道德，应受谴责                                                                                                             |
 | represent            | v.  | 表示，代表；代表；代表…的利益；相当于，意味着；体现，代表；展示，描绘；（不公平地）描述，说得像是                            |
 | representation       | n.  | 表示                                                                                                                         |
+| reprimand            | v.  | 申斥，斥责                                                                                                                   |
+| reproach             | n.  | 责备，批评；丢脸，羞辱，耻辱                                                                                                 |
+|                      | v.  | 责备，指责，批评；自责，感到内疚                                                                                             |
 | reproduce            | v.  | 复制；再生产，再制造，再现；繁殖，生育                                                                                       |
 | reproducilibity      | n.  | 复现，重现                                                                                                                   |
 | reproduction         | n.  | 生殖，繁殖；复印；录制，录音；（尤指艺术品的）复制品                                                                         |
@@ -5765,6 +5994,7 @@
 | revenue              | n.  | （政府）财政收入；（公司）收入                                                                                               |
 | review               | n.  | 评审，审查；（对书影音的）评论；报告，汇报；阅兵式，检阅；复习（课）                                                         |
 |                      | v.  | 复查；回顾，反思；写（对书影音的）评论；检阅（部队）；（为准备考试而）复习；校阅，审核                                       |
+| revisit              | v.  | 重新讨论，进一步探讨                                                                                                         |
 | revolt               | n.  | （尤指针对政府的）反抗，起义，叛乱                                                                                           |
 |                      | v.  | 反抗，反叛（政府）；叛逆，违抗；使震惊，令人厌恶                                                                             |
 | revolting            | a.  | 令人作呕，极其讨厌                                                                                                           |
@@ -5928,995 +6158,1075 @@
 
 # S
 
-|                          |               |                                                                                                                    |
-| ------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------ |
-| sabotage                 | n.            | （为防止敌人利用或表示抗议而对设备、交通等进行的）蓄意毁坏；（故意）阻碍，妨碍，捣乱                               |
-|                          | v.            | 蓄意破坏，阴谋破坏（以防止敌方利用或表示抗议）；（故意）阻碍，妨碍，捣乱                                           |
-| sack                     | n.            |                                                                                                                    |
-|                          | v.            | （英）解雇，炒鱿鱼                                                                                                 |
-| sacred                   | a.            | 神圣，圣；受尊重，神圣                                                                                             |
-| sacrifice                | n.            | 牺牲；祭品，牺牲                                                                                                   |
-|                          | v.            | 牺牲，献出；将…作为祭品                                                                                            |
-| sacrilege                | n.            | （对圣物或圣地的）亵渎                                                                                             |
-| sad                      | a.            | （令人）难过，伤心，悲哀                                                                                           |
-| sadden                   | v.            | 使难过，使伤心，使悲哀                                                                                             |
-| saddle                   | n.            | 马鞍；（自行车或摩托车的）车座                                                                                     |
-| sadism                   | n.            | 施虐倾向，虐待倾向；性施虐倾向，性虐待倾向                                                                         |
-| sadist                   | n.            | 施虐狂，虐待狂                                                                                                     |
-| sadness                  | n.            | 难过，伤心，悲伤                                                                                                   |
-| safe                     | a.            | 安全；未受伤害，未遭损害；无风险，保险，四平八稳；谨慎，小心；确当，稳当                                           |
-| safeguard                | v.            | 保护，保障，捍卫                                                                                                   |
-|                          | n.            | 安全设施，保护措施                                                                                                 |
-| safety                   | n.            | 安全                                                                                                               |
-| sage                     | n.            | 鼠尾草                                                                                                             |
-| sail                     | v.            | （船或船上的人）航行；起航；飘过，（人）昂首而行                                                                   |
-|                          | n.            | 帆；航行                                                                                                           |
-| sailboat                 | n.            | （美）帆船                                                                                                         |
-| sailing                  | n.            | 帆船（运动）                                                                                                       |
-| sailor                   | n.            | 水手                                                                                                               |
-| saint                    | n.            | （因其生平或殉教事迹而获基督教会追封的）圣人，圣徒；圣人般的人（指特别善良、仁爱或有耐性的人）                     |
-| sake                     | n.            | 缘故，份                                                                                                           |
-| salad                    | n.            | 沙拉                                                                                                               |
-| salary                   | n.            | 工资，薪水                                                                                                         |
-| sale                     | n.            | 出售，销售；特价促销；销售活动（尤指拍卖）                                                                         |
-| for sale                 |               | 待售                                                                                                               |
-| on sale                  |               | 出售，上市；（美）降价销售                                                                                         |
-| sales                    | n.            | 销售额；销售部                                                                                                     |
-| saline                   | a.            | 盐，含盐，咸                                                                                                       |
-| salinity                 | n.            | 咸度                                                                                                               |
-| salmon                   | n.            | 三文鱼，鲑鱼                                                                                                       |
-| salon                    | n.            | 沙龙（旧时作家、艺术家等在名流家中定期举行的聚会）；美容店，美发店                                                 |
-| salt                     | n.            | 盐；（化）盐                                                                                                       |
-|                          | v.            | 放盐；用盐腌制                                                                                                     |
-|                          | a.            | 含盐，咸；腌制                                                                                                     |
-| salty                    | a.            | 咸                                                                                                                 |
-| salute                   | v.            | 敬礼；致敬，致意                                                                                                   |
-|                          | n.            | 敬礼；致敬，致意；礼炮                                                                                             |
-| salvage                  | n.            | （对财物等的）抢救；抢救出的财物                                                                                   |
-|                          | v.            | 营救（失事船舶等），抢救（失事船舶、火灾等中的财物）；挽救；挽回                                                   |
-| same                     | a.            | 相同，同一；一样，一模一样                                                                                         |
-|                          | pron.         | 相同，同样，一样                                                                                                   |
-| sample                   | n.            | （抽查的）样本，样品；（化验的）取样，样本；（作为标准或代表的）样品，货样                                         |
-|                          | v.            | 尝试，体验；抽样，取样，采样                                                                                       |
-| sampling                 | n.            | 抽样，取样；（乐曲的）节录，选录                                                                                   |
-| sanction                 | n.            | 制裁；（正式）许可，批准；处罚                                                                                     |
-|                          | v.            | （正式）许可，批准；制裁                                                                                           |
-| sand                     | n.            | 沙；沙滩                                                                                                           |
-| sandal                   | n.            | 凉鞋                                                                                                               |
-| sandbox                  | n.            | （美）沙坑；（游）沙盒                                                                                             |
-| sandpaper                | n.            | 砂纸                                                                                                               |
-| sandstorm                | n.            | 沙暴                                                                                                               |
-| sandwich                 | n.            | 三明治                                                                                                             |
-| sandy                    | a.            | 沙                                                                                                                 |
-| sane                     | a.            | 神志正常；明智，理智                                                                                               |
-| sanitary                 | a.            | 卫生                                                                                                               |
-| sanitary towel           | n.            | 卫生巾                                                                                                             |
-| sanity                   | n.            | 头脑清醒，神志正常；明智，理智，审慎                                                                               |
-| sarcasm                  | n.            | 讽刺，嘲讽，挖苦                                                                                                   |
-| sarcastic                | a.            | 讽刺，嘲讽，挖苦                                                                                                   |
-| sardonic                 | a.            | 轻蔑，嘲弄                                                                                                         |
-| Satan                    | n.            | 撒旦，魔鬼                                                                                                         |
-| satellite                | n.            | 卫星                                                                                                               |
-| satire                   | n.            | 讽刺，讽刺作品                                                                                                     |
-| satirical                | a.            | 讽刺                                                                                                               |
-| satirize                 | v.            | 讽刺                                                                                                               |
-| satisfaction             | n.            | 满足，满意，欣慰；（需要或欲望的）满足，达到；（抗议、投诉等的）妥善处理，（债务的）清偿，（伤害的）赔偿           |
-| satisfactory             | a.            | 令人满意                                                                                                           |
-| satisfactorily           | ad.           | 令人满意                                                                                                           |
-| satisfied                | a.            | 满足，满意，欣慰；确信，信服                                                                                       |
-| satisfy                  | v.            | 使满足，使满意；满足（要求、需要等）；使确信，使信服                                                               |
-| satisfying               | a.            | 令人满意                                                                                                           |
-| Saturday                 | n.            | 星期六                                                                                                             |
-| saturate                 | v.            | 浸透，使湿透；使饱和                                                                                               |
-| saturated                | a.            | 浸透，湿透；（化）（溶液）饱和                                                                                     |
-| saturation               | n.            | 饱和；（化）饱和度                                                                                                 |
-| Saturday                 | n.            | 星期六                                                                                                             |
-| Saturn                   | n.            | 土星                                                                                                               |
-| sauce                    | n.            | 酱                                                                                                                 |
-| saucer                   | n.            | 茶碟                                                                                                               |
-| sauna                    | n.            | 桑拿                                                                                                               |
-| sausage                  | n.            | 香肠                                                                                                               |
-| savage                   | a.            | 凶恶，凶残；猛烈（抨击）                                                                                           |
-| savant                   | n.            | 学者，专家                                                                                                         |
-| savagely                 | ad.           | 凶恶，凶残；猛烈（抨击）                                                                                           |
-| save                     | v.            | 救，救助，挽救；储蓄，攒钱；收集，收藏，攒；保留，保存，留；节省，节约；避免，免得（困难或不愉快的事情）；         |
-|                          |               | （计）保存                                                                                                         |
-| savor                    | v.            | 品味，享用，品；体会，品味                                                                                         |
-|                          | n.            | 味道，气味，滋味                                                                                                   |
-| saw                      | n.            | 锯                                                                                                                 |
-|                          | v.            | 锯；拉                                                                                                             |
-| Saxon                    | n.            | 撒克逊人                                                                                                           |
-| saxophone                | n.            | 萨克斯                                                                                                             |
-| say                      | v.            | 说；念，朗诵；表达（意见）；比方说，假设；表明，表达（思想感情）；写着，显示                                       |
-| saying                   | n.            | 俗语，谚语                                                                                                         |
-| scaffolding              | n.            | 脚手架                                                                                                             |
-| scalar                   | n.            | 标量                                                                                                               |
-| scale                    | n.            | （尤指与其他事物相比较时的）规模，范围，程度；等级，级别；等级体系；标度，刻度；秤，天平；比例，比例尺；           |
-|                          |               | 音阶；鳞片；牙垢                                                                                                   |
-|                          | v.            | 攀登，到达…顶点；去鳞；改变…大小                                                                                   |
-| scam                     | n.            | 诈骗                                                                                                               |
-| scan (scanned, scanning) | v.            | 察看，审视，端详；浏览，翻阅；扫描；（计）扫描                                                                     |
-| scandal                  | n.            | 丑闻；可耻的行为（或态度）                                                                                         |
-| scandalous               | a.            | 丢人，可耻，不可接受，触目惊心；讲述丑闻的                                                                         |
-| scandalously             | ad.           | 不可接受，触目惊心                                                                                                 |
-| scanner                  | n.            | 扫描仪，扫描器                                                                                                     |
-| scanning                 | n.            | 扫描                                                                                                               |
-| scar                     | n.            | 伤疤，伤痕，疤痕；（精神上的）创伤；污点，抹黑，煞风景                                                             |
-|                          | v.            | 留下伤疤，伤痕，疤痕；留下精神创伤；损害…外观                                                                      |
-| scare                    | v.            | 惊吓，吓，使害怕，使恐惧；受惊吓，害怕，恐惧                                                                       |
-|                          | n.            | 恐惧，恐慌；惊吓，吓                                                                                               |
-| scared                   | a.            | 害怕，恐惧，担心                                                                                                   |
-| scarf                    | n.            | 围巾，披巾                                                                                                         |
-| scarlet                  | a.            | 猩红，鲜红                                                                                                         |
-| scatter                  | v.            | 撒；散开，四散，分散                                                                                               |
-|                          | n.            | 散落，稀落，零星                                                                                                   |
-| scenario                 | n.            | 剧本；剧情梗概；可能的情况，可能；方案                                                                             |
-| scene                    | n.            | （尤指事件发生的）现场；事件，场面，情景；片段，镜头，戏；（戏剧或歌剧的）场；风景，景色，风光                     |
-|                          |               | （尤指当众、有失体面的）争吵，吵闹                                                                                 |
-| scenery                  | n.            | 风景，景色，风光                                                                                                   |
-| scent                    | n.            | 香味；（人或动物留下的）气味，气息；（英）香水；察觉，预感，味道                                                   |
-|                          | v.            | 嗅出，闻到；察觉到，预感到；使有香味                                                                               |
-| scentless                | a.            | 没有气味                                                                                                           |
-| scheme                   | n.            | （英）计划，方案；阴谋，诡计，计谋                                                                                 |
-|                          | v.            | 密谋，秘密策划                                                                                                     |
-| school                   | n.            | 学校                                                                                                               |
-| elementary school        |               | （美）小学                                                                                                         |
-| junior high school       |               | （美）初中                                                                                                         |
-| high school              |               | （美）高中                                                                                                         |
-| middle school            |               | （美）初中                                                                                                         |
-| primary school           |               | （英）小学                                                                                                         |
-| secondary school         |               | （美）中学（初中和高中）                                                                                           |
-| senior high school       |               | （美）高中                                                                                                         |
-| science                  | n.            | 科学                                                                                                               |
-| science fiction (sci-fi) | n.            | 科幻                                                                                                               |
-| scientist                | n.            | 科学家                                                                                                             |
-| scope                    | n.            |                                                                                                                    |
-| score                    | n.            | 分数，得分                                                                                                         |
-| scoreboard               | n.            | 计分板                                                                                                             |
-| scouter                  | n.            | 童子军                                                                                                             |
-| scratch                  | v.            | 搔，挠；抓破，抓伤，划破，划伤（皮肤）；（尤指意外地）擦破，划损，刮坏；刮出（或刮掉）痕迹，造成（或擦去）痕迹；   |
-|                          |               | 刮（或抓、擦）出刺耳声；（未开始就）取消，退出                                                                     |
-|                          | n.            | （皮肤或物体表面上的）划伤，划痕；刮（或抓、擦）的刺耳声；搔，挠                                                   |
-| scratchy                 | a.            | （衣服）扎人，粗糙刺激皮肤；（录音）带杂音；（声音）沙哑；（字迹或图画）潦草                                       |
-| from scratch             |               | 从头开始，从零开始                                                                                                 |
-| up to scratch            |               | 达到要求，合乎标准                                                                                                 |
-| script                   | n.            | 脚本                                                                                                               |
-| screen                   | n.            | 屏幕                                                                                                               |
-| scrutiny                 | n.            | 仔细检查，审查                                                                                                     |
-| sea                      | n.            | 海                                                                                                                 |
-| seafood                  | n.            | 海鲜                                                                                                               |
-| search                   | v.            | 搜索                                                                                                               |
-| season                   | n.            | 季节；赛季                                                                                                         |
-| seat                     | n.            | 座位                                                                                                               |
-| second                   | det. ord.num. | 第二；秒                                                                                                           |
-| secret                   | n.            | 秘密                                                                                                               |
-| secretary                | n.            | 秘书；（组织、社团的）文书；（美）部长                                                                             |
-| section                  | n.            | 节                                                                                                                 |
-| see                      | v.            | 看见；看得见，有视力；观看（比赛、节目、演出等）；见，参见；拜访，看望；理解，明白；认为，看待，视为；             |
-|                          |               | 设想，想象；看看，看得到，走着瞧；考虑，定夺；见识，经历；是…发生的时间/地点；送（走）                             |
-| seed                     | n.            | 种子，籽；起因，萌芽，种子；种子选手；随机数种子                                                                   |
-|                          | v.            | 结籽；播种；选为种子选手                                                                                           |
-| seek                     | v.            | 寻求                                                                                                               |
-| seem                     | v.            | 看起来                                                                                                             |
-| segregate                | v.            | 隔离并区别对待（同种族、宗教或性别的人）；（使）分开，分隔，隔离                                                   |
-| segregation              | n.            | （对不同种族、宗教或性别的人所采取的）隔离，区别对待；隔离措施，分隔措施                                           |
-| segregationist           | a.            | （种族、宗教、性别）隔离主义的                                                                                     |
-| seizure                  | n.            | 起获，没收，充公；夺取，占领                                                                                       |
-| select                   | v.            | 选择                                                                                                               |
-| selection                | n.            | 选择                                                                                                               |
-| self                     | n.            | 个性，自我                                                                                                         |
-| self-esteem              | n.            | 自尊                                                                                                               |
-| self-fulfilling          | a.            | （预言等）自我应验，自我实现                                                                                       |
-| self-indulgence          | n.            | 自我放纵，任性                                                                                                     |
-| self-indulgent           | a.            | 放纵自己，任性                                                                                                     |
-| sell                     | v.            | 卖，出售                                                                                                           |
-| semantic                 | a.            | （语）语义                                                                                                         |
-| semantics                | n.            | （语）语义学；（语）（单词、短语或其他符号系统的）含义                                                             |
-| semaphore                | n.            | 旗语，发信号                                                                                                       |
-|                          | v.            | 旗语，发信号                                                                                                       |
-| semen                    | n.            | 精液                                                                                                               |
-| semi-                    |               | 半                                                                                                                 |
-| send                     | v.            | 发送                                                                                                               |
-| sense                    | n.            | 感觉官能；感觉，意识；理解力，判断力，…感；良好的判断，清醒的认识；意义，含义，理解…的方式，看待…的角度            |
-|                          | v.            | 感到，意识到，觉察到；检测出                                                                                       |
-| sense of achievement     |               | 成就感，达成感                                                                                                     |
-| sense of proportion      |               | 分清轻重缓急                                                                                                       |
-| senseless                | a.            | 无意义，无目的，无谓；失去知觉，不省人事；不明智，莽撞                                                             |
-| senses                   | n.            | 健全的心智，理智                                                                                                   |
-| sensibilities            | n.            | （尤指易受伤害或影响的）感情                                                                                       |
-| sensibility              | n.            | （尤指文艺方面的）感受力，鉴赏力                                                                                   |
-| sensible                 | a.            | （人及行为）明智，理智，合理，切合实际；（服装）实用而不时尚；意识到，认识到                                       |
-| sensibly                 | ad.           | 明智，得体                                                                                                         |
-| sensitive                | a.            | 体贴，善解人意；（对艺术、音乐、文学等的）感觉敏锐，表达能力强；（人）敏感，容易生气；（话题）敏感，需谨慎对待；   |
-|                          |               | （身体部位）敏感，过敏；灵敏，敏感                                                                                 |
-| sensitively              | ad.           | 谨慎，细致；细腻                                                                                                   |
-| sensitivity              | n.            | 体贴，体恤，体察；（对艺术、音乐、文学等的）悟性；（人）敏感，容易生气；（话题）敏感性；过敏；灵敏度               |
-| sensor                   | n.            | 传感器                                                                                                             |
-| sensory                  | a.            | 感觉，感官                                                                                                         |
-| sentence                 | n.            | （语法）句子；判决，判处                                                                                           |
-|                          | v.            | 判决，判处                                                                                                         |
-| sentiment                | n.            | （基于情感的）观点，看法，情绪；（过度或不恰当的）伤感，柔情                                                       |
-| sentimental              | a.            | 情感的（非理性的）；（过度或不恰当地）伤感，柔情，多愁善感                                                         |
-| sentimentalist           | n.            | 多愁善感的人                                                                                                       |
-| sentimentality           | n.            | 多愁善感                                                                                                           |
-| sentinel                 | n.            | 哨兵                                                                                                               |
-| sentry                   | n.            | 哨兵                                                                                                               |
-| separable                | a.            | 可分开，可分离，可划分                                                                                             |
-| separate                 | a.            | 单独，独立，分开；不同，不相关                                                                                     |
-|                          | v.            | （使）分开，分离，分割，划分；相隔，阻隔；分居；区分，区别                                                         |
-| separated                | a.            | 分居                                                                                                               |
-| separately               | ad.           | 单独，分别                                                                                                         |
-| separation               | n.            | 分开，分离，分割，划分；离别；分居                                                                                 |
-| separatism               | n.            | 分离主义，分裂主义                                                                                                 |
-| separatist               | n.            | 分离主义者，分裂主义者                                                                                             |
-|                          | a.            | 分离主义，分裂主义                                                                                                 |
-| September                | n.            | 九月                                                                                                               |
-| sequel                   | n.            | （书、电影、戏剧等的）续篇，续集；后续，随之而来的事，结果                                                         |
-| sequence                 | n.            | 一系列，一连串；顺序，次序                                                                                         |
-|                          | v.            | 按顺序排列；测序                                                                                                   |
-| sequential               | a.            | 顺序                                                                                                               |
-| sequentially             | ad.           | 顺序                                                                                                               |
-| serene                   | a.            | 平静，宁静，安详                                                                                                   |
-| serenely                 | ad.           | 平静，宁静，安详                                                                                                   |
-| serenity                 | n.            | 平静，宁静，安详                                                                                                   |
-| sergeant                 | n.            | 陆军（或空军）中士                                                                                                 |
-| serial                   | n.            | 电视连续剧，连载小说（或漫画等）                                                                                   |
-|                          | a.            | 顺序排列；连续，多次；（小说等）连载，连续                                                                         |
-| serial killer            | n.            | 连环杀手                                                                                                           |
-| serialize                | v.            | 连载，连播                                                                                                         |
-| serious                  | a.            | 严重；严肃；重要，需要重视；真，认真                                                                               |
-| servant                  | n.            | 仆人，佣人；（公司或机构的）雇员，职员；奴仆般受制（或献身）于…的人                                                |
-| server                   | n.            | 服务器                                                                                                             |
-| service                  | n.            | 服务                                                                                                               |
-| set                      | v.            | 放，置；使处于某种状况；以…为故事背景；设置，设定；摆放；镶嵌；安排，决定；树立，开创；布置，分配；凝固，固定；    |
-|                          |               | 落下                                                                                                               |
-|                          | a.            | 固定；做好准备                                                                                                     |
-| settle                   | v.            |                                                                                                                    |
-| seven                    | num.          | 七                                                                                                                 |
-| seventh                  | ord.num.      | 第七                                                                                                               |
-| seventy                  | num.          | 七十                                                                                                               |
-| sever                    | v.            | 切开，切断，切割；断绝，中断                                                                                       |
-| several                  | det.pron.     | 几个                                                                                                               |
-| severe                   | a.            | 非常严重，极其恶劣；严厉，严，重；严厉，苛刻；艰难，艰巨，严峻；过于简朴，简陋                                     |
-| severely                 | ad.           | 非常严重；严厉，严，重；过于简朴，简陋                                                                             |
-| severity                 | n.            | 严重性，严重程度；严厉；过于简朴，简陋                                                                             |
-| sew                      | v.            | 缝；缝补，缝合                                                                                                     |
-| sewage                   | n.            | （下水道的）污水，污物                                                                                             |
-| sewer                    | n.            | 污水管，下水道                                                                                                     |
-| sewing                   | n.            | 缝纫；缝制的衣物                                                                                                   |
-| sewing machine           | n.            | 缝纫机                                                                                                             |
-| sex                      | n.            | 性，性别；性行为，性交；性欲…的                                                                                    |
-| sexism                   | n.            | 性别歧视                                                                                                           |
-| sexist                   | n.            | 性别歧视的人                                                                                                       |
-|                          | a.            | 性别歧视的                                                                                                         |
-| sexless                  | a.            | 无性别；性冷淡，无性行为                                                                                           |
-| sexology                 | n.            | 性学                                                                                                               |
-| shabby                   | a.            | （ 建筑物、衣服、物品等）破旧，破烂，破败；（人）衣衫褴褛；（行为）不公正，不合理                                  |
-| shade                    | n.            | 阴凉处；灯罩；深浅浓淡，色度；阴影部分，暗部；一点，略微；幽灵，鬼                                                 |
-|                          | v.            | 为…遮挡光线；加灯罩；涂暗，加阴影                                                                                  |
-| shades                   | n.            | 各种，不同，多层                                                                                                   |
-| shadow                   | n.            | 阴影，影子，影；少许，些微，一丁点；（坏）影响；形影不离的人（或动物）；虚幻的事物，不可能得到的事物               |
-|                          | v.            | 跟踪，盯梢；跟随…实地学习（或参观）；投下阴影                                                                      |
-| shadows                  | n.            | 背光处，阴暗处；黑眼圈                                                                                             |
-| shake                    | v.            | （使）摇晃，晃动，抖动，颤动；摇（出），抖（掉）；握（手）；挥（拳）；颤抖，战栗，哆嗦；（声音）颤抖；             |
-|                          |               | 使震惊；动摇；去除，摆脱                                                                                           |
-|                          | n.            | 摇晃，晃动，抖动，颤动                                                                                             |
-| shakes                   | n.            | 颤抖，战栗，哆嗦                                                                                                   |
-| shaky                    | a.            | 颤抖，颤巍巍；不稳固，不牢靠，不确切；不稳，可能失败                                                               |
-| shakily                  | ad.           | 颤抖                                                                                                               |
-| shallow                  | a.            | 浅；（人、观点、评论等）肤浅，浅薄                                                                                 |
-| shallowly                | ad.           | 浅                                                                                                                 |
-| sham                     | n.            | （贬）假象，假情假意，伪装，捏造；假装…的人，冒充者                                                                |
-|                          | a.            | （贬）虚假，假装，假                                                                                               |
-|                          | v.            | 假装，冒充                                                                                                         |
-| shaman                   | n.            | 萨满                                                                                                               |
-| shamble                  | v.            | 蹒跚                                                                                                               |
-| shame                    | n.            | 羞耻，羞愧，惭愧；羞耻心；令人遗憾/惋惜的事；耻辱，丢脸                                                            |
-|                          | v.            | 使羞愧，使惭愧；使蒙羞，使丢脸                                                                                     |
-| shameful                 | a.            | 可耻的                                                                                                             |
-| shamefully               | ad.           | 可耻地                                                                                                             |
-| shameless                | a.            | 无耻，不要脸                                                                                                       |
-| shamelessly              | ad.           | 无耻，不要脸                                                                                                       |
-| shamelessness            | n.            | 无耻，不要脸                                                                                                       |
-| shampoo                  | n.            | 洗发水；洗涤剂                                                                                                     |
-|                          | v.            | 用洗发水洗（头发）；用洗涤剂洗                                                                                     |
-| shape                    | n.            | 形，形状，形式；难以看清的人/物；状况，身体状况；性质，特点                                                        |
-|                          | v.            | 使成为…形状；形塑；摆好姿势                                                                                        |
-| shapeless                | a.            | 无定形，模样难看；结构混乱，条理不清                                                                               |
-| shard                    | n.            | （玻璃、金属等的）碎片                                                                                             |
-| share                    | v.            | 共用，合用；分；分享，共享；有同样的（感情、观点、经历等）；分享（给他人）（感情、观点、经历等）；分担，共同承担   |
-|                          | n.            | （在若干人之间分得的）一份；（在多人活动中所占的）一份；（可以接受的）一份；（商）股份                             |
-| shark                    | n.            | 鲨鱼                                                                                                               |
-| sharp                    | a.            | 尖锐，锋利；（变化）急剧，骤然；清晰，清楚，鲜明；（人或人的头脑、眼睛等）敏锐；（人或言语）尖锐，严厉；           |
-|                          |               | 突然而响亮；（感觉或感情）（尤指受伤似地）剧烈，猛烈；急（转弯）；浓烈，刺鼻，冲；严寒，凛冽；                     |
-|                          |               | （人或做事方式）狡猾，诡诈；（衣着）时髦；瘦削；（音）升半音                                                       |
-|                          | ad.           | 整（点）                                                                                                           |
-|                          | n.            | （音）升半音                                                                                                       |
-| sharpen                  | v.            | 使锋利，使清晰；（感觉或感情）加强，增进，变清晰；使尖锐，使集中；提高，改善，磨练，磨砺；使（声音）尖锐           |
-| sharpener                | n.            | 削具，磨具                                                                                                         |
-| sharps                   | n.            | （医）针头                                                                                                         |
-| shave                    | v.            | 剃（头或胡须），刮（胡子）；削减，调低，降价                                                                       |
-|                          | n.            | 剃须，刮胡子                                                                                                       |
-| she                      | pron.         | 她                                                                                                                 |
-| shear                    | v.            | 剪羊毛；剪（头发）；（力学）剪，剪断                                                                               |
-| shed                     | n.            | 简易房，棚                                                                                                         |
-|                          | v.            | 去除，摆脱；使落下；蜕，落；发光，把光照到…上                                                                      |
-| sheep                    | n.            | 绵羊                                                                                                               |
-| sheer                    | a.            | （强调事物的大小、程度或数量）；完全的，纯粹的，十足的；陡峭；（织物）轻薄透明                                     |
-|                          | ad.           | 垂直，陡峭                                                                                                         |
-| sheet                    | n.            | 床单，被单；一张纸，资料，宣传材料，讲义；薄板（多指正方形或长方形的）；一片，一层（覆盖物）；一片，一摊（火或水） |
-| shelf                    | n.            | 架子，搁板；（地）陆架，陆棚                                                                                       |
-| shell                    | n.            | 壳；壳状物；炮弹；（房屋或船舶等的）骨架，框架，壳体；（物体的）外壳，壳体；（人的）表面性格，表面人格，外表       |
-|                          | v.            | 炮击；给…去壳                                                                                                      |
-| shellfish                | n.            | （尤指可以吃的）水生有壳动物                                                                                       |
-| shelter                  | n.            | 居所，住处；遮蔽，庇护，避难；遮蔽物，庇护所，避难处；（无家可归者或受虐待者的）收容所，庇护所                     |
-|                          | v.            | 保护，掩蔽，庇护；躲避                                                                                             |
-| shield                   | n.            | 盾，盾牌；屏障，掩护；防护罩，挡板                                                                                 |
-|                          | v.            | 保护（免受侵害）                                                                                                   |
-| shelter                  | n.            | 庇护所                                                                                                             |
-| shelve                   | v.            | 搁置（计划）；在…放在架子（或搁板）上；（陆地）倾斜                                                                |
-| sheriff                  | n.            | （美）治安官                                                                                                       |
-| sherry                   | n.            | 雪莉酒                                                                                                             |
-| shield                   | n.            | 盾，盾牌；挡箭牌，掩护，屏障；护罩，挡板；（美）（警察的）盾形徽章                                                 |
-|                          | v.            | 保护某人或某物（免遭危险、伤害或不快）；给…加防护罩                                                                |
-| shift                    | v.            | 移动，挪动；（情况、意见、政策等）改变，转向；改变观点（或态度、做事方式等）；推卸，转嫁（责任）；去除（污渍等）； |
-|                          |               | 销售，清库存（尤指销路不好的商品）；（美）换（挡）                                                                 |
-|                          | n.            | 改变，变化，转移，转换，变换；…班，轮班，轮班时间，轮班职工；（计算机的）转换键                                    |
-| shiftless                | a.            | （贬）没志向，不求上进，混日子                                                                                     |
-| shine (shone, shone)     | v.            | 发光，闪光，反光；照向；擦亮；出色，出类拔萃                                                                       |
-| shiny                    | a.            | 闪亮，光亮，有光泽                                                                                                 |
-| ship                     | n.            | 船，舰                                                                                                             |
-|                          | v.            | 航运，海运，运输，运送；上市，推向市场                                                                             |
-| shipping                 | n.            | 航运，海运，运输，运送；运费                                                                                       |
-| shipyard                 | n.            | 船坞，造船厂                                                                                                       |
-| shirk                    | v.            | 逃避工作，偷懒                                                                                                     |
-| shirt                    | n.            | 衬衫                                                                                                               |
-| shit                     | v.            | 拉屎                                                                                                               |
-|                          | n.            | 屎                                                                                                                 |
-| shiver                   | v.            | 颤抖，哆嗦（因寒冷、恐惧、激动等）                                                                                 |
-|                          | n.            | 颤抖，哆嗦（因寒冷、恐惧、激动等）；寒战，寒噤（因恐惧或发高烧）                                                   |
-| shock                    | n.            | 震惊，惊愕，大吃一惊；休克；（因爆炸、地震等引起的）剧烈震动，剧烈震荡；触电                                       |
-|                          | v.            | 使震惊，使惊愕，使大吃一惊；（脏话、不道德行为等）使气愤，使厌恶                                                   |
-| shocked                  | a.            | 震惊，惊愕                                                                                                         |
-| shoe                     | n.            | 鞋                                                                                                                 |
-| shoelace                 | n.            | 鞋带                                                                                                               |
-| shoestring               | n.            | （美）鞋带                                                                                                         |
-| shoot                    | v.            | 射击                                                                                                               |
-| shooting                 | n.            | 射击                                                                                                               |
-| shop                     | n.            | 商店                                                                                                               |
-|                          | v.            | 购物                                                                                                               |
-| shoplift                 | v.            | （商店里）偷窃，顺手牵羊                                                                                           |
-| shoplifting              | n.            | （商店里）偷窃，顺手牵羊                                                                                           |
-| shopper                  | n.            | 购物者，顾客                                                                                                       |
-| shopping                 | n.            | 购物                                                                                                               |
-| short                    | a.            | 短                                                                                                                 |
-| short circuit            | n.            | 短路                                                                                                               |
-| shortage                 | n.            | 短缺                                                                                                               |
-| shot                     | n.            | 射击，枪声；尝试；射门                                                                                             |
-| show                     | v.            | 展示，显示                                                                                                         |
-| shower                   | n.            | 淋浴；淋浴间，淋浴器；阵雨；一串                                                                                   |
-|                          | v.            | 淋浴；洒落；抛洒                                                                                                   |
-| showgirl                 | n.            | 展会的女模特                                                                                                       |
-| shovel                   | n.            | 铲，铁铲                                                                                                           |
-| shrimp                   | n.            | 小虾                                                                                                               |
-| shrine                   | n.            | 圣地，神庙                                                                                                         |
-| shrink                   | v.            | 缩水；缩小，收缩，减少                                                                                             |
-| shut down                |               | 关闭；关机                                                                                                         |
-| shut up                  |               | 闭嘴                                                                                                               |
-| siege                    | n.            | 围困，封锁（城镇）                                                                                                 |
-| sign                     | n.            | 迹象，征兆，预兆；招牌，指示牌，标志；示意的动作，手势；符号，记号                                                 |
-|                          | v.            | 签名，签字，签署；签约；示意；打手语                                                                               |
-| sign up                  | v.            | 报名                                                                                                               |
-| signal                   | n.            | 信号；标志，预示，信号；（尤指公路和铁路上的）指示灯，信号灯，红绿灯；（电波或数字）信号                           |
-|                          | v.            | 发信号，示意；标志，表明，预示；表达，显示                                                                         |
-| signature                | n.            | 签名，署名；明显特征，识别标志                                                                                     |
-| signer                   | n.            | 签名的人                                                                                                           |
-| significant              | a.            | 十分重要，有重大意义；明显，显著；有特别意义/含义；意味深长                                                        |
-| significantly            | ad.           | 有重大意义地；明显，显著，大幅度；有特别意义/含义；意味深长地                                                      |
-| signified                | n.            | （语）所指（语言符号的意义）                                                                                       |
-| signifier                | n.            | （语）能指（语言符号的形式）                                                                                       |
-| signify                  | v.            | 表示，说明，表明；表达，表示，显示（感情、意愿等）；（常用于疑问句或否定句）重要，要紧                             |
-| silence                  | n.            | 寂静，安静，无声；沉默，缄默，默不作声；三缄其口，拒绝回答；没有联系，杳无音信                                     |
-| silencer                 | n.            | （枪支的）消音器                                                                                                   |
-| silent                   | a.            | （人）不说话，不作声，沉默；沉默寡言；安静，不喧闹；不用言语表达，静默，无声；避而不谈，拒绝谈论，沉默；           |
-|                          |               | 无声（电影），默（剧）；（单词中的字母）不发音                                                                     |
-| silent majority          | n.            | 沉默的大多数（不公开表达意见的广大民众）                                                                           |
-| silently                 | ad.           | 沉默，默不作声；悄悄，静静；不用言语表达，静默，无声                                                               |
-| silica                   | n.            | 二氧化硅                                                                                                           |
-| silicon                  | n.            | 硅                                                                                                                 |
-| silk                     | n.            | （蚕）丝；丝织物，丝绸；丝线                                                                                       |
-| silkworm                 | n.            | 蚕                                                                                                                 |
-| silkily                  | ad.           | 柔和，轻柔                                                                                                         |
-| silky                    | a.            | 丝绸般的，柔软光洁；柔和，轻柔；丝质，丝绸                                                                         |
-| silly                    | a.            | 愚蠢，傻；（尤指像小孩一样）可笑，无聊，冒傻气；无谓的                                                             |
-| silt                     | n.            | 粉砂                                                                                                               |
-| silver                   | n.            | 银；银币，银器；银色，银灰色；银牌                                                                                 |
-|                          | a.            | 银色，银灰色                                                                                                       |
-| silvery                  | a.            | 银色，银灰色；（尤指嗓音）银铃般的，悦耳的                                                                         |
-| similar                  | a.            | 相似                                                                                                               |
-| simple                   | a.            | 简单的                                                                                                             |
-| simplify                 | v.            | 简化                                                                                                               |
-| simplified               | a.            | 简化                                                                                                               |
-| simulate                 | v.            | 模拟                                                                                                               |
-| simulation               | n.            | 模拟                                                                                                               |
-| simultaneous             | a.            | 同时，同步                                                                                                         |
-| simultaneously           | ad.           | 同时，同步                                                                                                         |
-| sin                      | n.            | 罪，罪恶，罪过（对神的冒犯或对宗教戒律、道德规范的违犯）；罪行，犯罪（违犯宗教戒律、道德规范的行为）               |
-|                          | v.            | 犯戒律，犯罪过                                                                                                     |
-| since                    | prep.         | 自从                                                                                                               |
-|                          | conj.         | 自从；因为，既然                                                                                                   |
-| sincere                  | a.            | （感情、信念或行为）真诚，诚挚，诚恳；（人）真诚，坦诚                                                             |
-| sincerely                | ad.           | 真诚地，真心地                                                                                                     |
-| sine                     | n.            | （数）正弦                                                                                                         |
-| sing                     | v.            | 唱歌                                                                                                               |
-| singer                   | n.            | 歌手                                                                                                               |
-| single                   | a.            | 单                                                                                                                 |
-| siren                    | n.            | 警笛，警报器；妖艳但危险的女人；危险的诱惑                                                                         |
-|                          |               | 塞壬（希腊神话中的半人半鱼女海妖，以美妙歌声诱使航海者撞向礁石或驶入危险水域）                                     |
-| sit                      | v.            | 坐                                                                                                                 |
-| site                     | n.            | 地点                                                                                                               |
-| six                      | num.          | 六                                                                                                                 |
-| siice                    | n.            | 切片                                                                                                               |
-| sixth                    | ord.num.      | 六十                                                                                                               |
-| sixty                    | num.          | 六十                                                                                                               |
-| slow                     | a.            | 慢                                                                                                                 |
-| skate                    | v.            | 滑冰，溜冰；玩滑板                                                                                                 |
-| skater                   | n.            | 滑冰者；玩滑板的                                                                                                   |
-| skating                  | n.            | 滑冰，溜冰                                                                                                         |
-| skateboard               | n.            | 滑板                                                                                                               |
-| skeleton                 | n.            | 骨骼，骨架；（建筑）框架；提纲，梗概                                                                               |
-| skill                    | n.            | 技能                                                                                                               |
-| skin                     | n.            | 皮肤                                                                                                               |
-| sky                      | n.            | 天空                                                                                                               |
-| slag                     | n.            | （英）（俚）荡妇                                                                                                   |
-| slate                    | n.            | 板岩，石板；（房顶的）石板瓦；（美）（选举中的）候选人名单                                                         |
-|                          | v.            | （英）尤指在报纸上 批评，抨击；预定，预计，计划，安排；（美）推举，选定                                            |
-| sleep                    | v.            | 睡觉                                                                                                               |
-| sleeper                  | n.            | 睡得…的人；睡觉的人；卧铺列车                                                                                      |
-| sleeve                   | n.            | 袖子                                                                                                               |
-| slice                    | n.            | 片；部分，份额                                                                                                     |
-|                          | v.            | 切片；切，割，划；大幅减少                                                                                         |
-| slide                    | v.            | 滑，滑行，滑动；溜，塞；降低，跌，贬值；滑入，陷入，衰退                                                           |
-|                          | n.            | 下跌，下降；滑入，陷入，衰退；滑，滑行，滑动；滑梯；崩塌，山崩；幻灯片；载玻片                                     |
-| slim                     | v.            | （人）苗条，纤细；单薄，薄；微薄，微弱                                                                             |
-| slim down                | v.            | 精简（机构），裁减（人员）                                                                                         |
-| slime                    | n.            | 污泥；史莱姆                                                                                                       |
-| slimline                 | a.            | 小巧                                                                                                               |
-| slope                    | n.            | 斜坡；山坡；坡度                                                                                                   |
-|                          | v.            | 倾斜，有坡度；（英）悄悄地走，溜走                                                                                 |
-| sloppy                   | a.            | 不认真，敷衍，草率；（衣服）松松垮垮；太稀                                                                         |
-| sloppiness               | n.            | 不认真，敷衍，草率                                                                                                 |
-| small                    | a.            | 小                                                                                                                 |
-| smell                    | v.            | 有…气味；闻到，闻；有嗅觉；散发臭味；觉察到，感觉到                                                                |
-| smile                    | v.            | 微笑，笑；微笑着说                                                                                                 |
-|                          | n.            | 微笑                                                                                                               |
-| smile on                 | v.            | 有利于，垂青                                                                                                       |
-| smiley                   | n.            | 微笑符（例如:-)）                                                                                                  |
-| smoke                    | n.            | 烟                                                                                                                 |
-|                          | v.            | 吸烟                                                                                                               |
-| smoker                   | n.            | 吸烟者，烟民                                                                                                       |
-| smoking                  | n.            | 吸烟                                                                                                               |
-| smooth                   | a.            | 平整，光滑；混合均匀；顺利，平稳；平稳，流畅；圆滑，八面玲珑；醇厚                                                 |
-| smug                     | a.            | 沾沾自喜，自鸣得意                                                                                                 |
-| smuggle                  | v.            | 走私；偷运                                                                                                         |
-| smuggler                 | n.            | 走私犯                                                                                                             |
-| smuggling                | n.            | 走私（罪）                                                                                                         |
-| snack                    | n.            | 点心，小吃；快餐                                                                                                   |
-| snail                    | n.            | 蜗牛                                                                                                               |
-| snake                    | n.            | 蛇                                                                                                                 |
-|                          | v.            | 蛇行，蜿蜒                                                                                                         |
-| snap                     | v.            | （使）（咔嚓地）断裂，绷断；（使）（啪地）打开，关上；生气地说，不耐烦地说；咬；拍，拍照；                         |
-|                          |               | （突然）忍不住，承受不住                                                                                           |
-| snapshot                 | n.            | 快照                                                                                                               |
-| sneaker                  | n.            | 运动鞋                                                                                                             |
-| sneeze                   | v.            | 打喷嚏                                                                                                             |
-| sneezing                 | n.            | 打喷嚏                                                                                                             |
-| sniff                    | v.            | 抽鼻子；闻，吸，嗅；抱怨                                                                                           |
-| sniper                   | n.            | 狙击手                                                                                                             |
-| snippet                  | n.            | 一条（消息），一则（新闻）；一小段（对话、音乐等）                                                                 |
-| snitch                   | v.            | 告密，告状                                                                                                         |
-|                          | n.            | 告密者；线人                                                                                                       |
-| snort                    | v.            | 用鼻子吸（毒品）                                                                                                   |
-| snow                     | n.            | 雪                                                                                                                 |
-|                          | v.            | 下雪                                                                                                               |
-| snowball                 | n.            | 雪球                                                                                                               |
-| snowstorm                | n.            | 暴风雪                                                                                                             |
-| so on                    |               | 等等                                                                                                               |
-| soap                     | n.            | 肥皂                                                                                                               |
-| soap opera               | n.            | 肥皂剧                                                                                                             |
-| soap powder              | n.            | 肥皂粉，洗衣粉                                                                                                     |
-| soar                     | v.            | 猛增，骤升，飞涨；升空，高涨；翱翔；高耸，耸立                                                                     |
-| sob                      | v.            | 抽泣，呜咽，啜泣；哭诉，抽噎着说                                                                                   |
-|                          | n.            | 抽泣（声），呜咽（声），啜泣（声）                                                                                 |
-| soccer                   | n.            | （美）足球                                                                                                         |
-| social                   | a.            | 社会                                                                                                               |
-| society                  | n.            | 社会                                                                                                               |
-| soda                     | n.            | 苏打水                                                                                                             |
-| sodium                   | n.            | 钠                                                                                                                 |
-| sofa                     | n.            | 沙发                                                                                                               |
-| soft                     | a.            | 软                                                                                                                 |
-| softball                 | n.            | 垒球                                                                                                               |
-| software                 | n.            | 软件                                                                                                               |
-| soil                     | n.            | 土壤                                                                                                               |
-| solar                    | a.            | 太阳                                                                                                               |
-| soldier                  | n.            | 士兵                                                                                                               |
-| sole                     | a.            | 仅有的，唯一；专有，完全                                                                                           |
-|                          | n.            | 脚掌；鞋底                                                                                                         |
-| solely                   | ad.           | 仅，只，唯                                                                                                         |
-| solemn                   | a.            | （人）严肃，冷峻；庄严，郑重，严正；（宗教仪式或正式场合）庄严，隆重                                               |
-| solemnly                 | ad.           | 庄严，郑重，严正                                                                                                   |
-| solicit                  | v.            | 索取，请求给予（援助、金钱或信息），征求，筹集；（妓女）拉客                                                       |
-| solicitation             | n.            | 索取，征求，筹集                                                                                                   |
-| solicitous               | a.            | 操心，关怀，关切                                                                                                   |
-| solid                    | a.            |                                                                                                                    |
-| solidarity               | n.            | 支持，团结                                                                                                         |
-| solidity                 | n.            | 坚固，牢固，可靠，充实                                                                                             |
-| solidly                  | ad.           | 坚固，牢固，结实；连续不断，整整；完全支持，完全赞同                                                               |
-| solitary                 | a.            | 独自；（人或动物）喜欢（或习惯）独处，独居；（人、物或处所）孤零零，形单影只，茕茕孑立；唯一的，仅有的             |
-|                          | n.            | 独居者，隐士                                                                                                       |
-| solitude                 | n.            | 独处，独居                                                                                                         |
-| solo                     | a.            | 独自，单独；独唱，独奏                                                                                             |
-|                          | ad.           | 独自，单独；单飞                                                                                                   |
-|                          | n.            | 独唱，独奏，单人表演                                                                                               |
-| solution                 | n.            | 解决方案，解决方法；答案，解；溶液；溶解                                                                           |
-| solve                    | v.            | 解决，处理；解，解答，破解，解开                                                                                   |
-| some                     |               |                                                                                                                    |
-| son                      | n.            | 儿子                                                                                                               |
-| soon                     | ad.           | 很快，马上，不久；快，早                                                                                           |
-| sophisticate             | n.            | 老练世故的人，见多识广的人                                                                                         |
-| sophisticated            | a.            | 老练世故，见多识广，见过世面；（机器、系统等）复杂巧妙，精密；（人）水平高，在行                                   |
-| sophistication           | n.            | 老练世故，见多识广；复杂巧妙，精密；高水平                                                                         |
-| sordid                   | a.            | 道德败坏，丑恶，卑鄙，无耻，肮脏，龌龊；肮脏                                                                       |
-| sorority                 | n.            | （美国大学女生的）姐妹会                                                                                           |
-| sorrow                   | n.            | 悲哀，悲伤，哀伤；伤心事，悲伤                                                                                     |
-|                          | v.            | 感到悲伤，表示悲伤                                                                                                 |
-| sorrowful                | a.            | 悲哀，悲伤，哀伤                                                                                                   |
-| sorry                    | a.            | 难过，惋惜，同情；歉疚，惭愧，过意不去；后悔，遗憾，舍不得；糟糕，悲惨，破败，可怜                                 |
-| sort                     | n.            | 种类，类别，品种；（计）排序                                                                                       |
-|                          | v.            | 整理，分类；（计）排序                                                                                             |
-| sorting                  | n.            | 整理，分类；（计）排序                                                                                             |
-| soul                     | n.            | 灵魂；内心；精神，道德；真挚情感；典范，化身；（用于否定）人；灵魂（音乐风格）                                     |
-| sound                    | n.            | 声音；声；音量；音乐风格                                                                                           |
-|                          | v.            | 听起来，听着；响，使发出声音；拉响警报，警告，告诫；发（音）                                                       |
-|                          | a.            | 可靠，合理；透彻，完备；安然无恙，完好无损；（睡眠）酣畅，安稳；还不错                                             |
-| soundness                | n.            | 可靠性，稳健性                                                                                                     |
-| soundtrack               | n.            | （电影的）音轨，声带；电影（或音乐剧、电视剧、游戏等的）原声音乐                                                   |
-| soup                     | n.            | 汤                                                                                                                 |
-| sour                     | a.            | 酸，酸味；酸腐，馊；阴郁，闷闷不乐，不愉快                                                                         |
-| sourly                   | ad.           | 阴郁，闷闷不乐，不愉快                                                                                             |
-| source                   | n.            | 来源，出处；信息来源；起因，根源；源头，发源地                                                                     |
-| south                    | n.            | 南                                                                                                                 |
-|                          | a.            | 南                                                                                                                 |
-|                          | ad.           | 向南                                                                                                               |
-| southern                 | a.            | 南方，南部                                                                                                         |
-| southernmost             | a.            | 最南端，最南部                                                                                                     |
-| souvenir                 | n.            | （旅游的）纪念品                                                                                                   |
-| sovereign                | n.            | 君主，元首                                                                                                         |
-|                          | a.            | （国家）主权，有主权；掌握全部权力，有至高无上权力                                                                 |
-| sovereignty              | n.            | 主权；最高统治权，最高权威；独立自主                                                                               |
-| spa                      | n.            | 矿泉疗养地；休闲健身中心                                                                                           |
-| space                    | n.            | 空间；太空                                                                                                         |
-| spaceman                 | n.            | 宇航员，太空人                                                                                                     |
-| spaceship                | n.            | 宇宙飞船，太空船                                                                                                   |
-| spacious                 | a.            | 宽敞                                                                                                               |
-| spade                    | n.            | 锹，铲；（扑克牌的）黑桃♠                                                                                         |
-| spaghetti                | n.            | 意大利细面条                                                                                                       |
-| spam                     | n.            | 垃圾邮件                                                                                                           |
-| span                     | n.            | 持续时间；范围；（桥或拱的）跨距，跨度；翼宽，翼展                                                                 |
-|                          | v.            | 持续，贯穿；包括，涵盖；横跨，跨越                                                                                 |
-| spare                    | a.            | 闲置，多余，空着不用；备用；空闲，空余；瘦高                                                                       |
-|                          | v.            | 抽出，留出，匀出，拨出；省得，免去；饶恕，赦免，放过，使逃脱；不吝惜（时间、金钱）                                 |
-|                          | n.            | 备用品，备用轮胎                                                                                                   |
-| sparing                  | a.            | 慎用，少用，吝惜                                                                                                   |
-| sparingly                | ad.           | 谨慎，尽量不，吝惜                                                                                                 |
-| spark                    | n.            | 火花，火星；电火花；（品质或感情）一丝，一星，一丁点；生气，活力，热情，激情；诱因，导火线；                       |
-|                          |               | 愤怒的情感，激烈的情绪                                                                                             |
-|                          | v.            | 引发，触发；冒火花，冒火星，产生电火花                                                                             |
-| sparkle                  | v.            | 闪烁，闪耀；生气勃勃，神采飞扬，光芒四射                                                                           |
-|                          | n.            | 闪烁/闪耀的光；生动，新颖，亮点                                                                                    |
-| sparkling                | a.            | 闪烁，闪耀；（饮料）气泡；风趣，妙趣横生；出色，上乘                                                               |
-| sparse                   | a.            | 稀少，稀疏，零落                                                                                                   |
-| sparsely                 | ad.           | 稀少，稀疏                                                                                                         |
-| spasm                    | n.            | 痉挛，抽搐；（感情或反应）一阵，阵发                                                                               |
-| spatial                  | a.            | 空间                                                                                                               |
-| spawn                    | v.            | （鱼、蛙等）产卵；引发，引起，导致，造成，衍生                                                                     |
-|                          | n.            | （鱼、蛙等的）卵                                                                                                   |
-| speak                    | v.            | 谈，谈话，交谈                                                                                                     |
-| spear                    | n.            | 矛，标枪；（植物的）嫩枝，嫩芽                                                                                     |
-|                          | v.            | 刺，叉                                                                                                             |
-| spec                     | n.            | 规格，规范                                                                                                         |
-| special                  | a.            | 特别                                                                                                               |
-| specialism               | n.            | 专业，专长；专业化                                                                                                 |
-| specialist               | n.            | 专家；专科医生                                                                                                     |
-|                          | a.            | 专业                                                                                                               |
-| specialize               | v.            | 专门研究，专攻                                                                                                     |
-| specially                | ad.           | 专门，特意；格外，尤其，特别                                                                                       |
-| specialty                | n.            | 特产，特色菜；专业，专长                                                                                           |
-| species                  | n.            | 种，物种                                                                                                           |
-| specification            | n.            | 规格，规范                                                                                                         |
-| specify                  | v.            | 指定                                                                                                               |
-| specific                 | a.            | 具体                                                                                                               |
-| specifically             | ad.           | 明确，具体；专门，特意；具体来说，确切地说                                                                         |
-| specification            | n.            | 规格，规范                                                                                                         |
-| specify                  | v.            | 详细描述，具体说明，明确规定                                                                                       |
-| specimen                 | n.            | 样品，样本，标本；（化验的）血样，尿样                                                                             |
-| specious                 | a.            | 似是而非                                                                                                           |
-| spectacle                | n.            | 精彩表演，热烈场面；壮观景象；不寻常的景象，出人意料的状况                                                         |
-| spectacular              | a.            | 壮观，壮丽，辉煌，了不起，令人惊叹                                                                                 |
-| spectacularly            | ad.           | 壮观，辉煌                                                                                                         |
-| spectator                | n.            | （尤指体育比赛的）观众                                                                                             |
-| spectrum                 | n.            | 光谱；波谱，频谱；范围，层次，系列，派别                                                                           |
-| speculate                | v.            | 推测，猜测，推断；投机，炒股                                                                                       |
-| speculation              | n.            | 推测，猜测，推断；投机，炒股                                                                                       |
-| speculative              | a.            | 推测的，猜测的，推断的；揣摩的，忖度的，试探的；投机性的，风险性的                                                 |
-| speculator               | n.            | 投机者，投机商                                                                                                     |
-| speech                   | n.            | 演讲，讲话，发言；能说话；说话（方式）；口语；台词                                                                 |
-| speed                    | n.            | 速度                                                                                                               |
-| speedy                   | a.            | 迅速，尽快，及时；快速，高速                                                                                       |
-| speedily                 | ad.           | 迅速，尽快，及时                                                                                                   |
-| spell                    | v.            | 拼，拼写（单词），拼作；招致，意味着（通常指坏事）                                                                 |
-|                          | n.            | （持续的）一段时间；（做某事或在某处工作的）一段时间；咒语，符咒，魔法；魅力，魔力                                 |
-| spellcheck               | v.            | 拼写检查                                                                                                           |
-| spend                    | v.            | 用，花（钱）；花（时间），度过；花费，消耗，用尽                                                                   |
-| spending                 | n.            | （政府或其他机构的）开支，支出，花销                                                                               |
-| sperm                    | n.            | 精子；精液                                                                                                         |
-| spew                     | v.            | （使）喷出，涌出                                                                                                   |
-| sphere                   | n.            | 球体                                                                                                               |
-| spherical                | a.            | 球形，球状                                                                                                         |
-| sphinx                   | n.            | 狮身人面像                                                                                                         |
-| spice                    | n.            | 香料；调剂，刺激                                                                                                   |
-|                          | v.            | 加香料；给…增添趣味，使…变得刺激，调剂                                                                             |
-| spicy                    | a.            | （食物）加香料的，香料调味的；（故事、新闻等）刺激，粗俗                                                           |
-| spider                   | n.            | 蜘蛛                                                                                                               |
-| spike                    | n.            | 尖刺，尖头，突刺；鞋钉；钉鞋；（美）猛增，急升                                                                     |
-|                          | v.            | 刺入，扎破；偷偷掺入（烈酒、毒药或毒品）；拒绝发表，组织传播；（美）迅速升值，急剧增值                             |
-| spill                    | v.            | （使）洒，泼，溅，泄露；（人）涌出，蜂拥而出                                                                       |
-|                          |               | 洒，泼，溅，泄露（的液体）；（从自行车）摔下，跌落                                                                 |
-| spin                     | v.            | （使）（快速）旋转；（使）急转身，猛然回过头；纺（线），纺（纱）；吐（丝），作（茧），结（网）；驾车飞驰，疾驰     |
-|                          |               | 甩干（衣服）；有倾向性地陈述，（尤指）以有利于自己的方式陈述                                                       |
-|                          | n.            | 高速旋转；旋转（球）；（尤指有利于自己的）导向性陈述                                                               |
-| spinach                  | n.            | 菠菜                                                                                                               |
-| spinal                   | a.            | 脊椎                                                                                                               |
-| spine                    | n.            | 脊椎，脊柱；（植物的）刺，（动物的）刺毛                                                                           |
-| spiral                   | n.            | 螺旋形，螺旋式，螺旋；日益上升/下降                                                                                |
-|                          | a.            | 螺旋形                                                                                                             |
-|                          | v.            | 螺旋上升/下降；飞涨                                                                                                |
-| spirit                   | n.            | 精神；情绪；（有某种特质的）人；勇气，决心，意志；忠心，集体精神；心态，态度；精髓，基本精神；实质，实际意义       |
-|                          |               | 灵魂                                                                                                               |
-| spiritual                | a.            | 精神，心灵；宗教                                                                                                   |
-| spiritually              | ad.           | 精神上，心灵上                                                                                                     |
-| spite                    | n.            | 恶意，怨恨                                                                                                         |
-| in spite of              |               | 尽管                                                                                                               |
-| splash                   | v.            | （液体）泼洒，泼溅；泼，溅                                                                                         |
-|                          | n.            | 落水声，泼溅声；溅的液体，溅的污点；色块，光斑                                                                     |
-| splay                    | v.            | 使（手指、手臂、腿等）叉开，张开，摊开                                                                             |
-| splendid                 | a.            | 宏伟，雄伟，壮丽，华丽                                                                                             |
-| splendor                 | n.            | 宏伟，雄伟，壮丽，华丽                                                                                             |
-| splendors                | n.            | 壮丽景色，恢弘气势                                                                                                 |
-| split                    | v.            | （使）分裂；（使）分为，分成；分享，分摊；（使）撕破，撕裂；（皮肤）划破，割破；分手，离开，断绝关系               |
-|                          | n.            | 分歧，分离；划分；裂缝，裂口                                                                                       |
-| splits                   | n.            | 劈叉                                                                                                               |
-| spoil                    | v.            | 破坏，毁坏，糟蹋；溺爱，娇惯，宠坏；善待，宠爱，格外关照；（食物）变质，腐坏                                       |
-| spoiled                  | a.            | 娇生惯养                                                                                                           |
-| spoiler                  | n.            | （机翼的）扰流片，阻流板；（美）选举中的搅局者；阻碍…成功/搞砸…的人（或事物）；                                    |
-|                          |               | （在电影、电视剧公映前提供的）剧情介绍                                                                             |
-| spokesperson             | n.            | 发言人                                                                                                             |
-| sponge                   | n.            | 海绵，人造海绵；海绵动物                                                                                           |
-|                          | v.            | 用湿毛巾（或海绵）擦，揩拭；白要，蹭吃蹭喝                                                                         |
-| sponsor                  | n.            | 赞助商；资助者                                                                                                     |
-|                          | v.            | 赞助                                                                                                               |
-| sponsorship              | n.            | 赞助，赞助款；资助，主办，倡议                                                                                     |
-| spontaneous              | a.            | 自发，主动；经常心血来潮；自然，自发；自然，不事雕琢                                                               |
-| spontaneously            | ad.           | 情不自禁地；自然地，自发地                                                                                         |
-| spoon                    | n.            | 勺子，匙，调羹                                                                                                     |
-| spoonful                 | n.            | 一勺（的量）                                                                                                       |
-| spore                    | n.            | （生）孢子                                                                                                         |
-| sport                    | n.            | （某一项）运动；乐趣，消遣，玩笑                                                                                   |
-|                          | v.            | 夸示，故意显示；嬉戏                                                                                               |
-| sports                   | n.            | 体育运动                                                                                                           |
-| sports car               | n.            | 跑车                                                                                                               |
-| sportswear               | n.            | （英）运动服；（美）便装                                                                                           |
-| spot                     | n.            | 斑点；污渍，污迹，污点；丘疹，疱疹，粉刺；地点，场所；几滴，一点（液体）；                                         |
-|                          |               | （电视、广播中 ）某演员的固定节目，某节目的固定栏目                                                                |
-|                          | v.            | 看见，看到，发现，注意到；（美）（体育比赛中）让分，让球                                                           |
-|                          | a.            | （商）现货交易，立即支付                                                                                           |
-| spree                    | n.            | 大肆，疯狂                                                                                                         |
-| spring                   | n.            | 春季；泉水                                                                                                         |
-| spurious                 | a.            | 虚假的，似是而非的；谬误的                                                                                         |
-| spuriously               | ad.           | 虚假地，似是而非地，实际上不是                                                                                     |
-| squad                    | n.            | （对付某类犯罪活动的）警察小组；运动（代表）队；（特殊任务的）小组，队                                             |
-| squalid                  | a.            | （处所及生活环境）肮脏，龌龊；（情况或活动）道德败坏，丑恶，肮脏，龌龊                                             |
-| stability                | n.            | 稳定性                                                                                                             |
-| stable                   | a.            | 稳定                                                                                                               |
-| stack                    | n.            | 栈                                                                                                                 |
-| stage                    | n.            | 阶段；舞台                                                                                                         |
-| stair                    | n.            | 阶，级                                                                                                             |
-| staircase                | n.            | 楼梯                                                                                                               |
-| stairs                   | n.            | 楼梯                                                                                                               |
-| stairway                 | n.            | 楼梯，阶梯                                                                                                         |
-| stale                    | a.            | （空气）不新鲜，（臭味、烟味等）难闻；陈旧，没有新意，没有意思；厌倦，腻烦                                         |
-| stalemate                | n.            | 僵局                                                                                                               |
-| stalk                    | n.            | （植物的）茎，（果实的）柄，（叶）柄，（花）梗                                                                     |
-|                          | v.            | 偷偷接近（猎物或人）；（非法）跟踪，盯梢                                                                           |
-| stalker                  | n.            | 跟踪者，盯梢者；悄悄接近猎物的猎人                                                                                 |
-| stalking                 | n.            | 跟踪（罪）                                                                                                         |
-| stall                    | v.            | （车辆或发动机）熄火；故意拖延，拖住（某人）（以赢得时间）；搁置，暂缓                                             |
-| stand                    | v.            | 站                                                                                                                 |
-| standing                 | a.            | 长期存在，常设；站立，起立                                                                                         |
-|                          | n.            | 地位，级别，身份；持续时间                                                                                         |
-| standings                | n.            | （体育比赛中的）排名，名次                                                                                         |
-| standing jump            | n.            | 立定跳远                                                                                                           |
-| standstill               | n.            | 停止，停滞，停顿                                                                                                   |
-| staple                   | a.            | 主要，基本                                                                                                         |
-| star                     | n.            | （天）恒星；星形；星级；明星；主角，主演；最佳，最优秀                                                             |
-| stare                    | v.            | 凝视，注视，盯着                                                                                                   |
-| start                    | v.            | 开始                                                                                                               |
-| startle                  | v.            | 使惊吓，使大吃一惊                                                                                                 |
-| startling                | a.            | 惊人，令人震惊；（颜色）非常鲜亮                                                                                   |
-| starvation               | n.            | 饥饿                                                                                                               |
-| starve                   | v.            | 挨饿，饿死                                                                                                         |
-| state                    | n.            | 州                                                                                                                 |
-| statement                | n.            | 陈述；语句                                                                                                         |
-| statesman                | n.            | 政治家                                                                                                             |
-| static                   | a.            | 静态                                                                                                               |
-| station                  | n.            | 站；台                                                                                                             |
-| stationary               | a.            | 静止，不动，固定；不变，稳定                                                                                       |
-| stationery               | n.            | 文具                                                                                                               |
-| statue                   | n.            | 雕像                                                                                                               |
-| status                   | n.            | 状态                                                                                                               |
-| stay                     | v.            | 停留，待；保持，继续；暂住，逗留                                                                                   |
-| steak                    | n.            | 牛排；肉排；鱼排                                                                                                   |
-| steal                    | v.            | 偷，窃；偷偷（悄悄）移动，蹑手蹑脚                                                                                 |
-| steam                    | n.            | 蒸汽                                                                                                               |
-| steel                    | n.            | 钢，钢铁                                                                                                           |
-| stem                     | n.            | 茎，梗，柄；（高脚酒杯的）脚；（语法）词干                                                                         |
-| (-mm-)                   | v.            | 阻止，封堵，遏制                                                                                                   |
-| stem from                | v.            | 起源于，来源于                                                                                                     |
-| stench                   | n.            | 臭气，恶臭                                                                                                         |
-| stent                    | n.            | （医）血管支架                                                                                                     |
-| step                     | n.            | 迈步，脚步；步伐，步态；一步（的距离）；一步，步骤，阶段，进展，措施；台阶；（音）音级，度                         |
-|                          | v.            | 迈步，走，踩，踏                                                                                                   |
-| stepladder               | n.            | 梯子                                                                                                               |
-| stereotype               | n.            | 刻板印象                                                                                                           |
-| stethoscope              | n.            | 听诊器                                                                                                             |
-| stigma                   | n.            | 羞耻，耻辱；（生）柱头                                                                                             |
-| stigmatize               | v.            | 使感到羞耻                                                                                                         |
-| stigmatization           | n.            | 使感到羞耻                                                                                                         |
-| still                    | ad.           | 仍然，依然                                                                                                         |
-|                          | a.            | 静止，安静                                                                                                         |
-| stilted                  | a.            | 生硬                                                                                                               |
-| stimulant                | n.            | 兴奋剂；有激励作用的事物                                                                                           |
-| stimulate                | v.            | 促进，激励，激发；刺激，使兴奋；促进（身体某部位的）功能                                                           |
-| stimulation              | n.            | 促进，激励，激发；刺激                                                                                             |
-| stimulus                 | n.            | 促进因素，激励因素；（使生物产生反应的）刺激，刺激物                                                               |
-| sting                    | v.            | 刺，叮，蜇；（使）感觉刺痛，感觉灼痛；激怒，使不安；敲诈，敲竹杠                                                   |
-|                          | n.            | 刺伤，蜇伤；（身体或心灵的）剧痛，痛苦；（警察为抓捕嫌犯而设置的）圈套；（美）（财产诈骗的）骗局                   |
-| stinger                  | n.            | （昆虫的）螫针，（植物的）刺                                                                                       |
-| stink                    | v.            | 非常臭；非常糟糕，令人厌恶，令人怀疑                                                                               |
-|                          | n.            | 恶臭，难闻的气味；闹事，轩然大波                                                                                   |
-| stinky                   | a.            | 恶臭，十分难闻；令人厌恶，糟糕透顶                                                                                 |
-| stir                     | v.            | 搅，搅拌，搅动；（使）轻微地动；（使）行动，活动；激发，打动；（感情或情绪）开始感到，逐渐产生，被唤起             |
-| stock                    | n.            | 库存，存货；储备；股本；股票；家畜；家世；汤；声望，评价                                                           |
-|                          | v.            | 存（货）；储备，储存                                                                                               |
-| stockpile                | n.            | 囤积物资，战略储备                                                                                                 |
-|                          | v.            | 囤积物资，战略储备                                                                                                 |
-| stoic                    | n.            | 斯多葛派人（对于痛苦和困难能够默默承受或泰然处之）                                                                 |
-| (stoical)                | a.            | 默默，泰然，坦然                                                                                                   |
-| stoically                | ad.           | 默默，泰然，坦然                                                                                                   |
-| stomach                  | n.            | 胃                                                                                                                 |
-| stone                    | n.            | 石头                                                                                                               |
-| stonewall                | v.            | （政治上）打太极，顾左右而言他                                                                                     |
-| stop                     | v.            | 停，停止                                                                                                           |
-| storm                    | n.            | 暴风雨；浪潮                                                                                                       |
-| story                    | n.            | 故事                                                                                                               |
-| straight                 | a.            | 直；准，正中目标；正；整齐，井井有条；坦诚，直率；简单明了，直截了当；连续，不间断                                 |
-|                          | ad.           | 直；准；正；直接，立即，径直；坦率，直截了当；连续                                                                 |
-|                          | n.            | 异性恋者                                                                                                           |
-| straighten               | b.            | （使）变直，变正；挺直，端正（身体）                                                                               |
-| strain                   | n.            | 压力，重压，重负；压力，拉力，应力；劳损，扭伤，拉伤；（动、植物的）品系，品种，（疾病的）类型；性格特点，倾向     |
-|                          |               | 曲调，旋律                                                                                                         |
-|                          | v.            | 损伤，扭伤，拉伤；尽力，竭力，使劲；过度使用，使不堪承受；用力推/拉/拽；滤，过滤                                   |
-| strained                 | a.            | 焦虑，憔悴；（状况）紧张，不友好；做作，勉强                                                                       |
-| strait                   | n.            | 海峡                                                                                                               |
-| straits                  | n.            | （经济状况）窘迫，困难                                                                                             |
-| strand                   | n.            | （线、绳、金属线、毛发等的）股，缕；（观点、计划、故事等的）部份，方面                                             |
-|                          | v.            | 使滞留；使搁浅                                                                                                     |
-| strange                  | a.            | 奇怪，异样，不可思议；陌生                                                                                         |
-| strangely                | ad.           | 奇怪，反常，不可思议                                                                                               |
-| stranger                 | n.            | 陌生人，外地人                                                                                                     |
-| strategy                 | n.            | 策略；策划；战略                                                                                                   |
-| strategic                | a.            | 策略；战略                                                                                                         |
-| straw                    | n.            | 稻草，麦秆；吸管                                                                                                   |
-| strawberry               | n.            | 草莓                                                                                                               |
-| stream                   | n.            | 小河，小溪；（液）流，（气）流；（人）流，（车）流；接连不断，源源不断（的事情）                                   |
-|                          | v.            | 流，流动，流出；鱼贯而行，川流不息；飘动，飘荡；（计）流式传输                                                     |
-| streamline               | v.            | 使成流线形；使（系统、机构等）效率提高                                                                             |
-| street                   | n.            | 街道                                                                                                               |
-| strength                 | n.            | 体力，力气，力量；强度；毅力，意志，决心；实力；程度；优势，优点，长处；（自然）力；浓淡程度；（货币）强弱         |
-|                          |               | 人力，人数                                                                                                         |
-| stress                   | n.            | 精神压力，心理负担，紧张；压力，应力；强调，重视；（语）重读；环境恶劣引起的疾病                                   |
-|                          | v.            | 强调，重视；重读；（使）焦虑不安，疲惫不堪                                                                         |
-| stressful                | a.            | 压力大，紧张                                                                                                       |
-| strict                   | a.            | 严格；严格要求，严厉；恪守教规；严格，严密，严谨                                                                   |
-| stricture                | n.            | 指摘，非难；限制，约束                                                                                             |
-| stride                   | n.            | 步；步伐，步态；进步，发展；步长                                                                                   |
-|                          | v.            | 大步走                                                                                                             |
-| strike                   | n.            | 罢工                                                                                                               |
-| stroke                   | n.            | 击球；（打、击等的）一下；划水动作，划桨动作；泳姿；（英）轻抚，抚摸；一笔，一划，笔划；（钟声）敲响；中风         |
-|                          | v.            | （英）轻抚，抚摸；轻挪，轻触                                                                                       |
-| strong                   | a.            | 强壮                                                                                                               |
-| struct                   | n.            | 结构                                                                                                               |
-| structure                | n.            | 结构                                                                                                               |
-| struggle                 | v.            | 奋斗，努力，争取；艰难地移动，艰难地进行；斗争，抗争；搏斗，扭打，挣扎；争夺                                       |
-|                          | n.            | 奋斗，努力，争取；斗争，抗争；搏斗，扭打，挣扎；不容易的事                                                         |
-| stubborn                 | a.            | 固执，顽固，倔；难以应付，难以去除，顽固                                                                           |
-| stubbornly               | ad.           | 固执，顽固，倔；难以应付，难以去除，顽固                                                                           |
-| stubbornness             | n.            | 固执，顽固，倔；难以应付，难以去除，顽固                                                                           |
-| stuck                    | a.            | 陷住，卡住，动弹不得；陷入，困在；难住，卡壳；发愁，不知道该做什么；摆脱不掉                                       |
-| student                  | n.            | 学生                                                                                                               |
-| studio                   | n.            | 工作室                                                                                                             |
-| studious                 | a.            | 用功                                                                                                               |
-| studiously               | ad.           | 故意，刻意                                                                                                         |
-| study                    | v.            | 学习；察看，端详；研究                                                                                             |
-|                          | n.            | 学习，研究；学业，功课；学科；研究，调查                                                                           |
-| stuff                    | n.            | 东西，玩意；（泛指）东西，事情；基本特征，基础                                                                     |
-|                          | v.            | 装（满），填（满），塞（满）；装进，塞进；在（食物里）装入另一种（食物），包馅料；吃撑，吃得过饱；制作（动物）标本 |
-| stumble                  | v.            | 摔倒，绊倒；跌跌撞撞；（不顺畅地）说，读，演奏                                                                     |
-| stump                    | n.            | 树桩                                                                                                               |
-|                          | v.            | 使搞不懂，使不明白                                                                                                 |
-| stun                     | v.            | 打昏，击晕；给人以深刻印象，使深深感动                                                                             |
-| stunned                  | a.            | 昏迷，被击晕；惊愕                                                                                                 |
-| stupid                   | a.            | 愚蠢，糊涂；（贬）笨，傻；（用以加强语气）讨厌，破，臭，愚蠢                                                       |
-| stupidly                 | ad.           | 愚蠢，糊涂                                                                                                         |
-| sturdy                   | a.            | 结实，坚固；强壮，健壮；坚决，坚定，顽强                                                                           |
-| sturdily                 | ad.           | 结实，坚固；强壮，健壮；坚决，坚定，顽强                                                                           |
-| sturdiness               | n.            | 结实，坚固；强壮，健壮；坚决，坚定，顽强                                                                           |
-| style                    | n.            | 风格                                                                                                               |
-| stylish                  | a.            | 时髦，新潮；高雅，雅致                                                                                             |
-| stylishly                | ad.           | 时髦，新潮；高雅，雅致                                                                                             |
-| stylist                  | n.            | 发型师，造型师；（产品、人等的）造型设计师，形象设计师                                                             |
-| stylistic                | a.            | 风格                                                                                                               |
-| stylistically            | ad.           | 风格上                                                                                                             |
-| subconscious             | a.            | 潜意识的，下意识的                                                                                                 |
-|                          | ad.           | 下意识地                                                                                                           |
-|                          | n.            | 潜意识                                                                                                             |
-| subcontract              | v.            | 分包                                                                                                               |
-| subcontractor            | n.            | 分包商，分包单位                                                                                                   |
-| subculture               | n.            | 亚文化                                                                                                             |
-| subdivide                | v.            | 再分割                                                                                                             |
-| subdivision              | n.            | 再分割，细分；分支，分部                                                                                           |
-| subject                  | n.            | 主题，话题，问题，题目，题材；学科；表现对象，题材；被试，实验对象；主语                                           |
-|                          | a.            | 可能受…影响的，易遭受…的；取决于；服从于；臣服，受异族统治                                                         |
-|                          | v.            | 使服从，使顺从，使臣服                                                                                             |
-| subjective               | a.            | 主观；主语                                                                                                         |
-| subjectively             | ad.           | 主观                                                                                                               |
-| subjectivity             | n.            | 主观                                                                                                               |
-| sublime                  | a.            | 令人惊叹；（贬）（人的行为或态度）极端，盲目                                                                       |
-|                          | n.            | 绝妙的事物                                                                                                         |
-| submarine                | n.            | 潜艇                                                                                                               |
-|                          | a.            | 海底                                                                                                               |
-| submerge                 | v.            | （使）潜入水中，淹没；湮灭，掩盖（思想、感情等）                                                                   |
-| submerged                | a.            | 被淹没；被掩盖                                                                                                     |
-| submersion               | n.            | 潜入水中，淹没；（思想、感情等的）湮灭，掩盖                                                                       |
-| submersible              | a.            | 水下（使用）                                                                                                       |
-| submission               | n.            | 屈服，投降；提交，递交，提交的内容（文件、建议等）                                                                 |
-| submissive               | a.            | 顺从，温顺，听话                                                                                                   |
-| submissively             | ad.           | 顺从，服从                                                                                                         |
-| submit                   | v.            | 提交                                                                                                               |
-| subordinate              | a.            | 隶属，从属；次要                                                                                                   |
-|                          | n.            | 下级，部下                                                                                                         |
-|                          | v.            | 把…置于次要地位，使从属于                                                                                          |
-| substantial              | a.            | 大量，重大；结实                                                                                                   |
-| substitute               | v.            | 替换                                                                                                               |
-| subsume                  | v.            | 将…归入/纳入                                                                                                       |
-| subtitle                 | n.            | 副标题                                                                                                             |
-| subtle                   | a.            | 细微的，淡淡的，不明显；巧妙的，机智的；敏锐，头脑灵活                                                             |
-| subtlety                 | n.            | 巧妙，机智，敏锐；细微之处，微妙之处                                                                               |
-| suburb                   | n.            | 郊区                                                                                                               |
-| suburban                 | a.            | 郊区                                                                                                               |
-| subway                   | n.            | （美）地铁                                                                                                         |
-| success                  | n.            | 成功                                                                                                               |
-| successful               | a.            | 成功                                                                                                               |
-| successor                | n.            | 继任                                                                                                               |
-| succinct                 | a.            | 简洁，简明，言简意赅                                                                                               |
-| succinctly               | ad.           | 简洁，简明，言简意赅                                                                                               |
-| succulent                | a.            | 汁多味美；（植物）多肉                                                                                             |
-|                          | n.            | 多肉植物                                                                                                           |
-| such                     | pron.         | 这样，诸如此类；这样，那样，之类；如此，这么                                                                       |
-| such as                  |               | 例如；像这样                                                                                                       |
-| sucker                   | n.            | 蠢货，混蛋                                                                                                         |
-| sufficient               | a.            | 足够，充足                                                                                                         |
-| sugar                    | n.            | 糖                                                                                                                 |
-| suicide                  | n.            | 自杀；自毁，自取灭亡；自杀者                                                                                       |
-| suit                     | n.            | 西装，西服；（从事特定活动时穿的）一套服装；（扑克牌的）花色；控告，控诉，诉讼                                     |
-|                          | v.            | 对（某人）方便，满足（某人）需要，合（某人）心意；（衣服、颜色等）合身                                             |
-| sulfur                   | n.            | 硫                                                                                                                 |
-| sully                    | v.            | 败坏，贬损；玷污                                                                                                   |
-| summer                   | n.            | 夏季                                                                                                               |
-| summit                   | n.            | 山顶，顶峰，顶点；首脑会议，峰会；高潮                                                                             |
-| summon                   | v.            | 传唤（出庭）；召唤；召集，召开（会议）；呼吁，请求；鼓起，振作，使出                                               |
-| sun                      | n.            | 太阳                                                                                                               |
-| Sunday                   | n.            | 星期日                                                                                                             |
-| sunflower                | n.            | 向日葵                                                                                                             |
-| sunset                   | n.            | 日落，傍晚；晚霞                                                                                                   |
-|                          | a.            | 最后                                                                                                               |
-| super                    | a.            | 超级，非常好                                                                                                       |
-| superb                   | a.            | 卓越，极好                                                                                                         |
-| superficial              | a.            | 表面；表皮；浅薄，肤浅                                                                                             |
-| supernova                | n.            | 超新星                                                                                                             |
-| supper                   | n.            | 晚餐，晚饭                                                                                                         |
-| supplement               | n.            | 补充；增刊；补编                                                                                                   |
-|                          | v.            | 补充，增补                                                                                                         |
-| supplementary            | a.            | 补充，附加                                                                                                         |
-| supplicant               | n.            | 恳求者，祈求者                                                                                                     |
-| supplication             | n.            | 恳求，祈求                                                                                                         |
-| supplier                 | n.            | 供应商，供应方                                                                                                     |
-| supply                   | v.            | 供应，供给                                                                                                         |
-|                          | n.            | 供，供应，供给；补给                                                                                               |
-| support                  | v.            | 支持                                                                                                               |
-|                          | n.            | 支持                                                                                                               |
-| suppress                 | v.            | （政府、统治者等）镇压；禁止公开，隐瞒；忍住，控制，按捺；抑制                                                     |
-| suppression              | n.            | 镇压；控制；抑制                                                                                                   |
-| supreme                  | a.            |                                                                                                                    |
-| sure                     | a.            | 确定                                                                                                               |
-| surf                     | v.            | 冲浪                                                                                                               |
-| surface                  | n.            | 表面，表层，面；地面，水面，液面；台面；表面，外表                                                                 |
-| surfing                  | n.            | 冲浪                                                                                                               |
-| surgery                  | n.            | （医）外科，外科手术，外科学；诊室                                                                                 |
-| surpass                  | v.            | 超过，超出，胜过，优于                                                                                             |
-| surplus                  | n.            | 过剩，剩余；盈余，顺差                                                                                             |
-|                          | a.            | 过剩，剩余                                                                                                         |
-| surprise                 | n.            | 惊喜                                                                                                               |
-| surveillance             | n.            | 监视，监督                                                                                                         |
-| survive                  | v.            | 生存下来，存活，留存，继续存在；幸免（于难），度过（难关）；比…存活的时间长                                        |
-| survivor                 | n.            | 幸存者，生还者                                                                                                     |
-| sushi                    | n.            | 寿司                                                                                                               |
-| susceptible              | a.            | 易受…影响，敏感；有可能，容许                                                                                      |
-| susceptibility           | n.            | 易受…影响的特性，敏感性                                                                                            |
-| susceptibilities         | n.            | 感情脆弱的地方                                                                                                     |
-| suspect                  | n.            | 嫌犯                                                                                                               |
-| suspend                  | v.            | 吊销                                                                                                               |
-| swab                     | v.            | （医用）拭子；拭子（对人体）采集的化验标本的                                                                       |
-|                          | n.            | 用拭子擦拭；擦洗，擦拭                                                                                             |
-| swap                     | v.            | 交换                                                                                                               |
-|                          | n.            | 交换                                                                                                               |
-| swathe                   | n.            | （尤指割了庄稼的）一长条田地；一长条                                                                               |
-|                          | v.            | 包，裹，覆盖                                                                                                       |
-| sweat                    | n.            | 汗；出汗，流汗；艰苦工作，不懈努力，劳动；（美）运动服                                                             |
-|                          | v.            | 出汗，流汗；（物体表面）渗出水分，结水珠；艰苦工作，不懈努力                                                       |
-| sweater                  | n.            | 毛衣                                                                                                               |
-| sweaty                   | a.            | 汗湿，全是汗；热得让人出汗                                                                                         |
-| sweep                    | v.            | 扫，打扫，清扫；（迅猛地）吹走，冲走，卷走，扫走；（风、雨、雪、火等）席卷，横扫；步态轻盈地走，大模大样地走       |
-|                          |               | 挥动，挥舞（手臂等）；突然袭来；迅速传播；扫视，搜索；（使）轻轻掠过，轻轻擦过；梳；缓坡延伸；                     |
-|                          |               | （美）（在系列比赛中）横扫，获得全部胜利，囊括所有冠军                                                             |
-| swerve                   | v.            | （车辆）突然转弯，急转弯                                                                                           |
-| switch                   | n.            | （电路的）开关，电闸；（尤指突然彻底的）改变，转变；（铁路的）道闸                                                 |
-|                          | v.            | （使）转变，切换，调动；交换，对调；调班，换班                                                                     |
-| swim                     | v.            | 游泳                                                                                                               |
-| swimming                 | v.            | 游泳                                                                                                               |
-| swing by                 |               | 去一趟，短暂拜访                                                                                                   |
-| sword                    | n.            | 剑                                                                                                                 |
-| symbol                   | n.            | 象征；符号，记号，代号                                                                                             |
-| symbolic                 | a.            | 作为象征，象征性的                                                                                                 |
-| symbolize                | v.            | 象征，代表                                                                                                         |
-| symmetric                | a.            | 对称                                                                                                               |
-| symmetrical              | a.            | 对称                                                                                                               |
-| symmetry                 | n.            | 对称                                                                                                               |
-| sympathy                 | n.            | 同情，体谅，体恤；赞同，支持；意气相投，志同道合                                                                   |
-| sympathetic              | a.            | 同情，体谅，体恤；赞同，支持；招人喜欢                                                                             |
-| sympathize               | v.            | 同情，体谅，体恤；赞同，支持                                                                                       |
-| symphony                 | n.            | 交响乐，交响曲                                                                                                     |
-| symptom                  | n.            | 症状；征候，征兆                                                                                                   |
-| sync                     | n.            | 同步                                                                                                               |
-| synchronize              | v.            | （使）同步                                                                                                         |
-| synchronization          | n.            | 同步                                                                                                               |
-| synchronous              | a.            | 同步                                                                                                               |
-| syntax                   | n.            | 语法                                                                                                               |
-| syntactic                | a.            | 语法                                                                                                               |
-| system                   | n.            | 系统                                                                                                               |
-| systematic               | a.            | 系统的，有计划有步骤的                                                                                             |
-| systematically           | ad.           | 系统地，有计划有步骤地                                                                                             |
-|                          |               |                                                                                                                    |
+|                          |               |                                                                                                                     |
+| ------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------- |
+| sabotage                 | n.            | （为防止敌人利用或表示抗议而对设备、交通等进行的）蓄意毁坏；（故意）阻碍，妨碍，捣乱                                |
+|                          | v.            | 蓄意破坏，阴谋破坏（以防止敌方利用或表示抗议）；（故意）阻碍，妨碍，捣乱                                            |
+| sack                     | n.            |                                                                                                                     |
+|                          | v.            | （英）解雇，炒鱿鱼                                                                                                  |
+| sacred                   | a.            | 神圣，圣；受尊重，神圣                                                                                              |
+| sacrifice                | n.            | 牺牲；祭品，牺牲                                                                                                    |
+|                          | v.            | 牺牲，献出；将…作为祭品                                                                                             |
+| sacrilege                | n.            | （对圣物或圣地的）亵渎                                                                                              |
+| sad                      | a.            | （令人）难过，伤心，悲哀                                                                                            |
+| sadden                   | v.            | 使难过，使伤心，使悲哀                                                                                              |
+| saddle                   | n.            | 马鞍；（自行车或摩托车的）车座                                                                                      |
+| sadism                   | n.            | 施虐倾向，虐待倾向；性施虐倾向，性虐待倾向                                                                          |
+| sadist                   | n.            | 施虐狂，虐待狂                                                                                                      |
+| sadness                  | n.            | 难过，伤心，悲伤                                                                                                    |
+| safe                     | a.            | 安全；未受伤害，未遭损害；无风险，保险，四平八稳；谨慎，小心；确当，稳当                                            |
+| safeguard                | v.            | 保护，保障，捍卫                                                                                                    |
+|                          | n.            | 安全设施，保护措施                                                                                                  |
+| safety                   | n.            | 安全                                                                                                                |
+| sage                     | n.            | 鼠尾草                                                                                                              |
+| sail                     | v.            | （船或船上的人）航行；起航；飘过，（人）昂首而行                                                                    |
+|                          | n.            | 帆；航行                                                                                                            |
+| sailboat                 | n.            | （美）帆船                                                                                                          |
+| sailing                  | n.            | 帆船（运动）                                                                                                        |
+| sailor                   | n.            | 水手                                                                                                                |
+| saint                    | n.            | （因其生平或殉教事迹而获基督教会追封的）圣人，圣徒；圣人般的人（指特别善良、仁爱或有耐性的人）                      |
+| sake                     | n.            | 缘故，份                                                                                                            |
+| salad                    | n.            | 沙拉                                                                                                                |
+| salary                   | n.            | 工资，薪水                                                                                                          |
+| sale                     | n.            | 出售，销售；特价促销；销售活动（尤指拍卖）                                                                          |
+| for sale                 |               | 待售                                                                                                                |
+| on sale                  |               | 出售，上市；（美）降价销售                                                                                          |
+| sales                    | n.            | 销售额；销售部                                                                                                      |
+| saline                   | a.            | 盐，含盐，咸                                                                                                        |
+| salinity                 | n.            | 咸度                                                                                                                |
+| salmon                   | n.            | 三文鱼，鲑鱼                                                                                                        |
+| salon                    | n.            | 沙龙（旧时作家、艺术家等在名流家中定期举行的聚会）；美容店，美发店                                                  |
+| salt                     | n.            | 盐；（化）盐                                                                                                        |
+|                          | v.            | 放盐；用盐腌制                                                                                                      |
+|                          | a.            | 含盐，咸；腌制                                                                                                      |
+| salty                    | a.            | 咸                                                                                                                  |
+| salute                   | v.            | 敬礼；致敬，致意                                                                                                    |
+|                          | n.            | 敬礼；致敬，致意；礼炮                                                                                              |
+| salvage                  | n.            | （对财物等的）抢救；抢救出的财物                                                                                    |
+|                          | v.            | 营救（失事船舶等），抢救（失事船舶、火灾等中的财物）；挽救；挽回                                                    |
+| same                     | a.            | 相同，同一；一样，一模一样                                                                                          |
+|                          | pron.         | 相同，同样，一样                                                                                                    |
+| sample                   | n.            | （抽查的）样本，样品；（化验的）取样，样本；（作为标准或代表的）样品，货样                                          |
+|                          | v.            | 尝试，体验；抽样，取样，采样                                                                                        |
+| sampling                 | n.            | 抽样，取样；（乐曲的）节录，选录                                                                                    |
+| sanction                 | n.            | 制裁；（正式）许可，批准；处罚                                                                                      |
+|                          | v.            | （正式）许可，批准；制裁                                                                                            |
+| sand                     | n.            | 沙；沙滩                                                                                                            |
+| sandal                   | n.            | 凉鞋                                                                                                                |
+| sandbox                  | n.            | （美）沙坑；（游）沙盒                                                                                              |
+| sandpaper                | n.            | 砂纸                                                                                                                |
+| sandstorm                | n.            | 沙暴                                                                                                                |
+| sandwich                 | n.            | 三明治                                                                                                              |
+| sandy                    | a.            | 沙                                                                                                                  |
+| sane                     | a.            | 神志正常；明智，理智                                                                                                |
+| sanitary                 | a.            | 卫生                                                                                                                |
+| sanitary towel           | n.            | 卫生巾                                                                                                              |
+| sanity                   | n.            | 头脑清醒，神志正常；明智，理智，审慎                                                                                |
+| sarcasm                  | n.            | 讽刺，嘲讽，挖苦                                                                                                    |
+| sarcastic                | a.            | 讽刺，嘲讽，挖苦                                                                                                    |
+| sardonic                 | a.            | 轻蔑，嘲弄                                                                                                          |
+| Satan                    | n.            | 撒旦，魔鬼                                                                                                          |
+| satellite                | n.            | 卫星                                                                                                                |
+| satire                   | n.            | 讽刺，讽刺作品                                                                                                      |
+| satirical                | a.            | 讽刺                                                                                                                |
+| satirize                 | v.            | 讽刺                                                                                                                |
+| satisfaction             | n.            | 满足，满意，欣慰；（需要或欲望的）满足，达到；（抗议、投诉等的）妥善处理，（债务的）清偿，（伤害的）赔偿            |
+| satisfactory             | a.            | 令人满意                                                                                                            |
+| satisfactorily           | ad.           | 令人满意                                                                                                            |
+| satisfied                | a.            | 满足，满意，欣慰；确信，信服                                                                                        |
+| satisfy                  | v.            | 使满足，使满意；满足（要求、需要等）；使确信，使信服                                                                |
+| satisfying               | a.            | 令人满意                                                                                                            |
+| Saturday                 | n.            | 星期六                                                                                                              |
+| saturate                 | v.            | 浸透，使湿透；使饱和                                                                                                |
+| saturated                | a.            | 浸透，湿透；（化）（溶液）饱和                                                                                      |
+| saturation               | n.            | 饱和；（化）饱和度                                                                                                  |
+| Saturday                 | n.            | 星期六                                                                                                              |
+| Saturn                   | n.            | 土星                                                                                                                |
+| sauce                    | n.            | 酱                                                                                                                  |
+| saucer                   | n.            | 茶碟                                                                                                                |
+| sauna                    | n.            | 桑拿                                                                                                                |
+| sausage                  | n.            | 香肠                                                                                                                |
+| savage                   | a.            | 凶恶，凶残；猛烈（抨击）                                                                                            |
+| savant                   | n.            | 学者，专家                                                                                                          |
+| savagely                 | ad.           | 凶恶，凶残；猛烈（抨击）                                                                                            |
+| save                     | v.            | 救，救助，挽救；储蓄，攒钱；收集，收藏，攒；保留，保存，留；节省，节约；避免，免得（困难或不愉快的事情）；          |
+|                          |               | （计）保存                                                                                                          |
+| savor                    | v.            | 品味，享用，品；体会，品味                                                                                          |
+|                          | n.            | 味道，气味，滋味                                                                                                    |
+| saw                      | n.            | 锯                                                                                                                  |
+|                          | v.            | 锯；拉                                                                                                              |
+| Saxon                    | n.            | 撒克逊人                                                                                                            |
+| saxophone                | n.            | 萨克斯                                                                                                              |
+| say                      | v.            | 说；念，朗诵；表达（意见）；比方说，假设；表明，表达（思想感情）；写着，显示                                        |
+| saying                   | n.            | 俗语，谚语                                                                                                          |
+| scaffolding              | n.            | 脚手架                                                                                                              |
+| scalar                   | n.            | 标量                                                                                                                |
+| scalability              | n.            | 伸缩性                                                                                                              |
+| scalable                 | a.            | 可伸缩                                                                                                              |
+| scale                    | n.            | （尤指与其他事物相比较时的）规模，范围，程度；等级，级别；等级体系；标度，刻度；秤，天平；比例，比例尺；            |
+|                          |               | 音阶；鳞片；牙垢                                                                                                    |
+|                          | v.            | 攀登，到达…顶点；去鳞；改变…大小                                                                                    |
+| scam                     | n.            | 诈骗                                                                                                                |
+| scan (scanned, scanning) | v.            | 察看，审视，端详；浏览，翻阅；扫描；（计）扫描                                                                      |
+| scandal                  | n.            | 丑闻；可耻的行为（或态度）                                                                                          |
+| scandalous               | a.            | 丢人，可耻，不可接受，触目惊心；讲述丑闻的                                                                          |
+| scandalously             | ad.           | 不可接受，触目惊心                                                                                                  |
+| scanner                  | n.            | 扫描仪，扫描器                                                                                                      |
+| scanning                 | n.            | 扫描                                                                                                                |
+| scar                     | n.            | 伤疤，伤痕，疤痕；（精神上的）创伤；污点，抹黑，煞风景                                                              |
+|                          | v.            | 留下伤疤，伤痕，疤痕；留下精神创伤；损害…外观                                                                       |
+| scare                    | v.            | 惊吓，吓，使害怕，使恐惧；受惊吓，害怕，恐惧                                                                        |
+|                          | n.            | 恐惧，恐慌；惊吓，吓                                                                                                |
+| scared                   | a.            | 害怕，恐惧，担心                                                                                                    |
+| scarf                    | n.            | 围巾，披巾                                                                                                          |
+| scarlet                  | a.            | 猩红，鲜红                                                                                                          |
+| scatter                  | v.            | 撒；散开，四散，分散                                                                                                |
+|                          | n.            | 散落，稀落，零星                                                                                                    |
+| scenario                 | n.            | 剧本；剧情梗概；可能的情况，可能；方案                                                                              |
+| scene                    | n.            | （尤指事件发生的）现场；事件，场面，情景；片段，镜头，戏；（戏剧或歌剧的）场；风景，景色，风光                      |
+|                          |               | （尤指当众、有失体面的）争吵，吵闹                                                                                  |
+| scenery                  | n.            | 风景，景色，风光                                                                                                    |
+| scent                    | n.            | 香味；（人或动物留下的）气味，气息；（英）香水；察觉，预感，味道                                                    |
+|                          | v.            | 嗅出，闻到；察觉到，预感到；使有香味                                                                                |
+| scentless                | a.            | 没有气味                                                                                                            |
+| scheme                   | n.            | （英）计划，方案；阴谋，诡计，计谋                                                                                  |
+|                          | v.            | 密谋，秘密策划                                                                                                      |
+| school                   | n.            | 学校                                                                                                                |
+| elementary school        |               | （美）小学                                                                                                          |
+| junior high school       |               | （美）初中                                                                                                          |
+| high school              |               | （美）高中                                                                                                          |
+| middle school            |               | （美）初中                                                                                                          |
+| primary school           |               | （英）小学                                                                                                          |
+| secondary school         |               | （美）中学（初中和高中）                                                                                            |
+| senior high school       |               | （美）高中                                                                                                          |
+| science                  | n.            | 科学                                                                                                                |
+| science fiction (sci-fi) | n.            | 科幻                                                                                                                |
+| scientist                | n.            | 科学家                                                                                                              |
+| scope                    | n.            |                                                                                                                     |
+| score                    | n.            | 分数，得分                                                                                                          |
+| scoreboard               | n.            | 计分板                                                                                                              |
+| scouter                  | n.            | 童子军                                                                                                              |
+| scratch                  | v.            | 搔，挠；抓破，抓伤，划破，划伤（皮肤）；（尤指意外地）擦破，划损，刮坏；刮出（或刮掉）痕迹，造成（或擦去）痕迹；    |
+|                          |               | 刮（或抓、擦）出刺耳声；（未开始就）取消，退出                                                                      |
+|                          | n.            | （皮肤或物体表面上的）划伤，划痕；刮（或抓、擦）的刺耳声；搔，挠                                                    |
+| scratchy                 | a.            | （衣服）扎人，粗糙刺激皮肤；（录音）带杂音；（声音）沙哑；（字迹或图画）潦草                                        |
+| from scratch             |               | 从头开始，从零开始                                                                                                  |
+| up to scratch            |               | 达到要求，合乎标准                                                                                                  |
+| script                   | n.            | 脚本                                                                                                                |
+| screen                   | n.            | 屏幕                                                                                                                |
+| scrutiny                 | n.            | 仔细检查，审查                                                                                                      |
+| sea                      | n.            | 海                                                                                                                  |
+| seafood                  | n.            | 海鲜                                                                                                                |
+| search                   | v.            | 搜索                                                                                                                |
+| season                   | n.            | 季节；赛季                                                                                                          |
+| seat                     | n.            | 座位                                                                                                                |
+| second                   | det. ord.num. | 第二；秒                                                                                                            |
+| secret                   | n.            | 秘密                                                                                                                |
+| secretary                | n.            | 秘书；（组织、社团的）文书；（美）部长                                                                              |
+| section                  | n.            | 节                                                                                                                  |
+| see                      | v.            | 看见；看得见，有视力；观看（比赛、节目、演出等）；见，参见；拜访，看望；理解，明白；认为，看待，视为；              |
+|                          |               | 设想，想象；看看，看得到，走着瞧；考虑，定夺；见识，经历；是…发生的时间/地点；送（走）                              |
+| seed                     | n.            | 种子，籽；起因，萌芽，种子；种子选手；随机数种子                                                                    |
+|                          | v.            | 结籽；播种；选为种子选手                                                                                            |
+| seek                     | v.            | 寻求                                                                                                                |
+| seem                     | v.            | 看起来                                                                                                              |
+| segregate                | v.            | 隔离并区别对待（同种族、宗教或性别的人）；（使）分开，分隔，隔离                                                    |
+| segregation              | n.            | （对不同种族、宗教或性别的人所采取的）隔离，区别对待；隔离措施，分隔措施                                            |
+| segregationist           | a.            | （种族、宗教、性别）隔离主义的                                                                                      |
+| seizure                  | n.            | 起获，没收，充公；夺取，占领                                                                                        |
+| select                   | v.            | 选择                                                                                                                |
+| selection                | n.            | 选择                                                                                                                |
+| self                     | n.            | 个性，自我                                                                                                          |
+| self-awareness           | n.            | 自知，自知之明                                                                                                      |
+| self-confessed           | a.            | 自己承认，自己坦白                                                                                                  |
+| self-confidence          | n.            | 自信                                                                                                                |
+| self-confident           | a.            | 自信                                                                                                                |
+| self-contained           | a.            | 独立，自立；自给自足，独立                                                                                          |
+| self-control             | n.            | 自制，自控                                                                                                          |
+| self-correcting          | a.            | 自动调节                                                                                                            |
+| self-criticism           | n.            | 自我批评                                                                                                            |
+| self-defense             | n.            | 自卫，自我保护；防身术                                                                                              |
+| self-destruct            | v.            | （尤指机器等）自毁，自爆                                                                                            |
+| self-destruction         | n.            | 自毁                                                                                                                |
+| self-development         | n.            | 自我发展，自我提高                                                                                                  |
+| self-discipline          | n.            | 自律能力                                                                                                            |
+| self-doubt               | n.            | 自我怀疑                                                                                                            |
+| self-effacing            | a.            | 谦逊，不求闻达                                                                                                      |
+| self-employed            | a.            | 个体经营，自由职业                                                                                                  |
+| self-esteem              | n.            | 自尊                                                                                                                |
+| self-evident             | a.            | 不证自明，显而易见，不言而喻                                                                                        |
+| self-expression          | n.            | 自我表现，自我表达                                                                                                  |
+| self-fulfilling          | a.            | （预言等）自我应验，自我实现                                                                                        |
+| self-governing           | a.            | 自治                                                                                                                |
+| self-government          | n.            | 自治                                                                                                                |
+| self-help                | n.            | 自助                                                                                                                |
+| self-indulgence          | n.            | 自我放纵，任性                                                                                                      |
+| self-indulgent           | a.            | 放纵自己，任性                                                                                                      |
+| self-interest            | n.            | 自私自利                                                                                                            |
+| self-love                | n.            | 自爱                                                                                                                |
+| self-portrait            | n.            | 自画像                                                                                                              |
+| self-possessed           | a.            | 沉着，镇定，泰然自若                                                                                                |
+| self-promotion           | n.            | （贬）自我吹嘘                                                                                                      |
+| self-realization         | n.            | 自我实现                                                                                                            |
+| self-respect             | n.            | 自尊，自尊心                                                                                                        |
+| self-service             | a.            | 自助                                                                                                                |
+| self-study               | n.            | 自学                                                                                                                |
+| self-sufficient          | a.            | 自给自足                                                                                                            |
+| selfie                   | n.            | 自拍                                                                                                                |
+| selfish                  | a.            | 自私                                                                                                                |
+| selfless                 | a.            | 无私                                                                                                                |
+| sell                     | v.            | 卖，出售                                                                                                            |
+| seller                   | n.            | 销售者，卖方；商品                                                                                                  |
+| semantic                 | a.            | （语）语义                                                                                                          |
+| semantics                | n.            | （语）语义学；（语）（单词、短语或其他符号系统的）含义                                                              |
+| semaphore                | n.            | 旗语，发信号                                                                                                        |
+|                          | v.            | 旗语，发信号                                                                                                        |
+| semen                    | n.            | 精液                                                                                                                |
+| semi-                    |               | 半                                                                                                                  |
+| semi-automatic           | a.            | 半自动                                                                                                              |
+| semicircle               | n.            | 半圆形                                                                                                              |
+| semicolon                | n.            | 分号                                                                                                                |
+| semiconductor            | n.            | 半导体                                                                                                              |
+| seminar                  | n.            | （大学教师带领学生作专题讨论的）研讨班；研讨会                                                                      |
+| send                     | v.            | 发送                                                                                                                |
+| senior                   | a.            | 地位（或职位、级别）高；成人；老年；（美）大学四年级                                                                |
+|                          | n.            | 年长；上级，上司；高水平的人；（美）大四学生                                                                        |
+| sense                    | n.            | 感觉官能；感觉，意识；理解力，判断力，…感；良好的判断，清醒的认识；意义，含义，理解…的方式，看待…的角度             |
+|                          | v.            | 感到，意识到，觉察到；检测出                                                                                        |
+| sense of achievement     |               | 成就感，达成感                                                                                                      |
+| sense of proportion      |               | 分清轻重缓急                                                                                                        |
+| senseless                | a.            | 无意义，无目的，无谓；失去知觉，不省人事；不明智，莽撞                                                              |
+| senses                   | n.            | 健全的心智，理智                                                                                                    |
+| sensibilities            | n.            | （尤指易受伤害或影响的）感情                                                                                        |
+| sensibility              | n.            | （尤指文艺方面的）感受力，鉴赏力                                                                                    |
+| sensible                 | a.            | （人及行为）明智，理智，合理，切合实际；（服装）实用而不时尚；意识到，认识到                                        |
+| sensibly                 | ad.           | 明智，得体                                                                                                          |
+| sensitive                | a.            | 体贴，善解人意；（对艺术、音乐、文学等的）感觉敏锐，表达能力强；（人）敏感，容易生气；（话题）敏感，需谨慎对待；    |
+|                          |               | （身体部位）敏感，过敏；灵敏，敏感                                                                                  |
+| sensitively              | ad.           | 谨慎，细致；细腻                                                                                                    |
+| sensitivity              | n.            | 体贴，体恤，体察；（对艺术、音乐、文学等的）悟性；（人）敏感，容易生气；（话题）敏感性；过敏；灵敏度                |
+| sensor                   | n.            | 传感器                                                                                                              |
+| sensory                  | a.            | 感觉，感官                                                                                                          |
+| sentence                 | n.            | （语法）句子；判决，判处                                                                                            |
+|                          | v.            | 判决，判处                                                                                                          |
+| sentiment                | n.            | （基于情感的）观点，看法，情绪；（过度或不恰当的）伤感，柔情                                                        |
+| sentimental              | a.            | 情感的（非理性的）；（过度或不恰当地）伤感，柔情，多愁善感                                                          |
+| sentimentalist           | n.            | 多愁善感的人                                                                                                        |
+| sentimentality           | n.            | 多愁善感                                                                                                            |
+| sentinel                 | n.            | 哨兵                                                                                                                |
+| sentry                   | n.            | 哨兵                                                                                                                |
+| separable                | a.            | 可分开，可分离，可划分                                                                                              |
+| separate                 | a.            | 单独，独立，分开；不同，不相关                                                                                      |
+|                          | v.            | （使）分开，分离，分割，划分；相隔，阻隔；分居；区分，区别                                                          |
+| separated                | a.            | 分居                                                                                                                |
+| separately               | ad.           | 单独，分别                                                                                                          |
+| separation               | n.            | 分开，分离，分割，划分；离别；分居                                                                                  |
+| separatism               | n.            | 分离主义，分裂主义                                                                                                  |
+| separatist               | n.            | 分离主义者，分裂主义者                                                                                              |
+|                          | a.            | 分离主义，分裂主义                                                                                                  |
+| September                | n.            | 九月                                                                                                                |
+| sequel                   | n.            | （书、电影、戏剧等的）续篇，续集；后续，随之而来的事，结果                                                          |
+| sequence                 | n.            | 一系列，一连串；顺序，次序                                                                                          |
+|                          | v.            | 按顺序排列；测序                                                                                                    |
+| sequential               | a.            | 顺序                                                                                                                |
+| sequentially             | ad.           | 顺序                                                                                                                |
+| serene                   | a.            | 平静，宁静，安详                                                                                                    |
+| serenely                 | ad.           | 平静，宁静，安详                                                                                                    |
+| serenity                 | n.            | 平静，宁静，安详                                                                                                    |
+| sergeant                 | n.            | 陆军（或空军）中士                                                                                                  |
+| serial                   | n.            | 电视连续剧，连载小说（或漫画等）                                                                                    |
+|                          | a.            | 顺序排列；连续，多次；（小说等）连载，连续                                                                          |
+| serial killer            | n.            | 连环杀手                                                                                                            |
+| serial number            | n.            | 序号；序列号                                                                                                        |
+| serial order             | n.            | 顺序                                                                                                                |
+| serializability          | n.            | 可串行性                                                                                                            |
+| serializable             | a.            | （计）可序列化；（计）可串行化                                                                                      |
+| serialize                | v.            | 连载，连播                                                                                                          |
+| serious                  | a.            | 严重；严肃；重要，需要重视；真，认真                                                                                |
+| servant                  | n.            | 仆人，佣人；（公司或机构的）雇员，职员；奴仆般受制（或献身）于…的人                                                 |
+| server                   | n.            | 服务器                                                                                                              |
+| service                  | n.            | 服务                                                                                                                |
+| set                      | v.            | 放，置；使处于某种状况；以…为故事背景；设置，设定；摆放；镶嵌；安排，决定；树立，开创；布置，分配；凝固，固定；     |
+|                          |               | 落下                                                                                                                |
+|                          | a.            | 固定；做好准备                                                                                                      |
+| settle                   | v.            |                                                                                                                     |
+| seven                    | num.          | 七                                                                                                                  |
+| seventh                  | ord.num.      | 第七                                                                                                                |
+| seventy                  | num.          | 七十                                                                                                                |
+| sever                    | v.            | 切开，切断，切割；断绝，中断                                                                                        |
+| several                  | det.pron.     | 几个                                                                                                                |
+| severe                   | a.            | 非常严重，极其恶劣；严厉，严，重；严厉，苛刻；艰难，艰巨，严峻；过于简朴，简陋                                      |
+| severely                 | ad.           | 非常严重；严厉，严，重；过于简朴，简陋                                                                              |
+| severity                 | n.            | 严重性，严重程度；严厉；过于简朴，简陋                                                                              |
+| sew                      | v.            | 缝；缝补，缝合                                                                                                      |
+| sewage                   | n.            | （下水道的）污水，污物                                                                                              |
+| sewer                    | n.            | 污水管，下水道                                                                                                      |
+| sewing                   | n.            | 缝纫；缝制的衣物                                                                                                    |
+| sewing machine           | n.            | 缝纫机                                                                                                              |
+| sex                      | n.            | 性，性别；性行为，性交；性欲…的                                                                                     |
+| sexism                   | n.            | 性别歧视                                                                                                            |
+| sexist                   | n.            | 性别歧视的人                                                                                                        |
+|                          | a.            | 性别歧视的                                                                                                          |
+| sexless                  | a.            | 无性别；性冷淡，无性行为                                                                                            |
+| sexology                 | n.            | 性学                                                                                                                |
+| shabby                   | a.            | （ 建筑物、衣服、物品等）破旧，破烂，破败；（人）衣衫褴褛；（行为）不公正，不合理                                   |
+| shade                    | n.            | 阴凉处；灯罩；深浅浓淡，色度；阴影部分，暗部；一点，略微；幽灵，鬼                                                  |
+|                          | v.            | 为…遮挡光线；加灯罩；涂暗，加阴影                                                                                   |
+| shades                   | n.            | 各种，不同，多层                                                                                                    |
+| shadow                   | n.            | 阴影，影子，影；少许，些微，一丁点；（坏）影响；形影不离的人（或动物）；虚幻的事物，不可能得到的事物                |
+|                          | v.            | 跟踪，盯梢；跟随…实地学习（或参观）；投下阴影                                                                       |
+| shadows                  | n.            | 背光处，阴暗处；黑眼圈                                                                                              |
+| shake                    | v.            | （使）摇晃，晃动，抖动，颤动；摇（出），抖（掉）；握（手）；挥（拳）；颤抖，战栗，哆嗦；（声音）颤抖；              |
+|                          |               | 使震惊；动摇；去除，摆脱                                                                                            |
+|                          | n.            | 摇晃，晃动，抖动，颤动                                                                                              |
+| shakes                   | n.            | 颤抖，战栗，哆嗦                                                                                                    |
+| shaky                    | a.            | 颤抖，颤巍巍；不稳固，不牢靠，不确切；不稳，可能失败                                                                |
+| shakily                  | ad.           | 颤抖                                                                                                                |
+| shallow                  | a.            | 浅；（人、观点、评论等）肤浅，浅薄                                                                                  |
+| shallowly                | ad.           | 浅                                                                                                                  |
+| sham                     | n.            | （贬）假象，假情假意，伪装，捏造；假装…的人，冒充者                                                                 |
+|                          | a.            | （贬）虚假，假装，假                                                                                                |
+|                          | v.            | 假装，冒充                                                                                                          |
+| shaman                   | n.            | 萨满                                                                                                                |
+| shamble                  | v.            | 蹒跚                                                                                                                |
+| shame                    | n.            | 羞耻，羞愧，惭愧；羞耻心；令人遗憾/惋惜的事；耻辱，丢脸                                                             |
+|                          | v.            | 使羞愧，使惭愧；使蒙羞，使丢脸                                                                                      |
+| shameful                 | a.            | 可耻的                                                                                                              |
+| shamefully               | ad.           | 可耻地                                                                                                              |
+| shameless                | a.            | 无耻，不要脸                                                                                                        |
+| shamelessly              | ad.           | 无耻，不要脸                                                                                                        |
+| shamelessness            | n.            | 无耻，不要脸                                                                                                        |
+| shampoo                  | n.            | 洗发水；洗涤剂                                                                                                      |
+|                          | v.            | 用洗发水洗（头发）；用洗涤剂洗                                                                                      |
+| shape                    | n.            | 形，形状，形式；难以看清的人/物；状况，身体状况；性质，特点                                                         |
+|                          | v.            | 使成为…形状；形塑；摆好姿势                                                                                         |
+| shapeless                | a.            | 无定形，模样难看；结构混乱，条理不清                                                                                |
+| shard                    | n.            | （玻璃、金属等的）碎片                                                                                              |
+| share                    | v.            | 共用，合用；分；分享，共享；有同样的（感情、观点、经历等）；分享（给他人）（感情、观点、经历等）；分担，共同承担    |
+|                          | n.            | （在若干人之间分得的）一份；（在多人活动中所占的）一份；（可以接受的）一份；（商）股份                              |
+| shark                    | n.            | 鲨鱼                                                                                                                |
+| sharp                    | a.            | 尖锐，锋利；（变化）急剧，骤然；清晰，清楚，鲜明；（人或人的头脑、眼睛等）敏锐；（人或言语）尖锐，严厉；            |
+|                          |               | 突然而响亮；（感觉或感情）（尤指受伤似地）剧烈，猛烈；急（转弯）；浓烈，刺鼻，冲；严寒，凛冽；                      |
+|                          |               | （人或做事方式）狡猾，诡诈；（衣着）时髦；瘦削；（音）升半音                                                        |
+|                          | ad.           | 整（点）                                                                                                            |
+|                          | n.            | （音）升半音                                                                                                        |
+| sharpen                  | v.            | 使锋利，使清晰；（感觉或感情）加强，增进，变清晰；使尖锐，使集中；提高，改善，磨练，磨砺；使（声音）尖锐            |
+| sharpener                | n.            | 削具，磨具                                                                                                          |
+| sharps                   | n.            | （医）针头                                                                                                          |
+| shave                    | v.            | 剃（头或胡须），刮（胡子）；削减，调低，降价                                                                        |
+|                          | n.            | 剃须，刮胡子                                                                                                        |
+| she                      | pron.         | 她                                                                                                                  |
+| shear                    | v.            | 剪羊毛；剪（头发）；（力学）剪，剪断                                                                                |
+| shed                     | n.            | 简易房，棚                                                                                                          |
+|                          | v.            | 去除，摆脱；使落下；蜕，落；发光，把光照到…上                                                                       |
+| sheep                    | n.            | 绵羊                                                                                                                |
+| sheer                    | a.            | （强调事物的大小、程度或数量）；完全的，纯粹的，十足的；陡峭；（织物）轻薄透明                                      |
+|                          | ad.           | 垂直，陡峭                                                                                                          |
+| sheet                    | n.            | 床单，被单；一张纸，资料，宣传材料，讲义；薄板（多指正方形或长方形的）；一片，一层（覆盖物）；一片，一摊（火或水）  |
+| shelf                    | n.            | 架子，搁板；（地）陆架，陆棚                                                                                        |
+| shell                    | n.            | 壳；壳状物；炮弹；（房屋或船舶等的）骨架，框架，壳体；（物体的）外壳，壳体；（人的）表面性格，表面人格，外表        |
+|                          | v.            | 炮击；给…去壳                                                                                                       |
+| shellfish                | n.            | （尤指可以吃的）水生有壳动物                                                                                        |
+| shelter                  | n.            | 居所，住处；遮蔽，庇护，避难；遮蔽物，庇护所，避难处；（无家可归者或受虐待者的）收容所，庇护所                      |
+|                          | v.            | 保护，掩蔽，庇护；躲避                                                                                              |
+| shield                   | n.            | 盾，盾牌；屏障，掩护；防护罩，挡板                                                                                  |
+|                          | v.            | 保护（免受侵害）                                                                                                    |
+| shelter                  | n.            | 庇护所                                                                                                              |
+| shelve                   | v.            | 搁置（计划）；在…放在架子（或搁板）上；（陆地）倾斜                                                                 |
+| sheriff                  | n.            | （美）治安官                                                                                                        |
+| sherry                   | n.            | 雪莉酒                                                                                                              |
+| shield                   | n.            | 盾，盾牌；挡箭牌，掩护，屏障；护罩，挡板；（美）（警察的）盾形徽章                                                  |
+|                          | v.            | 保护某人或某物（免遭危险、伤害或不快）；给…加防护罩                                                                 |
+| shift                    | v.            | 移动，挪动；（情况、意见、政策等）改变，转向；改变观点（或态度、做事方式等）；推卸，转嫁（责任）；去除（污渍等）；  |
+|                          |               | 销售，清库存（尤指销路不好的商品）；（美）换（挡）                                                                  |
+|                          | n.            | 改变，变化，转移，转换，变换；…班，轮班，轮班时间，轮班职工；（计算机的）转换键                                     |
+| shiftless                | a.            | （贬）没志向，不求上进，混日子                                                                                      |
+| shine (shone, shone)     | v.            | 发光，闪光，反光；照向；擦亮；出色，出类拔萃                                                                        |
+| shiny                    | a.            | 闪亮，光亮，有光泽                                                                                                  |
+| ship                     | n.            | 船，舰                                                                                                              |
+|                          | v.            | 航运，海运，运输，运送；上市，推向市场                                                                              |
+| shipping                 | n.            | 航运，海运，运输，运送；运费                                                                                        |
+| shipyard                 | n.            | 船坞，造船厂                                                                                                        |
+| shirk                    | v.            | 逃避工作，偷懒                                                                                                      |
+| shirt                    | n.            | 衬衫                                                                                                                |
+| shit                     | v.            | 拉屎                                                                                                                |
+|                          | n.            | 屎                                                                                                                  |
+| shiver                   | v.            | 颤抖，哆嗦（因寒冷、恐惧、激动等）                                                                                  |
+|                          | n.            | 颤抖，哆嗦（因寒冷、恐惧、激动等）；寒战，寒噤（因恐惧或发高烧）                                                    |
+| shock                    | n.            | 震惊，惊愕，大吃一惊；休克；（因爆炸、地震等引起的）剧烈震动，剧烈震荡；触电                                        |
+|                          | v.            | 使震惊，使惊愕，使大吃一惊；（脏话、不道德行为等）使气愤，使厌恶                                                    |
+| shocked                  | a.            | 震惊，惊愕                                                                                                          |
+| shoe                     | n.            | 鞋                                                                                                                  |
+| shoelace                 | n.            | 鞋带                                                                                                                |
+| shoestring               | n.            | （美）鞋带                                                                                                          |
+| shoot                    | v.            | 射击                                                                                                                |
+| shooting                 | n.            | 射击                                                                                                                |
+| shop                     | n.            | 商店                                                                                                                |
+|                          | v.            | 购物                                                                                                                |
+| shoplift                 | v.            | （商店里）偷窃，顺手牵羊                                                                                            |
+| shoplifting              | n.            | （商店里）偷窃，顺手牵羊                                                                                            |
+| shopper                  | n.            | 购物者，顾客                                                                                                        |
+| shopping                 | n.            | 购物                                                                                                                |
+| short                    | a.            | 短                                                                                                                  |
+| short circuit            | n.            | 短路                                                                                                                |
+| shortage                 | n.            | 短缺                                                                                                                |
+| shot                     | n.            | 射击，枪声；尝试；射门                                                                                              |
+| show                     | v.            | 展示，显示                                                                                                          |
+| shower                   | n.            | 淋浴；淋浴间，淋浴器；阵雨；一串                                                                                    |
+|                          | v.            | 淋浴；洒落；抛洒                                                                                                    |
+| showgirl                 | n.            | 展会的女模特                                                                                                        |
+| shovel                   | n.            | 铲，铁铲                                                                                                            |
+| shrimp                   | n.            | 小虾                                                                                                                |
+| shrine                   | n.            | 圣地，神庙                                                                                                          |
+| shrink                   | v.            | 缩水；缩小，收缩，减少                                                                                              |
+| shut down                |               | 关闭；关机                                                                                                          |
+| shut up                  |               | 闭嘴                                                                                                                |
+| side                     | n.            | 边，侧，头；侧面，侧；边缘，边；旁边，身边；一面；（平面图形的）边，（立体图形的）面；一方；一面，方面；（父/母）系 |
+| side effect              | n.            | 副作用                                                                                                              |
+| sidebar                  | n.            | 侧边栏                                                                                                              |
+| sidestep                 | v.            | 回避，规避（问题等）；晃过                                                                                          |
+| sidewalk                 | n.            | （美）人行道                                                                                                        |
+| siege                    | n.            | 围困，封锁（城镇）                                                                                                  |
+| sign                     | n.            | 迹象，征兆，预兆；招牌，指示牌，标志；示意的动作，手势；符号，记号                                                  |
+|                          | v.            | 签名，签字，签署；签约；示意；打手语                                                                                |
+| sign up                  | v.            | 报名                                                                                                                |
+| signal                   | n.            | 信号；标志，预示，信号；（尤指公路和铁路上的）指示灯，信号灯，红绿灯；（电波或数字）信号                            |
+|                          | v.            | 发信号，示意；标志，表明，预示；表达，显示                                                                          |
+| signature                | n.            | 签名，署名；明显特征，识别标志                                                                                      |
+| signer                   | n.            | 签名的人                                                                                                            |
+| significant              | a.            | 十分重要，有重大意义；明显，显著；有特别意义/含义；意味深长                                                         |
+| significantly            | ad.           | 有重大意义地；明显，显著，大幅度；有特别意义/含义；意味深长地                                                       |
+| signified                | n.            | （语）所指（语言符号的意义）                                                                                        |
+| signifier                | n.            | （语）能指（语言符号的形式）                                                                                        |
+| signify                  | v.            | 表示，说明，表明；表达，表示，显示（感情、意愿等）；（常用于疑问句或否定句）重要，要紧                              |
+| silence                  | n.            | 寂静，安静，无声；沉默，缄默，默不作声；三缄其口，拒绝回答；没有联系，杳无音信                                      |
+| silencer                 | n.            | （枪支的）消音器                                                                                                    |
+| silent                   | a.            | （人）不说话，不作声，沉默；沉默寡言；安静，不喧闹；不用言语表达，静默，无声；避而不谈，拒绝谈论，沉默；            |
+|                          |               | 无声（电影），默（剧）；（单词中的字母）不发音                                                                      |
+| silent majority          | n.            | 沉默的大多数（不公开表达意见的广大民众）                                                                            |
+| silently                 | ad.           | 沉默，默不作声；悄悄，静静；不用言语表达，静默，无声                                                                |
+| silica                   | n.            | 二氧化硅                                                                                                            |
+| silicon                  | n.            | 硅                                                                                                                  |
+| silk                     | n.            | （蚕）丝；丝织物，丝绸；丝线                                                                                        |
+| silkworm                 | n.            | 蚕                                                                                                                  |
+| silkily                  | ad.           | 柔和，轻柔                                                                                                          |
+| silky                    | a.            | 丝绸般的，柔软光洁；柔和，轻柔；丝质，丝绸                                                                          |
+| silly                    | a.            | 愚蠢，傻；（尤指像小孩一样）可笑，无聊，冒傻气；无谓的                                                              |
+| silt                     | n.            | 粉砂                                                                                                                |
+| silver                   | n.            | 银；银币，银器；银色，银灰色；银牌                                                                                  |
+|                          | a.            | 银色，银灰色                                                                                                        |
+| silvery                  | a.            | 银色，银灰色；（尤指嗓音）银铃般的，悦耳的                                                                          |
+| similar                  | a.            | 相似                                                                                                                |
+| simple                   | a.            | 简单的                                                                                                              |
+| simplify                 | v.            | 简化                                                                                                                |
+| simplified               | a.            | 简化                                                                                                                |
+| simulate                 | v.            | 模拟                                                                                                                |
+| simulation               | n.            | 模拟                                                                                                                |
+| simultaneous             | a.            | 同时，同步                                                                                                          |
+| simultaneously           | ad.           | 同时，同步                                                                                                          |
+| sin                      | n.            | 罪，罪恶，罪过（对神的冒犯或对宗教戒律、道德规范的违犯）；罪行，犯罪（违犯宗教戒律、道德规范的行为）                |
+|                          | v.            | 犯戒律，犯罪过                                                                                                      |
+| since                    | prep.         | 自从                                                                                                                |
+|                          | conj.         | 自从；因为，既然                                                                                                    |
+| sincere                  | a.            | （感情、信念或行为）真诚，诚挚，诚恳；（人）真诚，坦诚                                                              |
+| sincerely                | ad.           | 真诚地，真心地                                                                                                      |
+| sine                     | n.            | （数）正弦                                                                                                          |
+| sing                     | v.            | 唱歌                                                                                                                |
+| singer                   | n.            | 歌手                                                                                                                |
+| single                   | a.            | 单                                                                                                                  |
+| siren                    | n.            | 警笛，警报器；妖艳但危险的女人；危险的诱惑                                                                          |
+|                          |               | 塞壬（希腊神话中的半人半鱼女海妖，以美妙歌声诱使航海者撞向礁石或驶入危险水域）                                      |
+| sit                      | v.            | 坐                                                                                                                  |
+| site                     | n.            | 地点                                                                                                                |
+| six                      | num.          | 六                                                                                                                  |
+| siice                    | n.            | 切片                                                                                                                |
+| sixth                    | ord.num.      | 六十                                                                                                                |
+| sixty                    | num.          | 六十                                                                                                                |
+| slow                     | a.            | 慢                                                                                                                  |
+| skate                    | v.            | 滑冰，溜冰；玩滑板                                                                                                  |
+| skater                   | n.            | 滑冰者；玩滑板的                                                                                                    |
+| skating                  | n.            | 滑冰，溜冰                                                                                                          |
+| skateboard               | n.            | 滑板                                                                                                                |
+| skeleton                 | n.            | 骨骼，骨架；（建筑）框架；提纲，梗概                                                                                |
+| skill                    | n.            | 技能                                                                                                                |
+| skin                     | n.            | 皮肤                                                                                                                |
+| sky                      | n.            | 天空                                                                                                                |
+| slag                     | n.            | （英）（俚）荡妇                                                                                                    |
+| slate                    | n.            | 板岩，石板；（房顶的）石板瓦；（美）（选举中的）候选人名单                                                          |
+|                          | v.            | （英）尤指在报纸上 批评，抨击；预定，预计，计划，安排；（美）推举，选定                                             |
+| sleep                    | v.            | 睡觉                                                                                                                |
+| sleeper                  | n.            | 睡得…的人；睡觉的人；卧铺列车                                                                                       |
+| sleeve                   | n.            | 袖子                                                                                                                |
+| slice                    | n.            | 片；部分，份额                                                                                                      |
+|                          | v.            | 切片；切，割，划；大幅减少                                                                                          |
+| slide                    | v.            | 滑，滑行，滑动；溜，塞；降低，跌，贬值；滑入，陷入，衰退                                                            |
+|                          | n.            | 下跌，下降；滑入，陷入，衰退；滑，滑行，滑动；滑梯；崩塌，山崩；幻灯片；载玻片                                      |
+| slim                     | v.            | （人）苗条，纤细；单薄，薄；微薄，微弱                                                                              |
+| slim down                | v.            | 精简（机构），裁减（人员）                                                                                          |
+| slime                    | n.            | 污泥；史莱姆                                                                                                        |
+| slimline                 | a.            | 小巧                                                                                                                |
+| slope                    | n.            | 斜坡；山坡；坡度                                                                                                    |
+|                          | v.            | 倾斜，有坡度；（英）悄悄地走，溜走                                                                                  |
+| sloppy                   | a.            | 不认真，敷衍，草率；（衣服）松松垮垮；太稀                                                                          |
+| sloppiness               | n.            | 不认真，敷衍，草率                                                                                                  |
+| small                    | a.            | 小                                                                                                                  |
+| smell                    | v.            | 有…气味；闻到，闻；有嗅觉；散发臭味；觉察到，感觉到                                                                 |
+| smile                    | v.            | 微笑，笑；微笑着说                                                                                                  |
+|                          | n.            | 微笑                                                                                                                |
+| smile on                 | v.            | 有利于，垂青                                                                                                        |
+| smiley                   | n.            | 微笑符（例如:-)）                                                                                                   |
+| smoke                    | n.            | 烟                                                                                                                  |
+|                          | v.            | 吸烟                                                                                                                |
+| smoker                   | n.            | 吸烟者，烟民                                                                                                        |
+| smoking                  | n.            | 吸烟                                                                                                                |
+| smooth                   | a.            | 平整，光滑；混合均匀；顺利，平稳；平稳，流畅；圆滑，八面玲珑；醇厚                                                  |
+| smug                     | a.            | 沾沾自喜，自鸣得意                                                                                                  |
+| smuggle                  | v.            | 走私；偷运                                                                                                          |
+| smuggler                 | n.            | 走私犯                                                                                                              |
+| smuggling                | n.            | 走私（罪）                                                                                                          |
+| snack                    | n.            | 点心，小吃；快餐                                                                                                    |
+| snail                    | n.            | 蜗牛                                                                                                                |
+| snake                    | n.            | 蛇                                                                                                                  |
+|                          | v.            | 蛇行，蜿蜒                                                                                                          |
+| snap                     | v.            | （使）（咔嚓地）断裂，绷断；（使）（啪地）打开，关上；生气地说，不耐烦地说；咬；拍，拍照；                          |
+|                          |               | （突然）忍不住，承受不住                                                                                            |
+| snapshot                 | n.            | 快照                                                                                                                |
+| sneaker                  | n.            | 运动鞋                                                                                                              |
+| sneeze                   | v.            | 打喷嚏                                                                                                              |
+| sneezing                 | n.            | 打喷嚏                                                                                                              |
+| sniff                    | v.            | 抽鼻子；闻，吸，嗅；抱怨                                                                                            |
+| sniper                   | n.            | 狙击手                                                                                                              |
+| snippet                  | n.            | 一条（消息），一则（新闻）；一小段（对话、音乐等）                                                                  |
+| snitch                   | v.            | 告密，告状                                                                                                          |
+|                          | n.            | 告密者；线人                                                                                                        |
+| snob                     | n.            | （贬）势利的人，谄上欺下的人；自以为优越的人                                                                        |
+| snobbery                 | n.            | （贬）势利态度（或行为）；自我优越感                                                                                |
+| snobbish                 | a.            | （贬）势利；自我优越                                                                                                |
+| snore                    | v.            | 打鼾，打呼噜                                                                                                        |
+|                          | n.            | 打鼾，打呼噜                                                                                                        |
+| snort                    | v.            | 用鼻子吸（毒品）                                                                                                    |
+| snow                     | n.            | 雪                                                                                                                  |
+|                          | v.            | 下雪                                                                                                                |
+| snowball                 | n.            | 雪球                                                                                                                |
+| snowstorm                | n.            | 暴风雪                                                                                                              |
+| so on                    |               | 等等                                                                                                                |
+| soap                     | n.            | 肥皂                                                                                                                |
+| soap opera               | n.            | 肥皂剧                                                                                                              |
+| soap powder              | n.            | 肥皂粉，洗衣粉                                                                                                      |
+| soar                     | v.            | 猛增，骤升，飞涨；升空，高涨；翱翔；高耸，耸立                                                                      |
+| sob                      | v.            | 抽泣，呜咽，啜泣；哭诉，抽噎着说                                                                                    |
+|                          | n.            | 抽泣（声），呜咽（声），啜泣（声）                                                                                  |
+| soccer                   | n.            | （美）足球                                                                                                          |
+| social                   | a.            | 社会                                                                                                                |
+| society                  | n.            | 社会                                                                                                                |
+| soda                     | n.            | 苏打水                                                                                                              |
+| sodium                   | n.            | 钠                                                                                                                  |
+| sofa                     | n.            | 沙发                                                                                                                |
+| soft                     | a.            | 软                                                                                                                  |
+| softball                 | n.            | 垒球                                                                                                                |
+| software                 | n.            | 软件                                                                                                                |
+| soil                     | n.            | 土壤                                                                                                                |
+| solar                    | a.            | 太阳                                                                                                                |
+| soldier                  | n.            | 士兵                                                                                                                |
+| sole                     | a.            | 仅有的，唯一；专有，完全                                                                                            |
+|                          | n.            | 脚掌；鞋底                                                                                                          |
+| solely                   | ad.           | 仅，只，唯                                                                                                          |
+| solemn                   | a.            | （人）严肃，冷峻；庄严，郑重，严正；（宗教仪式或正式场合）庄严，隆重                                                |
+| solemnly                 | ad.           | 庄严，郑重，严正                                                                                                    |
+| solicit                  | v.            | 索取，请求给予（援助、金钱或信息），征求，筹集；（妓女）拉客                                                        |
+| solicitation             | n.            | 索取，征求，筹集                                                                                                    |
+| solicitous               | a.            | 操心，关怀，关切                                                                                                    |
+| solid                    | a.            |                                                                                                                     |
+| solidarity               | n.            | 支持，团结                                                                                                          |
+| solidity                 | n.            | 坚固，牢固，可靠，充实                                                                                              |
+| solidly                  | ad.           | 坚固，牢固，结实；连续不断，整整；完全支持，完全赞同                                                                |
+| solitary                 | a.            | 独自；（人或动物）喜欢（或习惯）独处，独居；（人、物或处所）孤零零，形单影只，茕茕孑立；唯一的，仅有的              |
+|                          | n.            | 独居者，隐士                                                                                                        |
+| solitude                 | n.            | 独处，独居                                                                                                          |
+| solo                     | a.            | 独自，单独；独唱，独奏                                                                                              |
+|                          | ad.           | 独自，单独；单飞                                                                                                    |
+|                          | n.            | 独唱，独奏，单人表演                                                                                                |
+| solution                 | n.            | 解决方案，解决方法；答案，解；溶液；溶解                                                                            |
+| solve                    | v.            | 解决，处理；解，解答，破解，解开                                                                                    |
+| some                     |               |                                                                                                                     |
+| sometime                 | ad.           | 在某时（不确切或尚未决定）                                                                                          |
+|                          | a.            | （美）（指某人做某事）偶尔                                                                                          |
+| sometimes                | ad.           | 有时                                                                                                                |
+| somebody                 | pron.         | 某人                                                                                                                |
+| somehow                  | ad.           | 以某种方式（或方法）；不知为什么，不知怎么地                                                                        |
+| someone                  | pron.         | 某人                                                                                                                |
+| something                | pron.         | 某事，某物；（表示不确切的描述或数量）大致，左右                                                                    |
+| somewhat                 | ad.           | 有些                                                                                                                |
+| somewhere                | ad.           | 在某处，到某处                                                                                                      |
+|                          | pron.         | 某处                                                                                                                |
+| son                      | n.            | 儿子                                                                                                                |
+| son-in-law               | n.            | 女婿                                                                                                                |
+| sonar                    | n.            | 声呐                                                                                                                |
+| song                     | n.            | 歌，歌曲；歌唱，声乐                                                                                                |
+| soon                     | ad.           | 很快，马上，不久；快，早                                                                                            |
+| sophisticate             | n.            | 老练世故的人，见多识广的人                                                                                          |
+| sophisticated            | a.            | 老练世故，见多识广，见过世面；（机器、系统等）复杂巧妙，精密；（人）水平高，在行                                    |
+| sophistication           | n.            | 老练世故，见多识广；复杂巧妙，精密；高水平                                                                          |
+| sophomore                | n.            | （美）大二学生                                                                                                      |
+| sordid                   | a.            | 道德败坏，丑恶，卑鄙，无耻，肮脏，龌龊；肮脏                                                                        |
+| sorority                 | n.            | （美国大学女生的）姐妹会                                                                                            |
+| sorrow                   | n.            | 悲哀，悲伤，哀伤；伤心事，悲伤                                                                                      |
+|                          | v.            | 感到悲伤，表示悲伤                                                                                                  |
+| sorrowful                | a.            | 悲哀，悲伤，哀伤                                                                                                    |
+| sorry                    | a.            | 难过，惋惜，同情；歉疚，惭愧，过意不去；后悔，遗憾，舍不得；糟糕，悲惨，破败，可怜                                  |
+| sort                     | n.            | 种类，类别，品种；（计）排序                                                                                        |
+|                          | v.            | 整理，分类；（计）排序                                                                                              |
+| sorting                  | n.            | 整理，分类；（计）排序                                                                                              |
+| soul                     | n.            | 灵魂；内心；精神，道德；真挚情感；典范，化身；（用于否定）人；灵魂（音乐风格）                                      |
+| sound                    | n.            | 声音；声；音量；音乐风格                                                                                            |
+|                          | v.            | 听起来，听着；响，使发出声音；拉响警报，警告，告诫；发（音）                                                        |
+|                          | a.            | 可靠，合理；透彻，完备；安然无恙，完好无损；（睡眠）酣畅，安稳；还不错                                              |
+| soundness                | n.            | 可靠性，稳健性                                                                                                      |
+| soundtrack               | n.            | （电影的）音轨，声带；电影（或音乐剧、电视剧、游戏等的）原声音乐                                                    |
+| soup                     | n.            | 汤                                                                                                                  |
+| sour                     | a.            | 酸，酸味；酸腐，馊；阴郁，闷闷不乐，不愉快                                                                          |
+| sourly                   | ad.           | 阴郁，闷闷不乐，不愉快                                                                                              |
+| source                   | n.            | 来源，出处；信息来源；起因，根源；源头，发源地                                                                      |
+| south                    | n.            | 南                                                                                                                  |
+|                          | a.            | 南                                                                                                                  |
+|                          | ad.           | 向南                                                                                                                |
+| southern                 | a.            | 南方，南部                                                                                                          |
+| southernmost             | a.            | 最南端，最南部                                                                                                      |
+| souvenir                 | n.            | （旅游的）纪念品                                                                                                    |
+| sovereign                | n.            | 君主，元首                                                                                                          |
+|                          | a.            | （国家）主权，有主权；掌握全部权力，有至高无上权力                                                                  |
+| sovereignty              | n.            | 主权；最高统治权，最高权威；独立自主                                                                                |
+| spa                      | n.            | 矿泉疗养地；休闲健身中心                                                                                            |
+| space                    | n.            | 空间；太空                                                                                                          |
+| spaceman                 | n.            | 宇航员，太空人                                                                                                      |
+| spaceship                | n.            | 宇宙飞船，太空船                                                                                                    |
+| spacious                 | a.            | 宽敞                                                                                                                |
+| spade                    | n.            | 锹，铲；（扑克牌的）黑桃♠                                                                                          |
+| spaghetti                | n.            | 意大利细面条                                                                                                        |
+| spam                     | n.            | 垃圾邮件                                                                                                            |
+| span                     | n.            | 持续时间；范围；（桥或拱的）跨距，跨度；翼宽，翼展                                                                  |
+|                          | v.            | 持续，贯穿；包括，涵盖；横跨，跨越                                                                                  |
+| spare                    | a.            | 闲置，多余，空着不用；备用；空闲，空余；瘦高                                                                        |
+|                          | v.            | 抽出，留出，匀出，拨出；省得，免去；饶恕，赦免，放过，使逃脱；不吝惜（时间、金钱）                                  |
+|                          | n.            | 备用品，备用轮胎                                                                                                    |
+| sparing                  | a.            | 慎用，少用，吝惜                                                                                                    |
+| sparingly                | ad.           | 谨慎，尽量不，吝惜                                                                                                  |
+| spark                    | n.            | 火花，火星；电火花；（品质或感情）一丝，一星，一丁点；生气，活力，热情，激情；诱因，导火线；                        |
+|                          |               | 愤怒的情感，激烈的情绪                                                                                              |
+|                          | v.            | 引发，触发；冒火花，冒火星，产生电火花                                                                              |
+| sparkle                  | v.            | 闪烁，闪耀；生气勃勃，神采飞扬，光芒四射                                                                            |
+|                          | n.            | 闪烁/闪耀的光；生动，新颖，亮点                                                                                     |
+| sparkling                | a.            | 闪烁，闪耀；（饮料）气泡；风趣，妙趣横生；出色，上乘                                                                |
+| sparse                   | a.            | 稀少，稀疏，零落                                                                                                    |
+| sparsely                 | ad.           | 稀少，稀疏                                                                                                          |
+| spasm                    | n.            | 痉挛，抽搐；（感情或反应）一阵，阵发                                                                                |
+| spatial                  | a.            | 空间                                                                                                                |
+| spawn                    | v.            | （鱼、蛙等）产卵；引发，引起，导致，造成，衍生                                                                      |
+|                          | n.            | （鱼、蛙等的）卵                                                                                                    |
+| speak                    | v.            | 谈，谈话，交谈                                                                                                      |
+| spear                    | n.            | 矛，标枪；（植物的）嫩枝，嫩芽                                                                                      |
+|                          | v.            | 刺，叉                                                                                                              |
+| spec                     | n.            | 规格，规范                                                                                                          |
+| special                  | a.            | 特别                                                                                                                |
+| specialism               | n.            | 专业，专长；专业化                                                                                                  |
+| specialist               | n.            | 专家；专科医生                                                                                                      |
+|                          | a.            | 专业                                                                                                                |
+| specialize               | v.            | 专门研究，专攻                                                                                                      |
+| specially                | ad.           | 专门，特意；格外，尤其，特别                                                                                        |
+| specialty                | n.            | 特产，特色菜；专业，专长                                                                                            |
+| species                  | n.            | 种，物种                                                                                                            |
+| specification            | n.            | 规格，规范                                                                                                          |
+| specify                  | v.            | 指定                                                                                                                |
+| specific                 | a.            | 具体                                                                                                                |
+| specifically             | ad.           | 明确，具体；专门，特意；具体来说，确切地说                                                                          |
+| specification            | n.            | 规格，规范                                                                                                          |
+| specify                  | v.            | 详细描述，具体说明，明确规定                                                                                        |
+| specimen                 | n.            | 样品，样本，标本；（化验的）血样，尿样                                                                              |
+| specious                 | a.            | 似是而非                                                                                                            |
+| spectacle                | n.            | 精彩表演，热烈场面；壮观景象；不寻常的景象，出人意料的状况                                                          |
+| spectacular              | a.            | 壮观，壮丽，辉煌，了不起，令人惊叹                                                                                  |
+| spectacularly            | ad.           | 壮观，辉煌                                                                                                          |
+| spectator                | n.            | （尤指体育比赛的）观众                                                                                              |
+| spectrum                 | n.            | 光谱；波谱，频谱；范围，层次，系列，派别                                                                            |
+| speculate                | v.            | 推测，猜测，推断；投机，炒股                                                                                        |
+| speculation              | n.            | 推测，猜测，推断；投机，炒股                                                                                        |
+| speculative              | a.            | 推测的，猜测的，推断的；揣摩的，忖度的，试探的；投机性的，风险性的                                                  |
+| speculator               | n.            | 投机者，投机商                                                                                                      |
+| speech                   | n.            | 演讲，讲话，发言；能说话；说话（方式）；口语；台词                                                                  |
+| speed                    | n.            | 速度                                                                                                                |
+| speedy                   | a.            | 迅速，尽快，及时；快速，高速                                                                                        |
+| speedily                 | ad.           | 迅速，尽快，及时                                                                                                    |
+| spell                    | v.            | 拼，拼写（单词），拼作；招致，意味着（通常指坏事）                                                                  |
+|                          | n.            | （持续的）一段时间；（做某事或在某处工作的）一段时间；咒语，符咒，魔法；魅力，魔力                                  |
+| spellcheck               | v.            | 拼写检查                                                                                                            |
+| spend                    | v.            | 用，花（钱）；花（时间），度过；花费，消耗，用尽                                                                    |
+| spending                 | n.            | （政府或其他机构的）开支，支出，花销                                                                                |
+| sperm                    | n.            | 精子；精液                                                                                                          |
+| spew                     | v.            | （使）喷出，涌出                                                                                                    |
+| sphere                   | n.            | 球体                                                                                                                |
+| spherical                | a.            | 球形，球状                                                                                                          |
+| sphinx                   | n.            | 狮身人面像                                                                                                          |
+| spice                    | n.            | 香料；调剂，刺激                                                                                                    |
+|                          | v.            | 加香料；给…增添趣味，使…变得刺激，调剂                                                                              |
+| spicy                    | a.            | （食物）加香料的，香料调味的；（故事、新闻等）刺激，粗俗                                                            |
+| spider                   | n.            | 蜘蛛                                                                                                                |
+| spike                    | n.            | 尖刺，尖头，突刺；鞋钉；钉鞋；（美）猛增，急升                                                                      |
+|                          | v.            | 刺入，扎破；偷偷掺入（烈酒、毒药或毒品）；拒绝发表，组织传播；（美）迅速升值，急剧增值                              |
+| spill                    | v.            | （使）洒，泼，溅，泄露；（人）涌出，蜂拥而出                                                                        |
+|                          |               | 洒，泼，溅，泄露（的液体）；（从自行车）摔下，跌落                                                                  |
+| spin                     | v.            | （使）（快速）旋转；（使）急转身，猛然回过头；纺（线），纺（纱）；吐（丝），作（茧），结（网）；驾车飞驰，疾驰      |
+|                          |               | 甩干（衣服）；有倾向性地陈述，（尤指）以有利于自己的方式陈述                                                        |
+|                          | n.            | 高速旋转；旋转（球）；（尤指有利于自己的）导向性陈述                                                                |
+| spinach                  | n.            | 菠菜                                                                                                                |
+| spinal                   | a.            | 脊椎                                                                                                                |
+| spine                    | n.            | 脊椎，脊柱；（植物的）刺，（动物的）刺毛                                                                            |
+| spiral                   | n.            | 螺旋形，螺旋式，螺旋；日益上升/下降                                                                                 |
+|                          | a.            | 螺旋形                                                                                                              |
+|                          | v.            | 螺旋上升/下降；飞涨                                                                                                 |
+| spirit                   | n.            | 精神；情绪；（有某种特质的）人；勇气，决心，意志；忠心，集体精神；心态，态度；精髓，基本精神；实质，实际意义        |
+|                          |               | 灵魂                                                                                                                |
+| spiritual                | a.            | 精神，心灵；宗教                                                                                                    |
+| spiritually              | ad.           | 精神上，心灵上                                                                                                      |
+| spite                    | n.            | 恶意，怨恨                                                                                                          |
+| in spite of              |               | 尽管                                                                                                                |
+| splash                   | v.            | （液体）泼洒，泼溅；泼，溅                                                                                          |
+|                          | n.            | 落水声，泼溅声；溅的液体，溅的污点；色块，光斑                                                                      |
+| splay                    | v.            | 使（手指、手臂、腿等）叉开，张开，摊开                                                                              |
+| splendid                 | a.            | 宏伟，雄伟，壮丽，华丽                                                                                              |
+| splendor                 | n.            | 宏伟，雄伟，壮丽，华丽                                                                                              |
+| splendors                | n.            | 壮丽景色，恢弘气势                                                                                                  |
+| split                    | v.            | （使）分裂；（使）分为，分成；分享，分摊；（使）撕破，撕裂；（皮肤）划破，割破；分手，离开，断绝关系                |
+|                          | n.            | 分歧，分离；划分；裂缝，裂口                                                                                        |
+| splits                   | n.            | 劈叉                                                                                                                |
+| spoil                    | v.            | 破坏，毁坏，糟蹋；溺爱，娇惯，宠坏；善待，宠爱，格外关照；（食物）变质，腐坏                                        |
+| spoiled                  | a.            | 娇生惯养                                                                                                            |
+| spoiler                  | n.            | （机翼的）扰流片，阻流板；（美）选举中的搅局者；阻碍…成功/搞砸…的人（或事物）；                                     |
+|                          |               | （在电影、电视剧公映前提供的）剧情介绍                                                                              |
+| spokesperson             | n.            | 发言人                                                                                                              |
+| sponge                   | n.            | 海绵，人造海绵；海绵动物                                                                                            |
+|                          | v.            | 用湿毛巾（或海绵）擦，揩拭；白要，蹭吃蹭喝                                                                          |
+| sponsor                  | n.            | 赞助商；资助者                                                                                                      |
+|                          | v.            | 赞助                                                                                                                |
+| sponsorship              | n.            | 赞助，赞助款；资助，主办，倡议                                                                                      |
+| spontaneous              | a.            | 自发，主动；经常心血来潮；自然，自发；自然，不事雕琢                                                                |
+| spontaneously            | ad.           | 情不自禁地；自然地，自发地                                                                                          |
+| spoon                    | n.            | 勺子，匙，调羹                                                                                                      |
+| spoonful                 | n.            | 一勺（的量）                                                                                                        |
+| spore                    | n.            | （生）孢子                                                                                                          |
+| sport                    | n.            | （某一项）运动；乐趣，消遣，玩笑                                                                                    |
+|                          | v.            | 夸示，故意显示；嬉戏                                                                                                |
+| sports                   | n.            | 体育运动                                                                                                            |
+| sports car               | n.            | 跑车                                                                                                                |
+| sportswear               | n.            | （英）运动服；（美）便装                                                                                            |
+| spot                     | n.            | 斑点；污渍，污迹，污点；丘疹，疱疹，粉刺；地点，场所；几滴，一点（液体）；                                          |
+|                          |               | （电视、广播中 ）某演员的固定节目，某节目的固定栏目                                                                 |
+|                          | v.            | 看见，看到，发现，注意到；（美）（体育比赛中）让分，让球                                                            |
+|                          | a.            | （商）现货交易，立即支付                                                                                            |
+| spree                    | n.            | 大肆，疯狂                                                                                                          |
+| spring                   | n.            | 春季；泉水                                                                                                          |
+| spurious                 | a.            | 虚假的，似是而非的；谬误的                                                                                          |
+| spuriously               | ad.           | 虚假地，似是而非地，实际上不是                                                                                      |
+| squad                    | n.            | （对付某类犯罪活动的）警察小组；运动（代表）队；（特殊任务的）小组，队                                              |
+| squalid                  | a.            | （处所及生活环境）肮脏，龌龊；（情况或活动）道德败坏，丑恶，肮脏，龌龊                                              |
+| stability                | n.            | 稳定性                                                                                                              |
+| stable                   | a.            | 稳定                                                                                                                |
+| stack                    | n.            | 栈                                                                                                                  |
+| stage                    | n.            | 阶段；舞台                                                                                                          |
+| stagger                  | v.            | 使交错，使错开                                                                                                      |
+| stair                    | n.            | 阶，级                                                                                                              |
+| staircase                | n.            | 楼梯                                                                                                                |
+| stairs                   | n.            | 楼梯                                                                                                                |
+| stairway                 | n.            | 楼梯，阶梯                                                                                                          |
+| stale                    | a.            | （空气）不新鲜，（臭味、烟味等）难闻；陈旧，没有新意，没有意思；厌倦，腻烦                                          |
+| stalemate                | n.            | 僵局                                                                                                                |
+| stalk                    | n.            | （植物的）茎，（果实的）柄，（叶）柄，（花）梗                                                                      |
+|                          | v.            | 偷偷接近（猎物或人）；（非法）跟踪，盯梢                                                                            |
+| stalker                  | n.            | 跟踪者，盯梢者；悄悄接近猎物的猎人                                                                                  |
+| stalking                 | n.            | 跟踪（罪）                                                                                                          |
+| stall                    | v.            | （车辆或发动机）熄火；故意拖延，拖住（某人）（以赢得时间）；搁置，暂缓                                              |
+| stand                    | v.            | 站                                                                                                                  |
+| standing                 | a.            | 长期存在，常设；站立，起立                                                                                          |
+|                          | n.            | 地位，级别，身份；持续时间                                                                                          |
+| standings                | n.            | （体育比赛中的）排名，名次                                                                                          |
+| standing jump            | n.            | 立定跳远                                                                                                            |
+| standstill               | n.            | 停止，停滞，停顿                                                                                                    |
+| staple                   | a.            | 主要，基本                                                                                                          |
+| star                     | n.            | （天）恒星；星形；星级；明星；主角，主演；最佳，最优秀                                                              |
+| stare                    | v.            | 凝视，注视，盯着                                                                                                    |
+| start                    | v.            | 开始                                                                                                                |
+| startle                  | v.            | 使惊吓，使大吃一惊                                                                                                  |
+| startling                | a.            | 惊人，令人震惊；（颜色）非常鲜亮                                                                                    |
+| starvation               | n.            | 饥饿                                                                                                                |
+| starve                   | v.            | 挨饿，饿死                                                                                                          |
+| state                    | n.            | 州                                                                                                                  |
+| statement                | n.            | 陈述；语句                                                                                                          |
+| statesman                | n.            | 政治家                                                                                                              |
+| static                   | a.            | 静态                                                                                                                |
+| station                  | n.            | 站；台                                                                                                              |
+| stationary               | a.            | 静止，不动，固定；不变，稳定                                                                                        |
+| stationery               | n.            | 文具                                                                                                                |
+| statue                   | n.            | 雕像                                                                                                                |
+| status                   | n.            | 状态                                                                                                                |
+| stay                     | v.            | 停留，待；保持，继续；暂住，逗留                                                                                    |
+| steak                    | n.            | 牛排；肉排；鱼排                                                                                                    |
+| steal                    | v.            | 偷，窃；偷偷（悄悄）移动，蹑手蹑脚                                                                                  |
+| steam                    | n.            | 蒸汽                                                                                                                |
+| steel                    | n.            | 钢，钢铁                                                                                                            |
+| stem                     | n.            | 茎，梗，柄；（高脚酒杯的）脚；（语法）词干                                                                          |
+| (-mm-)                   | v.            | 阻止，封堵，遏制                                                                                                    |
+| stem from                | v.            | 起源于，来源于                                                                                                      |
+| stench                   | n.            | 臭气，恶臭                                                                                                          |
+| stent                    | n.            | （医）血管支架                                                                                                      |
+| step                     | n.            | 迈步，脚步；步伐，步态；一步（的距离）；一步，步骤，阶段，进展，措施；台阶；（音）音级，度                          |
+|                          | v.            | 迈步，走，踩，踏                                                                                                    |
+| stepladder               | n.            | 梯子                                                                                                                |
+| stereotype               | n.            | 刻板印象                                                                                                            |
+| stethoscope              | n.            | 听诊器                                                                                                              |
+| stigma                   | n.            | 羞耻，耻辱；（生）柱头                                                                                              |
+| stigmatize               | v.            | 使感到羞耻                                                                                                          |
+| stigmatization           | n.            | 使感到羞耻                                                                                                          |
+| still                    | ad.           | 仍然，依然                                                                                                          |
+|                          | a.            | 静止，安静                                                                                                          |
+| stilted                  | a.            | 生硬                                                                                                                |
+| stimulant                | n.            | 兴奋剂；有激励作用的事物                                                                                            |
+| stimulate                | v.            | 促进，激励，激发；刺激，使兴奋；促进（身体某部位的）功能                                                            |
+| stimulation              | n.            | 促进，激励，激发；刺激                                                                                              |
+| stimulus                 | n.            | 促进因素，激励因素；（使生物产生反应的）刺激，刺激物                                                                |
+| sting                    | v.            | 刺，叮，蜇；（使）感觉刺痛，感觉灼痛；激怒，使不安；敲诈，敲竹杠                                                    |
+|                          | n.            | 刺伤，蜇伤；（身体或心灵的）剧痛，痛苦；（警察为抓捕嫌犯而设置的）圈套；（美）（财产诈骗的）骗局                    |
+| stinger                  | n.            | （昆虫的）螫针，（植物的）刺                                                                                        |
+| stink                    | v.            | 非常臭；非常糟糕，令人厌恶，令人怀疑                                                                                |
+|                          | n.            | 恶臭，难闻的气味；闹事，轩然大波                                                                                    |
+| stinky                   | a.            | 恶臭，十分难闻；令人厌恶，糟糕透顶                                                                                  |
+| stir                     | v.            | 搅，搅拌，搅动；（使）轻微地动；（使）行动，活动；激发，打动；（感情或情绪）开始感到，逐渐产生，被唤起              |
+| stock                    | n.            | 库存，存货；储备；股本；股票；家畜；家世；汤；声望，评价                                                            |
+|                          | v.            | 存（货）；储备，储存                                                                                                |
+| stockpile                | n.            | 囤积物资，战略储备                                                                                                  |
+|                          | v.            | 囤积物资，战略储备                                                                                                  |
+| stoic                    | n.            | 斯多葛派人（对于痛苦和困难能够默默承受或泰然处之）                                                                  |
+| (stoical)                | a.            | 默默，泰然，坦然                                                                                                    |
+| stoically                | ad.           | 默默，泰然，坦然                                                                                                    |
+| stomach                  | n.            | 胃                                                                                                                  |
+| stone                    | n.            | 石头                                                                                                                |
+| stonewall                | v.            | （政治上）打太极，顾左右而言他                                                                                      |
+| stop                     | v.            | 停，停止                                                                                                            |
+| storm                    | n.            | 暴风雨；浪潮                                                                                                        |
+| story                    | n.            | 故事                                                                                                                |
+| straddle                 | v.            | 骑，跨坐；跨过，横跨（河流、道路或边界）                                                                            |
+| straight                 | a.            | 直；准，正中目标；正；整齐，井井有条；坦诚，直率；简单明了，直截了当；连续，不间断                                  |
+|                          | ad.           | 直；准；正；直接，立即，径直；坦率，直截了当；连续                                                                  |
+|                          | n.            | 异性恋者                                                                                                            |
+| straighten               | b.            | （使）变直，变正；挺直，端正（身体）                                                                                |
+| strain                   | n.            | 压力，重压，重负；压力，拉力，应力；劳损，扭伤，拉伤；（动、植物的）品系，品种，（疾病的）类型；性格特点，倾向      |
+|                          |               | 曲调，旋律                                                                                                          |
+|                          | v.            | 损伤，扭伤，拉伤；尽力，竭力，使劲；过度使用，使不堪承受；用力推/拉/拽；滤，过滤                                    |
+| strained                 | a.            | 焦虑，憔悴；（状况）紧张，不友好；做作，勉强                                                                        |
+| strait                   | n.            | 海峡                                                                                                                |
+| straits                  | n.            | （经济状况）窘迫，困难                                                                                              |
+| strand                   | n.            | （线、绳、金属线、毛发等的）股，缕；（观点、计划、故事等的）部份，方面                                              |
+|                          | v.            | 使滞留；使搁浅                                                                                                      |
+| strange                  | a.            | 奇怪，异样，不可思议；陌生                                                                                          |
+| strangely                | ad.           | 奇怪，反常，不可思议                                                                                                |
+| stranger                 | n.            | 陌生人，外地人                                                                                                      |
+| strategy                 | n.            | 策略；策划；战略                                                                                                    |
+| strategic                | a.            | 策略；战略                                                                                                          |
+| straw                    | n.            | 稻草，麦秆；吸管                                                                                                    |
+| strawberry               | n.            | 草莓                                                                                                                |
+| stream                   | n.            | 小河，小溪；（液）流，（气）流；（人）流，（车）流；接连不断，源源不断（的事情）                                    |
+|                          | v.            | 流，流动，流出；鱼贯而行，川流不息；飘动，飘荡；（计）流式传输                                                      |
+| streamline               | v.            | 使成流线形；使（系统、机构等）效率提高                                                                              |
+| street                   | n.            | 街道                                                                                                                |
+| strength                 | n.            | 体力，力气，力量；强度；毅力，意志，决心；实力；程度；优势，优点，长处；（自然）力；浓淡程度；（货币）强弱          |
+|                          |               | 人力，人数                                                                                                          |
+| stress                   | n.            | 精神压力，心理负担，紧张；压力，应力；强调，重视；（语）重读；环境恶劣引起的疾病                                    |
+|                          | v.            | 强调，重视；重读；（使）焦虑不安，疲惫不堪                                                                          |
+| stressful                | a.            | 压力大，紧张                                                                                                        |
+| strict                   | a.            | 严格；严格要求，严厉；恪守教规；严格，严密，严谨                                                                    |
+| stricture                | n.            | 指摘，非难；限制，约束                                                                                              |
+| stride                   | n.            | 步；步伐，步态；进步，发展；步长                                                                                    |
+|                          | v.            | 大步走                                                                                                              |
+| strike                   | n.            | 罢工                                                                                                                |
+| stringent                | a.            | （法律、规则、规章等）严格，严厉；（财政状况）紧缩的，短缺的                                                        |
+| stroke                   | n.            | 击球；（打、击等的）一下；划水动作，划桨动作；泳姿；（英）轻抚，抚摸；一笔，一划，笔划；（钟声）敲响；中风          |
+|                          | v.            | （英）轻抚，抚摸；轻挪，轻触                                                                                        |
+| strong                   | a.            | 强壮                                                                                                                |
+| struct                   | n.            | 结构                                                                                                                |
+| structure                | n.            | 结构                                                                                                                |
+| struggle                 | v.            | 奋斗，努力，争取；艰难地移动，艰难地进行；斗争，抗争；搏斗，扭打，挣扎；争夺                                        |
+|                          | n.            | 奋斗，努力，争取；斗争，抗争；搏斗，扭打，挣扎；不容易的事                                                          |
+| stubborn                 | a.            | 固执，顽固，倔；难以应付，难以去除，顽固                                                                            |
+| stubbornly               | ad.           | 固执，顽固，倔；难以应付，难以去除，顽固                                                                            |
+| stubbornness             | n.            | 固执，顽固，倔；难以应付，难以去除，顽固                                                                            |
+| stuck                    | a.            | 陷住，卡住，动弹不得；陷入，困在；难住，卡壳；发愁，不知道该做什么；摆脱不掉                                        |
+| student                  | n.            | 学生                                                                                                                |
+| studio                   | n.            | 工作室                                                                                                              |
+| studious                 | a.            | 用功                                                                                                                |
+| studiously               | ad.           | 故意，刻意                                                                                                          |
+| study                    | v.            | 学习；察看，端详；研究                                                                                              |
+|                          | n.            | 学习，研究；学业，功课；学科；研究，调查                                                                            |
+| stuff                    | n.            | 东西，玩意；（泛指）东西，事情；基本特征，基础                                                                      |
+|                          | v.            | 装（满），填（满），塞（满）；装进，塞进；在（食物里）装入另一种（食物），包馅料；吃撑，吃得过饱；制作（动物）标本  |
+| stumble                  | v.            | 摔倒，绊倒；跌跌撞撞；（不顺畅地）说，读，演奏                                                                      |
+| stump                    | n.            | 树桩                                                                                                                |
+|                          | v.            | 使搞不懂，使不明白                                                                                                  |
+| stun                     | v.            | 打昏，击晕；给人以深刻印象，使深深感动                                                                              |
+| stunned                  | a.            | 昏迷，被击晕；惊愕                                                                                                  |
+| stupid                   | a.            | 愚蠢，糊涂；（贬）笨，傻；（用以加强语气）讨厌，破，臭，愚蠢                                                        |
+| stupidly                 | ad.           | 愚蠢，糊涂                                                                                                          |
+| sturdy                   | a.            | 结实，坚固；强壮，健壮；坚决，坚定，顽强                                                                            |
+| sturdily                 | ad.           | 结实，坚固；强壮，健壮；坚决，坚定，顽强                                                                            |
+| sturdiness               | n.            | 结实，坚固；强壮，健壮；坚决，坚定，顽强                                                                            |
+| style                    | n.            | 风格                                                                                                                |
+| stylish                  | a.            | 时髦，新潮；高雅，雅致                                                                                              |
+| stylishly                | ad.           | 时髦，新潮；高雅，雅致                                                                                              |
+| stylist                  | n.            | 发型师，造型师；（产品、人等的）造型设计师，形象设计师                                                              |
+| stylistic                | a.            | 风格                                                                                                                |
+| stylistically            | ad.           | 风格上                                                                                                              |
+| subconscious             | a.            | 潜意识的，下意识的                                                                                                  |
+|                          | ad.           | 下意识地                                                                                                            |
+|                          | n.            | 潜意识                                                                                                              |
+| subcontract              | v.            | 分包                                                                                                                |
+| subcontractor            | n.            | 分包商，分包单位                                                                                                    |
+| subculture               | n.            | 亚文化                                                                                                              |
+| subdivide                | v.            | 再分割                                                                                                              |
+| subdivision              | n.            | 再分割，细分；分支，分部                                                                                            |
+| subject                  | n.            | 主题，话题，问题，题目，题材；学科；表现对象，题材；被试，实验对象；主语                                            |
+|                          | a.            | 可能受…影响的，易遭受…的；取决于；服从于；臣服，受异族统治                                                          |
+|                          | v.            | 使服从，使顺从，使臣服                                                                                              |
+| subjective               | a.            | 主观；主语                                                                                                          |
+| subjectively             | ad.           | 主观                                                                                                                |
+| subjectivity             | n.            | 主观                                                                                                                |
+| sublime                  | a.            | 令人惊叹；（贬）（人的行为或态度）极端，盲目                                                                        |
+|                          | n.            | 绝妙的事物                                                                                                          |
+| submarine                | n.            | 潜艇                                                                                                                |
+|                          | a.            | 海底                                                                                                                |
+| submerge                 | v.            | （使）潜入水中，淹没；湮灭，掩盖（思想、感情等）                                                                    |
+| submerged                | a.            | 被淹没；被掩盖                                                                                                      |
+| submersion               | n.            | 潜入水中，淹没；（思想、感情等的）湮灭，掩盖                                                                        |
+| submersible              | a.            | 水下（使用）                                                                                                        |
+| submission               | n.            | 屈服，投降；提交，递交，提交的内容（文件、建议等）                                                                  |
+| submissive               | a.            | 顺从，温顺，听话                                                                                                    |
+| submissively             | ad.           | 顺从，服从                                                                                                          |
+| submit                   | v.            | 提交                                                                                                                |
+| subordinate              | a.            | 隶属，从属；次要                                                                                                    |
+|                          | n.            | 下级，部下                                                                                                          |
+|                          | v.            | 把…置于次要地位，使从属于                                                                                           |
+| substantial              | a.            | 大量，重大；结实                                                                                                    |
+| substitute               | v.            | 替换                                                                                                                |
+| subsume                  | v.            | 将…归入/纳入                                                                                                        |
+| subtitle                 | n.            | 副标题                                                                                                              |
+| subtle                   | a.            | 细微的，淡淡的，不明显；巧妙的，机智的；敏锐，头脑灵活                                                              |
+| subtlety                 | n.            | 巧妙，机智，敏锐；细微之处，微妙之处                                                                                |
+| suburb                   | n.            | 郊区                                                                                                                |
+| suburban                 | a.            | 郊区                                                                                                                |
+| subway                   | n.            | （美）地铁                                                                                                          |
+| success                  | n.            | 成功                                                                                                                |
+| successful               | a.            | 成功                                                                                                                |
+| successive               | a.            | 连续，接连                                                                                                          |
+| successively             | ad.           | 接连，相继                                                                                                          |
+| successor                | n.            | 继任                                                                                                                |
+| succinct                 | a.            | 简洁，简明，言简意赅                                                                                                |
+| succinctly               | ad.           | 简洁，简明，言简意赅                                                                                                |
+| succulent                | a.            | 汁多味美；（植物）多肉                                                                                              |
+|                          | n.            | 多肉植物                                                                                                            |
+| such                     | pron.         | 这样，诸如此类；这样，那样，之类；如此，这么                                                                        |
+| such as                  |               | 例如；像这样                                                                                                        |
+| sucker                   | n.            | 蠢货，混蛋                                                                                                          |
+| sufficient               | a.            | 足够，充足                                                                                                          |
+| sugar                    | n.            | 糖                                                                                                                  |
+| suicide                  | n.            | 自杀；自毁，自取灭亡；自杀者                                                                                        |
+| suit                     | n.            | 西装，西服；（从事特定活动时穿的）一套服装；（扑克牌的）花色；控告，控诉，诉讼                                      |
+|                          | v.            | 对（某人）方便，满足（某人）需要，合（某人）心意；（衣服、颜色等）合身                                              |
+| sulfur                   | n.            | 硫                                                                                                                  |
+| sully                    | v.            | 败坏，贬损；玷污                                                                                                    |
+| summer                   | n.            | 夏季                                                                                                                |
+| summit                   | n.            | 山顶，顶峰，顶点；首脑会议，峰会；高潮                                                                              |
+| summon                   | v.            | 传唤（出庭）；召唤；召集，召开（会议）；呼吁，请求；鼓起，振作，使出                                                |
+| sun                      | n.            | 太阳                                                                                                                |
+| Sunday                   | n.            | 星期日                                                                                                              |
+| sunflower                | n.            | 向日葵                                                                                                              |
+| sunset                   | n.            | 日落，傍晚；晚霞                                                                                                    |
+|                          | a.            | 最后                                                                                                                |
+| super                    | a.            | 超级，非常好                                                                                                        |
+| superb                   | a.            | 卓越，极好                                                                                                          |
+| superficial              | a.            | 表面；表皮；浅薄，肤浅                                                                                              |
+| supernova                | n.            | 超新星                                                                                                              |
+| supper                   | n.            | 晚餐，晚饭                                                                                                          |
+| supplement               | n.            | 补充；增刊；补编                                                                                                    |
+|                          | v.            | 补充，增补                                                                                                          |
+| supplementary            | a.            | 补充，附加                                                                                                          |
+| supplicant               | n.            | 恳求者，祈求者                                                                                                      |
+| supplication             | n.            | 恳求，祈求                                                                                                          |
+| supplier                 | n.            | 供应商，供应方                                                                                                      |
+| supply                   | v.            | 供应，供给                                                                                                          |
+|                          | n.            | 供，供应，供给；补给                                                                                                |
+| support                  | v.            | 支持                                                                                                                |
+|                          | n.            | 支持                                                                                                                |
+| suppress                 | v.            | （政府、统治者等）镇压；禁止公开，隐瞒；忍住，控制，按捺；抑制                                                      |
+| suppression              | n.            | 镇压；控制；抑制                                                                                                    |
+| supreme                  | a.            |                                                                                                                     |
+| sure                     | a.            | 确定                                                                                                                |
+| surf                     | v.            | 冲浪                                                                                                                |
+| surface                  | n.            | 表面，表层，面；地面，水面，液面；台面；表面，外表                                                                  |
+| surfing                  | n.            | 冲浪                                                                                                                |
+| surgery                  | n.            | （医）外科，外科手术，外科学；诊室                                                                                  |
+| surpass                  | v.            | 超过，超出，胜过，优于                                                                                              |
+| surplus                  | n.            | 过剩，剩余；盈余，顺差                                                                                              |
+|                          | a.            | 过剩，剩余                                                                                                          |
+| surprise                 | n.            | 惊喜                                                                                                                |
+| surveillance             | n.            | 监视，监督                                                                                                          |
+| survive                  | v.            | 生存下来，存活，留存，继续存在；幸免（于难），度过（难关）；比…存活的时间长                                         |
+| survivor                 | n.            | 幸存者，生还者                                                                                                      |
+| sushi                    | n.            | 寿司                                                                                                                |
+| susceptible              | a.            | 易受…影响，敏感；有可能，容许                                                                                       |
+| susceptibility           | n.            | 易受…影响的特性，敏感性                                                                                             |
+| susceptibilities         | n.            | 感情脆弱的地方                                                                                                      |
+| suspect                  | n.            | 嫌犯                                                                                                                |
+| suspend                  | v.            | 吊销                                                                                                                |
+| swab                     | v.            | （医用）拭子；拭子（对人体）采集的化验标本的                                                                        |
+|                          | n.            | 用拭子擦拭；擦洗，擦拭                                                                                              |
+| swap                     | v.            | 交换                                                                                                                |
+|                          | n.            | 交换                                                                                                                |
+| swathe                   | n.            | （尤指割了庄稼的）一长条田地；一长条                                                                                |
+|                          | v.            | 包，裹，覆盖                                                                                                        |
+| sweat                    | n.            | 汗；出汗，流汗；艰苦工作，不懈努力，劳动；（美）运动服                                                              |
+|                          | v.            | 出汗，流汗；（物体表面）渗出水分，结水珠；艰苦工作，不懈努力                                                        |
+| sweater                  | n.            | 毛衣                                                                                                                |
+| sweaty                   | a.            | 汗湿，全是汗；热得让人出汗                                                                                          |
+| sweep                    | v.            | 扫，打扫，清扫；（迅猛地）吹走，冲走，卷走，扫走；（风、雨、雪、火等）席卷，横扫；步态轻盈地走，大模大样地走        |
+|                          |               | 挥动，挥舞（手臂等）；突然袭来；迅速传播；扫视，搜索；（使）轻轻掠过，轻轻擦过；梳；缓坡延伸；                      |
+|                          |               | （美）（在系列比赛中）横扫，获得全部胜利，囊括所有冠军                                                              |
+| swerve                   | v.            | （车辆）突然转弯，急转弯                                                                                            |
+| switch                   | n.            | （电路的）开关，电闸；（尤指突然彻底的）改变，转变；（铁路的）道闸                                                  |
+|                          | v.            | （使）转变，切换，调动；交换，对调；调班，换班                                                                      |
+| swim                     | v.            | 游泳                                                                                                                |
+| swimming                 | v.            | 游泳                                                                                                                |
+| swing by                 |               | 去一趟，短暂拜访                                                                                                    |
+| sword                    | n.            | 剑                                                                                                                  |
+| sycophancy               | n.            | （贬）阿谀奉承，溜须拍马                                                                                            |
+| sycophant                | n.            | （贬）阿谀奉承的人，溜须拍马的人                                                                                    |
+| sycophantic              | a.            | （贬）阿谀奉承，溜须拍马                                                                                            |
+| symbol                   | n.            | 象征；符号，记号，代号                                                                                              |
+| symbolic                 | a.            | 作为象征，象征性的                                                                                                  |
+| symbolize                | v.            | 象征，代表                                                                                                          |
+| symmetric                | a.            | 对称                                                                                                                |
+| symmetrical              | a.            | 对称                                                                                                                |
+| symmetry                 | n.            | 对称                                                                                                                |
+| sympathy                 | n.            | 同情，体谅，体恤；赞同，支持；意气相投，志同道合                                                                    |
+| sympathetic              | a.            | 同情，体谅，体恤；赞同，支持；招人喜欢                                                                              |
+| sympathize               | v.            | 同情，体谅，体恤；赞同，支持                                                                                        |
+| symphony                 | n.            | 交响乐，交响曲                                                                                                      |
+| symptom                  | n.            | 症状；征候，征兆                                                                                                    |
+| sync                     | n.            | 同步                                                                                                                |
+| synchronize              | v.            | （使）同步                                                                                                          |
+| synchronization          | n.            | 同步                                                                                                                |
+| synchronous              | a.            | 同步                                                                                                                |
+| syntax                   | n.            | 语法                                                                                                                |
+| syntactic                | a.            | 语法                                                                                                                |
+| system                   | n.            | 系统                                                                                                                |
+| systematic               | a.            | 系统的，有计划有步骤的                                                                                              |
+| systematically           | ad.           | 系统地，有计划有步骤地                                                                                              |
+|                          |               |                                                                                                                     |
 
 # T
 
@@ -7028,6 +7338,7 @@
 | texture         | n.         | 质地，手感；口感；（音乐或文学的）和谐统一感，神韵                                                                           |
 | than            | prep.conj. | 比；（进行比较）多于，少于，超过，不足                                                                                       |
 | thank           | v.         | 感谢                                                                                                                         |
+| the             | def.art.   |                                                                                                                              |
 | theater         | n.         | 剧院，剧场；（美）电影院；戏剧；战场，战区                                                                                   |
 | theft           | n.         | 偷窃，盗窃（罪）                                                                                                             |
 | theme           | n.         | 主题                                                                                                                         |
@@ -7035,6 +7346,9 @@
 | theory          | n.         | 理论                                                                                                                         |
 | therapist       | n.         | 治疗师；心理治疗师                                                                                                           |
 | therapy         | n.         | 治疗，疗法；心理治疗                                                                                                         |
+| there           | ad.        |                                                                                                                              |
+| thereafter      | ad.        | 之后                                                                                                                         |
+| thereby         | ad.        | 由此，从而                                                                                                                   |
 | thief           | n.         | 盗贼，窃贼，小偷                                                                                                             |
 | thigh           | n.         | 大腿                                                                                                                         |
 | thing           | n.         | 事；物                                                                                                                       |
@@ -7176,6 +7490,7 @@
 | trial           | n.         | 审理，审判；试验，使用                                                                                                       |
 | triangle        | n.         | 三角形                                                                                                                       |
 | tribunal        | n.         | 特别法庭                                                                                                                     |
+| tribute         | n.         | （尤指对死者的）致敬，致哀，悼念，献礼；（良好效果或影响的）体现，显示                                                       |
 | trigger         | v.         | 引起，引发，触发                                                                                                             |
 |                 | n.         | 扳机；起因，诱因；引爆装置                                                                                                   |
 | trivial         | a.         | 不重要，微不足道                                                                                                             |
@@ -7311,6 +7626,9 @@
 | unintentionally         | ad.   | 无意                                                                                               |
 | union                   | n.    | 工会；协会，联合会；联盟，联邦；联合，结合，合并                                                   |
 | unionist                | n.    | 工会成员                                                                                           |
+| unique                  | a.    | 唯一，独一无二；独特，特殊，难得；（某人、地或事物）独具，特有                                     |
+| uniquely                | ad.   | 唯有，只有；特别，格外                                                                             |
+| uniqueness              | n.    | 独特性                                                                                             |
 | unit                    | n.    | 单元                                                                                               |
 | united                  | a.    | 联合                                                                                               |
 | universe                | n.    | 宇宙                                                                                               |
@@ -7418,6 +7736,7 @@
 | vary            | v.    | （大小、形状等）不同，参差；（依情况）变化，改变，变更；（小范围）调整                                                             |
 | vase            | n.    | 花瓶                                                                                                                               |
 | vast            | a.    | 辽阔，广大；大量，大批；庞大                                                                                                       |
+| vastly          | ad.   | 非常，大幅，大大                                                                                                                   |
 | vastness        | n.    | 辽阔，广大                                                                                                                         |
 | vault           | n.    | （银行的）金库，保险库；（坟地的）墓穴；拱顶，穹顶；撑杆跳                                                                         |
 |                 | v.    | （用手支撑或撑杆）跳跃                                                                                                             |
@@ -7614,6 +7933,7 @@
 | widow         | n.    | 寡妇                                                                                                               |
 | wield         | v.    | 拥有，运用，行使，支配，操纵（权力等）；挥，操（武器、工具等）                                                     |
 | wife          | n.    | 妻子                                                                                                               |
+| wig           | n.    | 假发                                                                                                               |
 | wild          | a.    | 野，野生；天然，未被改造；缺少管教，无法无天，肆意妄为；（感情）强烈；盲目，胡乱，无端；狂风暴雨，波涛汹涌         |
 |               | n.    | 自然环境，野生环境                                                                                                 |
 | wildlife      | n.    | 野生动物                                                                                                           |
