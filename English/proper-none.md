@@ -21,6 +21,7 @@
 | Beijing    |     | 北京     |
 | Berlin     |     | 柏林     |
 | Bhutan     |     | 不丹     |
+| Brussel    |     | 布鲁塞尔 |
 | Busan      |     | 釜山     |
 |            |     |          |
 
