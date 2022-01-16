@@ -2958,6 +2958,7 @@
 | erroreously                 | ad.           | 错误地                                                                                                     |
 | error                       | n.            | 错误                                                                                                       |
 | escape                      | v.            | 逃跑                                                                                                       |
+| esoteric                    | a.            | 深奥，高深莫测，少数内行人才懂                                                                             |
 | especially                  | ad.           | 特别，尤其；专门，特地；十分，非常                                                                         |
 | essence                     | n.            | 本质，实质，精髓；香精，精油                                                                               |
 | essential                   | a.            | 必需，不可或缺；基本，根本，本质                                                                           |
