@@ -1625,6 +1625,7 @@
 | congressman                | n.    | （美国）国会议员                                                                                                       |
 | conjecture                 | n.    | 推测，猜测；揣测，臆测                                                                                                 |
 |                            | v.    | 推测，猜测                                                                                                             |
+| conjunction                | n.    | （语法）连词，连接词；（引起某种结果的事物等的）结合，同时发生，同时出现                                               |
 | conjure                    | v.    | 变魔术，变戏法                                                                                                         |
 | conjuring                  | n.    | 变魔术，变戏法                                                                                                         |
 | connect                    | v.    | 连接，连通；连接，接通；（计）连接；把…联系起来；转车，转机，联运                                                      |
@@ -2413,6 +2414,7 @@
 | dictator          | n.     | （贬）独裁者；发号施令者，专横的人                                                                                               |
 | dictatorship      | n.     | 独裁，专政；独裁国家                                                                                                             |
 | dictionary        | n.     | 字典，词典                                                                                                                       |
+| didactic          | a.     | 教学，教导；（贬）灌输，说教                                                                                                     |
 | die               | v.     | 死，死亡                                                                                                                         |
 | diet              | n.     | 日常饮食；节食（为健康或减肥等目的），节食的时期；大量单调的活动（或事物）                                                       |
 |                   | v.     | 节食                                                                                                                             |
@@ -5817,140 +5819,143 @@
 
 # N
 
-|                  |          |                                                                      |
-| ---------------- | -------- | -------------------------------------------------------------------- |
-| nail             | n.       | 指甲，趾甲；钉子                                                     |
-| naive            | a.       | 幼稚，天真，无知，缺乏社会经验；天真，率直，朴素                     |
-| name             | n.       | 名字，名称；命名                                                     |
-| naming           | n.       | 命名                                                                 |
-| narrate          | v.       | 讲述，叙述；给（纪录片等）作旁白                                     |
-| narration        | n.       | （尤指小说、电影或戏剧中的）讲述，叙述；旁白，解说                   |
-| narrative        | n.       | （尤指小说中的）描述，叙述                                           |
-|                  | a.       | 叙述，叙事                                                           |
-| narrator         | n.       | （小说、电影或戏剧中的）讲述者，叙述者；旁白                         |
-| narrow           | a.       | 狭窄，狭小；勉强，刚好，险；狭隘，目光短浅；狭义，严格               |
-|                  | v.       | 变窄，缩小                                                           |
-| narrowly         | ad.      | 勉强，刚好；狭隘，严格；小心，仔细                                   |
-| narrowness       | n.       | 狭窄，狭小；勉强，刚好；狭隘，目光短浅                               |
-| nascent          | a.       | 新生的，萌芽的，刚出现的                                             |
-| nasty            | a.       | 糟糕，坏，差；不友善，令人不愉快；危险，严重；肮脏，下流             |
-| nation           | n.       | 国家，民族                                                           |
-| nature           | n.       | 自然                                                                 |
-| natural          | a.       | 自然                                                                 |
-| nausea           | n.       | 恶心，反胃                                                           |
-| nauseate         | v.       | 使恶心，使反胃；使厌恶，使厌烦                                       |
-| nauseating       | a.       | 令人作呕，令人厌恶                                                   |
-| naval            | a.       | 海军                                                                 |
-| navy             | n.       | 海军，海军部队                                                       |
-| near             | a.       | 距离近；不久以后；接近，紧随其后；接近，几乎                         |
-|                  | ad.      | 在附近，不远；不久以后；几乎，差不多                                 |
-| nearby           | a.       | 附近                                                                 |
-|                  | ad.      | 在附近                                                               |
-| neat             | a.       | 整洁，整齐，井井有条；爱干净，整洁；小巧玲珑；简单但聪明，简明，巧妙 |
-| neatly           | ad.      | 整洁，整齐，井井有条；简单但聪明，简明，巧妙                         |
-| nebula           | n.       | （天）星云                                                           |
-| nebulous         | a.       | 模糊，不清楚                                                         |
-| necessarily      | ad.      | 必然，不可避免地                                                     |
-| necessary        | a.       | 必需，必要；必然，无法避免                                           |
-| neck             | n.       | 脖子，颈；衣领；细长部分，颈                                         |
-| necklace         | n.       | 项链                                                                 |
-| necktie          | n.       | 领带                                                                 |
-| need             | v.       | 需要，要；需要做                                                     |
-|                  | n.       | 需要；需要，需求；短缺，困难                                         |
-| needle           | n.       | 针，缝衣针；注射针，针头；指针；针叶                                 |
-| negative         | a.       | 否定；消极的；阴性；                                                 |
-| neglect          | v.       | 忽视                                                                 |
-| negligible       | a.       | 微不足道，无关紧要                                                   |
-| negotiate        | v.       | 谈判，协商；商定，达成协议；讲价；越过                               |
-| neighbor         | n.       | 邻居；邻国；身边/临近的人/物                                         |
-| neighborhood     | n.       | 街区，城区，社区；附近一带，临近的地方                               |
-| neon             | n.       | 氖；霓虹                                                             |
-| Neptune          | n.       | 海王星                                                               |
-| nerd             | n.       | 落伍、无聊、愚蠢的人；电脑迷                                         |
-| nerve            | n.       | 神经；神经质，神经紧张；勇气，斗志；脸，颜面                         |
-| nervous          | a.       | 紧张                                                                 |
-| net              | n.       | 网络；净                                                             |
-| neural           | a.       | 神经                                                                 |
-| neuron           | n.       | 神经元                                                               |
-| neuroscience     | n.       | 神经科学                                                             |
-| neurotransmitter | n.       | 神经递质                                                             |
-| neutral          | a.       | 中立；中性；素色，淡色                                               |
-| neutron          | n.       | 中子                                                                 |
-| new              | a.       | 新                                                                   |
-| news             | n.       | 新闻                                                                 |
-| newspaper        | n.       | 报纸                                                                 |
-| newt             | n.       | 蝾螈                                                                 |
-| next             | a.       | 下个                                                                 |
-|                  | ad.      | 接着；                                                               |
-| nice             | a.       | 好                                                                   |
-| nickel           | a.       | 镍                                                                   |
-| nickname         | n.       | 外号                                                                 |
-| niggle           | n.       | 一丝烦恼，一丝疑虑；轻微疼痛                                         |
-|                  | v.       | 使烦恼，使不安；（英）吹毛求疵，挑剔                                 |
-| niggling         | a.       | （不严重但连续不断）烦人；琐碎，微不足道                             |
-| night            | n.       | 夜晚，晚上                                                           |
-| nightclub        | n.       | 夜店                                                                 |
-| nightmare        | n.       | 噩梦                                                                 |
-| nine             | n.       | 九                                                                   |
-| nineteen         | n.       | 十九                                                                 |
-| ninety           | n.       | 九十                                                                 |
-| ninja            | n.       | 忍者                                                                 |
-| ninth            | ord.num. | 第九                                                                 |
-| nipple           | n.       | 乳头                                                                 |
-| nitrogen         | n.       | 氮                                                                   |
-| no               | excla.   | 不，否                                                               |
-|                  | det.     | 没有                                                                 |
-|                  | ad.      | 不                                                                   |
-|                  | n.       | 否                                                                   |
-| nobble           | v.       | （英）收买，买通；（英）阻挠                                         |
-| noble            | a.       | 崇高，高尚；宏伟，雄伟，壮丽；高贵，贵族                             |
-| nobly            | ad.      | 高尚；贵族                                                           |
-| nobody           | pron.    | 没有人                                                               |
-| nocturnal        | a.       | （动物）夜间活动；夜间发生的，夜…                                    |
-| nod              | v.       | 点头；点头致意；打盹，打瞌睡                                         |
-|                  | n.       | 点头                                                                 |
-| noodle           | n.       | 面条                                                                 |
-| non-fiction      | n.       | 纪实文学                                                             |
-| norm             | n.       | 常态，常事，正常行为；标准                                           |
-|                  | v.       | 规范，规定                                                           |
-| norms            | n.       | 规范，行为准则                                                       |
-| normal           | a.       | 普通                                                                 |
-| normally         | ad.      | 一般（情况下），通常；正常，平常                                     |
-| north            | n.       | 北                                                                   |
-|                  | a.       | 北                                                                   |
-|                  | ad.      | 向北                                                                 |
-| northern         | a.       | 北方，北部                                                           |
-| nose             | n.       | 鼻，鼻子；嗅觉                                                       |
-| notable          | a.       | 显著，显眼，明显，凸显                                               |
-|                  | n.       | 名人，重要人物                                                       |
-| notably          | a.       | 尤其，特别；极大程度上，非常                                         |
-| notation         | n.       | 记号，表示                                                           |
-| nothing          | pron.    | 没有事物                                                             |
-| notice           | v.       | 注意                                                                 |
-|                  | n.       | 注意                                                                 |
-| notorious        | a.       | 臭名昭著，恶名昭彰                                                   |
-| notoriously      | ad.      | 臭名昭著，恶名昭彰                                                   |
-| notwithstanding  | prep.    | 虽然，尽管                                                           |
-|                  | ad.      | 尽管如此                                                             |
-| noun             | n.       | 名词                                                                 |
-| novel            | n.       | 小说                                                                 |
-|                  | a.       | 新颖                                                                 |
-| novelist         | n.       | 小说家                                                               |
-| November         | n.       | 十一月                                                               |
-| novice           | n.       | 新手，初学者                                                         |
-| now              |          | 现在                                                                 |
-| nuclear          | a.       | 原子能，核能；核；（物）核                                           |
-| nude             | a.       | 裸体；肉色                                                           |
-|                  | n.       | 裸体作品                                                             |
-| nuisance         | n.       | 麻烦，讨厌的人事物；（法）妨害                                       |
-| nuke             | n.       | 核武器                                                               |
-|                  | v.       | 核武器攻击                                                           |
-| number           | n.       | 数，数字                                                             |
-| numerous         | a.       | 很多，许多                                                           |
-| nurse            | n.       | 护士                                                                 |
-| nut              | n.       | 坚果                                                                 |
-| nutshell         | n.       | 坚果壳                                                               |
-|                  |          |                                                                      |
+|                  |          |                                                                                      |
+| ---------------- | -------- | ------------------------------------------------------------------------------------ |
+| nail             | n.       | 指甲，趾甲；钉子                                                                     |
+| naive            | a.       | 幼稚，天真，无知，缺乏社会经验；天真，率直，朴素                                     |
+| name             | n.       | 名字，名称；命名                                                                     |
+| naming           | n.       | 命名                                                                                 |
+| narrate          | v.       | 讲述，叙述；给（纪录片等）作旁白                                                     |
+| narration        | n.       | （尤指小说、电影或戏剧中的）讲述，叙述；旁白，解说                                   |
+| narrative        | n.       | （尤指小说中的）描述，叙述                                                           |
+|                  | a.       | 叙述，叙事                                                                           |
+| narrator         | n.       | （小说、电影或戏剧中的）讲述者，叙述者；旁白                                         |
+| narrow           | a.       | 狭窄，狭小；勉强，刚好，险；狭隘，目光短浅；狭义，严格                               |
+|                  | v.       | 变窄，缩小                                                                           |
+| narrowly         | ad.      | 勉强，刚好；狭隘，严格；小心，仔细                                                   |
+| narrowness       | n.       | 狭窄，狭小；勉强，刚好；狭隘，目光短浅                                               |
+| nascent          | a.       | 新生的，萌芽的，刚出现的                                                             |
+| nasty            | a.       | 糟糕，坏，差；不友善，令人不愉快；危险，严重；肮脏，下流                             |
+| nation           | n.       | 国家，民族                                                                           |
+| nature           | n.       | 自然                                                                                 |
+| natural          | a.       | 自然                                                                                 |
+| nausea           | n.       | 恶心，反胃                                                                           |
+| nauseate         | v.       | 使恶心，使反胃；使厌恶，使厌烦                                                       |
+| nauseating       | a.       | 令人作呕，令人厌恶                                                                   |
+| naval            | a.       | 海军                                                                                 |
+| navigate         | v.       | 导航，指路；航行，横渡；找到正确方法（对付困难复杂的情况）；（计）（在互联网上）导航 |
+| navigation       | n.       | 导航；航行                                                                           |
+| navigational     | a.       | 导航；航行                                                                           |
+| navy             | n.       | 海军，海军部队                                                                       |
+| near             | a.       | 距离近；不久以后；接近，紧随其后；接近，几乎                                         |
+|                  | ad.      | 在附近，不远；不久以后；几乎，差不多                                                 |
+| nearby           | a.       | 附近                                                                                 |
+|                  | ad.      | 在附近                                                                               |
+| neat             | a.       | 整洁，整齐，井井有条；爱干净，整洁；小巧玲珑；简单但聪明，简明，巧妙                 |
+| neatly           | ad.      | 整洁，整齐，井井有条；简单但聪明，简明，巧妙                                         |
+| nebula           | n.       | （天）星云                                                                           |
+| nebulous         | a.       | 模糊，不清楚                                                                         |
+| necessarily      | ad.      | 必然，不可避免地                                                                     |
+| necessary        | a.       | 必需，必要；必然，无法避免                                                           |
+| neck             | n.       | 脖子，颈；衣领；细长部分，颈                                                         |
+| necklace         | n.       | 项链                                                                                 |
+| necktie          | n.       | 领带                                                                                 |
+| need             | v.       | 需要，要；需要做                                                                     |
+|                  | n.       | 需要；需要，需求；短缺，困难                                                         |
+| needle           | n.       | 针，缝衣针；注射针，针头；指针；针叶                                                 |
+| negative         | a.       | 否定；消极的；阴性；                                                                 |
+| neglect          | v.       | 忽视                                                                                 |
+| negligible       | a.       | 微不足道，无关紧要                                                                   |
+| negotiate        | v.       | 谈判，协商；商定，达成协议；讲价；越过                                               |
+| neighbor         | n.       | 邻居；邻国；身边/临近的人/物                                                         |
+| neighborhood     | n.       | 街区，城区，社区；附近一带，临近的地方                                               |
+| neon             | n.       | 氖；霓虹                                                                             |
+| Neptune          | n.       | 海王星                                                                               |
+| nerd             | n.       | 落伍、无聊、愚蠢的人；电脑迷                                                         |
+| nerve            | n.       | 神经；神经质，神经紧张；勇气，斗志；脸，颜面                                         |
+| nervous          | a.       | 紧张                                                                                 |
+| net              | n.       | 网络；净                                                                             |
+| neural           | a.       | 神经                                                                                 |
+| neuron           | n.       | 神经元                                                                               |
+| neuroscience     | n.       | 神经科学                                                                             |
+| neurotransmitter | n.       | 神经递质                                                                             |
+| neutral          | a.       | 中立；中性；素色，淡色                                                               |
+| neutron          | n.       | 中子                                                                                 |
+| new              | a.       | 新                                                                                   |
+| news             | n.       | 新闻                                                                                 |
+| newspaper        | n.       | 报纸                                                                                 |
+| newt             | n.       | 蝾螈                                                                                 |
+| next             | a.       | 下个                                                                                 |
+|                  | ad.      | 接着；                                                                               |
+| nice             | a.       | 好                                                                                   |
+| nickel           | a.       | 镍                                                                                   |
+| nickname         | n.       | 外号                                                                                 |
+| niggle           | n.       | 一丝烦恼，一丝疑虑；轻微疼痛                                                         |
+|                  | v.       | 使烦恼，使不安；（英）吹毛求疵，挑剔                                                 |
+| niggling         | a.       | （不严重但连续不断）烦人；琐碎，微不足道                                             |
+| night            | n.       | 夜晚，晚上                                                                           |
+| nightclub        | n.       | 夜店                                                                                 |
+| nightmare        | n.       | 噩梦                                                                                 |
+| nine             | n.       | 九                                                                                   |
+| nineteen         | n.       | 十九                                                                                 |
+| ninety           | n.       | 九十                                                                                 |
+| ninja            | n.       | 忍者                                                                                 |
+| ninth            | ord.num. | 第九                                                                                 |
+| nipple           | n.       | 乳头                                                                                 |
+| nitrogen         | n.       | 氮                                                                                   |
+| no               | excla.   | 不，否                                                                               |
+|                  | det.     | 没有                                                                                 |
+|                  | ad.      | 不                                                                                   |
+|                  | n.       | 否                                                                                   |
+| nobble           | v.       | （英）收买，买通；（英）阻挠                                                         |
+| noble            | a.       | 崇高，高尚；宏伟，雄伟，壮丽；高贵，贵族                                             |
+| nobly            | ad.      | 高尚；贵族                                                                           |
+| nobody           | pron.    | 没有人                                                                               |
+| nocturnal        | a.       | （动物）夜间活动；夜间发生的，夜…                                                    |
+| nod              | v.       | 点头；点头致意；打盹，打瞌睡                                                         |
+|                  | n.       | 点头                                                                                 |
+| noodle           | n.       | 面条                                                                                 |
+| non-fiction      | n.       | 纪实文学                                                                             |
+| norm             | n.       | 常态，常事，正常行为；标准                                                           |
+|                  | v.       | 规范，规定                                                                           |
+| norms            | n.       | 规范，行为准则                                                                       |
+| normal           | a.       | 普通                                                                                 |
+| normally         | ad.      | 一般（情况下），通常；正常，平常                                                     |
+| north            | n.       | 北                                                                                   |
+|                  | a.       | 北                                                                                   |
+|                  | ad.      | 向北                                                                                 |
+| northern         | a.       | 北方，北部                                                                           |
+| nose             | n.       | 鼻，鼻子；嗅觉                                                                       |
+| notable          | a.       | 显著，显眼，明显，凸显                                                               |
+|                  | n.       | 名人，重要人物                                                                       |
+| notably          | a.       | 尤其，特别；极大程度上，非常                                                         |
+| notation         | n.       | 记号，表示                                                                           |
+| nothing          | pron.    | 没有事物                                                                             |
+| notice           | v.       | 注意                                                                                 |
+|                  | n.       | 注意                                                                                 |
+| notorious        | a.       | 臭名昭著，恶名昭彰                                                                   |
+| notoriously      | ad.      | 臭名昭著，恶名昭彰                                                                   |
+| notwithstanding  | prep.    | 虽然，尽管                                                                           |
+|                  | ad.      | 尽管如此                                                                             |
+| noun             | n.       | 名词                                                                                 |
+| novel            | n.       | 小说                                                                                 |
+|                  | a.       | 新颖                                                                                 |
+| novelist         | n.       | 小说家                                                                               |
+| November         | n.       | 十一月                                                                               |
+| novice           | n.       | 新手，初学者                                                                         |
+| now              |          | 现在                                                                                 |
+| nuclear          | a.       | 原子能，核能；核；（物）核                                                           |
+| nude             | a.       | 裸体；肉色                                                                           |
+|                  | n.       | 裸体作品                                                                             |
+| nuisance         | n.       | 麻烦，讨厌的人事物；（法）妨害                                                       |
+| nuke             | n.       | 核武器                                                                               |
+|                  | v.       | 核武器攻击                                                                           |
+| number           | n.       | 数，数字                                                                             |
+| numerous         | a.       | 很多，许多                                                                           |
+| nurse            | n.       | 护士                                                                                 |
+| nut              | n.       | 坚果                                                                                 |
+| nutshell         | n.       | 坚果壳                                                                               |
+|                  |          |                                                                                      |
 
 
 # O
@@ -6293,6 +6298,7 @@
 |                           | v.     | 跳伞，空投                                                                                                             |
 | parade                    | n.     | 庆祝游行；检阅，阅兵；一系列（人或事）；夸耀，炫示                                                                     |
 |                           | v.     | 游行庆祝；招摇过市，大摇大摆；展览，展示；（使）列队行进，接受检阅；（使）冒充，伪装，打扮成                           |
+| paradigm                  | n.     | 范式                                                                                                                   |
 | paradise                  | n.     | 天堂，天国；天堂，乐土，乐园；（某类活动或某类人的）乐园，好去处；至福，极乐                                           |
 | paradox                   | n.     | 矛盾的人（或事物、情况）；悖论                                                                                         |
 | paradoxical               | a.     | 矛盾                                                                                                                   |
