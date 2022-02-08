@@ -24,19 +24,17 @@
 | アウトドア                     | outdoor                                   |                        |
 | アウトレット                   | outlet                                    |                        |
 | アカウント                     | account                                   |                        |
-|                                |                                           |                        |
-|                                |                                           |                        |
 | アクシデント                   | accident                                  |                        |
 | アクション                     | action                                    |                        |
 | アクセサリー                   | accessory                                 |                        |
 | アクセシビリティ               | accessibility                             |                        |
 | アクセス                       | access                                    |                        |
-|                                |                                           |                        |
 | アクセル                       | accelerator                               | 油门                   |
 | アクセント                     | accent                                    |                        |
 | アクティブ                     | active                                    |                        |
 | アカデミック                   | academic                                  |                        |
 | アカデミー                     | academy                                   |                        |
+| アコースティックギター・アコギ | acoustic guitar                           |                        |
 | アジア                         | Asia                                      |                        |
 | アジェンダ                     | agenda                                    |                        |
 | アジト                         |                                           | （非法）据点           |
