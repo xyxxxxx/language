@@ -1008,7 +1008,7 @@
 | デスク                       | desk                 |                              |
 | デスクトップ                 | desktop              |                              |
 | テスト                       | test                 |                              |
-| デッサン                     | （フランス）dessin   |                              |
+| デッサン[1]                  | （フランス）dessin   | 素描                         |
 | デッド                       | dead                 |                              |
 | テナント                     | tenant               | 租客                         |
 | テニス                       | tennis               |                              |
@@ -1285,6 +1285,7 @@
 | ハリケーン                       | hurricane                |                          |
 | バリュー                         | value                    |                          |
 | バルーン                         | baloon                   |                          |
+| バルコニー                       | balcony                  |                          |
 | バルブ                           | valve                    | 阀门                     |
 | バレー（ボール）                 | volleyball               |                          |
 | バレエ                           | （仏）ballet             | 芭蕾                     |
