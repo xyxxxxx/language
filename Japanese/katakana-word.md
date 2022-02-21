@@ -57,6 +57,7 @@
 | アナログ                       | analog                                    |                        |
 | アナロジー                     | analogy                                   |                        |
 | アニメ（ーション）             | animation                                 |                        |
+| アネモネ                       | anemone                                   |                        |
 | アパート（メント）             | apartment                                 |                        |
 | アピール                       | appeal                                    | 呼吁；吸引人           |
 | アビリティー                   | ability                                   |                        |
@@ -1274,6 +1275,7 @@
 | バブル                           | bubble                   |                          |
 | バラエティ                       | variety                  |                          |
 | パラグラフ                       | paragraph                |                          |
+| パラサイト                       | parasite                 |                          |
 | パラシュート                     | parachute                | 降落伞                   |
 | パラダイス                       | paradise                 |                          |
 | パラドックス                     | paradox                  | 悖论                     |
