@@ -1696,6 +1696,7 @@
 | マルチメディア             | multimedia          |                     |
 | マンション                 | mansion             | 高级公寓            |
 | マンスリー                 | monthly             |                     |
+| マンネリ（ズム）           | mannerism           | 审美疲劳            |
 | マンモス                   | mammoth             | 猛犸                |
 | ミート                     | meat                |                     |
 | ミートソース               | meat sauce          | 肉酱                |

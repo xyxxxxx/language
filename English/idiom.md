@@ -79,6 +79,13 @@
 | put/place/set a premium on | 重视，珍视         |
 |                            |                    |
 
+# S
+
+|                   |          |
+| ----------------- | -------- |
+| strictly speaking | 严格说来 |
+|                   |          |
+
 # T
 
 |                 |                              |
