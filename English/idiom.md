@@ -19,6 +19,13 @@
 | cut a swathe through | 途径并摧毁一大部分 |
 |                      |                    |
 
+# D
+
+|                       |          |
+| --------------------- | -------- |
+| delusions of grandeur | 妄尊自大 |
+|                       |          |
+
 # F
 
 |                                                   |                                                    |

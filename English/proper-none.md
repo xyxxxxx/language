@@ -93,19 +93,21 @@
 
 # F
 
-|         |         |      |
-| ------- | ------- | ---- |
-| Fiji    | Fijian  | 斐济 |
-| Finland | Finnish | 芬兰 |
-| Foshan  |         | 佛山 |
-| France  | French  | 法国 |
-| Fukuoka |         | 福冈 |
-|         |         |      |
+|          |         |          |
+| -------- | ------- | -------- |
+| Fiji     | Fijian  | 斐济     |
+| Finland  | Finnish | 芬兰     |
+| Florence |         | 弗洛伦萨 |
+| Foshan   |         | 佛山     |
+| France   | French  | 法国     |
+| Fukuoka  |         | 福冈     |
+|          |         |          |
 
 # G
 
 |           |           |          |
 | --------- | --------- | -------- |
+| Genoa     |           | 热那亚   |
 | Georgia   | Georgian  | 格鲁吉亚 |
 | Germany   | German    | 德国     |
 | Guangzhou |           | 广州     |
@@ -341,6 +343,7 @@
 | ------------ | ---------- | -------- |
 | Vatican City | Vatican    | 梵蒂冈   |
 | Venezuela    | Venezuelan | 委内瑞拉 |
+| Venice       |            | 威尼斯   |
 | Vietnam      | Vietnamese | 越南     |
 |              |            |          |
 

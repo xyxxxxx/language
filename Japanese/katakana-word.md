@@ -1013,6 +1013,7 @@
 | デッド                       | dead                 |                              |
 | テナント                     | tenant               | 租客                         |
 | テニス                       | tennis               |                              |
+| デニム                       | denim                | 牛仔裤                       |
 | デパート                     | department store     | 百货店                       |
 | デバイス                     | device               |                              |
 | デビットカード               | debit card           |                              |
@@ -1701,6 +1702,7 @@
 | ミート                     | meat                |                     |
 | ミートソース               | meat sauce          | 肉酱                |
 | ミーハー                   |                     | 赶时髦（贬义）      |
+| ミイラ                     | （ポルトガル）mirra | 木乃伊              |
 | ミサイル                   | missile             |                     |
 | ミシン                     | sewing (machine)    | 缝纫机              |
 | ミス                       | miss                | 失误                |
