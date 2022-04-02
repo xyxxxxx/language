@@ -1766,6 +1766,7 @@
 | モザイク                   | mosaic              | 马赛克              |
 | モジュール                 | module              | 模块                |
 | モダン                     | modern              |                     |
+| モチーフ                   | （フランス）motif   | 主题，中心思想      |
 | モチベーション             | motivation          |                     |
 | モットー                   | motto               |                     |
 | モデル                     | model               |                     |
