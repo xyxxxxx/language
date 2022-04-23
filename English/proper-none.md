@@ -33,6 +33,7 @@
 
 |              |             |                |
 | ------------ | ----------- | -------------- |
+| Babylon      | Babylonian  | 巴比伦         |
 | Baghdad      |             | 巴格达         |
 | Baltimore    |             | 巴尔的摩       |
 | Bangkok      |             | 曼谷           |
@@ -188,6 +189,7 @@
 | Iceland       | Icelandic  | 冰岛           |
 | Idaho (ID)    |            | 爱达荷州       |
 | Illinois (IL) |            | 伊利诺伊州     |
+| Inca          | Incan      | 印加           |
 | India         | Indian     | 印度           |
 | Indiana (IN)  |            | 印第安纳州     |
 | Indianapolis  |            | 印第安纳波利斯 |
@@ -350,6 +352,7 @@
 | Paraguay          | Paraguayan         | 巴拉圭         |
 | Paris             |                    | 巴黎           |
 | Pennsylvania (PA) |                    | 宾夕法尼亚州   |
+| Persia            | Persian            | 波斯           |
 | Peru              | Peruvian           | 秘鲁           |
 | Philadelphia      |                    | 费城           |
 | Philippines       | Filipino           | 菲律宾         |
