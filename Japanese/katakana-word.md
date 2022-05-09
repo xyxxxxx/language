@@ -11,6 +11,7 @@
 | アーティスト                   | artist                                    |                        |
 | アート                         | art                                       |                        |
 | アーバン                       | urban                                     |                        |
+| アイコン                       | icon                                      |                        |
 | アイシング                     | icing                                     | 冰敷                   |
 | アイス                         | ice                                       |                        |
 | アイスクリーム                 | ice cream                                 |                        |
@@ -125,6 +126,7 @@
 | インターナショナル             | international                             |                        |
 | インターネット                 | internet                                  |                        |
 | インターバル                   | interval                                  |                        |
+| インターフェイス               | interface                                 |                        |
 | インターホン                   | interphone                                | 内线电话               |
 | インターンシップ               | internship                                | 实习                   |
 | インタビュー                   | interview                                 | 采访                   |
@@ -174,6 +176,7 @@
 | エキゾチック                   | exotic                                    |                        |
 | エクスタシー                   | ecstasy                                   | 陶醉，忘我             |
 | エクスプレス                   | express                                   | 特快列车               |
+| エグゼクティブ                 | executive                                 |                        |
 | エクセレント                   | excellent                                 |                        |
 | エゴイズム                     | egoism                                    |                        |
 | エゴイスト                     | egoist                                    |                        |
@@ -223,6 +226,7 @@
 | オーケストラ                   | orchestra                                 |                        |
 | オーセンティック               | authentic                                 | 真正的                 |
 | オーダー                       | order                                     |                        |
+| オーディオ                     | audio                                     |                        |
 | オート                         | auto                                      | 汽车                   |
 | オートバイ・バイク             | auto + bicycle                            | 摩托车                 |
 | オートマチック                 | automatic                                 |                        |
@@ -238,6 +242,7 @@
 | オタク                         | お宅                                      | 死宅                   |
 | オッパイ                       |                                           |                        |
 | オナニー                       | （ドイツ）Onanie                          | 自慰                   |
+| オナホール                     |                                           | 飞机杯                 |
 | オピニオン                     | opinion                                   |                        |
 | オフ                           | off                                       |                        |
 | オファー                       | offer                                     |                        |
@@ -303,6 +308,7 @@
 | カップル                 | couple                       |                        |
 | カテゴリー               | （ドイツ）Kategorie          |                        |
 | カトリック               | （オランダ）katholiek        | 天主教                 |
+| カナリア                 | （スペイン）canaria          | 金丝雀                 |
 | カヌー                   | canoe                        | 皮艇                   |
 | カバー                   | cover                        |                        |
 | ガバナンス               | governance                   |                        |
@@ -467,6 +473,7 @@
 | ゲット                   | get                          |                        |
 | ゲノム                   | （ドイツ）Genome             | 基因组                 |
 | ケミカル                 | chemical                     |                        |
+| クラッシュ               | crash                        |                        |
 | クラブ                   | club                         |                        |
 | グラフィック             | graphic                      |                        |
 | グラフィティ             | graffiti                     | 涂鸦                   |
@@ -588,6 +595,7 @@
 | サバンナ                       | savanna                | 热带草原                           |
 | サブ〜                         | sub-                   |                                    |
 | サファイア                     | sapphire               | 蓝宝石                             |
+| サブスクリプション             | subscription           |                                    |
 | サプライ                       | supply                 |                                    |
 | サプライズ                     | surprise               |                                    |
 | サプリ（メント）               | supplement             |                                    |
@@ -724,10 +732,12 @@
 | スクープ                       | scoop                  |                                    |
 | スクール                       | school                 |                                    |
 | スクエア                       | square                 |                                    |
-| スクリーン                     | screen                 |                                    |
 | スクリーニング                 | screening              |                                    |
+| スクリーン                     | screen                 |                                    |
+| スクリーンショット             | screenshot             |                                    |
 | スクリプト                     | script                 | 脚本                               |
 | スクリュー                     | screw                  | 螺旋桨                             |
+| スクロール                     | scroll                 |                                    |
 | スケート                       | skate                  |                                    |
 | スケール                       | scale                  |                                    |
 | スゲジュール                   | schedule               |                                    |
@@ -761,6 +771,7 @@
 | ステロイド                     | steroid                | 类固醇                             |
 | ステンレス                     | stainless              |                                    |
 | ストイック                     | stoic                  | 禁欲的                             |
+| ストア                         | store                  |                                    |
 | ストーカー                     |                        | 跟踪狂                             |
 | ストーブ                       | stove                  |                                    |
 | ストーリー                     | story                  |                                    |
@@ -1436,6 +1447,7 @@
 | フォント                         | font                     | 字体                     |
 | ブザー                           | buzzer                   | 蜂鸣器                   |
 | ブス                             |                          | 丑八怪                   |
+| ブック                           | book                     |                          |
 | ブックマーク                     | bookmark                 |                          |
 | プッシュ                         | push                     |                          |
 | ブティック                       | （フランス）boutique     | 服装店，时装店           |
@@ -1446,7 +1458,7 @@
 | プライバシー                     | privacy                  |                          |
 | フライパン                       | fry pan                  |                          |
 | プライベート                     | private                  |                          |
-| ブラウザ                         | browser                  |                          |
+| ブラウザー                       | browser                  |                          |
 | ブラウス                         | blouse                   | 女罩衫                   |
 | ブラウニー                       | (chocolate) brownie      | 布朗尼                   |
 | プラグ                           | plug                     |                          |
@@ -1738,6 +1750,7 @@
 | メカニズム                 | mechanism           | 机制                |
 | メカニカル                 | mechanical          | 机械的              |
 | メジャー                   | major, measure      |                     |
+| メタバース                 | metaverse           |                     |
 | メタファー                 | metaphor            |                     |
 | メタボリズム               | metabolism          |                     |
 | メダル                     | medal               |                     |
@@ -1940,6 +1953,7 @@
 | ロイヤル               | royal                   |                  |
 | ロー                   | low, law                |                  |
 | ローカル               | local                   |                  |
+| ローション             | lotion                  |                  |
 | ロース                 |                         | 里脊             |
 | ロースト               | roast                   |                  |
 | ローストビーフ         | roast beef              | 烤（牛）肉       |
@@ -1986,6 +2000,7 @@
 | ワイン         | wine         |                                |
 | ワクチン       | vaccine      |                                |
 | ワゴン         |              | 手推车，流动服务车；移动置物架 |
+| ワセリン       | Vaseline     | 凡士林                         |
 | ワックス       | wax          |                                |
 | ワット         | watt         | 瓦特                           |
 | ワッフル       | waffle       | 华夫饼                         |
