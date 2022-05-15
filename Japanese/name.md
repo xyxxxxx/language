@@ -1541,6 +1541,7 @@
 | サンディエゴ                             | San Diego                      |                |
 | サンパウロ                               | São Paulo                      |                |
 | サンフランシスコ                         | San Francisco                  |                |
+| シアトル                                 | Seattle                        |                |
 | 死海（しかい）                           |                                |                |
 | シカゴ                                   | Chicago                        |                |
 | シチリア島                               | Sicily                         |                |

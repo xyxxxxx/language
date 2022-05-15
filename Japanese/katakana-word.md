@@ -253,6 +253,7 @@
 | オフセット                     | offset                                    |                        |
 | オペラ                         | （フランス）opéra                         |                        |
 | オペ（レーション）             | operation                                 | 手术                   |
+| オミクロン                     | omicron                                   |                        |
 | オムライス                     | オム（レツ）+ ライス                      | 蛋包饭                 |
 | オモロ                         |                                           | 搞笑程度               |
 | オリエンテーション             | orientation                               |                        |
@@ -402,6 +403,7 @@
 | グッズ                   | goods                        |                        |
 | グッド                   | good                         |                        |
 | クライアント             | client                       |                        |
+| クラウド                 | cloud                        |                        |
 | グラウンド               | ground                       | 操场                   |
 | クラクション             |                              | 汽车喇叭               |
 | クラシック               | classic                      |                        |
@@ -514,6 +516,7 @@
 | コマンド                 | command                      |                        |
 | コミケ                   | comic market                 | 漫展                   |
 | コミック                 | comic                        |                        |
+| コミットメント           | commitment                   |                        |
 | コミュニケ               | （フランス）communiqué       | 外交声明               |
 | コミュニケーション       | communication                |                        |
 | コミュニティー           | community                    |                        |
@@ -647,6 +650,7 @@
 | ジプシー                       | gupsy                  | 吉普赛                             |
 | シフト                         | shift                  | 值班，排班                         |
 | シミュレーション               | simulation             |                                    |
+| シミュレート                   | simulate               |                                    |
 | ジム                           | gym                    |                                    |
 | ジャージ                       | jersey                 | 运动套装                           |
 | ジャーナリスト                 | journalist             |                                    |
@@ -763,6 +767,7 @@
 | ステイ                         | stay                   |                                    |
 | ステーキ                       | steak                  |                                    |
 | ステージ                       | stage                  |                                    |
+| ステーブル                     | stable                 |                                    |
 | ステッカー                     | sticker                |                                    |
 | ステッキ                       | stick                  | 拐杖                               |
 | ステップ                       | step                   |                                    |
@@ -894,6 +899,7 @@
 | ダークホース                 | dark horse           | 黑马                         |
 | ターゲット                   | target               |                              |
 | ダース                       | dozen                |                              |
+| タービン[1]                  | turbine              |                              |
 | ターボ                       | turbo                | 涡轮                         |
 | ターミナル                   | terminal             | 终点站；航站楼               |
 | ターム                       | term                 |                              |
@@ -1030,6 +1036,7 @@
 | デビットカード               | debit card           |                              |
 | デビュー                     | （フランス）début    | 出道                         |
 | デフォルト                   | default              |                              |
+| デブリ                       | （フランス）débris   | 碎片                         |
 | デフレ（ーション）           | deflation            | 通货紧缩                     |
 | デポジット                   | deposit              | 保证金                       |
 | デモ（ンストレーション）     | demonstration        | 示威游行                     |
@@ -1068,6 +1075,7 @@
 | ドナー                       | donor                |                              |
 | トピック                     | topic                |                              |
 | トマト                       | tomato               |                              |
+| ドメイン                     | domain               |                              |
 | ドメスティック               | domestic             |                              |
 | トライ                       | try                  |                              |
 | ドライ                       | dry                  | 冷淡，冷漠                   |
@@ -1083,6 +1091,7 @@
 | ドラッグ                     | drug                 | 毒品                         |
 | ドラッグストア               | drugstore            | 药店                         |
 | トラップ                     | trap                 |                              |
+| トラフィック                 | traffic              |                              |
 | トラブル                     | trouble              |                              |
 | トラベル                     | travel               |                              |
 | ドラマ                       | drama                |                              |
@@ -1142,6 +1151,7 @@
 | ニュー               | new               |                                                      |
 | ニュース             | news              |                                                      |
 | ヌード               | nude              |                                                      |
+| ヌクレオチド         | nucleotide        | 核苷酸                                               |
 | ネイティブ           | native            |                                                      |
 | ネイル               | nail              |                                                      |
 | ネイルサロン         | nail salon        |                                                      |
@@ -1559,6 +1569,7 @@
 | ベーシック                       | basic                    |                          |
 | ペース                           | pace                     |                          |
 | ベース                           | base                     |                          |
+| ペースト                         | paste                    |                          |
 | ペーパー                         | paper                    | 论文                     |
 | ペーパーカンパニー               | paper + company          | 皮包公司                 |
 | ベクトル                         | vector                   |                          |
@@ -1639,6 +1650,7 @@
 | ポピュラー                       | popular                  |                          |
 | ホモ（セクシュアル）             | homo(sexual)             | 男同性恋                 |
 | ボランティア                     | volunteer                |                          |
+| ポリグラフ                       | polygraph                | 测谎仪                   |
 | ポリシー                         | policy                   |                          |
 | ボリューム                       | volume                   |                          |
 | ボルテージ                       | voltage                  | 热情                     |
@@ -1795,26 +1807,27 @@
 
 ## ヤ
 
-|              |                      |        |
-| ------------ | -------------------- | ------ |
-| ヤード       | yard                 |        |
-| ヤクザ       |                      | 黑社会 |
-| ヤリチン     |                      | 炮王   |
-| ヤンキー     | yankee               | 不良   |
-| ヤング       | young                |        |
-| ヤンデレ     |                      | 病娇   |
-| ユーザー     | user                 |        |
-| ユートピア   | utopia               |        |
-| ユーモア     | humor                |        |
-| ユーロ       | euro                 |        |
-| ユニーク     | （フランス）unique   |        |
-| ユニット     | unit                 |        |
-| ユニバーサル | universal            |        |
-| ユニフォーム | uniform              |        |
-| ヨーロッパ   | （ポルトガル）Europa | 欧洲   |
-| ヨーヨー     | yoyo                 | 溜溜球 |
-| ヨット       | yacht                |        |
-|              |                      |        |
+|               |                      |        |
+| ------------- | -------------------- | ------ |
+| ヤード        | yard                 |        |
+| ヤクザ        |                      | 黑社会 |
+| ヤリチン      |                      | 炮王   |
+| ヤンキー      | yankee               | 不良   |
+| ヤング        | young                |        |
+| ヤンデレ      |                      | 病娇   |
+| ユーザー      | user                 |        |
+| ユートピア    | utopia               |        |
+| ユーモア      | humor                |        |
+| ユーモラス[1] | humorous             |        |
+| ユーロ        | euro                 |        |
+| ユニーク      | （フランス）unique   |        |
+| ユニット      | unit                 |        |
+| ユニバーサル  | universal            |        |
+| ユニフォーム  | uniform              |        |
+| ヨーロッパ    | （ポルトガル）Europa | 欧洲   |
+| ヨーヨー      | yoyo                 | 溜溜球 |
+| ヨット        | yacht                |        |
+|               |                      |        |
 
 
 ## ラ
@@ -1940,7 +1953,8 @@
 | レッド                 | red                     |                  |
 | レディー               | lady                    |                  |
 | レトロ                 | retrospective           | 复古风           |
-| レバー                 | lever                   | 肝               |
+| レバー                 | lever                   | 杠杆             |
+| レバー                 | liver                   | 肝               |
 | レベル                 | level                   |                  |
 | レポート               | report                  |                  |
 | レース                 | lace                    |                  |
@@ -1996,6 +2010,7 @@
 | ワールドカップ | world cup    |                                |
 | ワイシャツ     | white shirt  |                                |
 | ワイヤ         | wire         | 电线；弦                       |
+| ワイヤレス     | wireless     |                                |
 | ワイルド       | wild         |                                |
 | ワイン         | wine         |                                |
 | ワクチン       | vaccine      |                                |
