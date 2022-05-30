@@ -59,6 +59,7 @@
 | アナル                         | anal                                      | 肛门，后庭             |
 | アナログ                       | analog                                    |                        |
 | アナロジー                     | analogy                                   |                        |
+| アニマル                       | animal                                    |                        |
 | アニメ（ーション）             | animation                                 |                        |
 | アネモネ                       | anemone                                   |                        |
 | アパート（メント）             | apartment                                 |                        |
@@ -102,6 +103,7 @@
 | イエス                         | yes                                       |                        |
 | イエロー                       | yellow                                    |                        |
 | イオン                         | ion                                       |                        |
+| イクラ                         | （ロシア）ikra                            | 盐渍鲑鱼子             |
 | イケメン                       |                                           | 帅哥                   |
 | イコール                       | equal                                     |                        |
 | 〜イズム                       | -ism                                      |                        |
@@ -190,6 +192,7 @@
 | エコ（ノミー）                 | economy                                   |                        |
 | エコ（ロジー）                 | ecology                                   |                        |
 | エゴサーチ                     | egosearch                                 | 网上搜自己             |
+| エシャロット                   | （フランス）échalote                      | 青葱                   |
 | エスカレーター                 | escalator                                 | 扶梯                   |
 | エスケープ                     | escape                                    |                        |
 | エステート                     | estate                                    | 不动产                 |
@@ -231,6 +234,8 @@
 | オークション                   | auction                                   |                        |
 | オーケー                       | okay                                      |                        |
 | オーケストラ                   | orchestra                                 |                        |
+| オーシャン                     | ocean                                     |                        |
+| オーシャンビュー               | ocean view                                | 海景                   |
 | オーセンティック               | authentic                                 | 真正的                 |
 | オーダー                       | order                                     |                        |
 | オーディオ                     | audio                                     |                        |
@@ -258,6 +263,7 @@
 | オブザーバー                   | observer                                  |                        |
 | オプション                     | option                                    |                        |
 | オフセット                     | offset                                    |                        |
+| オブラート                     | （オランダ）oblaat                        | 米纸                   |
 | オペラ                         | （フランス）opéra                         |                        |
 | オペ（レーション）             | operation                                 | 手术                   |
 | オミクロン                     | omicron                                   |                        |
@@ -339,6 +345,7 @@
 | カルシウム               | calcium                      |                        |
 | カルスト                 | （ドイツ）Karst              | 喀斯特                 |
 | カルタ                   | （ポルトガル）carta          | 花牌                   |
+| カルダモン               | cardamon                     | 豆蔻                   |
 | カルチャー               | culture                      | 文化                   |
 | カルテ                   | （ドイツ）Karte              | 病历                   |
 | カルテル                 | cartel                       | 卡特尔，垄断联盟       |
@@ -535,6 +542,7 @@
 | コモン                   | common                       |                        |
 | コラボ（レーション）     | collaboration                |                        |
 | コラム                   | column                       |                        |
+| コリアンダー             | coriander                    | 香菜                   |
 | ゴリラ                   | gorilla                      | 大猩猩                 |
 | ゴルフ                   | golf                         |                        |
 | コレクション             | collection                   |                        |
@@ -550,6 +558,7 @@
 | コンセプト               | concept                      |                        |
 | コンセンサス             | consensus                    | 共识                   |
 | コンセント               | concentric+plug              | 插座                   |
+| コンソメ                 | （フランス）consommé         | 清汤                   |
 | コンタクト（レンズ）     | contact lens                 | 隐形眼镜               |
 | コンディション           | condition                    |                        |
 | コンティニュー           | continue                     |                        |
@@ -663,6 +672,7 @@
 | シニア                         | senior                 |                                    |
 | シニカル                       | cynical                | 讥讽                               |
 | シネマ                         | （フランス）cinéma     |                                    |
+| ジビエ[1]                      | （フランス）gibier     | 野味                               |
 | ジプシー                       | gupsy                  | 吉普赛                             |
 | シフト                         | shift                  | 值班，排班                         |
 | シミュレーション               | simulation             |                                    |
@@ -739,6 +749,7 @@
 | スーパー（マーケット）         | supermarket            |                                    |
 | スーパーバイザー               | supervisor             |                                    |
 | スープ                         | soup                   |                                    |
+| スウェット                     | sweat                  | 运动衫，秋衣                       |
 | スカート                       | skirt                  |                                    |
 | スカーフ                       | scarf                  |                                    |
 | スカイダイビング               | sky diving             | 跳伞                               |
@@ -782,8 +793,10 @@
 | スチール                       | steel                  |                                    |
 | スチュワーデス                 | stewardess             | 空姐                               |
 | ステイ                         | stay                   |                                    |
+| ズッキーニ                     | （イタリア）zucchini   | 西葫芦                             |
 | ステーキ                       | steak                  |                                    |
 | ステージ                       | stage                  |                                    |
+| ステーション                   | station                |                                    |
 | ステーブル                     | stable                 |                                    |
 | ステッカー                     | sticker                |                                    |
 | ステッキ                       | stick                  | 拐杖                               |
@@ -929,6 +942,7 @@
 | ターン                       | turn                 |                              |
 | ダイエット                   | diet                 |                              |
 | ダイジェスト                 | digest               |                              |
+| タイツ                       | tights               | 丝袜                         |
 | タイト                       | tight                |                              |
 | タイトル                     | title                |                              |
 | ダイナミック                 | dynamic              |                              |
@@ -993,6 +1007,7 @@
 | チキン                       | chicken              | 鸡肉                         |
 | チケット                     | ticket               |                              |
 | チップ                       | chip                 | 晶片                         |
+| チャーシュー                 | 叉焼                 |                              |
 | チャート                     | chart                |                              |
 | チャーハン                   | 炒饭                 |                              |
 | チャイム                     | chime                | 门铃                         |
@@ -1081,6 +1096,7 @@
 | テン                         | ten                  |                              |
 | テンション                   | tension              | 氛围                         |
 | テント                       | tent                 |                              |
+| テンプレート                 | template             |                              |
 | テンポ                       | （イタリア）tempo    | 速度                         |
 | ドア                         | door                 |                              |
 | トイレ                       | toilet               |                              |
@@ -1171,6 +1187,8 @@
 | ナノテク（ノロジー） | nanotechnology    |                                                      |
 | ナビ（ゲーション）   | navigation        |                                                      |
 | ナプキン             | napkin            | 餐巾，纸巾                                           |
+| ナルシシスト[4]      | narcissist        |                                                      |
+| ナルシシズム[4]      | narcissism        |                                                      |
 | ナレーション         | narration         |                                                      |
 | ナレーター           | narrator          |                                                      |
 | ナンセンス           | nonsense          |                                                      |
@@ -1284,6 +1302,7 @@
 | バウンド                         | bound                    |                          |
 | バキューム                       | vacuum                   |                          |
 | バグ                             | bug                      |                          |
+| パクチー                         |                          | 香菜                     |
 | バケツ                           | bucket                   |                          |
 | パケット                         | packet                   | 报文                     |
 | バクテリア                       | bacteria                 |                          |
@@ -1326,6 +1345,7 @@
 | パブ                             | pub                      |                          |
 | パフェ                           | （仏）parfait            | 芭菲                     |
 | パフォーマンス                   | performance              |                          |
+| パプリカ[2]                      | paprika                  | 红辣椒                   |
 | パブリック                       | public                   |                          |
 | バブル                           | bubble                   |                          |
 | バラエティ                       | variety                  |                          |
@@ -1393,6 +1413,7 @@
 | ビザ                             | visa                     |                          |
 | ビジネス                         | business                 |                          |
 | ビジョン                         | vision                   | 理想；幻想               |
+| ピスタチオ                       | （イタリア）pistàcchio   | 开心果                   |
 | ヒステリー                       | （ドイツ）Hysterie       | 歇斯底里                 |
 | ヒストグラム                     | histogram                | 直方图                   |
 | ヒストリー                       | history                  |                          |
@@ -1601,7 +1622,9 @@
 | プロローグ                       | prologue                 |                          |
 | フロンティア                     | frontier                 | 边境；前沿               |
 | フロント                         | front                    | 前台                     |
+| へア                             | hair                     |                          |
 | ペア                             | pair                     |                          |
+| へアピン                         | hairpin                  |                          |
 | ペアルック                       | pair + look              | 情侣装                   |
 | ペイント                         | paint                    |                          |
 | ベーカリー                       | bakery                   |                          |
@@ -1610,6 +1633,7 @@
 | ペース                           | pace                     |                          |
 | ベース                           | base                     |                          |
 | ペースト                         | paste                    |                          |
+| ベースライン                     | baseline                 |                          |
 | ペーパー                         | paper                    | 论文                     |
 | ペーパーカンパニー               | paper + company          | 皮包公司                 |
 | ヘクタール                       | （フランス）hectare      | 公顷                     |
@@ -1636,6 +1660,7 @@
 | ヘルス                           | health                   | 健康；大保健             |
 | ペルソナ                         | （ラテン）persona        | 假面；人格               |
 | ベルト                           | belt                     |                          |
+| ヘルニア                         | （ラテン）hernia         | 疝，突出                 |
 | ヘルプ                           | help                     |                          |
 | ヘロイン                         | heroin                   | 海洛因                   |
 | ペン                             | pen                      |                          |
@@ -1676,6 +1701,7 @@
 | ホステス                         | hostess                  | 陪酒女，女公关           |
 | ホスト                           | host                     | 牛郎，男公关             |
 | ポスト                           | post                     |                          |
+| ポタージュ                       | （フランス）potage       | 浓汤                     |
 | ボタン                           | （ポルトガル）botão      | 纽扣                     |
 | ホチキス                         | （商标）Hotchikiss       | 订书机                   |
 | ボックス                         | box                      |                          |
@@ -1689,6 +1715,7 @@
 | ポテンシャル                     | potential                |                          |
 | ボトル                           | bottle                   | 水瓶                     |
 | ボトルネック                     | bottleneck               | 瓶颈                     |
+| ホバリング                       | hovering                 |                          |
 | ポピュラー                       | popular                  |                          |
 | ホモ（セクシュアル）             | homo(sexual)             | 男同性恋                 |
 | ボランティア                     | volunteer                |                          |
@@ -1724,12 +1751,15 @@
 | マイナー                   | minor               |                     |
 | マイナス                   | minus               |                     |
 | マイノリティー             | minority            |                     |
+| マイル                     | mile                |                     |
+| マイルストーン             | milestone           |                     |
 | マインド                   | mind                |                     |
 | マウス                     | mouse               | 鼠标                |
 | マカロン                   | （フランス）macaron | 马卡龙              |
 | マグ（カップ）             | mug cup             | 马克杯              |
 | マグネット                 | magnet              | 磁铁                |
 | マクロ                     | macro               |                     |
+| マザーシップ               | mothership          |                     |
 | マジック                   | magic               | 魔法                |
 | マジョリティー             | majority            |                     |
 | マシン                     | machine             |                     |
@@ -1745,6 +1775,7 @@
 | マッスル                   | muscle              |                     |
 | マッチ                     | match               |                     |
 | マット                     | mat                 |                     |
+| マッハ                     | Mach                | 马赫                |
 | マップ                     | map                 |                     |
 | マテリアル                 | material            |                     |
 | マニア                     | mania               |                     |
@@ -1823,7 +1854,8 @@
 | メロディー                 | melody              |                     |
 | メンズ                     | mens                | 男式（服装/发型/…） |
 | メンタル                   | mental              |                     |
-| メンツ                     | 面子                |                     |
+| メンチ[1]                  | mince               | 炸肉饼              |
+| メンツ（カツ）             | 面子                |                     |
 | メンテナンス               | maintenance         | 维护                |
 | メンバー                   | member              |                     |
 | モーション                 | motion              | 运动                |
@@ -1926,6 +1958,7 @@
 | リーダー               | leader                  |                  |
 | リーディング           | leading, reading        | 领导；阅读       |
 | リード                 | lead                    |                  |
+| リーフ                 | leaf                    |                  |
 | リーフレット           | leaflet                 | 传单             |
 | リコール               | recall                  |                  |
 | リサーチ               | research                | 研究，考察       |
@@ -1956,6 +1989,7 @@
 | リュック（サック）     | （ドイツ）Rucksack      | 旅行背包         |
 | リラックス             | relax                   |                  |
 | リリース               | release                 |                  |
+| リレー                 | relay                   |                  |
 | リンク                 | link                    |                  |
 | リング                 | ring                    |                  |
 | リンス                 | rinse                   | 护发素           |
@@ -1963,10 +1997,12 @@
 | リンパ[1]              | lymph                   | 淋巴             |
 | ルーズ                 | loose                   | 松懈；散漫       |
 | ルーチン               | routine                 |                  |
+| ループ                 | loop                    |                  |
 | ルーム                 | room                    |                  |
 | ルール                 | rule                    |                  |
 | ルックス               | looks                   | 颜值             |
 | ルネサンス             | （フランス）Renaissance | 文艺复兴         |
+| ルビジウム[3]          | rubidium                | 铷               |
 | ルンバ                 |                         | 扫地机器人       |
 | レア                   | rare                    |                  |
 | レイアウト             | layout                  |                  |
@@ -2070,4 +2106,5 @@
 | ワンダーランド | wonderland   | 游乐园                         |
 | ワンチャン     | one + chance | 一线生机                       |
 | ワンピース     | one piece    | 连衣裙                         |
+| -2500          |              |                                |
 |                |              |                                |
