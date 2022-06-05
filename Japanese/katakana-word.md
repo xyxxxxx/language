@@ -1288,6 +1288,7 @@
 | バイバイ                         | bye bye                  |                          |
 | バイパス                         | by-pass                  | 辅道                     |
 | パイプ                           | pipe                     |                          |
+| バイブス                         | vibes                    |                          |
 | ハイブリッド                     | hybrid                   |                          |
 | バイブル                         | Bible                    |                          |
 | バイブレーター                   | vibrator                 |                          |
@@ -1915,6 +1916,7 @@
 | ライス                 | rice                    |                  |
 | ライセンス             | license                 |                  |
 | ライター               | lighter                 |                  |
+| ライチ（ー）           | 茘枝                    |                  |
 | ライト                 | light/right             |                  |
 | ライバル               | rival                   |                  |
 | ライフ                 | life                    |                  |
