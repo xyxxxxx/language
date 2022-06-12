@@ -419,6 +419,7 @@
 | グッド                   | good                         |                        |
 | クライアント             | client                       |                        |
 | クラウド                 | cloud                        |                        |
+| クラウン                 | crown                        |                        |
 | グラウンド               | ground                       | 操场                   |
 | クラクション             |                              | 汽车喇叭               |
 | クラシック               | classic                      |                        |
@@ -451,6 +452,7 @@
 | クリップ                 | clip                         |                        |
 | クリティカル             | critical                     |                        |
 | クリニック               | clinic                       |                        |
+| クリプトン[2]            | krypton                      |                        |
 | グリル                   | grill                        | 烧烤；烤架             |
 | グル                     |                              | 同伙                   |
 | グルー                   | glue                         |                        |
@@ -497,7 +499,7 @@
 | グラフィティ             | graffiti                     | 涂鸦                   |
 | クリア                   | clear                        |                        |
 | クリアファイル           | clear + file                 | （透明的）文件夹       |
-| ゲリラ                   | guerrilla                    | 游击战，游击队         |
+| ゲリラ                   | guerrilla                    | 游击战，游击队；快闪   |
 | コア                     | core                         |                        |
 | コイン                   | coin                         |                        |
 | コインランドリー         | coin laundry                 | 投币式洗衣机           |
@@ -544,6 +546,7 @@
 | コラム                   | column                       |                        |
 | コリアンダー             | coriander                    | 香菜                   |
 | ゴリラ                   | gorilla                      | 大猩猩                 |
+| コルチゾール             | cortisol                     | 皮质醇                 |
 | ゴルフ                   | golf                         |                        |
 | コレクション             | collection                   |                        |
 | コレステロール           | cholesterol                  | 胆固醇                 |
@@ -793,6 +796,7 @@
 | スチール                       | steel                  |                                    |
 | スチュワーデス                 | stewardess             | 空姐                               |
 | ステイ                         | stay                   |                                    |
+| ステルス                       | stealth                |                                    |
 | ズッキーニ                     | （イタリア）zucchini   | 西葫芦                             |
 | ステーキ                       | steak                  |                                    |
 | ステージ                       | stage                  |                                    |
@@ -1412,6 +1416,7 @@
 | ピクニック                       | picnic                   |                          |
 | ピザ                             | pizza                    |                          |
 | ビザ                             | visa                     |                          |
+| ビジター                         | visitor                  |                          |
 | ビジネス                         | business                 |                          |
 | ビジョン                         | vision                   | 理想；幻想               |
 | ピスタチオ                       | （イタリア）pistàcchio   | 开心果                   |
