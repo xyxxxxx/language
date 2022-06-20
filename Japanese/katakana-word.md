@@ -40,7 +40,7 @@
 | アジア                         | Asia                                      |                        |
 | アジェンダ                     | agenda                                    |                        |
 | アシスタント                   | assistant                                 |                        |
-| アジト                         |                                           | （非法）据点           |
+| アジト[1][0]                   |                                           | （非法）据点           |
 | アタック                       | attack                                    |                        |
 | アダルト                       | adult                                     |                        |
 | アップ                         | up                                        |                        |
@@ -51,11 +51,11 @@
 | アドバイス                     | advice                                    |                        |
 | アトリエ                       | （フランス）atelier                       | 画室                   |
 | アドリブ                       | （ラテン）ad libitum                      |                        |
-| アドレス                       | address                                   |                        |
+| アドレス[1]                    | address                                   |                        |
 | アドレナリン                   | adrenalin                                 | 肾上腺素               |
 | アナーキー                     | anarchy                                   | 无政府状态             |
 | アナウンサー                   | anouncer                                  |                        |
-| アナリスト                     | analyst                                   |                        |
+| アナリスト[3]                  | analyst                                   |                        |
 | アナル                         | anal                                      | 肛门，后庭             |
 | アナログ                       | analog                                    |                        |
 | アナロジー                     | analogy                                   |                        |
@@ -79,6 +79,7 @@
 | アルカリ                       | （オランダ）alkali                        | 碱性                   |
 | アルコール                     | alcohol                                   |                        |
 | アルゴリズム                   | algorithm                                 |                        |
+| アルゴン[1]                    | argon                                     | 氩                     |
 | アルツハイマー                 | Alzheimer                                 |                        |
 | アリバイ                       | （ラテン）alibi                           |                        |
 | （アル）バイト                 | （ドイツ） Arbeit                         | 打工                   |
@@ -86,7 +87,7 @@
 | アルバム                       | album                                     |                        |
 | アルファ                       | alpha                                     |                        |
 | アルファベット                 | alphabet                                  |                        |
-| アルミ（ニウム）               | aluminum                                  |                        |
+| アルミ（ニウム）[4]            | aluminum                                  |                        |
 | アレルギー                     | （ドイツ） allergie                       |                        |
 | アレンジ                       | arrange                                   | 配置，安排             |
 | アンカー                       | anchor                                    |                        |
@@ -169,6 +170,7 @@
 | ウォーミングアップ             | warming up                                |                        |
 | ウォッカ                       | （ロシア）vodka                           |                        |
 | ウォッチ                       | watch                                     | 手表                   |
+| ウラン[1]                      | （ドイツ）Uran                            | 铀                     |
 | ウルトラ〜                     | ultra-                                    |                        |
 | エア                           | air                                       |                        |
 | エアコン（ディショナー）       | air conditioner                           |                        |
@@ -198,6 +200,7 @@
 | エステート                     | estate                                    | 不动产                 |
 | エステティーク                 | （ドイツ）Ästhetik;（フランス）esthétique | 美学                   |
 | エステ（ティック）             | aesthetic                                 | 美容                   |
+| エスニック                     | ethnic                                    | 民族特色的             |
 | エスプリ                       | （フランス）esprit                        | 精神                   |
 | エターナル                     | eternal                                   |                        |
 | エタノール                     | （ドイツ）Äthanol                         | 乙醇                   |
@@ -322,6 +325,7 @@
 | カップラーメン           | cup + ラーメン               | 方便面                 |
 | カップル                 | couple                       |                        |
 | カテゴリー               | （ドイツ）Kategorie          |                        |
+| カドミウム[3]            | cadmium                      | 镉                     |
 | カトリック               | （オランダ）katholiek        | 天主教                 |
 | カナリア                 | （スペイン）canaria          | 金丝雀                 |
 | カヌー                   | canoe                        | 皮艇                   |
@@ -340,9 +344,11 @@
 | カラー                   | color                        |                        |
 | カラオケ                 | 空 + orchestra               | 卡拉OK                 |
 | ガラス                   | （オランダ）glas             | 玻璃                   |
+| カリウム                 | （ドイツ）Kalium             | 钾                     |
+| ガリウム                 | gallium                      | 镓                     |
 | カリスマ                 | （ドイツ）Charisma           | 超自然的能力           |
 | カルキ                   | （オランダ）kalk             | 石灰                   |
-| カルシウム               | calcium                      |                        |
+| カルシウム               | calcium                      | 钙                     |
 | カルスト                 | （ドイツ）Karst              | 喀斯特                 |
 | カルタ                   | （ポルトガル）carta          | 花牌                   |
 | カルダモン               | cardamon                     | 豆蔻                   |
@@ -366,6 +372,7 @@
 | ギア                     | gear                         | 齿轮                   |
 | ギガ                     | giga-                        |                        |
 | キス                     | kiss                         |                        |
+| キセノン[2]              | xenon                        | 氙                     |
 | ギター                   | guitar                       |                        |
 | キック                   | kick                         |                        |
 | キッズ                   | kids                         |                        |
@@ -428,16 +435,19 @@
 | グラス                   | glass                        | 玻璃杯                 |
 | クラスメイト             | classmate                    |                        |
 | クラッカー               | cracker                      | 咸饼干                 |
+| クラッシュ               | crash                        |                        |
 | グラビア                 | gravure                      | 写真                   |
-| グラフ                   | graph                        |                        |
 | クラブ                   | club                         |                        |
+| グラフ                   | graph                        |                        |
 | グラフィック             | graphic                      |                        |
 | グラフィックス           | graphics                     |                        |
+| グラフィティ             | graffiti                     | 涂鸦                   |
 | グラム                   | gram                         |                        |
 | クラン                   | clan                         | （游戏）工会           |
 | グランド                 | grand                        |                        |
 | グランプリ               | （フランス）grand prix       | 大奖，金奖，最高奖     |
 | クリア                   | clear                        |                        |
+| クリアファイル           | clear + file                 | （透明的）文件夹       |
 | クリアランス             | clearance                    |                        |
 | グリース                 | grease                       | 润滑油                 |
 | クリーニング             | cleaning                     |                        |
@@ -452,7 +462,7 @@
 | クリップ                 | clip                         |                        |
 | クリティカル             | critical                     |                        |
 | クリニック               | clinic                       |                        |
-| クリプトン[2]            | krypton                      |                        |
+| クリプトン[2]            | krypton                      | 氪                     |
 | グリル                   | grill                        | 烧烤；烤架             |
 | グル                     |                              | 同伙                   |
 | グルー                   | glue                         |                        |
@@ -476,6 +486,7 @@
 | クローン                 | clone                        |                        |
 | クロス                   | cross                        |                        |
 | グロス                   | gross                        |                        |
+| クロム[2]                | （ドイツ）Chrom              | 铬                     |
 | クロワッサン             | （フランス）croissant        | 牛角面包               |
 | ケア                     | care                         |                        |
 | ゲイ                     | gay                          |                        |
@@ -493,13 +504,8 @@
 | ゲット                   | get                          |                        |
 | ゲノム                   | （ドイツ）Genome             | 基因组                 |
 | ケミカル                 | chemical                     |                        |
-| クラッシュ               | crash                        |                        |
-| クラブ                   | club                         |                        |
-| グラフィック             | graphic                      |                        |
-| グラフィティ             | graffiti                     | 涂鸦                   |
-| クリア                   | clear                        |                        |
-| クリアファイル           | clear + file                 | （透明的）文件夹       |
 | ゲリラ                   | guerrilla                    | 游击战，游击队；快闪   |
+| ゲルマニウム[4]          | （ドイツ）Germanium          | 锗                     |
 | コア                     | core                         |                        |
 | コイン                   | coin                         |                        |
 | コインランドリー         | coin laundry                 | 投币式洗衣机           |
@@ -527,6 +533,7 @@
 | コツ                     |                              | 要领                   |
 | コップ                   | （オランダ）kop              | 玻璃杯                 |
 | コテージ                 | cottage                      | 村舍                   |
+| コバルト                 | cobalt                       | 钴                     |
 | コピー                   | copy                         |                        |
 | コミュニケーション       | communication                |                        |
 | コマーシャル             | commercial                   |                        |
@@ -732,6 +739,7 @@
 | シリコン                       | silicon                |                                    |
 | シルエット                     | （フランス）silhouette | 人的剪影                           |
 | シルク                         | silk                   |                                    |
+| ジルコニウム[4]                | zirconium              | 锆                                 |
 | シルバー                       | silver                 |                                    |
 | ジレンマ                       | dilemma                |                                    |
 | シンク                         | sink                   | 水槽                               |
@@ -757,6 +765,7 @@
 | スカーフ                       | scarf                  |                                    |
 | スカイダイビング               | sky diving             | 跳伞                               |
 | スカウト                       | scout                  | 挖角                               |
+| スカンジウム[4]                | scandium               | 钪                                 |
 | スキー                         | ski                    |                                    |
 | スキーム                       | scheme                 |                                    |
 | スキャン                       | scan                   |                                    |
@@ -779,6 +788,7 @@
 | スケッチ                       | sketch                 | 草图                               |
 | スコア                         | score                  |                                    |
 | スコープ                       | scope                  | 范畴                               |
+| スズ                           | 錫                     | 锡                                 |
 | スター                         | star                   |                                    |
 | スタート                       | start                  |                                    |
 | スタイル                       | style                  |                                    |
@@ -905,6 +915,7 @@
 | セレクション                   | selection              |                                    |
 | セレブ（リティ）               | celebrity              | 名人                               |
 | セレモニー                     | ceremony               |                                    |
+| セレン[1]                      | （ドイツ）Selen        | 硒                                 |
 | ゼロ                           | zero                   |                                    |
 | セロハン                       | cellophane             | 玻璃纸                             |
 | センサー                       | sensor                 |                                    |
@@ -1010,6 +1021,7 @@
 | チェンジ                     | change               |                              |
 | チキン                       | chicken              | 鸡肉                         |
 | チケット                     | ticket               |                              |
+| チタン                       | （ドイツ）Titan      | 钛                           |
 | チップ                       | chip                 | 晶片                         |
 | チャーシュー                 | 叉焼                 |                              |
 | チャート                     | chart                |                              |
@@ -1036,6 +1048,7 @@
 | ツーショット                 | two + shot           | 两人合照                     |
 | ツール                       | tool                 |                              |
 | ツナ                         |                      | 金枪鱼；金枪鱼罐头           |
+| ティアラ                     | tiara                | 头冠                         |
 | ディープ                     | deep                 |                              |
 | ディーラー                   | dealer               |                              |
 | ティシュ（ペーパー）         | tissue paper         |                              |
@@ -1188,6 +1201,7 @@
 | ナショナル           | national          |                                                      |
 | ナチュラル           | natural           |                                                      |
 | ナッツ               | nuts              | 坚果                                                 |
+| ナトリウム[3]        | （ドイツ）Natrium | 钠                                                   |
 | ナノテク（ノロジー） | nanotechnology    |                                                      |
 | ナビ（ゲーション）   | navigation        |                                                      |
 | ナプキン             | napkin            | 餐巾，纸巾                                           |
@@ -1199,6 +1213,7 @@
 | ナンバー             | number            |                                                      |
 | ニート               | NEET              |                                                      |
 | ニグロ               | Negro             |                                                      |
+| ニッケル             | nickel            | 镍                                                   |
 | ニヒリズム           | nihilism          | 虚无主义                                             |
 | ニュアンス           | nuance            | 语言的微妙差别                                       |
 | ニュー               | new               |                                                      |
@@ -1210,6 +1225,8 @@
 | ネイルサロン         | nail salon        |                                                      |
 | ネーム               | name              |                                                      |
 | ネオ〜               | neo-              |                                                      |
+| ネオン               | neon              | 氖；霓虹                                             |
+| ネオンサイン         | neon sign         | 霓虹灯                                               |
 | ネガ（ティブ）       | negative          |                                                      |
 | ネクタイ             | necktie           |                                                      |
 | ネグレクト           | neglect           |                                                      |
@@ -1342,6 +1359,7 @@
 | パトカー                         | patrol car               | 巡逻车，警车             |
 | バトル                           | battle                   |                          |
 | パトロール                       | patrol                   |                          |
+| バナジウム[3]                    | vanadium                 | 钒                       |
 | バニラ                           | vanilla                  | 香草                     |
 | バナナ                           | banana                   |                          |
 | パニック                         | panic                    |                          |
@@ -1356,6 +1374,7 @@
 | バラエティ                       | variety                  |                          |
 | パラグラフ                       | paragraph                |                          |
 | パラサイト                       | parasite                 |                          |
+| パラジウム[3]                    | palladium                | 钯                       |
 | パラシュート                     | parachute                | 降落伞                   |
 | パラダイス                       | paradise                 |                          |
 | パラドックス                     | paradox                  | 悖论                     |
@@ -1531,6 +1550,7 @@
 | プライバシー                     | privacy                  |                          |
 | フライパン                       | fry pan                  |                          |
 | プライベート                     | private                  |                          |
+| プライヤー                       | pliers                   | 钳子                     |
 | ブラウザー                       | browser                  |                          |
 | ブラウス                         | blouse                   | 女罩衫                   |
 | ブラウニー                       | (chocolate) brownie      | 布朗尼                   |
@@ -1660,7 +1680,8 @@
 | ベビーカー                       | baby + car               | 婴儿车                   |
 | ベランダ                         | veranda                  | 阳台                     |
 | ヘリ（コプター）                 | helicopter               |                          |
-| ヘリウム                         | helium                   |                          |
+| ヘリウム                         | helium                   | 氦                       |
+| ベリリウム[3]                    | beryllium                | 铍                       |
 | ベル                             | bell                     |                          |
 | ヘルシー                         | healthy                  |                          |
 | ヘルス                           | health                   | 健康；大保健             |
@@ -1763,6 +1784,7 @@
 | マウス                     | mouse               | 鼠标                |
 | マカロン                   | （フランス）macaron | 马卡龙              |
 | マグ（カップ）             | mug cup             | 马克杯              |
+| マグネシウム[4]            | magnesium           | 镁                  |
 | マグネット                 | magnet              | 磁铁                |
 | マクロ                     | macro               |                     |
 | マザーシップ               | mothership          |                     |
@@ -1799,7 +1821,8 @@
 | マルウェア                 | malware             |                     |
 | マルチ〜                   | multi-              |                     |
 | マルチメディア             | multimedia          |                     |
-| マンション                 | mansion             | 高级公寓            |
+| マンガン[1]                | （ドイツ）Mangan    | 锰                  |
+| マンション[1]              | mansion             | 高级公寓            |
 | マンスリー                 | monthly             |                     |
 | マンネリ（ズム）           | mannerism           | 审美疲劳            |
 | マンモス                   | mammoth             | 猛犸                |
@@ -1976,6 +1999,7 @@
 | リセット               | reset                   |                  |
 | リゾート               | resort                  | 度假地           |
 | リタイア               | retire                  | 弃权；退休，引退 |
+| リチウム[2]            | lithium                 | 锂               |
 | リッチ                 | rich                    |                  |
 | リットル               | （フランス）litre       |                  |
 | リハーサル             | rehearsal               | 彩排             |
@@ -1997,6 +2021,7 @@
 | リラックス             | relax                   |                  |
 | リリース               | release                 |                  |
 | リレー                 | relay                   |                  |
+| リン[1]                | 燐                      | 磷               |
 | リンク                 | link                    |                  |
 | リング                 | ring                    |                  |
 | リンス                 | rinse                   | 护发素           |
