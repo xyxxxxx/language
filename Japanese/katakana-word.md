@@ -5,7 +5,7 @@
 |                                |                                           |                        |
 | ------------------------------ | ----------------------------------------- | ---------------------- |
 | アーカイブ                     | archive                                   |                        |
-| アーキテクチャー               | architecture                              |                        |
+| アーキテクチャー[4]            | architecture                              |                        |
 | アーケード                     | arcade                                    | 拱廊；街机             |
 | アーチ                         | arch                                      | 拱（结构），拱桥，拱门 |
 | アーティスト                   | artist                                    |                        |
@@ -13,19 +13,19 @@
 | アーバン                       | urban                                     |                        |
 | アイコン                       | icon                                      |                        |
 | アイシング                     | icing                                     | 冰敷                   |
-| アイス                         | ice                                       |                        |
-| アイスクリーム                 | ice cream                                 |                        |
+| アイス[1]                      | ice                                       |                        |
+| アイスクリーム[5]              | ice cream                                 |                        |
 | アイデア                       | idea                                      |                        |
-| アイテム                       | item                                      |                        |
+| アイテム[1]                    | item                                      |                        |
 | アイデンティティ               | identity                                  |                        |
 | アイドル                       | idol                                      |                        |
 | アイロン                       | iron                                      | 熨斗                   |
-| アウト                         | out                                       |                        |
+| アウト[1]                      | out                                       |                        |
 | アウトソーシング               | outsourcing                               | 外包                   |
 | アウトドア                     | outdoor                                   |                        |
 | アウトレット                   | outlet                                    |                        |
-| アカウント                     | account                                   |                        |
-| アクシデント                   | accident                                  |                        |
+| アカウント[2]                  | account                                   |                        |
+| アクシデント[1]                | accident                                  |                        |
 | アクション                     | action                                    |                        |
 | アクセサリー                   | accessory                                 |                        |
 | アクセシビリティ               | accessibility                             |                        |
@@ -1588,6 +1588,7 @@
 | フリーランサー                   | freelancer               | 自由职业者               |
 | ブリキ                           | （オランダ）blik         | 铁皮                     |
 | プリクラ                         |                          | 大头贴                   |
+| ブリッジ                         | bridge                   |                          |
 | プリミティブ                     | primitive                |                          |
 | フリル                           | frill                    | 花边                     |
 | プリン                           | pudding                  | 布丁                     |
@@ -1754,6 +1755,7 @@
 | ポルノ（グラフィー）             | pornography              | 色情作品                 |
 | ホルモン                         | hormone                  | 荷尔蒙                   |
 | ポロシャツ                       | polo shirt               | polo衫                   |
+| ポロニウム[3]                    | polonium                 | 钋                       |
 | ホワイト                         | white                    |                          |
 | ホワイトハウス                   | white house              |                          |
 | ホワイトボード                   | white board              |                          |
