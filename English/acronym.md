@@ -26,6 +26,7 @@
 
 |     |                               |                |
 | --- | ----------------------------- | -------------- |
+| CAD | computer-aided design         | 计算机辅助设计 |
 | CD  | compact disc                  | 光盘           |
 | CEO | chief executive officer       | 首席执行官     |
 | CFO | chief financial officer       | 首席财务官     |
@@ -75,24 +76,28 @@
 
 # H
 
-|     |                    |            |
-| --- | ------------------ | ---------- |
-| HD  | high definition    | 高清       |
-| HDR | high dynamic range | 高动态范围 |
-| HR  | human resource     | 人力资源   |
-|     |                    |            |
+|     |                              |                  |
+| --- | ---------------------------- | ---------------- |
+| HD  | high definition              | 高清             |
+| HDR | high dynamic range           | 高动态范围       |
+| HIV | human immunodeficiency virus | 人体免疫缺损病毒 |
+| HR  | human resource               | 人力资源         |
+|     |                              |                  |
 
 # I
 
-|     |                        |           |
-| --- | ---------------------- | --------- |
-| IC  | integrated circuit     | 集成电路  |
-| IDK | I don't know           | 不知道    |
-| ILY | I love you             | 我爱你    |
-| I/O | input/output           | 输入/输出 |
-| IQ  | intelligence quotient  | 智商      |
-| IT  | information technology | 信息技术  |
-|     |                        |           |
+|      |                                                |                  |
+| ---- | ---------------------------------------------- | ---------------- |
+| IC   | integrated circuit                             | 集成电路         |
+| IDK  | I don't know                                   | 不知道           |
+| ILY  | I love you                                     | 我爱你           |
+| IMF  | International Monetary Fund                    | 国际货币基金组织 |
+| I/O  | input/output                                   | 输入/输出        |
+| IQ   | intelligence quotient                          | 智商             |
+| ISBN | International Standard Book Number             | 国际标准书号     |
+| ISO  | International Organization for Standardization | 国际标准化组织   |
+| IT   | information technology                         | 信息技术         |
+|      |                                                |                  |
 
 # J
 
@@ -160,6 +165,7 @@
 |     |                      |                |
 | --- | -------------------- | -------------- |
 | RAM | random access memory | 随机存取存储器 |
+| RGB | red, green, blue     | 红绿蓝         |
 | RIP | rest in peace        | 安息           |
 | RNA | ribonucleic acid     | 核糖核酸       |
 | ROM | read-only memory     | 只读存储器     |
@@ -170,6 +176,7 @@
 |      |                              |                |
 | ---- | ---------------------------- | -------------- |
 | SOP  | standard operating procedure | 标准操作程序   |
+| SPF  | sun protection factor        | 日光保护指数   |
 | SUV  | sport utility vehicle        | 运动型多用途车 |
 | SWAT | special weapons and tactics  | 特警           |
 |      |                              |                |

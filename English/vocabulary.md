@@ -2695,6 +2695,7 @@
 | coal gas                   | n.      | 煤气                                                                                                                   |
 | coal mine                  | n.      | 煤矿                                                                                                                   |
 | coal miner                 | n.      | 煤矿工人                                                                                                               |
+| coal tar                   | n.      | 煤焦油                                                                                                                 |
 | coal-black                 | a.      | 乌黑，漆黑                                                                                                             |
 | coal-fired                 | a.      | 燃煤                                                                                                                   |
 | coalesce                   | v.      | 合并，联合，结合，汇合                                                                                                 |
@@ -2707,6 +2708,7 @@
 | coastline                  | n.      | 海岸线，沿海地带                                                                                                       |
 | coat                       | n.      | 外套，大衣🧥；动物皮毛；涂料层，覆盖层                                                                                |
 |                            | v.      | 给…涂上一层，用…复盖                                                                                                   |
+| coating                    | n.      | 覆盖层，涂层                                                                                                           |
 | coax                       | v.      | 哄，劝                                                                                                                 |
 | coaxing                    | n.      | 试图劝说                                                                                                               |
 | cobalt (Co)                | n.      | 钴                                                                                                                     |
@@ -5435,7 +5437,7 @@
 | estate                 | n.            | （英）（具有特定功能的城市的）区域；（法）个人财产，遗产                                                         |
 | esteem                 | n.            | 尊重，敬重                                                                                                       |
 |                        | v.            | 尊重，敬重                                                                                                       |
-| ester                  | n.            | （化）脂                                                                                                         |
+| ester                  | n.            | （化）酯                                                                                                         |
 | estimate               | v.            | 估计，估算                                                                                                       |
 |                        | n.            | 估计，估算                                                                                                       |
 | estimation             | n.            | 看法，评价；估计                                                                                                 |
@@ -7046,6 +7048,7 @@
 | green energy      | n.  | 绿色能源                                                                                                                         |
 | green light       | n.  | 准许，许可，绿灯                                                                                                                 |
 | green tea         | n.  | 绿茶                                                                                                                             |
+| greenery          | n.  | 绿色植物                                                                                                                         |
 | greenhouse        | n.  | 温室                                                                                                                             |
 | greenhouse effect | n.  | 温室效应                                                                                                                         |
 | greenhouse gas    | n.  | 温室气体                                                                                                                         |
@@ -8534,6 +8537,7 @@
 | interface           | n.    | 界面；接口                                                                                                         |
 | interfere           | v.    | 干涉，干预，介入                                                                                                   |
 | interference        | n.    | 干涉，干预，介入；（无线电信号的）干扰                                                                             |
+| interferon          | n.    | 干扰素                                                                                                             |
 | intergalactic       | a.    | 星系际，星系间                                                                                                     |
 | intergovernmental   | a.    | 政府间                                                                                                             |
 | interim             | n.    | 临时，过渡；（经）期中                                                                                             |
@@ -10988,7 +10992,7 @@
 | ominous         | a.       | 不详，不吉利                                                                                                         |
 | omission        | n.       | 省略，删除，排除，不在其中；遗漏，疏忽，疏漏                                                                         |
 | omit (-tt-)     | v.       | 忽略，跳过，遗漏；没有，未                                                                                           |
-| omni-           |          | 全部，遍及                                                                                                           |
+| omni-           | comb.f.  | 全部，遍及                                                                                                           |
 | omnibus         | a.       | （美）综合                                                                                                           |
 | omnipotence     | n.       | 全能，无所不能                                                                                                       |
 | omnipotent      | a.       | 全能，无所不能                                                                                                       |
@@ -11134,6 +11138,7 @@
 | oriental        | a.       | 东方（尤指中国和日本）                                                                                               |
 | orientalist     | n.       | 东方学家                                                                                                             |
 | orientation     | n.       | 针对，面向，定位，目标；（个人的）信仰，取向，观点；（任职等前的）培训，迎新会；方向                                 |
+| orienteering    | n.       | 定向越野                                                                                                             |
 | origin          | n.       | 起源；出身；原点                                                                                                     |
 | original        | a.       | 原来，起初，最早；首创，独创，有新意；原作，真迹，原件                                                               |
 |                 | n.       | 原作，真迹，原件                                                                                                     |
@@ -12779,6 +12784,7 @@
 | pushy                     | a.      | （贬）纠缠不休，死缠烂打                                                                                                   |
 | pussy                     | a.      | （儿语）猫咪；（忌，俚）女阴                                                                                               |
 | put                       | v.      | 放                                                                                                                         |
+| put down                  | v.      |                                                                                                                            |
 | puzzle                    | n.      | 谜题，智力游戏；不解之谜                                                                                                   |
 |                           | v.      | 迷惑，使困惑                                                                                                               |
 | puzzled                   | a.      | 困惑，迷惑不解                                                                                                             |
@@ -16567,6 +16573,7 @@
 | toll               | n.         | （道路、桥梁的）过路费，通行费；（战争、灾难等造成的）伤亡人数；（缓慢而有规律的）钟声；（美）长途电话费                       |
 |                    | v.         | （缓慢而有规律地）敲（钟），（尤指）鸣（丧钟）                                                                                 |
 | tollbooth          | n.         | （道路、桥梁的）收费站                                                                                                         |
+| toluene            | n.         | 甲苯                                                                                                                           |
 | tomato             | n.         | 西红柿                                                                                                                         |
 | tomb               | n.         | 坟墓                                                                                                                           |
 | tombstone          | n.         | 墓碑                                                                                                                           |
@@ -17802,7 +17809,7 @@
 | venomous         | a.    | 有毒，分泌毒液；恶毒，充满恶意，充满仇恨                                                                                           |
 | ventilate        | v.    | 使通风，使通气                                                                                                                     |
 | ventilation      | n.    | 通风，通气                                                                                                                         |
-| ventilator       | n.    | 通风设备，通风口；呼吸器                                                                                                           |
+| ventilator       | n.    | 通风设备，通风口，换气扇；呼吸器                                                                                                   |
 | venue            | n.    | 活动场地（如音乐厅、体育场馆、会场等）                                                                                             |
 | Venus            | n.    | 金星                                                                                                                               |
 | verb             | n.    | 动词                                                                                                                               |
@@ -18490,6 +18497,7 @@
 | x-ray      | n.  | X光，X射线                   |
 | xenon (Xe) | n.  | 氙                           |
 | xenophobia | n.  | 仇外（对外国人的厌恶或惧怕） |
+| xylene     | n.  | 二甲苯                       |
 |            |     |                              |
 
 # Y
