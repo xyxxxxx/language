@@ -1796,6 +1796,7 @@
 | ヤンゴン                                 | Yangon                         | 仰光           |
 | ユーフラテス川                           | Euphrates                      |                |
 | ヨーク                                   | York                           |                |
+| ヨーロッパ                               | （ポルトガル）Europa           | 欧洲           |
 | ヨハネスバーグ                           | Johannesburg                   |                |
 | ヨルダン                                 | Jordan                         |                |
 | ヨルダン川                               | Jordan River                   |                |
@@ -1833,5 +1834,6 @@
 | ロンドン橋                               | London Bridge                  |                |
 |                                          |                                |                |
 | **わ**                                   |                                |                |
+| ワーテルロー                             | Waterloo                       |                |
 | ワシントン                               | Washington                     |                |
 | ワルシャワ                               | Warsaw                         |                |

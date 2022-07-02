@@ -24,21 +24,23 @@
 
 # C
 
-|     |                               |                |
-| --- | ----------------------------- | -------------- |
-| CAD | computer-aided design         | 计算机辅助设计 |
-| CD  | compact disc                  | 光盘           |
-| CEO | chief executive officer       | 首席执行官     |
-| CFO | chief financial officer       | 首席财务官     |
-| CG  | computer graphics             | 计算机图形     |
-| CN  | China                         | 中国           |
-| CNY | Chinese yuan                  | 人民币         |
-| COO | chief operating officer       | 首席运营官     |
-| CPR | cardiopulmonary resuscitation | 心肺复苏       |
-| CPU | central processing unit       | 中央处理器     |
-| CT  | computed tomography           | 计算机断层扫描 |
-| CTO | chief technology officer      | 首席技术官     |
-|     |                               |                |
+|     |                               |                  |
+| --- | ----------------------------- | ---------------- |
+| CAD | computer-aided design         | 计算机辅助设计   |
+| CBD | central business district     | 中央商务区       |
+| CD  | compact disc                  | 光盘             |
+| CEO | chief executive officer       | 首席执行官       |
+| CFO | chief financial officer       | 首席财务官       |
+| CG  | computer graphics             | 计算机图形       |
+| CN  | China                         | 中国             |
+| CNY | Chinese yuan                  | 人民币           |
+| COO | chief operating officer       | 首席运营官       |
+| CPI | consumer price index          | 居民消费价格指数 |
+| CPR | cardiopulmonary resuscitation | 心肺复苏         |
+| CPU | central processing unit       | 中央处理器       |
+| CT  | computed tomography           | 计算机断层扫描   |
+| CTO | chief technology officer      | 首席技术官       |
+|     |                               |                  |
 
 # D
 
@@ -101,17 +103,18 @@
 
 # J
 
-|     |               |      |
-| --- | ------------- | ---- |
-| JP  | Japan         | 日本 |
-| JPY | Japanese yuan | 日元 |
-|     |               |      |
+|     |              |      |
+| --- | ------------ | ---- |
+| JP  | Japan        | 日本 |
+| JPY | Japanese yen | 日元 |
+|     |              |      |
 
 # K
 
 |     |       |            |
 | --- | ----- | ---------- |
 | KR  | Korea | 朝鲜，韩国 |
+| KPI |       |            |
 |     |       |            |
 
 # L

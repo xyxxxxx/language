@@ -9,6 +9,7 @@
 | as it is                      | 按照现状                     |
 | as it were                    | 在一定程度上                 |
 | as opposed to                 | 相比于，相对于，而不是       |
+| at least                      | 至少；起码                   |
 | at your own risk              | 后果自负                     |
 |                               |                              |
 
@@ -38,6 +39,7 @@
 |                       |          |
 | --------------------- | -------- |
 | damn it               | 该死     |
+| day to day            | 日常     |
 | delusions of grandeur | 妄尊自大 |
 | do well               | 成功     |
 |                       |          |
@@ -92,6 +94,7 @@
 | I thought as much | 果然不出我所料                                 |
 | in reality        | 实际上，事实上                                 |
 | in hand           | 在手头，可获得；在掌握中，在控制中；正在处理中 |
+| in the flesh      | 亲自，本人                                     |
 | in the hands of   | 由…处理，受…控制                               |
 |                   |                                                |
 
