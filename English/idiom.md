@@ -1,17 +1,19 @@
 # A
 
-|                               |                              |
-| ----------------------------- | ---------------------------- |
-| as always                     | 和往常一样                   |
-| as far as I know/see/remember | 就我所知/依我看/就我所记得的 |
-| as far as I am concerned      | 就我而言                     |
-| as far as … is concerned      | 就…而言                      |
-| as it is                      | 按照现状                     |
-| as it were                    | 在一定程度上                 |
-| as opposed to                 | 相比于，相对于，而不是       |
-| at least                      | 至少；起码                   |
-| at your own risk              | 后果自负                     |
-|                               |                              |
+|                               |                                      |
+| ----------------------------- | ------------------------------------ |
+| a tad                         | 一点                                 |
+| after all                     | 毕竟，终归；（解释或说明理由）说到底 |
+| as always                     | 和往常一样                           |
+| as far as I know/see/remember | 就我所知/依我看/就我所记得的         |
+| as far as I am concerned      | 就我而言                             |
+| as far as … is concerned      | 就…而言                              |
+| as it is                      | 按照现状                             |
+| as it were                    | 在一定程度上                         |
+| as opposed to                 | 相比于，相对于，而不是               |
+| at least                      | 至少；起码                           |
+| at your own risk              | 后果自负                             |
+|                               |                                      |
 
 # B
 
@@ -60,6 +62,7 @@
 | for sure                                          | 确定，无疑                                         |
 | for the sake of                                   | 因为…的缘故                                        |
 | for your information (FYI)                        | for information only                               |
+| from scratch                                      | 从头开始，从零开始                                 |
 |                                                   |                                                    |
 
 # G
@@ -88,15 +91,21 @@
 
 # I
 
-|                   |                                                |
-| ----------------- | ---------------------------------------------- |
-| I don't think so  | 我不这么认为                                   |
-| I thought as much | 果然不出我所料                                 |
-| in reality        | 实际上，事实上                                 |
-| in hand           | 在手头，可获得；在掌握中，在控制中；正在处理中 |
-| in the flesh      | 亲自，本人                                     |
-| in the hands of   | 由…处理，受…控制                               |
-|                   |                                                |
+|                    |                                                |
+| ------------------ | ---------------------------------------------- |
+| I don't think so   | 我不这么认为                                   |
+| I thought as much  | 果然不出我所料                                 |
+| in accordance with | 依照，依据                                     |
+| in order           | （正式文件）（依法）有效；正常，就绪           |
+| in order that      | 目的是，为了，以便                             |
+| in order to        | 目的是，为了，以便                             |
+| in principle       | 原则上，理论上；大体上，基本上                 |
+| in reality         | 实际上，事实上                                 |
+| in hand            | 在手头，可获得；在掌握中，在控制中；正在处理中 |
+| in store for       | 即将发生（在某人身上），等待着（某人）         |
+| in the flesh       | 亲自，本人                                     |
+| in the hands of    | 由…处理，受…控制                               |
+|                    |                                                |
 
 # L
 
@@ -109,30 +118,35 @@
 
 # N
 
-|            |                          |
-| ---------- | ------------------------ |
-| no comment | 无可奉告                 |
-| no doubt   | 无疑，毫无疑问           |
-| no offense | 无意冒犯                 |
-| no kidding | 可不是；不开玩笑，说真是 |
-| not a clue | 完全不知道，一无所知     |
-| not nearly | 远非，绝不是             |
-|            |                          |
+|                 |                          |
+| --------------- | ------------------------ |
+| needless to say | 不用说，不必说           |
+| no comment      | 无可奉告                 |
+| no doubt        | 无疑，毫无疑问           |
+| no offense      | 无意冒犯                 |
+| no kidding      | 可不是；不开玩笑，说真是 |
+| not a clue      | 完全不知道，一无所知     |
+| not nearly      | 远非，绝不是             |
+|                 |                          |
 
 # O
 
-|                                       |                                      |
-| ------------------------------------- | ------------------------------------ |
-| off one's hands                       | 不再由某人负责                       |
-| on hold                               | 推迟，中断                           |
-| on sale                               | 出售，上市；（美）降价销售           |
-| on the fritz                          | （美）出故障                         |
-| on the one hand … on the other hand … | （引出对立的观点等）一方面，另一方面 |
-| on one's hands                        | 由某人负责                           |
-| one of a kind                         | 独一无二，独特                       |
-| or so                                 | 大约                                 |
-| out of one's hands                    | 不再由某人负责                       |
-|                                       |                                      |
+|                                       |                                                                                  |
+| ------------------------------------- | -------------------------------------------------------------------------------- |
+| off one's hands                       | 不再由某人负责                                                                   |
+| on fire                               | 着火                                                                             |
+| on hold                               | 推迟，中断                                                                       |
+| on sale                               | 出售，上市；（美）降价销售                                                       |
+| on the fritz                          | （美）出故障                                                                     |
+| on the one hand … on the other hand … | （引出对立的观点等）一方面，另一方面                                             |
+| on one's hands                        | 由某人负责                                                                       |
+| one of a kind                         | 独一无二，独特                                                                   |
+| or so                                 | 大约                                                                             |
+| out of                                | 出于                                                                             |
+| out of joint                          | 脱臼                                                                             |
+| out of one's hands                    | 不再由某人负责                                                                   |
+| out of order                          | （机器等）出问题，出故障；打乱顺序，乱七八糟；违反规程，不合乎（会议或辩论）规则 |
+|                                       |                                                                                  |
 
 # P
 
@@ -144,20 +158,23 @@
 
 # R
 
-|                         |                    |
-| ----------------------- | ------------------ |
-| relatively speaking     | 相对来说，相对而言 |
-| run before you can walk | 还没学会走就开始跑 |
-|                         |                    |
+|                         |                        |
+| ----------------------- | ---------------------- |
+| relatively speaking     | 相对来说，相对而言     |
+| right and left          | 到处，处处             |
+| right now               | 现在，此刻；立即，马上 |
+| run before you can walk | 还没学会走就开始跑     |
+|                         |                        |
 
 # S
 
-|                   |                  |
-| ----------------- | ---------------- |
-| show one's face   | 露面             |
-| so far            | 到目前为止，至今 |
-| strictly speaking | 严格说来         |
-|                   |                  |
+|                   |                      |
+| ----------------- | -------------------- |
+| set/put store by  | 看重，重视（某事物） |
+| show one's face   | 露面                 |
+| so far            | 到目前为止，至今     |
+| strictly speaking | 严格说来             |
+|                   |                      |
 
 # T
 
@@ -174,14 +191,22 @@
 
 # U
 
-|                |                                      |
-| -------------- | ------------------------------------ |
-| under one roof | 在同一座建筑中；在同一个屋檐下       |
-| up and down    | 起伏，上下波动；来回，往复；时好时坏 |
-| up and running | （计算机系统）运行起来               |
-| up there       | （差不多是最好、最差、最重要等）之一 |
-| ups and downs  | 荣辱，兴衰                           |
-|                |                                      |
+|                 |                                      |
+| --------------- | ------------------------------------ |
+| under age       | 未到法定年龄                         |
+| under cover     | （为秘密活动）伪装，隐蔽             |
+| under one roof  | 在同一座建筑中；在同一个屋檐下       |
+| under protest   | 无奈，不甘心，不服气                 |
+| under seal      | （文件）密封                         |
+| under siege     | 被包围，被围困，被封锁；一再遭到批评 |
+| under suspicion | 涉嫌                                 |
+| under way       | 已经开始，在进行中                   |
+| up and down     | 起伏，上下波动；来回，往复；时好时坏 |
+| up and running  | （计算机系统）运行起来               |
+| up there        | （差不多是最好、最差、最重要等）之一 |
+| up to scratch   | 达到要求，合乎标准                   |
+| ups and downs   | 荣辱，兴衰                           |
+|                 |                                      |
 
 # W
 
