@@ -67,15 +67,16 @@
 
 # G
 
-|                           |                                          |
-| ------------------------- | ---------------------------------------- |
-| give a crap about         | 鸟，甩                                   |
-| go downhill               | （质量、健康等）走下坡路，恶化，每况愈下 |
-| go far                    | （人）有出息，有远大前程                 |
-| good/safe bet             | 很可能发生/成功的事情，合适的选择        |
-| grin and bear it          | 默默忍受，苦笑着忍受                     |
-| groan under the weight of | 不堪重负，被压得喘不过气                 |
-|                           |                                          |
+|                             |                                          |
+| --------------------------- | ---------------------------------------- |
+| get/find/take your bearings | 弄清楚自己所处的位置，熟悉环境             |
+| give a crap about           | 鸟，甩                                   |
+| go downhill                 | （质量、健康等）走下坡路，恶化，每况愈下 |
+| go far                      | （人）有出息，有远大前程                 |
+| good/safe bet               | 很可能发生/成功的事情，合适的选择        |
+| grin and bear it            | 默默忍受，苦笑着忍受                     |
+| groan under the weight of   | 不堪重负，被压得喘不过气                 |
+|                             |                                          |
 
 # H
 
@@ -109,10 +110,11 @@
 
 # L
 
-|           |      |
-| --------- | ---- |
-| lone wolf | 独狼 |
-|           |      |
+|                    |          |
+| ------------------ | -------- |
+| lone wolf          | 独狼     |
+| lose your bearings | 迷失方向 |
+|                    |          |
 
 # M
 
@@ -141,6 +143,7 @@
 | on the one hand … on the other hand … | （引出对立的观点等）一方面，另一方面                                             |
 | on one's hands                        | 由某人负责                                                                       |
 | one of a kind                         | 独一无二，独特                                                                   |
+| or else                               | 要不然，否则；或者，或许                                                         |
 | or so                                 | 大约                                                                             |
 | out of                                | 出于                                                                             |
 | out of joint                          | 脱臼                                                                             |
@@ -191,32 +194,34 @@
 
 # U
 
-|                 |                                      |
-| --------------- | ------------------------------------ |
-| under age       | 未到法定年龄                         |
-| under cover     | （为秘密活动）伪装，隐蔽             |
-| under one roof  | 在同一座建筑中；在同一个屋檐下       |
-| under protest   | 无奈，不甘心，不服气                 |
-| under seal      | （文件）密封                         |
-| under siege     | 被包围，被围困，被封锁；一再遭到批评 |
-| under suspicion | 涉嫌                                 |
-| under way       | 已经开始，在进行中                   |
-| up and down     | 起伏，上下波动；来回，往复；时好时坏 |
-| up and running  | （计算机系统）运行起来               |
-| up there        | （差不多是最好、最差、最重要等）之一 |
-| up to scratch   | 达到要求，合乎标准                   |
-| ups and downs   | 荣辱，兴衰                           |
-|                 |                                      |
+|                       |                                      |
+| --------------------- | ------------------------------------ |
+| under age             | 未到法定年龄                         |
+| under cover           | （为秘密活动）伪装，隐蔽             |
+| under one roof        | 在同一座建筑中；在同一个屋檐下       |
+| under protest         | 无奈，不甘心，不服气                 |
+| under seal            | （文件）密封                         |
+| under siege           | 被包围，被围困，被封锁；一再遭到批评 |
+| under suspicion       | 涉嫌                                 |
+| under the auspices of | 在…的帮助（或支持、保护）下          |
+| under way             | 已经开始，在进行中                   |
+| up and down           | 起伏，上下波动；来回，往复；时好时坏 |
+| up and running        | （计算机系统）运行起来               |
+| up there              | （差不多是最好、最差、最重要等）之一 |
+| up to scratch         | 达到要求，合乎标准                   |
+| ups and downs         | 荣辱，兴衰                           |
+|                       |                                      |
 
 # W
 
-|                  |                          |
-| ---------------- | ------------------------ |
-| what's up        | 最近怎么样               |
-| when it comes to | 当涉及（或做）（某事）时 |
-| with respect     | 恕我直言                 |
-| without demur    | 没有异议                 |
-|                  |                          |
+|                    |                          |
+| ------------------ | ------------------------ |
+| what the fuck/hell | 我操，什么鬼             |
+| what's up          | 最近怎么样               |
+| when it comes to   | 当涉及（或做）（某事）时 |
+| with respect       | 恕我直言                 |
+| without demur      | 没有异议                 |
+|                    |                          |
 
 # W
 
