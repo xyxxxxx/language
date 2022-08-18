@@ -1,19 +1,28 @@
 # A
 
-|                               |                                      |
-| ----------------------------- | ------------------------------------ |
-| a tad                         | 一点                                 |
-| after all                     | 毕竟，终归；（解释或说明理由）说到底 |
-| as always                     | 和往常一样                           |
-| as far as I know/see/remember | 就我所知/依我看/就我所记得的         |
-| as far as I am concerned      | 就我而言                             |
-| as far as … is concerned      | 就…而言                              |
-| as it is                      | 按照现状                             |
-| as it were                    | 在一定程度上                         |
-| as opposed to                 | 相比于，相对于，而不是               |
-| at least                      | 至少；起码                           |
-| at your own risk              | 后果自负                             |
-|                               |                                      |
+|                               |                                                                                              |
+| ----------------------------- | -------------------------------------------------------------------------------------------- |
+| a bit                         | （英）一点，有点；（英）（时间）一会，一下，（空间）一点                                     |
+| a tad                         | 一点                                                                                         |
+| after all                     | 毕竟，终归；（解释或说明理由）说到底                                                         |
+| as always                     | 和往常一样                                                                                   |
+| as a matter of fact           | 事实上，其实                                                                                 |
+| as far as I know/see/remember | 就我所知/依我看/就我所记得的                                                                 |
+| as far as I am concerned      | 就我而言                                                                                     |
+| as far as … is concerned      | 就…而言                                                                                      |
+| as it is                      | 按照现状                                                                                     |
+| as it were                    | 在一定程度上                                                                                 |
+| as many as                    | 多达                                                                                         |
+| as opposed to                 | 相比于，相对于，而不是                                                                       |
+| as regards                    | 关于，至于                                                                                   |
+| at any cost                   | 无论如何                                                                                     |
+| at any price                  | 不惜任何代价                                                                                 |
+| at any rate                   | （强调事实）无论如何，不管怎样；（表达得更加确切）不管怎样，至少；（强调下文）总而言之，反正 |
+| at half mast                  | 降半旗                                                                                       |
+| at least                      | 至少；起码                                                                                   |
+| at one's behest               | 按某人的吩咐，应某人的要求，遵照某人的命令                                                   |
+| at your own risk              | 后果自负                                                                                     |
+|                               |                                                                                              |
 
 # B
 
@@ -25,6 +34,7 @@
 | behind the scenes    | 在幕后，在后台；在幕后，秘密 |
 | believe it or not    | 信不信由你                   |
 | beyond doubt         | 无疑，确实                   |
+| break even           | 收支平衡，盈亏相抵，不赔不赚 |
 | by hand              | 手工                         |
 |                      |                              |
 
@@ -38,32 +48,44 @@
 
 # D
 
-|                       |          |
-| --------------------- | -------- |
-| damn it               | 该死     |
-| day to day            | 日常     |
-| delusions of grandeur | 妄尊自大 |
-| do well               | 成功     |
-|                       |          |
+|                       |                                                  |
+| --------------------- | ------------------------------------------------ |
+| damn it               | 该死                                             |
+| day to day            | 日常                                             |
+| delusions of grandeur | 妄尊自大                                         |
+| dig deep into         | 彻底调查，仔细查阅；尽力提供（所需金钱、设备等） |
+| do well               | 成功                                             |
+|                       |                                                  |
+
+# E
+
+|                |                                            |
+| -------------- | ------------------------------------------ |
+| even as        | 正当，就在                                 |
+| even if/though | 尽管，即使，纵然                           |
+| even now/then  | 甚至到现在（或那时），即便是这样（或那样） |
+| even so        | 尽管如此                                   |
+|                |                                            |
 
 # F
 
-|                                                   |                                                    |
-| ------------------------------------------------- | -------------------------------------------------- |
-| far from it                                       | 完全相反，远非如此                                 |
-| for Christ's/God's/goodness'/heaven's/pity's sake | （表示重要或恼火）千万，天哪，看在上帝份上，行行好 |
-| for certain                                       | 肯定，确定，无疑                                   |
-| for exmaple (e.g.)                                | 例如                                               |
-| for information only                              | 仅供参考                                           |
-| for instance                                      | 例如，比如                                         |
-| for real                                          | 真实，严肃                                         |
-| for sale                                          | 待售                                               |
-| for show                                          | 供展览，装门面；中看不中用                         |
-| for sure                                          | 确定，无疑                                         |
-| for the sake of                                   | 因为…的缘故                                        |
-| for your information (FYI)                        | for information only                               |
-| from scratch                                      | 从头开始，从零开始                                 |
-|                                                   |                                                    |
+|                                                   |                                                                    |
+| ------------------------------------------------- | ------------------------------------------------------------------ |
+| far from it                                       | 完全相反，远非如此                                                 |
+| for Christ's/God's/goodness'/heaven's/pity's sake | （表示重要或恼火）千万，天哪，看在上帝份上，行行好                 |
+| for certain                                       | 肯定，确定，无疑                                                   |
+| for exmaple (e.g.)                                | 例如                                                               |
+| for information only                              | 仅供参考                                                           |
+| for instance                                      | 例如，比如                                                         |
+| for real                                          | 真实，严肃                                                         |
+| for sale                                          | 待售                                                               |
+| for show                                          | 供展览，装门面；中看不中用                                         |
+| for sure                                          | 确定，无疑                                                         |
+| for the sake of                                   | 因为…的缘故                                                        |
+| for your information (FYI)                        | 仅供参考                                                           |
+| forget it                                         | 算了，没关系，不必在意；忘了它吧，别提了；休想，不可能；住嘴，闭嘴 |
+| from scratch                                      | 从头开始，从零开始                                                 |
+|                                                   |                                                                    |
 
 # G
 
@@ -96,6 +118,8 @@
 | ------------------ | ---------------------------------------------- |
 | I don't think so   | 我不这么认为                                   |
 | I thought as much  | 果然不出我所料                                 |
+| I told you         | 早就告诉过你，早就跟你讲                       |
+| in a pickle        | 处于困境                                       |
 | in accordance with | 依照，依据                                     |
 | in order           | （正式文件）（依法）有效；正常，就绪           |
 | in order that      | 目的是，为了，以便                             |
@@ -103,9 +127,13 @@
 | in principle       | 原则上，理论上；大体上，基本上                 |
 | in reality         | 实际上，事实上                                 |
 | in hand            | 在手头，可获得；在掌握中，在控制中；正在处理中 |
+| in/with regard to  | 关于，至于                                     |
 | in store for       | 即将发生（在某人身上），等待着（某人）         |
 | in the flesh       | 亲自，本人                                     |
 | in the hands of    | 由…处理，受…控制                               |
+| in this regard     | 在这方面，在这一点上                           |
+| in turn            | 依次，轮流，逐一；相应地，继而                 |
+| in vain            | 徒劳，枉费心机，白费力气，付诸东流             |
 |                    |                                                |
 
 # L
@@ -120,22 +148,29 @@
 
 # N
 
-|                 |                          |
-| --------------- | ------------------------ |
-| needless to say | 不用说，不必说           |
-| no comment      | 无可奉告                 |
-| no doubt        | 无疑，毫无疑问           |
-| no offense      | 无意冒犯                 |
-| no kidding      | 可不是；不开玩笑，说真是 |
-| not a clue      | 完全不知道，一无所知     |
-| not nearly      | 远非，绝不是             |
-|                 |                          |
+|                    |                                                                                |
+| ------------------ | ------------------------------------------------------------------------------ |
+| needless to say    | 不用说，不必说                                                                 |
+| no comment         | 无可奉告                                                                       |
+| no doubt           | 无疑，毫无疑问                                                                 |
+| no matter          | 不管                                                                           |
+| no offense         | 无意冒犯                                                                       |
+| no kidding         | 可不是；不开玩笑，说真是                                                       |
+| not a clue         | 完全不知道，一无所知                                                           |
+| not nearly         | 远非，绝不是                                                                   |
+| now and again/then | 有时，时常，偶尔                                                               |
+| now that           | 既然                                                                           |
+| now what           | （对某人的不断提问或打扰感到厌烦）又怎么了；（不知道下一步该做什么）现在怎么办 |
+|                    |                                                                                |
 
 # O
 
 |                                       |                                                                                  |
 | ------------------------------------- | -------------------------------------------------------------------------------- |
+| of note                               | 重要，著名，引人注目                                                             |
+| of service                            | 有用，可以提供帮助                                                               |
 | off one's hands                       | 不再由某人负责                                                                   |
+| on behalf of                          | 代表；代表（某人的）利益；因为，为了                                             |
 | on fire                               | 着火                                                                             |
 | on hold                               | 推迟，中断                                                                       |
 | on sale                               | 出售，上市；（美）降价销售                                                       |
@@ -164,6 +199,7 @@
 |                         |                        |
 | ----------------------- | ---------------------- |
 | relatively speaking     | 相对来说，相对而言     |
+| rest in peace           | 安息                   |
 | right and left          | 到处，处处             |
 | right now               | 现在，此刻；立即，马上 |
 | run before you can walk | 还没学会走就开始跑     |
@@ -183,7 +219,9 @@
 
 |                   |                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------ |
+| take umbrage      | 生气，感到不快，认为受到冒犯（或羞辱）                                                           |
 | take hold         | 开始完全控制                                                                                     |
+| take turns        | 依次，轮流                                                                                       |
 | there it is       | 情况就是这样                                                                                     |
 | there you are/go  | 给你，拿去；（解释或示范时用）就是这样，这就行了；（某事的发生方式）一贯如此，（某状况）无可更改 |
 | think twice about | 三思而行                                                                                         |

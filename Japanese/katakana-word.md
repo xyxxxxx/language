@@ -1639,6 +1639,7 @@
 | ドラレコ                           | drive + record         | 行车记录                     |
 | トランク[2]                        | trunk                  | 手提箱                       |
 | トランクス[2]                      | trunks                 | 四角裤                       |
+| トランシーバー[4]                  | transceiver            | 对讲机，步话机               |
 | トランジスタ[4]                    | transistor             | 晶体管                       |
 | トランプ[2]                        | trump                  |                              |
 | ドリーム[2]                        | dream                  |                              |
