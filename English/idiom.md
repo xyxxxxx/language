@@ -4,6 +4,7 @@
 | ----------------------------- | -------------------------------------------------------------------------------------------- |
 | a bit                         | （英）一点，有点；（英）（时间）一会，一下，（空间）一点                                     |
 | a tad                         | 一点                                                                                         |
+| across the board              | 全面，全体                                                                                   |
 | after all                     | 毕竟，终归；（解释或说明理由）说到底                                                         |
 | as always                     | 和往常一样                                                                                   |
 | as a matter of fact           | 事实上，其实                                                                                 |
@@ -126,8 +127,10 @@
 | in order to        | 目的是，为了，以便                             |
 | in principle       | 原则上，理论上；大体上，基本上                 |
 | in reality         | 实际上，事实上                                 |
+| in return          | 作为回报；作为回应                             |
 | in hand            | 在手头，可获得；在掌握中，在控制中；正在处理中 |
 | in/with regard to  | 关于，至于                                     |
+| in spite of        | 尽管                                           |
 | in store for       | 即将发生（在某人身上），等待着（某人）         |
 | in the flesh       | 亲自，本人                                     |
 | in the hands of    | 由…处理，受…控制                               |
@@ -145,6 +148,11 @@
 |                    |          |
 
 # M
+
+|            |      |
+| ---------- | ---- |
+| make sense | 合理 |
+|            |      |
 
 # N
 
@@ -171,6 +179,7 @@
 | of service                            | 有用，可以提供帮助                                                               |
 | off one's hands                       | 不再由某人负责                                                                   |
 | on behalf of                          | 代表；代表（某人的）利益；因为，为了                                             |
+| on board                              | 在船（或飞机、公交车、火车等）上；支持                                           |
 | on fire                               | 着火                                                                             |
 | on hold                               | 推迟，中断                                                                       |
 | on sale                               | 出售，上市；（美）降价销售                                                       |
@@ -188,11 +197,12 @@
 
 # P
 
-|                            |                            |
-| -------------------------- | -------------------------- |
-| perish the thought         | 没门，下辈子再说吧         |
-| put/place/set a premium on | 重视，珍视                 |
-|                            |                            |
+|                            |                    |
+| -------------------------- | ------------------ |
+| perish the thought         | 没门，下辈子再说吧 |
+| prior to                   | 在…之前            |
+| put/place/set a premium on | 重视，珍视         |
+|                            |                    |
 
 # R
 
@@ -207,13 +217,22 @@
 
 # S
 
-|                   |                      |
-| ----------------- | -------------------- |
-| set/put store by  | 看重，重视（某事物） |
-| show one's face   | 露面                 |
-| so far            | 到目前为止，至今     |
-| strictly speaking | 严格说来             |
-|                   |                      |
+|                         |                      |
+| ----------------------- | -------------------- |
+| sense of achievement    | 成就感，达成感       |
+| sense of direction      | 方向感               |
+| sense of duty           | 责任感               |
+| sense of humor          | 幽默感               |
+| sense of identity       | 身份认同感           |
+| sense of responsibility | 责任感               |
+| sense of rhythm         | 节奏感               |
+| sense of security       | 安全感               |
+| sense of proportion     | 分清轻重缓急         |
+| set/put store by        | 看重，重视（某事物） |
+| show one's face         | 露面                 |
+| so far                  | 到目前为止，至今     |
+| strictly speaking       | 严格说来             |
+|                         |                      |
 
 # T
 
@@ -235,6 +254,7 @@
 |                       |                                      |
 | --------------------- | ------------------------------------ |
 | under age             | 未到法定年龄                         |
+| under arrest          | 被逮捕                               |
 | under cover           | （为秘密活动）伪装，隐蔽             |
 | under one roof        | 在同一座建筑中；在同一个屋檐下       |
 | under protest         | 无奈，不甘心，不服气                 |
