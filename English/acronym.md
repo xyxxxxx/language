@@ -21,6 +21,7 @@
 | B2B   | business-to-business                | 企业对企业         |
 | B2C   | business-to-consumer                | 企业对顾客         |
 | BBQ   | barbecue                            | 烧烤               |
+| BBS   | bulletin board system               | 电子布告栏系统     |
 | BC    | before Christ                       | 公元前             |
 | BMI   | body mass index                     | 身体质量指数       |
 | BRB   | be right back                       | 马上回来           |
@@ -109,10 +110,13 @@
 | NFC   | near field communication            | 近距离无线通信     |
 | NGO   | non-government organization         | 非政府组织         |
 | NOYB  | none of your business               | 不关你的事         |
+| NPC   | non-player character                | 非玩家角色         |
 | NPO   | nonprofit organization              | 非盈利组织         |
 | NSFW  | not safe for work                   |                    |
 |       |                                     |                    |
 | **O** |                                     |                    |
+| OCR   | optical character recognition       | 光学字符识别       |
+| OCD   | obsessive–compulsive disorder       | 强迫症             |
 | OMG   | oh my god                           | 我的天哪           |
 | OMW   | on my way                           | 在路上             |
 | OS    | operation system                    | 操作系统           |
@@ -137,6 +141,8 @@
 | RIP   | rest in peace                       | 安息               |
 | RNA   | ribonucleic acid                    | 核糖核酸           |
 | ROM   | read-only memory                    | 只读存储器         |
+| RPG   | role-playing game                   | 角色扮演游戏       |
+| RTS   | real-time strategy                  | 即时战略（游戏）   |
 |       |                                     |                    |
 | **S** |                                     |                    |
 | SI    | (France) Système International      | 国际单位           |
@@ -179,130 +185,135 @@
 
 # acronym of proper noun
 
-| A      |                                                                  |                            |
-| ------ | ---------------------------------------------------------------- | -------------------------- |
-| ABC    | American Broadcasting Company                                    | 美国广播公司               |
-|        | Agricultural Bank of China                                       | 中国农业银行               |
-| AMD    | Advanced Micro Devices, Inc.                                     | 超威半导体                 |
-| ANA    | All Nippon Airways                                               | 全日空                     |
-| APA    | American Psychological Association                               | 美国心理学会               |
-| AUD    | Australian dollar                                                | 澳元                       |
-|        |                                                                  |                            |
-| **B**  |                                                                  |                            |
-| BBC    | British Broadcasting Corporation                                 | 英国广播公司               |
-| BOC    | Bank of China                                                    | 中国银行                   |
-|        |                                                                  |                            |
-| **C**  |                                                                  |                            |
-| CCTV   | China Central Television                                         | 中国中央电视台             |
-| CCB    | China Construction Bank                                          | 中国建设银行               |
-| CDC    | Centers for Disease Control and Prevention                       | （美国）疾病控制与预防中心 |
-| CFA    | Chartered Financial Analyst                                      | 特许金融分析师             |
-| CIA    | Central Intelligence Agency                                      | （美国）中央情报局         |
-| CIS    | Commonwealth of Independent States                               | 独立国家联合体             |
-| CMB    | China Merchants Bank                                             | （中国）招商银行           |
-| CN     | China                                                            | 中国                       |
-| CNY    | Chinese yuan                                                     | 人民币                     |
-| CPC    | Communist Party of China                                         | 中国共产党                 |
-| CSS    | Cascading Style Sheets                                           | 层叠样式表                 |
-|        |                                                                  |                            |
-| **D**  |                                                                  |                            |
-| DEA    | Drug Enforcement Administration                                  | （美国）缉毒局             |
-| DNS    | Domain Name System                                               | 域名系统                   |
-| DOD    | United States Department of Defense                              | 美国国防部                 |
-|        |                                                                  |                            |
-| **E**  |                                                                  |                            |
-| EMS    | Express Mail Service                                             | 邮政特快专递               |
-| ESPN   | Entertainment and Sports Programming Network                     |                            |
-| EU     | European Union                                                   | 欧盟                       |
-| EUR    | euro                                                             | 欧元                       |
-|        |                                                                  |                            |
-| **F**  |                                                                  |                            |
-| FBI    | Federal Bureau of Investigation                                  | （美国）联邦调查局         |
-| FDA    | Food and Drug Administration                                     | （美国）食品及药物管理局   |
-| FTP    | File Transfer Protocol                                           | 文件传输协议               |
-|        |                                                                  |                            |
-| **G**  |                                                                  |                            |
-| GBP    | Great British Pound                                              | 英镑                       |
-| GE     | General Electric Company                                         | 通用电气                   |
-| GFW    | Great Fire Wall                                                  | 防火长城                   |
-| GMT    | Greenwich Mean Time                                              | 格林尼治标准时间           |
-| GPS    | Global Positioning System                                        | 全球定位系统               |
-|        |                                                                  |                            |
-| **H**  |                                                                  |                            |
-| HK     | Hong Kong                                                        | 香港                       |
-| HKD    | Hong Kong dollar                                                 | 港元                       |
-| HP     | Hewlett-Packard Company                                          | 惠普                       |
-| HTML   | HyperText Markup Language                                        | 超文本标记语言             |
-| HTTP   | HyperText Transfer Protocol                                      | 超文本传输协议             |
-| HTTPS  | HyperText Transfer Protocol Secure                               | 超文本传输安全协议         |
-|        |                                                                  |                            |
-| **I**  |                                                                  |                            |
-| IBM    | International Business Machines Corporation                      | 国际商业机器公司           |
-| ICBC   | Industrial and Commercial Bank                                   | 中国工商银行               |
-| IMF    | International Monetary Fund                                      | 国际货币基金组织           |
-| IOC    | International Olympic Committee                                  | 国际奥林匹克委员会         |
-| IP     | Internet Protocol                                                | 网际协议                   |
-| ISBN   | International Standard Book Number                               | 国际标准书号               |
-| ISO    | International Organization for Standardization                   | 国际标准化组织             |
-|        |                                                                  |                            |
-| **J**  |                                                                  |                            |
-| JP     | Japan                                                            | 日本                       |
-| JPY    | Japanese yen                                                     | 日元                       |
-|        |                                                                  |                            |
-| **K**  |                                                                  |                            |
-| KFC    | Kentucky Fried Chicken                                           | 肯德基                     |
-| KGB    | (Russian) Komitet Gosudarstvennoy Bezopasnosti                   | 克格勃                     |
-| KPMG   | Klynveld Peat Marwick Goerdeler                                  | 毕马威                     |
-| KR     | Korea                                                            | 朝鲜，韩国                 |
-|        |                                                                  |                            |
-| **M**  |                                                                  |                            |
-| MLB    | Major League Baseball                                            | （美国）职业棒球大联盟     |
-|        |                                                                  |                            |
-| **N**  |                                                                  |                            |
-| NASA   | National Aeronautics and Space Administration                    | （美国）国家航空航天局     |
-| NASDAQ | National Association of Securities Dealers Automated Quotations  | 纳斯达克                   |
-| NATO   | North Atlantic Treaty Organization                               | 北大西洋公约组织           |
-| NBA    | National Basketball Association                                  | （美国）国家篮球协会       |
-| NBC    | National Broadcasting Company                                    | （美国）全国广播公司       |
-| NHK    | (Japanese) Nippon Hōsō Kyōkai                                    | 日本广播协会               |
-|        |                                                                  |                            |
-| **O**  |                                                                  |                            |
-| OPEC   | Organization of Petroleum Exporting Countries                    | 石油输出国组织             |
-|        |                                                                  |                            |
-| **P**  |                                                                  |                            |
-| PLA    | People's Liberation Army                                         | 中国人民解放军             |
-| PRC    | People's Republic of China                                       | 中华人民共和国             |
-| PwC    | PricewaterhouseCoopers                                           | 普华永道                   |
-|        |                                                                  |                            |
-| **R**  |                                                                  |                            |
-| RCEP   | Regional Comprehensive Economic Partnership                      | 区域全面经济伙伴关系协定   |
-| RUB    | Russian ruble                                                    | 卢布                       |
-|        |                                                                  |                            |
-| **S**  |                                                                  |                            |
-| SSH    | Secure Shell Protocol                                            | 安全外壳协议               |
-| SGD    | Singapore dollar                                                 | 新加坡元                   |
-|        |                                                                  |                            |
-| **T**  |                                                                  |                            |
-| TCP    | Transmission Control Protocol                                    | 传输控制协议               |
-| TSMC   | Taiwan Semiconductor Manufacturing Co., Ltd.                     | 台积电                     |
-| TW     | Taiwan                                                           | 台湾                       |
-| TWD    | New Taiwan dollar                                                | 新台币                     |
-|        |                                                                  |                            |
-| **U**  |                                                                  |                            |
-| UDP    | User Datagram Protocol                                           | 用户数据报协议             |
-| UK     | United Kindom                                                    | 英国                       |
-| UN     | United Nations                                                   | 联合国                     |
-| UNESCO | United Nations Educational, Scientific and Cultural Organization | 联合国教科文组织           |
-| US     | United States                                                    | 美国                       |
-| USA    | United States of America                                         | 美国                       |
-| USAF   | United States Air Force                                          | 美国空军                   |
-| USD    | United States dollar                                             | 美元                       |
-|        |                                                                  |                            |
-| **V**  |                                                                  |                            |
-| VOA    | Voice of America                                                 | 美国之音                   |
-|        |                                                                  |                            |
-| **W**  |                                                                  |                            |
-| WHO    | World Health Organization                                        | 世界卫生组织               |
-| WTO    | World Trade Organization                                         | 世界贸易组织               |
-| WWE    | World Wrestling Entertainment                                    | 世界摔角娱乐               |
-|        |                                                                  |                            |
+| A      |                                                                  |                                          |
+| ------ | ---------------------------------------------------------------- | ---------------------------------------- |
+| ABC    | American Broadcasting Company                                    | 美国广播公司                             |
+|        | Agricultural Bank of China                                       | 中国农业银行                             |
+| AMD    | Advanced Micro Devices, Inc.                                     | 超威半导体                               |
+| ANA    | All Nippon Airways                                               | 全日空                                   |
+| AP     | Associated Press                                                 | （美国）联合通讯社                       |
+| APA    | American Psychological Association                               | 美国心理学会                             |
+| AUD    | Australian dollar                                                | 澳元                                     |
+|        |                                                                  |                                          |
+| **B**  |                                                                  |                                          |
+| BBC    | British Broadcasting Corporation                                 | 英国广播公司                             |
+| BMW    | Bayerische Motoren Werke AG                                      | 巴伐利亚发动机制造厂股份有限公司（宝马） |
+| BOC    | Bank of China                                                    | 中国银行                                 |
+|        |                                                                  |                                          |
+| **C**  |                                                                  |                                          |
+| CCTV   | China Central Television                                         | 中国中央电视台                           |
+| CCB    | China Construction Bank                                          | 中国建设银行                             |
+| CDC    | Centers for Disease Control and Prevention                       | （美国）疾病控制与预防中心               |
+| CFA    | Chartered Financial Analyst                                      | 特许金融分析师                           |
+| CIA    | Central Intelligence Agency                                      | （美国）中央情报局                       |
+| CIS    | Commonwealth of Independent States                               | 独立国家联合体                           |
+| CMB    | China Merchants Bank                                             | （中国）招商银行                         |
+| CN     | China                                                            | 中国                                     |
+| CNY    | Chinese yuan                                                     | 人民币                                   |
+| CPC    | Communist Party of China                                         | 中国共产党                               |
+| CSS    | Cascading Style Sheets                                           | 层叠样式表                               |
+|        |                                                                  |                                          |
+| **D**  |                                                                  |                                          |
+| DEA    | Drug Enforcement Administration                                  | （美国）缉毒局                           |
+| DNS    | Domain Name System                                               | 域名系统                                 |
+| DOD    | United States Department of Defense                              | 美国国防部                               |
+|        |                                                                  |                                          |
+| **E**  |                                                                  |                                          |
+| EMS    | Express Mail Service                                             | 邮政特快专递                             |
+| ESPN   | Entertainment and Sports Programming Network                     |                                          |
+| EU     | European Union                                                   | 欧盟                                     |
+| EUR    | euro                                                             | 欧元                                     |
+|        |                                                                  |                                          |
+| **F**  |                                                                  |                                          |
+| FBI    | Federal Bureau of Investigation                                  | （美国）联邦调查局                       |
+| FDA    | Food and Drug Administration                                     | （美国）食品及药物管理局                 |
+| FTP    | File Transfer Protocol                                           | 文件传输协议                             |
+|        |                                                                  |                                          |
+| **G**  |                                                                  |                                          |
+| GBP    | Great British Pound                                              | 英镑                                     |
+| GE     | General Electric Company                                         | 通用电气                                 |
+| GFW    | Great Fire Wall                                                  | 防火长城                                 |
+| GMT    | Greenwich Mean Time                                              | 格林尼治标准时间                         |
+| GPS    | Global Positioning System                                        | 全球定位系统                             |
+|        |                                                                  |                                          |
+| **H**  |                                                                  |                                          |
+| HK     | Hong Kong                                                        | 香港                                     |
+| HKD    | Hong Kong dollar                                                 | 港元                                     |
+| HP     | Hewlett-Packard Company                                          | 惠普                                     |
+| HTML   | HyperText Markup Language                                        | 超文本标记语言                           |
+| HTTP   | HyperText Transfer Protocol                                      | 超文本传输协议                           |
+| HTTPS  | HyperText Transfer Protocol Secure                               | 超文本传输安全协议                       |
+|        |                                                                  |                                          |
+| **I**  |                                                                  |                                          |
+| IBM    | International Business Machines Corporation                      | 国际商业机器公司                         |
+| ICBC   | Industrial and Commercial Bank                                   | 中国工商银行                             |
+| IMF    | International Monetary Fund                                      | 国际货币基金组织                         |
+| IOC    | International Olympic Committee                                  | 国际奥林匹克委员会                       |
+| IP     | Internet Protocol                                                | 网际协议                                 |
+| IRS    | Internal Revenue Service                                         | （美国）国税局                           |
+| ISBN   | International Standard Book Number                               | 国际标准书号                             |
+| ISO    | International Organization for Standardization                   | 国际标准化组织                           |
+|        |                                                                  |                                          |
+| **J**  |                                                                  |                                          |
+| JP     | Japan                                                            | 日本                                     |
+| JPY    | Japanese yen                                                     | 日元                                     |
+|        |                                                                  |                                          |
+| **K**  |                                                                  |                                          |
+| KFC    | Kentucky Fried Chicken                                           | 肯德基                                   |
+| KGB    | (Russian) Komitet Gosudarstvennoy Bezopasnosti                   | 克格勃                                   |
+| KPMG   | Klynveld Peat Marwick Goerdeler                                  | 毕马威                                   |
+| KR     | Korea                                                            | 朝鲜，韩国                               |
+|        |                                                                  |                                          |
+| **M**  |                                                                  |                                          |
+| MLB    | Major League Baseball                                            | （美国）职业棒球大联盟                   |
+|        |                                                                  |                                          |
+| **N**  |                                                                  |                                          |
+| NASA   | National Aeronautics and Space Administration                    | （美国）国家航空航天局                   |
+| NASDAQ | National Association of Securities Dealers Automated Quotations  | 纳斯达克                                 |
+| NATO   | North Atlantic Treaty Organization                               | 北大西洋公约组织                         |
+| NBA    | National Basketball Association                                  | （美国）国家篮球协会                     |
+| NBC    | National Broadcasting Company                                    | （美国）全国广播公司                     |
+| NHK    | (Japanese) Nippon Hōsō Kyōkai                                    | 日本广播协会                             |
+| NSA    | National Security Agency                                         | （美国）国家安全局                       |
+|        |                                                                  |                                          |
+| **O**  |                                                                  |                                          |
+| OPEC   | Organization of Petroleum Exporting Countries                    | 石油输出国组织                           |
+|        |                                                                  |                                          |
+| **P**  |                                                                  |                                          |
+| PDF    | Portable Document Format                                         | 便携式文档格式                           |
+| PLA    | People's Liberation Army                                         | 中国人民解放军                           |
+| PRC    | People's Republic of China                                       | 中华人民共和国                           |
+| PwC    | PricewaterhouseCoopers                                           | 普华永道                                 |
+|        |                                                                  |                                          |
+| **R**  |                                                                  |                                          |
+| RCEP   | Regional Comprehensive Economic Partnership                      | 区域全面经济伙伴关系协定                 |
+| RUB    | Russian ruble                                                    | 卢布                                     |
+|        |                                                                  |                                          |
+| **S**  |                                                                  |                                          |
+| SSH    | Secure Shell Protocol                                            | 安全外壳协议                             |
+| SGD    | Singapore dollar                                                 | 新加坡元                                 |
+|        |                                                                  |                                          |
+| **T**  |                                                                  |                                          |
+| TCP    | Transmission Control Protocol                                    | 传输控制协议                             |
+| TSMC   | Taiwan Semiconductor Manufacturing Co., Ltd.                     | 台积电                                   |
+| TW     | Taiwan                                                           | 台湾                                     |
+| TWD    | New Taiwan dollar                                                | 新台币                                   |
+|        |                                                                  |                                          |
+| **U**  |                                                                  |                                          |
+| UDP    | User Datagram Protocol                                           | 用户数据报协议                           |
+| UK     | United Kindom                                                    | 英国                                     |
+| UN     | United Nations                                                   | 联合国                                   |
+| UNESCO | United Nations Educational, Scientific and Cultural Organization | 联合国教科文组织                         |
+| US     | United States                                                    | 美国                                     |
+| USA    | United States of America                                         | 美国                                     |
+| USAF   | United States Air Force                                          | 美国空军                                 |
+| USD    | United States dollar                                             | 美元                                     |
+|        |                                                                  |                                          |
+| **V**  |                                                                  |                                          |
+| VOA    | Voice of America                                                 | 美国之音                                 |
+|        |                                                                  |                                          |
+| **W**  |                                                                  |                                          |
+| WHO    | World Health Organization                                        | 世界卫生组织                             |
+| WTO    | World Trade Organization                                         | 世界贸易组织                             |
+| WWE    | World Wrestling Entertainment                                    | 世界摔角娱乐                             |
+|        |                                                                  |                                          |

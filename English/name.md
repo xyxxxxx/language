@@ -254,6 +254,7 @@
 | Netherlands                | Dutch                  | 荷兰                       |
 | Nevada (NV)                |                        | 内华达州                   |
 | New Delhi                  |                        | 新德里                     |
+| New England                |                        | 新英格兰                   |
 | New Hampshire (NH)         |                        | 新罕布什尔州               |
 | New Orleans                |                        | 新奥尔良                   |
 | New York (NY)              |                        | 纽约州                     |

@@ -12,6 +12,7 @@
 |                             |                              |
 | **N**                       |                              |
 | no pain, no gain            | 没有付出，就没有收获         |
+| no news is good news        | 没有消息就是好消息           |
 |                             |                              |
 | **P**                       |                              |
 | practice makes perfect      | 熟能生巧                     |
