@@ -23,6 +23,7 @@
 | BBQ   | barbecue                            | 烧烤               |
 | BBS   | bulletin board system               | 电子布告栏系统     |
 | BC    | before Christ                       | 公元前             |
+| BIM   | building information modeling       | 建筑信息模型       |
 | BMI   | body mass index                     | 身体质量指数       |
 | BRB   | be right back                       | 马上回来           |
 | BRT   | bus rapid transit                   | 快速公交系统       |
@@ -53,6 +54,7 @@
 | DJ    | disc jockey                         | 音乐节目主持人     |
 | DNA   | deoxyribonucleic acid               | 脱氧核糖核酸       |
 | DOB   | date of birth                       | 生日               |
+| DUI   | driving under the influence         | 酒驾               |
 |       |                                     |                    |
 | **E** |                                     |                    |
 | ECG   | electrocardiogram                   | 心电图             |
@@ -61,9 +63,11 @@
 | EMT   | emergency medical technician        | 急救员             |
 | ETA   | estimated time of arrival           | 预计到达时间       |
 | ETC   | electronic toll collection          | 电子不停车收费系统 |
+| EV    | electric vehicle                    | 电动车             |
 |       |                                     |                    |
 | **F** |                                     |                    |
 | FAQ   | frequently asked question           | 常见问题           |
+| FTA   | free trade agreement                | 自由贸易协定       |
 | FYI   | for your information                | 供参考             |
 |       |                                     |                    |
 | **G** |                                     |                    |
@@ -75,11 +79,13 @@
 | HDR   | high dynamic range                  | 高动态范围         |
 | HIV   | human immunodeficiency virus        | 人体免疫缺损病毒   |
 | HP    | health point                        | 生命值             |
+| HPV   | human papillomavirus                | 人类乳头瘤病毒     |
 | HQ    | headquarter                         | 总部               |
 | HR    | human resource                      | 人力资源           |
 |       |                                     |                    |
 | **I** |                                     |                    |
 | IC    | integrated circuit                  | 集成电路           |
+| ICYMI | in case you missed it               | 以防你错过了       |
 | ID    | identification                      | 身份               |
 | IDK   | I don't know                        | 不知道             |
 | ILY   | I love you                          | 我爱你             |
@@ -216,7 +222,8 @@
 | **D**  |                                                                  |                                          |
 | DEA    | Drug Enforcement Administration                                  | （美国）缉毒局                           |
 | DNS    | Domain Name System                                               | 域名系统                                 |
-| DOD    | United States Department of Defense                              | 美国国防部                               |
+| DOD    | Department of Defense                                            | （美国）国防部                           |
+| DOJ    | Department of Justice                                            | （美国）司法部                           |
 |        |                                                                  |                                          |
 | **E**  |                                                                  |                                          |
 | EMS    | Express Mail Service                                             | 邮政特快专递                             |
@@ -308,6 +315,7 @@
 | USA    | United States of America                                         | 美国                                     |
 | USAF   | United States Air Force                                          | 美国空军                                 |
 | USD    | United States dollar                                             | 美元                                     |
+| USSR   | Union of Soviet Socialist Republics                              | 苏联                                     |
 |        |                                                                  |                                          |
 | **V**  |                                                                  |                                          |
 | VOA    | Voice of America                                                 | 美国之音                                 |

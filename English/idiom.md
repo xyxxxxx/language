@@ -37,6 +37,7 @@
 | believe it or not    | 信不信由你                   |
 | beyond doubt         | 无疑，确实                   |
 | break even           | 收支平衡，盈亏相抵，不赔不赚 |
+| by dint of           | 凭借，借助，依靠             |
 | by hand              | 手工                         |
 |                      |                              |
 
@@ -93,8 +94,10 @@
 
 |                             |                                          |
 | --------------------------- | ---------------------------------------- |
-| get/find/take your bearings | 弄清楚自己所处的位置，熟悉环境             |
+| get rid of                  | 摆脱，丢弃，清除，处理                   |
+| get/find/take your bearings | 弄清楚自己所处的位置，熟悉环境           |
 | give a crap about           | 鸟，甩                                   |
+| go belly up                 | 垮掉，破产，倒闭                         |
 | go downhill                 | （质量、健康等）走下坡路，恶化，每况愈下 |
 | go far                      | （人）有出息，有远大前程                 |
 | good/safe bet               | 很可能发生/成功的事情，合适的选择        |
@@ -116,29 +119,34 @@
 
 # I
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
-| I don't think so   | 我不这么认为                                   |
-| I thought as much  | 果然不出我所料                                 |
-| I told you         | 早就告诉过你，早就跟你讲                       |
-| in a pickle        | 处于困境                                       |
-| in accordance with | 依照，依据                                     |
-| in order           | （正式文件）（依法）有效；正常，就绪           |
-| in order that      | 目的是，为了，以便                             |
-| in order to        | 目的是，为了，以便                             |
-| in principle       | 原则上，理论上；大体上，基本上                 |
-| in reality         | 实际上，事实上                                 |
-| in return          | 作为回报；作为回应                             |
-| in hand            | 在手头，可获得；在掌握中，在控制中；正在处理中 |
-| in/with regard to  | 关于，至于                                     |
-| in spite of        | 尽管                                           |
-| in store for       | 即将发生（在某人身上），等待着（某人）         |
-| in the flesh       | 亲自，本人                                     |
-| in the hands of    | 由…处理，受…控制                               |
-| in this regard     | 在这方面，在这一点上                           |
-| in turn            | 依次，轮流，逐一；相应地，继而                 |
-| in vain            | 徒劳，枉费心机，白费力气，付诸东流             |
-|                    |                                                |
+|                         |                                                |
+| ----------------------- | ---------------------------------------------- |
+| I don't think so        | 我不这么认为                                   |
+| I thought as much       | 果然不出我所料                                 |
+| I told you              | 早就告诉过你，早就跟你讲                       |
+| in a pickle             | 处于困境                                       |
+| in accordance with      | 依照，依据                                     |
+| in contention (for sth) | 有机会赢得                                     |
+| in excess of            | 超过                                           |
+| in fairness (to sb)     | （替某人）说句公道话，不能怪（某人）           |
+| in order                | （正式文件）（依法）有效；正常，就绪           |
+| in order that           | 目的是，为了，以便                             |
+| in order to             | 目的是，为了，以便                             |
+| in principle            | 原则上，理论上；大体上，基本上                 |
+| in public               | 在公共场合，在别人（尤指陌生人）面前           |
+| in reality              | 实际上，事实上                                 |
+| in return               | 作为回报；作为回应                             |
+| in hand                 | 在手头，可获得；在掌握中，在控制中；正在处理中 |
+| in/with regard to       | 关于，至于                                     |
+| in spite of             | 尽管                                           |
+| in store for            | 即将发生（在某人身上），等待着（某人）         |
+| in the flesh            | 亲自，本人                                     |
+| in the hands of         | 由…处理，受…控制                               |
+| in this regard          | 在这方面，在这一点上                           |
+| in thrall to sb/sth     | 受…控制，受…影响                               |
+| in turn                 | 依次，轮流，逐一；相应地，继而                 |
+| in vain                 | 徒劳，枉费心机，白费力气，付诸东流             |
+|                         |                                                |
 
 # L
 
@@ -221,22 +229,25 @@
 
 # S
 
-|                         |                      |
-| ----------------------- | -------------------- |
-| sense of achievement    | 成就感，达成感       |
-| sense of direction      | 方向感               |
-| sense of duty           | 责任感               |
-| sense of humor          | 幽默感               |
-| sense of identity       | 身份认同感           |
-| sense of responsibility | 责任感               |
-| sense of rhythm         | 节奏感               |
-| sense of security       | 安全感               |
-| sense of proportion     | 分清轻重缓急         |
-| set/put store by        | 看重，重视（某事物） |
-| show one's face         | 露面                 |
-| so far                  | 到目前为止，至今     |
-| strictly speaking       | 严格说来             |
-|                         |                      |
+|                         |                                       |
+| ----------------------- | ------------------------------------- |
+| sense of achievement    | 成就感，达成感                        |
+| sense of belonging      | 归属感                                |
+| sense of direction      | 方向感                                |
+| sense of duty           | 责任感                                |
+| sense of humor          | 幽默感                                |
+| sense of identity       | 身份认同感                            |
+| sense of responsibility | 责任感                                |
+| sense of rhythm         | 节奏感                                |
+| sense of security       | 安全感                                |
+| sense of proportion     | 分清轻重缓急                          |
+| set/put store by        | 看重，重视（某事物）                  |
+| show one's face         | 露面                                  |
+| so far                  | 到目前为止，至今                      |
+| strictly speaking       | 严格说来                              |
+| such as                 | 例如；像这样                          |
+| suit yourself           | 根据自己的意愿/喜好；随你的便，请自便 |
+|                         |                                       |
 
 # T
 
