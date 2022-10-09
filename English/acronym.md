@@ -137,8 +137,11 @@
 | PPP   | purchasing power parity             | 购买力平价         |
 | PTSD  | post-traumatic stress disorder      | 创伤后应激障碍     |
 | PTO   | paid time off                       | 带薪休假           |
+| PUA   | pickup artist                       | 搭讪艺术家         |
 |       |                                     |                    |
 | **Q** |                                     |                    |
+| QE    | quantitative easing                 | 量化宽松           |
+| QT    | quantitative tightening             | 量化紧缩           |
 |       |                                     |                    |
 | **R** |                                     |                    |
 | RAM   | random access memory                | 随机存取存储器     |
