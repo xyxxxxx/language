@@ -127,8 +127,10 @@
 | in a pickle             | 处于困境                                       |
 | in accordance with      | 依照，依据                                     |
 | in contention (for sth) | 有机会赢得                                     |
+| in demand               | 需求量大                                       |
 | in excess of            | 超过                                           |
 | in fairness (to sb)     | （替某人）说句公道话，不能怪（某人）           |
+| in future               | 今后，从今以后                                 |
 | in order                | （正式文件）（依法）有效；正常，就绪           |
 | in order that           | 目的是，为了，以便                             |
 | in order to             | 目的是，为了，以便                             |
@@ -189,6 +191,7 @@
 | off one's hands                       | 不再由某人负责                                                                   |
 | on behalf of                          | 代表；代表（某人的）利益；因为，为了                                             |
 | on board                              | 在船（或飞机、公交车、火车等）上；支持                                           |
+| on demand                             | 根据需要，按需，一经要求即                                                       |
 | on fire                               | 着火                                                                             |
 | on hold                               | 推迟，中断                                                                       |
 | on sale                               | 出售，上市；（美）降价销售                                                       |
