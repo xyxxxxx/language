@@ -7,6 +7,9 @@
 | a tad                         | 一点                                                                                         |
 | across the board              | 全面，全体                                                                                   |
 | after all                     | 毕竟，终归；（解释或说明理由）说到底                                                         |
+| all along                     | 始终                                                                                         |
+| all in all                    | 总的来说                                                                                     |
+| all in one                    | 多功能                                                                                       |
 | as always                     | 和往常一样                                                                                   |
 | as a matter of fact           | 事实上，其实                                                                                 |
 | as far as I know/see/remember | 就我所知/依我看/就我所记得的                                                                 |
@@ -23,6 +26,7 @@
 | at half mast                  | 降半旗                                                                                       |
 | at least                      | 至少；起码                                                                                   |
 | at one's behest               | 按某人的吩咐，应某人的要求，遵照某人的命令                                                   |
+| at one's disposal             | 供某人使用，任某人支配，听某人差遣                                                           |
 | at your own risk              | 后果自负                                                                                     |
 |                               |                                                                                              |
 
@@ -36,6 +40,7 @@
 | behind the scenes    | 在幕后，在后台；在幕后，秘密 |
 | believe it or not    | 信不信由你                   |
 | beyond doubt         | 无疑，确实                   |
+| bide one's time      | 等待时机                     |
 | break even           | 收支平衡，盈亏相抵，不赔不赚 |
 | by dint of           | 凭借，借助，依靠             |
 | by hand              | 手工                         |
@@ -75,6 +80,7 @@
 |                                                   |                                                                    |
 | ------------------------------------------------- | ------------------------------------------------------------------ |
 | far from it                                       | 完全相反，远非如此                                                 |
+| flesh and blood                                   | 血肉之躯                                                                   |
 | for Christ's/God's/goodness'/heaven's/pity's sake | （表示重要或恼火）千万，天哪，看在上帝份上，行行好                 |
 | for certain                                       | 肯定，确定，无疑                                                   |
 | for exmaple (e.g.)                                | 例如                                                               |
@@ -100,6 +106,7 @@
 | go belly up                 | 垮掉，破产，倒闭                         |
 | go downhill                 | （质量、健康等）走下坡路，恶化，每况愈下 |
 | go far                      | （人）有出息，有远大前程                 |
+| go overboard                | 过分热情，过分热衷                       |
 | good/safe bet               | 很可能发生/成功的事情，合适的选择        |
 | grin and bear it            | 默默忍受，苦笑着忍受                     |
 | groan under the weight of   | 不堪重负，被压得喘不过气                 |
@@ -126,6 +133,7 @@
 | I told you              | 早就告诉过你，早就跟你讲                       |
 | in a pickle             | 处于困境                                       |
 | in accordance with      | 依照，依据                                     |
+| in all                  | 总共，总计                                     |
 | in contention (for sth) | 有机会赢得                                     |
 | in demand               | 需求量大                                       |
 | in excess of            | 超过                                           |
@@ -134,6 +142,7 @@
 | in order                | （正式文件）（依法）有效；正常，就绪           |
 | in order that           | 目的是，为了，以便                             |
 | in order to             | 目的是，为了，以便                             |
+| in perpetuity           | 永远，永久                                     |
 | in principle            | 原则上，理论上；大体上，基本上                 |
 | in public               | 在公共场合，在别人（尤指陌生人）面前           |
 | in reality              | 实际上，事实上                                 |
@@ -176,6 +185,7 @@
 | no offense         | 无意冒犯                                                                       |
 | no kidding         | 可不是；不开玩笑，说真是                                                       |
 | not a clue         | 完全不知道，一无所知                                                           |
+| not at all         | 一点也（不），完全（不）；不用谢，别客气                                       |
 | not nearly         | 远非，绝不是                                                                   |
 | now and again/then | 有时，时常，偶尔                                                               |
 | now that           | 既然                                                                           |
@@ -195,6 +205,7 @@
 | on fire                               | 着火                                                                             |
 | on hold                               | 推迟，中断                                                                       |
 | on sale                               | 出售，上市；（美）降价销售                                                       |
+| on standby                            | 处于待命状态，随时准备行动                                                       |
 | on the fritz                          | （美）出故障                                                                     |
 | on the one hand … on the other hand … | （引出对立的观点等）一方面，另一方面                                             |
 | on one's hands                        | 由某人负责                                                                       |
@@ -285,6 +296,7 @@
 | under way             | 已经开始，在进行中                   |
 | up and down           | 起伏，上下波动；来回，往复；时好时坏 |
 | up and running        | （计算机系统）运行起来               |
+| up front              | 预先                                 |
 | up there              | （差不多是最好、最差、最重要等）之一 |
 | up to scratch         | 达到要求，合乎标准                   |
 | ups and downs         | 荣辱，兴衰                           |
