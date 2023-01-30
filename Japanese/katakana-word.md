@@ -265,6 +265,7 @@
 | エヌ[1]                           | N                                         |                        |
 | エネルギー[2][3]                  | （ドイツ）Energie                         |                        |
 | エネルギッシュ[4]                 | （ドイツ）energisch                       | 精力充沛               |
+| エピゴーネン[3]                   | （ドイツ）Epigonen                        | 追随者，模仿者         |
 | エピローグ[3]                     | epilogue                                  | 终章                   |
 | エフ[1]                           | F                                         |                        |
 | エフェクティブ[2]                 | effective                                 |                        |
@@ -1023,6 +1024,8 @@
 | シャッフル[1]                      | shuffle                |                                        |
 | シャドー[1]                        | shadow                 |                                        |
 | シャドープライス[5]                | shadow price           |                                        |
+| シャトル[1][0]                     | shuttle                | 羽毛球                                 |
+| シャトルコック[4]                  | shuttlecock            | 羽毛球                                 |
 | ジャム[1]                          | jam                    |                                        |
 | シャベル[1]                        | shovel                 |                                        |
 | シャワー[1]                        | shower                 |                                        |
@@ -1277,6 +1280,7 @@
 | スリム[1]                          | slim                   | 苗条                                   |
 | スリリング[2][1]                   | thrilling              | 惊险，毛骨悚然                         |
 | スリル[1]                          | thrill                 |                                        |
+| スルー                             | through                | 无视，不理睬                           |
 | スロー[2]                          | slow                   |                                        |
 | [2]                                | throw                  |                                        |
 | スローガン[2]                      | slogan                 |                                        |
@@ -1478,6 +1482,7 @@
 | チューター[1]                      | tutor                  |                              |
 | チューナー[1]                      | tuner                  |                              |
 | チューブ[1]                        | tube                   |                              |
+| チューベローズ[4]                  | tuberose               | 夜来香                       |
 | チョイス[1]                        | choice                 |                              |
 | チョーク[1]                        | chalk                  |                              |
 | チョコ（レート）[1]（[3]）         | chocolate              | 巧克力                       |
@@ -1748,6 +1753,7 @@
 | ノック[1]                         | knock             |                                                      |
 | ノミネート[3]                     | nominate          | 提名                                                 |
 | ノルマ[1]                         | （ロシア）norma   | KPI                                                  |
+| ノンケ                            | non + 気          | 异性恋者                                             |
 | ノンステップバス                  | nonstep + bus     | 低阶梯巴士                                           |
 | ノンストップ[4]                   | nonstop           | 直达                                                 |
 | ノンフィクション[3]               | nonfiction        |                                                      |
@@ -2475,174 +2481,175 @@
 
 ## マ
 
-|                                   |                     |                     |
-| --------------------------------- | ------------------- | ------------------- |
-| マーク[1]                         | mark                |                     |
-| マーケット[2][3]                  | market              |                     |
-| マーケットシェア[6]               | market share        |                     |
-| マーケットリサーチ[7]             | market research     |                     |
-| マーケティング[3]                 | marketing           |                     |
-| マーブル[1]                       | marble              |                     |
-| マイ〜                            | my                  |                     |
-| マイク（ロフォン）[1]（[4]）      | microphone          |                     |
-| マイクロ                          | micro               |                     |
-| マイクロウエーブ[6]               | microwave           |                     |
-| マイナー[1]                       | minor               |                     |
-| マイナス                          | minus               |                     |
-| マイノリティー[3]                 | minority            |                     |
-| マイノリティーグループ[8]         | minority group      |                     |
-| マイル[1]                         | mile                |                     |
-| マイルストーン[5]                 | milestone           |                     |
-| マインド[1]                       | mind                |                     |
-| マウス[1]                         | mouse               | 鼠标                |
-| マカロン                          | （フランス）macaron | 马卡龙              |
-| マグ[1]                           | mug                 | 马克杯              |
-| マグネシウム[4]                   | magnesium           | 镁                  |
-| マグネット[3]                     | magnet              | 磁铁                |
-| マクロ[1]                         | macro               |                     |
-| マザーシップ                      | mothership          |                     |
-| マジック[1]                       | magic               | 魔法                |
-| マジョリティー[2]                 | majority            |                     |
-| マシン[2]                         | machine             |                     |
-| マスク[1]                         | mask                | 口罩                |
-| マスコット[3]                     | mascot              | 吉祥物              |
-| マスコミ（ュニケーション）（[6]） | mass communication  | 大众传媒            |
-| マスター[1]                       | master              |                     |
-| マゼンタ[2]                       | magenta             | 品红                |
-| マゾヒズム[3]                     | masochist           | 受虐狂              |
-| マダム[1]                         | madam               |                     |
-| マックス[1]                       | max                 |                     |
-| マッサージ[3]                     | massage             |                     |
-| マッスル                          | muscle              |                     |
-| マッチ[1]                         | match               |                     |
-| マッチング                        | matching            |                     |
-| マット[1]                         | mat                 |                     |
-| マッハ                            | Mach                | 马赫                |
-| マップ[1]                         | map                 |                     |
-| マテリアル[2]                     | material            |                     |
-| マニア[1]                         | mania               |                     |
-| マニキュア                        | manicure            | 指甲油              |
-| マニフェスト[3]                   | manifest            | 宣言                |
-| マニュアル[0][1]                  | manual              |                     |
-| マネー[1]                         | money               |                     |
-| マネージメント[2]                 | management          |                     |
-| マネージャー[2][0]                | manager             |                     |
-| マネキン                          | mannequin           | 塑料模特            |
-| マフィア[1]                       | Mafia               | 黑手党              |
-| マフィン[1]                       | muffin              | 玛芬                |
-| マフラー[1]                       | muffler             | 围巾                |
-| ママ[1]                           |                     | 妈妈；酒馆老板娘    |
-| マラソン                          | marathon            |                     |
-| マルウェア                        | malware             |                     |
-| マルチ〜                          | multi-              |                     |
-| マルチメディア[4]                 | multimedia          |                     |
-| マルチラテラリズム[7]             | multilateralism     | 多边主义            |
-| マンガン[1]                       | （ドイツ）Mangan    | 锰                  |
-| マンション[1]                     | mansion             | 高级公寓            |
-| マンスリー[1]                     | monthly             |                     |
-| マンネリ（ズム）（[4]）           | mannerism           | 审美疲劳            |
-| マンモス[1]                       | mammoth             | 猛犸                |
-| ミーティング                      | meeting             |                     |
-| ミート[1]                         | meat                |                     |
-| ミートソース[4]                   | meat sauce          | 肉酱                |
-| ミーハー                          |                     | 赶时髦（贬义）      |
-| ミイラ[1]                         | （ポルトガル）mirra | 木乃伊              |
-| ミサイル[2]                       | missile             |                     |
-| ミシン[1]                         | sewing (machine)    | 缝纫机              |
-| ミス[1]                           | miss                | 失误                |
-| ミス[1]                           | Miss                | 小姐                |
-| ミスコン（テスト）                | Miss + contest      | 选美比赛            |
-| ミステリー[1]                     | mystery             |                     |
-| ミスプリント[4]                   | misprint            |                     |
-| ミックス[1]                       | mix                 |                     |
-| ミッション[1]                     | mission             |                     |
-| ミディアム[1]                     | medium              | 中等                |
-| ミドル[1]                         | middle              | 中间，中级          |
-| ミドルクラス[4]                   | middle class        |                     |
-| ミドルネーム[4]                   | middle name         |                     |
-| ミニ〜                            | mini-               |                     |
-| ミネラル[1]                       | mineral             |                     |
-| ミネラルウォーター[6]             | mineral water       | 矿泉水              |
-| ミュージック[1]                   | music               |                     |
-| ミュージシャン[3]                 | musician            |                     |
-| ミューズ                          | Muse                |                     |
-| ミラー[1]                         | mirror              |                     |
-| ミラーボール[4]                   | mirror ball         |                     |
-| ミラージュ[2]                     | mirage              |                     |
-| ミラクル[1]                       | miracle             |                     |
-| ミリ                              | （フランス）milli-  |                     |
-| ミルク[1]                         | milk                |                     |
-| ムース[1]                         | （フランス）mousse  | 慕斯                |
-| ムード[1]                         | mood                |                     |
-| ムービー[1]                       | movie               |                     |
-| ムーブ（メント）[1]               | movement            | 社会运动            |
-| ムーン[1]                         | moon                |                     |
-| メイド[1]                         | maid                |                     |
-| メイン[1]                         | main                |                     |
-| メーカー[1]                       | maker               | 制造商              |
-| メーク（アップ）[4]               | make-up             | 化妆                |
-| メーター                          | meter               | 仪表                |
-| メーデー[1]                       | Mayday              |                     |
-| メート[1]                         | mate                |                     |
-| メートル                          | （フランス）mètre   |                     |
-| メール[1]                         | mail                |                     |
-| メールボックス[4]                 | mailbox             |                     |
-| メガ[1]                           | mega                |                     |
-| メカニカル[2]                     | mechanical          | 机械的              |
-| メカニズム[3]                     | mechanism           | 机制                |
-| メジャー[1]                       | major               |                     |
-|                                   | measure             |                     |
-| メタバース                        | metaverse           |                     |
-| メタファー[1]                     | metaphor            |                     |
-| メタボリズム[4]                   | metabolism          |                     |
-| メダル                            | medal               |                     |
-| メタン[1]                         | （ドイツ）Methan    | 甲烷                |
-| メッセージ[1]                     | message             |                     |
-| メディア[1]                       | media               |                     |
-| メニュー[1]                       | （フランス）menu    |                     |
-| メモ[1]                           | memo                |                     |
-| メモリアル[2]                     | memorial            |                     |
-| メモリー[1]                       | memory              |                     |
-| メラニン                          | melanin             | 黑色素              |
-| メリークリスマス[6][4]            | merry Christmas     |                     |
-| メリーゴーラウンド[6]             | merry-go-round      |                     |
-| メリット[1]                       | merit               |                     |
-| メルヘン[1]                       | （ドイツ）Märchen   | 童话                |
-| メロディー[1]                     | melody              |                     |
-| メンズ[1]                         | mens                | 男式（服装/发型/…） |
-| メンタル[1]                       | mental              |                     |
-| メンチ[1]                         | mince               | 炸肉饼              |
-| メンツ[1][0]                      | 面子                |                     |
-| メンテナンス[1]                   | maintenance         | 维护                |
-| メンバー[1]                       | member              |                     |
-| モーション[1]                     | motion              | 运动                |
-| モーター[1]                       | motor               |                     |
-| モーターバイク[5]                 | motorbike           |                     |
-| モーターボート[5]                 | motorboat           |                     |
-| モーテル[1]                       | motel               |                     |
-| モード[1]                         | mode                |                     |
-| モーニング[1]                     | morning             |                     |
-| モーニングコール[6]               | morning call        | 早晨唤醒服务        |
-| モーメント[1]                     | moment              |                     |
-| モール[1]                         | mall                |                     |
-| モザイク[2]                       | mosaic              | 马赛克              |
-| モジュール[2]                     | module              | 模块                |
-| モダン                            | modern              |                     |
-| モチーフ[2]                       | （フランス）motif   | 主题，中心思想      |
-| モチベーション[3]                 | motivation          |                     |
-| モットー[1]                       | motto               |                     |
-| モデル[1]                         | model               |                     |
-| モニター[1]                       | monitor             |                     |
-| モニタリング[0]                   | monitoring          |                     |
-| モニュメント[1]                   | monument            | 纪念碑              |
-| モノクロ（ーム）（[4]）           | monochrome          | 黑白                |
-| モノレール[3]                     | monorail            |                     |
-| モノローグ[3]                     | monologue           |                     |
-| モバイル                          | mobile              |                     |
-| モラハラ                          | moral + harassment  | 精神虐待            |
-| モラル[1]                         | moral               |                     |
-| モンスター[1]                     | monster             |                     |
-|                                   |                     |                     |
+|                                   |                        |                     |
+| --------------------------------- | ---------------------- | ------------------- |
+| マーク[1]                         | mark                   |                     |
+| マーケット[2][3]                  | market                 |                     |
+| マーケットシェア[6]               | market share           |                     |
+| マーケットリサーチ[7]             | market research        |                     |
+| マーケティング[3]                 | marketing              |                     |
+| マーブル[1]                       | marble                 |                     |
+| マイ〜                            | my                     |                     |
+| マイク（ロフォン）[1]（[4]）      | microphone             |                     |
+| マイクロ                          | micro                  |                     |
+| マイクロウエーブ[6]               | microwave              |                     |
+| マイナー[1]                       | minor                  |                     |
+| マイナス                          | minus                  |                     |
+| マイノリティー[3]                 | minority               |                     |
+| マイノリティーグループ[8]         | minority group         |                     |
+| マイル[1]                         | mile                   |                     |
+| マイルストーン[5]                 | milestone              |                     |
+| マインド[1]                       | mind                   |                     |
+| マウス[1]                         | mouse                  | 鼠标                |
+| マカロン                          | （フランス）macaron    | 马卡龙              |
+| マグ[1]                           | mug                    | 马克杯              |
+| マグネシウム[4]                   | magnesium              | 镁                  |
+| マグネット[3]                     | magnet                 | 磁铁                |
+| マクロ[1]                         | macro                  |                     |
+| マザーシップ                      | mothership             |                     |
+| マジック[1]                       | magic                  | 魔法                |
+| マジョリティー[2]                 | majority               |                     |
+| マシン[2]                         | machine                |                     |
+| マスク[1]                         | mask                   | 口罩                |
+| マスコット[3]                     | mascot                 | 吉祥物              |
+| マスコミ（ュニケーション）（[6]） | mass communication     | 大众传媒            |
+| マスター[1]                       | master                 |                     |
+| マゼンタ[2]                       | magenta                | 品红                |
+| マゾヒズム[3]                     | masochist              | 受虐狂              |
+| マダム[1]                         | madam                  |                     |
+| マックス[1]                       | max                    |                     |
+| マッサージ[3]                     | massage                |                     |
+| マッスル                          | muscle                 |                     |
+| マッチ[1]                         | match                  |                     |
+| マッチング                        | matching               |                     |
+| マット[1]                         | mat                    |                     |
+| マッハ                            | Mach                   | 马赫                |
+| マップ[1]                         | map                    |                     |
+| マテリアル[2]                     | material               |                     |
+| マニア[1]                         | mania                  |                     |
+| マニキュア                        | manicure               | 指甲油              |
+| マニフェスト[3]                   | manifest               | 宣言                |
+| マニュアル[0][1]                  | manual                 |                     |
+| マネー[1]                         | money                  |                     |
+| マネージメント[2]                 | management             |                     |
+| マネージャー[2][0]                | manager                |                     |
+| マネキン                          | mannequin              | 塑料模特            |
+| マフィア[1]                       | Mafia                  | 黑手党              |
+| マフィン[1]                       | muffin                 | 玛芬                |
+| マフラー[1]                       | muffler                | 围巾                |
+| ママ[1]                           |                        | 妈妈；酒馆老板娘    |
+| マラソン                          | marathon               |                     |
+| マルウェア                        | malware                |                     |
+| マルチ〜                          | multi-                 |                     |
+| マルチメディア[4]                 | multimedia             |                     |
+| マルチラテラリズム[7]             | multilateralism        | 多边主义            |
+| マンガン[1]                       | （ドイツ）Mangan       | 锰                  |
+| マンション[1]                     | mansion                | 高级公寓            |
+| マンスリー[1]                     | monthly                |                     |
+| マンネリ（ズム）（[4]）           | mannerism              | 审美疲劳            |
+| マンモス[1]                       | mammoth                | 猛犸                |
+| ミーティング                      | meeting                |                     |
+| ミート[1]                         | meat                   |                     |
+| ミートソース[4]                   | meat sauce             | 肉酱                |
+| ミーハー                          |                        | 赶时髦（贬义）      |
+| ミイラ[1]                         | （ポルトガル）mirra    | 木乃伊              |
+| ミサイル[2]                       | missile                |                     |
+| ミシン[1]                         | sewing (machine)       | 缝纫机              |
+| ミス[1]                           | miss                   | 失误                |
+| ミス[1]                           | Miss                   | 小姐                |
+| ミスコン（テスト）                | Miss + contest         | 选美比赛            |
+| ミステリー[1]                     | mystery                |                     |
+| ミスプリント[4]                   | misprint               |                     |
+| ミックス[1]                       | mix                    |                     |
+| ミッション[1]                     | mission                |                     |
+| ミディアム[1]                     | medium                 | 中等                |
+| ミドル[1]                         | middle                 | 中间，中级          |
+| ミドルクラス[4]                   | middle class           |                     |
+| ミドルネーム[4]                   | middle name            |                     |
+| ミニ〜                            | mini-                  |                     |
+| ミネラル[1]                       | mineral                |                     |
+| ミネラルウォーター[6]             | mineral water          | 矿泉水              |
+| ミュージック[1]                   | music                  |                     |
+| ミュージシャン[3]                 | musician               |                     |
+| ミューズ                          | Muse                   |                     |
+| ミラー[1]                         | mirror                 |                     |
+| ミラーボール[4]                   | mirror ball            |                     |
+| ミラージュ[2]                     | mirage                 |                     |
+| ミラクル[1]                       | miracle                |                     |
+| ミリ                              | （フランス）milli-     |                     |
+| ミルク[1]                         | milk                   |                     |
+| ムース[1]                         | （フランス）mousse     | 慕斯                |
+| ムード[1]                         | mood                   |                     |
+| ムービー[1]                       | movie                  |                     |
+| ムーブ（メント）[1]               | movement               | 社会运动            |
+| ムーン[1]                         | moon                   |                     |
+| メイド[1]                         | maid                   |                     |
+| メイン[1]                         | main                   |                     |
+| メーカー[1]                       | maker                  | 制造商              |
+| メーク（アップ）[4]               | make-up                | 化妆                |
+| メーター                          | meter                  | 仪表                |
+| メーデー[1]                       | Mayday                 |                     |
+| メート[1]                         | mate                   |                     |
+| メートル                          | （フランス）mètre      |                     |
+| メール[1]                         | mail                   |                     |
+| メールボックス[4]                 | mailbox                |                     |
+| メガ[1]                           | mega                   |                     |
+| メカニカル[2]                     | mechanical             | 机械的              |
+| メカニズム[3]                     | mechanism              | 机制                |
+| メジャー[1]                       | major                  |                     |
+|                                   | measure                |                     |
+| メタバース                        | metaverse              |                     |
+| メタファー[1]                     | metaphor               |                     |
+| メタボリズム[4]                   | metabolism             |                     |
+| メタモルフォーゼ[5]               | （ドイツ）Metamorphose | 变身，变形          |
+| メダル                            | medal                  |                     |
+| メタン[1]                         | （ドイツ）Methan       | 甲烷                |
+| メッセージ[1]                     | message                |                     |
+| メディア[1]                       | media                  |                     |
+| メニュー[1]                       | （フランス）menu       |                     |
+| メモ[1]                           | memo                   |                     |
+| メモリアル[2]                     | memorial               |                     |
+| メモリー[1]                       | memory                 |                     |
+| メラニン                          | melanin                | 黑色素              |
+| メリークリスマス[6][4]            | merry Christmas        |                     |
+| メリーゴーラウンド[6]             | merry-go-round         |                     |
+| メリット[1]                       | merit                  |                     |
+| メルヘン[1]                       | （ドイツ）Märchen      | 童话                |
+| メロディー[1]                     | melody                 |                     |
+| メンズ[1]                         | mens                   | 男式（服装/发型/…） |
+| メンタル[1]                       | mental                 |                     |
+| メンチ[1]                         | mince                  | 炸肉饼              |
+| メンツ[1][0]                      | 面子                   |                     |
+| メンテナンス[1]                   | maintenance            | 维护                |
+| メンバー[1]                       | member                 |                     |
+| モーション[1]                     | motion                 | 运动                |
+| モーター[1]                       | motor                  |                     |
+| モーターバイク[5]                 | motorbike              |                     |
+| モーターボート[5]                 | motorboat              |                     |
+| モーテル[1]                       | motel                  |                     |
+| モード[1]                         | mode                   |                     |
+| モーニング[1]                     | morning                |                     |
+| モーニングコール[6]               | morning call           | 早晨唤醒服务        |
+| モーメント[1]                     | moment                 |                     |
+| モール[1]                         | mall                   |                     |
+| モザイク[2]                       | mosaic                 | 马赛克              |
+| モジュール[2]                     | module                 | 模块                |
+| モダン                            | modern                 |                     |
+| モチーフ[2]                       | （フランス）motif      | 主题，中心思想      |
+| モチベーション[3]                 | motivation             |                     |
+| モットー[1]                       | motto                  |                     |
+| モデル[1]                         | model                  |                     |
+| モニター[1]                       | monitor                |                     |
+| モニタリング[0]                   | monitoring             |                     |
+| モニュメント[1]                   | monument               | 纪念碑              |
+| モノクロ（ーム）（[4]）           | monochrome             | 黑白                |
+| モノレール[3]                     | monorail               |                     |
+| モノローグ[3]                     | monologue              |                     |
+| モバイル                          | mobile                 |                     |
+| モラハラ                          | moral + harassment     | 精神虐待            |
+| モラル[1]                         | moral                  |                     |
+| モンスター[1]                     | monster                |                     |
+|                                   |                        |                     |
 
 ## ヤ
 
@@ -2717,6 +2724,7 @@
 | ランク[1]                     | rank                    |                  |
 | ランジェリー[1]               | （フランス）lingerie    | 情趣内衣         |
 | ランチ[1]                     | lunch                   |                  |
+| ランデブー[3]                 | （フランス）rendez-vous | 幽会             |
 | ランドセル[4][3]              | （オランダ）randsel     | 小学生书包       |
 | ランドリー[1]                 | laundry                 |                  |
 | ランニング                    | running                 |                  |
