@@ -592,6 +592,7 @@
 | altruistic           | a.       | 利他                                                                                                                     |
 | aluminium (Al)       | n.       | 铝                                                                                                                       |
 | alumni               | n.       | （美）校友                                                                                                               |
+| alveolus (alveoli)   | n.       | （解）肺泡                                                                                                               |
 | always               | ad.      | 总是；一直；永远；（建议可能的行动）总还                                                                                 |
 | amalgam              | n.       | 混合物，综合体                                                                                                           |
 | amalgamate           | v.       | （使）合并，联合，综合                                                                                                   |
@@ -1059,8 +1060,6 @@
 | assent               | n.       | 同意，赞成                                                                                                               |
 |                      | v.       | 同意，赞成                                                                                                               |
 | assert               | v.       | 坚称，断言；维护（权利或权威）                                                                                           |
-| assert oneself       |          | 坚持主张                                                                                                                 |
-| assert itself        |          | 有效果，起作用                                                                                                           |
 | assertion            | n.       | 断言                                                                                                                     |
 | assertive            | a.       | 坚定自信                                                                                                                 |
 | assertiveness        | n.       | 自信心                                                                                                                   |
@@ -1193,7 +1192,7 @@
 | audience             | n.       | 观众                                                                                                                     |
 | audio                | a.       | 声音，录音                                                                                                               |
 |                      | n.       | 音频                                                                                                                     |
-| audio-               |          | 声，音，听                                                                                                               |
+| audio-               | comb.f.  | 声，音，听                                                                                                               |
 | audit                | n.       | 审计；（质量或标准）检查                                                                                                 |
 |                      | v.       | 审计                                                                                                                     |
 | audition             | n.       | 试镜，试音                                                                                                               |
@@ -1273,7 +1272,8 @@
 | avidly               | ad.      | 如饥似渴                                                                                                                 |
 | avoid                | v.       | 避免，防止；回避，躲避，避开；避免撞到                                                                                   |
 | avoidable            | a.       | 可以避免的                                                                                                               |
-| avoidance            | a.       | 避免，防止；回避，躲避，避开                                                                                             |
+| avoidance            | n.       | 避免，防止；回避，躲避，避开                                                                                             |
+| avoidant             | a.       | 回避型                                                                                                                   |
 | avow                 | v.       | 声称，公开宣称                                                                                                           |
 | avowal               | n.       | 声称，公开宣称                                                                                                           |
 | await                | v.       | 等候，等待，期待；将发生在，将降临到（某人头上）                                                                         |
@@ -2434,6 +2434,7 @@
 | carelessness               | n.      | 粗心，疏忽大意                                                                                                          |
 | caress                     | v.      | 抚摸，爱抚                                                                                                              |
 |                            | n.      | 抚摸，爱抚                                                                                                              |
+| caretaker                  | n.      | 照看人，护理人员                                                                                                        |
 | cargo                      | n.      | （船或飞机装载的）货物                                                                                                  |
 | caricature                 | n.      | 讽刺漫画；夸张性（或讽刺性）描述                                                                                        |
 |                            | v.      | 把…画成讽刺漫画，用夸张性（或讽刺性）手法描述                                                                           |
@@ -4214,6 +4215,7 @@
 | dab                     | v.     | 轻触，轻拍，轻按，轻拭；轻搽，轻涂，轻敷                                                                                       |
 |                         | n.     | 轻触，轻拍，轻按，轻拭；少量，一点（轻敷于表面的液体、乳霜或化妆用粉）                                                         |
 | dabble                  | v.     | 涉足，涉猎；玩水，戏水                                                                                                         |
+| dachshund               | n.     | 腊肠犬                                                                                                                         |
 | dad                     | n.     | 爸爸                                                                                                                           |
 | daffodil                | n.     | 黄水仙（威尔士的民族象征）                                                                                                     |
 | dagger                  | n.     | 匕首🗡                                                                                                                        |
@@ -5593,6 +5595,7 @@
 |                        | n.            | 平等主义者                                                                                                             |
 | egalitarianism         | n.            | 平等主义                                                                                                               |
 | egg                    | n.            | 蛋，卵；鸡蛋；卵子                                                                                                     |
+| eggnog                 | n.            | 蛋奶酒                                                                                                                 |
 | eggplant               | n.            | 茄子🍆                                                                                                                |
 | eggshell               | n.            | 蛋壳                                                                                                                   |
 | ego                    | n.            | 自尊心；（心）自我                                                                                                     |
@@ -12689,6 +12692,7 @@
 | pan                       | n.      | 平底锅                                                                                                                     |
 | panacea                   | n.      | 万灵药                                                                                                                     |
 | pancake                   | n.      | 薄煎饼                                                                                                                     |
+| pancreas                  | n.      | 胰腺                                                                                                                       |
 | panda                     | n.      | 熊猫                                                                                                                       |
 | pander to                 | v.      | （贬）迎合，逢迎                                                                                                           |
 | pandemic                  | n.      | （全国或全球）流行病                                                                                                       |
@@ -14602,6 +14606,7 @@
 | recruitment            | n.      | 征兵，招募                                                                                                                   |
 | rectangle              | n.      | 长方形，矩形                                                                                                                 |
 | rectify                | v.      | 矫正，纠正，改正                                                                                                             |
+| rectum                 | n.      | （解）直肠                                                                                                                   |
 | recuperate             | v.      | 康复，恢复；挽回（损失）                                                                                                     |
 | recuperation           | n.      | 康复，恢复，休养                                                                                                             |
 | recur                  | v.      | 再次发生，反复出现，复发                                                                                                     |
@@ -15590,6 +15595,7 @@
 | scale                    | n.            | （尤指与其他事物相比较时的）规模，范围，程度；等级，级别；等级体系；标度，刻度；秤，天平；比例，比例尺；           |
 |                          |               | 音阶；鳞片；牙垢                                                                                                   |
 |                          | v.            | 攀登，到达…顶点；去鳞；改变…大小                                                                                   |
+| scalpel                  | n.            | 手术刀                                                                                                             |
 | scam                     | n.            | 诈骗                                                                                                               |
 | scan (scanned, scanning) | v.            | 察看，审视，端详；浏览，翻阅；扫描；（计）扫描                                                                     |
 | scandal                  | n.            | 丑闻；可耻的行为（或态度）                                                                                         |
@@ -15971,6 +15977,8 @@
 | sensuous                 | a.            | 愉悦感官，赏心悦目，悦耳动听；性感，官能                                                                           |
 | sentence                 | n.            | （语法）句子；判决，判处                                                                                           |
 |                          | v.            | 判决，判处                                                                                                         |
+| sentience                | n.            | 感觉，知觉                                                                                                         |
+| sentient                 | a.            | 有感觉能力的，有知觉的                                                                                             |
 | sentiment                | n.            | （基于情感的）观点，看法，情绪；（过度或不恰当的）伤感，柔情                                                       |
 | sentimental              | a.            | 情感的（非理性的）；（过度或不恰当地）伤感，柔情，多愁善感                                                         |
 | sentimentalist           | n.            | 多愁善感的人                                                                                                       |
@@ -17437,6 +17445,7 @@
 | stumble                  | v.            | 摔倒，绊倒；跌跌撞撞；（不顺畅地）说，读，演奏                                                                     |
 | stump                    | n.            | 树桩                                                                                                               |
 |                          | v.            | 使搞不懂，使不明白                                                                                                 |
+| stumpy                   | a.            | （贬）又粗又短                                                                                                     |
 | stun                     | v.            | 打昏，击晕；给人以深刻印象，使深深感动                                                                             |
 | stunned                  | a.            | 昏迷，被击晕；惊愕                                                                                                 |
 | stunning                 | a.            | 漂亮，优美，绝妙，壮观；令人震惊                                                                                   |
@@ -17498,6 +17507,8 @@
 | subscription             | n.            | 订阅；（集体）捐助，资助                                                                                           |
 | subsequent               | a.            | 后来，之后                                                                                                         |
 | subsequently             | ad.           | 后来，之后，随后                                                                                                   |
+| subservient              | a.            | 顺从，驯服，谄媚，卑躬屈膝；服从于，从属于                                                                         |
+| subset                   | n.            | （数）子集                                                                                                         |
 | subside                  | v.            | 平息，减弱，消退；（水）回落，减退；（地面或建筑物）下沉，沉降，下陷                                               |
 | subsidence               | n.            | （地面或建筑物的）下沉，沉降，下陷                                                                                 |
 | subsidiary               | a.            | 辅助，附带，次要；（公司）附属，隶属                                                                               |
@@ -17939,6 +17950,7 @@
 |                       | v.          | 纹（图案）                                                                                                                 |
 | taunt                 | v.          | 嘲笑，奚落                                                                                                                 |
 |                       | n.          | 嘲笑，奚落                                                                                                                 |
+| taut                  | a.          | 拉紧，绷直；神色紧张，焦虑不安；（人或身体）肌肉紧实；（文章等）结构严谨，紧凑                                             |
 | tavern                | n.          | （文）酒馆，旅店，客栈                                                                                                     |
 | tax                   | n.          | 税，税款                                                                                                                   |
 | tax evasion           | n.          | （非法）逃税，偷税，漏税                                                                                                   |
@@ -19671,6 +19683,7 @@
 | vast             | a.    | 辽阔，广大；大量，大批；庞大                                                                                                       |
 | vastly           | ad.   | 非常，大幅，大大                                                                                                                   |
 | vastness         | n.    | 辽阔，广大                                                                                                                         |
+| vat              | n.    | （尤指工业用）桶，罐，缸                                                                                                           |
 | vault            | n.    | （银行的）金库，保险库；（坟地的）墓穴；拱顶，穹顶；撑杆跳                                                                         |
 |                  | v.    | （用手支撑或撑杆）跳跃                                                                                                             |
 | vaunted          | a.    | 大肆吹嘘的                                                                                                                         |

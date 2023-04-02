@@ -20,6 +20,8 @@
 | as many as                    | 多达                                                                                         |
 | as opposed to                 | 相比于，相对于，而不是                                                                       |
 | as regards                    | 关于，至于                                                                                   |
+| assert oneself                | 坚持主张                                                                                     |
+| assert itself                 | 有效果，起作用                                                                               |
 | at any cost                   | 无论如何                                                                                     |
 | at any price                  | 不惜任何代价                                                                                 |
 | at any rate                   | （强调事实）无论如何，不管怎样；（表达得更加确切）不管怎样，至少；（强调下文）总而言之，反正 |
