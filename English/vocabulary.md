@@ -2338,6 +2338,7 @@
 | canary                     | n.      | 金丝雀                                                                                                                  |
 | cancel                     | v.      | 取消                                                                                                                    |
 | cancer                     | n.      | 癌症                                                                                                                    |
+| candid                     | a.      | 坦率，直言不讳                                                                                                          |
 | candidacy                  | n.      | 候选人资格（或身份）                                                                                                    |
 | candidate                  | n.      | （竞选或求职的）候选人                                                                                                  |
 | candle                     | n.      | 蜡烛                                                                                                                    |
@@ -5436,6 +5437,7 @@
 | durable                 | a.     | 耐用，耐久，持久                                                                                                               |
 | duration                | n.     | 持续时间，期间                                                                                                                 |
 | duress                  | n.     | 胁迫，强迫                                                                                                                     |
+| durian                  | n.     | 榴莲                                                                                                                           |
 | during                  | prep.  | 在…期间                                                                                                                        |
 | dusk                    | n.     | 黄昏，傍晚                                                                                                                     |
 | dusky                   | a.     | （文）昏暗，暗淡，（颜色）柔和                                                                                                 |
@@ -13387,6 +13389,9 @@
 | poet laureate             | n.      | （美）（某国家或地区的）最杰出诗人，代表诗人                                                                               |
 | poetic                    | a.      | 诗；富有诗意，像诗一般                                                                                                     |
 | poetry                    | n.      | 诗歌，诗集；美好的品质，优雅的气质，诗意                                                                                   |
+| poignancy                 | n.      | 悲惨，辛酸                                                                                                                 |
+| poignant                  | a.      | 悲惨，辛酸                                                                                                                 |
+| poignantly                | ad.     | 悲惨地，辛酸地                                                                                                             |
 | point                     | n.      | 观点，看法；重点，要点，关键；意图，目的；特点，特征；时刻，关头，阶段，地步；地方，地点；得分，点数；标度，点；           |
 |                           |         | （数）点；尖端，尖头；岬角，海角；小数点；光点，色点                                                                       |
 | point of view             | n.      | 观点，看法，意见；角度                                                                                                     |

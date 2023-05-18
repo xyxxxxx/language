@@ -434,6 +434,7 @@
 | ガス[1]                         | gas                          | 瓦斯                   |
 | カスタム[1]                     | custom                       | 定做                   |
 | カストマイズ[4]                 | customize                    |                        |
+| カス（タマー）ハラ（スメント）  | customer harassment          | 顾客闹事               |
 | カセット[2]                     | cassette                     | 磁带                   |
 | ガソリン                        | gasonline                    | 汽油                   |
 | ガソリンスタンド[6]             | gasonline + stand            | 加油站                 |
@@ -705,6 +706,7 @@
 | ゲームソフト[4]                 | game + software              |                        |
 | ケキバ                          |                              | 蛋糕店                 |
 | ゲスト[1]                       | guest                        |                        |
+| ケチャップ[2][1]                | ketchup                      | 番茄酱                 |
 | ゲット[1]                       | get                          |                        |
 | ゲノム[1]                       | （ドイツ）Genome             | 基因组                 |
 | ケミカル[1]                     | chemical                     |                        |
@@ -1652,6 +1654,7 @@
 | トランシーバー[4]                  | transceiver            | 对讲机，步话机               |
 | トランジスタ[4]                    | transistor             | 晶体管                       |
 | トランプ[2]                        | trump                  |                              |
+| ドリアン[1]                        | durian                 |                              |
 | ドリーム[2]                        | dream                  |                              |
 | トリック[2]                        | trick                  | 诡计                         |
 | ドリフト[2]                        | drift                  |                              |
@@ -1890,6 +1893,7 @@
 | バッジ[1]                               | badge                     |                          |
 | パッション[1]                           | passion                   |                          |
 | バッティング[0]                         | batting                   | （棒球）击球             |
+|                                         | butting                   | （日程）冲突             |
 | バッテリー[0][1]                        | battery                   |                          |
 | バット[1]                               | bat                       |                          |
 | ハッピー[1]                             | happy                     |                          |
@@ -2092,6 +2096,7 @@
 | フィクション[1]                         | fiction                   | 小说；虚构               |
 | フィジカル[1]                           | physical                  |                          |
 | フィッシング                            | fishing                   |                          |
+| フィッティング                          | fitting                   |                          |
 | フィジックス[1]                         | physics                   |                          |
 | フィスカル[1]                           | fiscal                    |                          |
 | フィットネス[1]                         | fitness                   | 健身                     |
@@ -2544,6 +2549,7 @@
 | マフラー[1]                       | muffler                | 围巾                |
 | ママ[1]                           |                        | 妈妈；酒馆老板娘    |
 | マラソン                          | marathon               |                     |
+| マリーナ[2]                       | marina                 | 船坞                |
 | マルウェア                        | malware                |                     |
 | マルチ〜                          | multi-                 |                     |
 | マルチメディア[4]                 | multimedia             |                     |
