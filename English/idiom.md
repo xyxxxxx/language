@@ -222,13 +222,15 @@
 
 # P
 
-|                            |                              |
-| -------------------------- | ---------------------------- |
-| perish the thought         | 没门，下辈子再说吧           |
-| prior to                   | 在…之前                      |
-| put/place/set a premium on | 重视，珍视                   |
-| put/place sb on a pedestal | 把某人奉为完人，盲目崇拜某人 |
-|                            |                              |
+|                                |                                |
+| ------------------------------ | ------------------------------ |
+| pique one's interest/curiosity | 引起某人的兴趣/好奇心          |
+| perish the thought             | 没门，下辈子再说吧             |
+| prick one's conscience         | 唤醒某人的良心，使某人良心发现 |
+| prior to                       | 在…之前                        |
+| put/place/set a premium on     | 重视，珍视                     |
+| put/place sb on a pedestal     | 把某人奉为完人，盲目崇拜某人   |
+|                                |                                |
 
 # R
 
