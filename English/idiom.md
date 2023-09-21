@@ -209,6 +209,7 @@
 | on sale                               | 出售，上市；（美）降价销售                                                       |
 | on standby                            | 处于待命状态，随时准备行动                                                       |
 | on the fritz                          | （美）出故障                                                                     |
+| on/through the grapevine              | 通过小道消息，据传闻                                                             |
 | on the one hand … on the other hand … | （引出对立的观点等）一方面，另一方面                                             |
 | on one's hands                        | 由某人负责                                                                       |
 | one of a kind                         | 独一无二，独特                                                                   |
